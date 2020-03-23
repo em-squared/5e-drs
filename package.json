@@ -1,0 +1,15 @@
+{
+  "name": "heros-et-dragons-drs",
+  "version": "1.0.0",
+  "description": "Document de Référence Système pour Héros & Dragons",
+  "main": "index.js",
+  "author": "Maxime Moraine",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
