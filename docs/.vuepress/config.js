@@ -7,17 +7,51 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'À propos', link: '/a-propos/' }
     ],
+    sidebarDepth: 1,
     sidebar: [
       {
         title: 'Pour les joueurs',
         children: [
+          '/creation-du-personnage/',
+          '/au-dela-du-niveau-1/',
           {
-            title: 'Création du personnage',
-            path: '/creation-du-personnage/',
+            title: 'Races',
+            path: '/races/',
             children: [
-              '/creation-du-personnage/au-dela-du-niveau-1/'
+              '/races/demi-elfe/',
+              '/races/demi-orc/',
+              '/races/elfe/',
+              '/races/gnome/',
+              '/races/halfelin/',
+              '/races/humain/',
+              '/races/nain/',
+              '/races/aasimar/',
+              '/races/demi-ogre/',
+              '/races/felys/',
+              '/races/homme-serpent/',
+              '/races/sangdragon/',
+              '/races/tieffelin/'
             ]
-          }
+          },
+          '/options-de-personnalisation/',
+          '/utiliser-les-caracteristiques/',
+          '/partir-a-laventure/',
+          '/combattre/',
+          '/gerer-la-sante-du-personnage/',
+          '/lancer-des-sorts/'
+        ]
+      },
+      {
+        title: 'Pour les meneurs',
+        children: [
+          '/les-tresors/',
+          '/objets-magiques/',
+          '/objets-magiques-intelligents/',
+          '/pieges/',
+          '/maladies/',
+          '/folie/',
+          '/objets-opposition/',
+          '/poisons/'
         ]
       }
     ]

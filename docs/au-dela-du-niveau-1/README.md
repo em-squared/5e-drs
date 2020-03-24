@@ -2,6 +2,7 @@
 title: Au-delà du niveau 1
 description: Au-delà du niveau 1
 ---
+# Au-delà du niveau 1
 Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa classe. Certaines de ces aptitudes vous permettent d'augmenter vos valeurs de caractéristiques, en augmentant soit les valeurs de deux caractéristiques d'un point chacune, soit la valeur d'une seule caractéristique de deux points. Vos caractéristiques ne peuvent pas dépasser 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.
 
 À chaque fois que vous gagnez un niveau, vous gagnez un dé de vie supplémentaire. Lancez ce dé de vie, ajoutez-y votre modificateur de Constitution, et ajoutez le total à votre maximum de points de vie. Alternativement, vous pouvez choisir la valeur fixe indiquée pour votre classe, qui correspond au résultat moyen d'un jet de dé (arrondi à l'entier supérieur).
