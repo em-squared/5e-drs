@@ -10,6 +10,8 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vuepress": "^1.4.0"
+    "@vuepress/plugin-blog": "^1.9.2",
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-clean-urls": "^1.1.1"
   }
 }

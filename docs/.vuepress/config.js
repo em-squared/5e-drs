@@ -1,6 +1,26 @@
 module.exports = {
   title: 'Héros & Dragons',
   description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
+  plugins: [
+    [
+      '@vuepress/blog',
+      {
+        directories: [
+          {
+            // Unique ID of current classification
+            id: 'spell',
+            // Target directory
+            dirname: '_spells',
+            // Path of the `entry page` (or `list page`)
+            path: '/grimoire/',
+            layout: 'SpellsLayout',
+            itemLayout: 'SpellLayout',
+            itemPermalink: '/grimoire/:slug',
+          },
+        ],
+      }
+    ]
+  ],
   themeConfig: {
     searchPlaceholder: 'Recherche',
     nav: [
@@ -38,7 +58,11 @@ module.exports = {
           '/partir-a-laventure/',
           '/combattre/',
           '/gerer-la-sante-du-personnage/',
-          '/lancer-des-sorts/'
+          '/lancer-des-sorts/',
+          {
+            title: 'Grimoire',
+            path: '/grimoire/'
+          }
         ]
       },
       {
