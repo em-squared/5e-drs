@@ -1,7 +1,7 @@
 <template>
   <main class="page content">
 
-    <Content />
+    <Content class="content" />
 
   </main>
 </template>

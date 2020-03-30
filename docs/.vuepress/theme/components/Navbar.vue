@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" app color="blue darken-3" dark>
+  <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" app :color="$site.themeConfig.primaryColor" dark>
     <v-app-bar-nav-icon @click.stop="setDrawer" />
     <v-toolbar-title class="ml-0 mr-4 pl-4">
       <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }">{{ $site.title }}</v-btn>

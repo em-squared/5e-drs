@@ -14,7 +14,7 @@
       </v-treeview> -->
     <v-list dense nav>
       <template v-for="item in items">
-        <v-list-group v-if="item.children" :key="item.title" v-model="item.expanded">
+        <v-list-group v-if="item.children" :key="item.title" v-model="item.expanded" :color="$site.themeConfig.accentColor">
           <template v-slot:activator>
             <v-list-item-content>
               <v-list-item-title>
@@ -24,7 +24,7 @@
           </template>
 
           <template v-for="child in item.children">
-            <v-list-group v-if="child.children" :key="child.title" sub-group v-model="child.expanded">
+            <v-list-group v-if="child.children" :key="child.title" sub-group v-model="child.expanded" :color="$site.themeConfig.accentColor">
               <template v-slot:activator>
                 <v-list-item-content>
                   <v-list-item-title>
@@ -49,7 +49,7 @@
             </v-list-item>
           </template>
         </v-list-group>
-        <v-list-item v-else :key="item.title" link :to="{path: item.path}">
+        <v-list-item v-else :key="item.title" link :to="{path: item.path}" :color="$site.themeConfig.accentColor">
           <v-list-item-content>
             <v-list-item-title>
               {{ item.title }}
@@ -115,7 +115,7 @@ export default {
         }
       }
     }
-    
+
     .v-list--nav {
       .v-list-item {
         padding-left: 24px;

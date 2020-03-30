@@ -1,0 +1,22 @@
+h1 {
+  a.header-anchor {
+    display: none;
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  a.header-anchor {
+    display: none;
+  }
+
+  &:hover {
+    a.header-anchor {
+      display: inline-block;
+      color: $color-gray;
+
+      &:hover {
+        color: $color-dragon;
+      }
+    }
+  }
+}

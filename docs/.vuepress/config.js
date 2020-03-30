@@ -19,9 +19,21 @@ module.exports = {
           },
         ],
       }
-    ]
+    ],
+    ['check-md'],
   ],
+  markdown: {
+    anchor: {
+      permalinkBefore: false,
+      permalinkSymbol: '<i class="v-icon notranslate mdi mdi-link-variant"></i>'
+    },
+    extendMarkdown: md => {
+      md.use(require('markdown-it-div'))
+    }
+  },
   themeConfig: {
+    primaryColor: '#563f5a',
+    accentColor: '#9b1c47',
     searchPlaceholder: 'Recherche',
     nav: [
       { text: 'Home', link: '/' },

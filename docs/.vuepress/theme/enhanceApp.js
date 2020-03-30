@@ -12,14 +12,17 @@ export default ({
   router,
   siteData
 }) => {
+  require('./styles/main.scss')
   Vue.use(Vuex)
   Vue.mixin({ store: store })
   Vue.use(Vuetify)
   options.vuetify = new Vuetify({
     theme: {
-      // primary: colors.red.darken1, // #E53935
-      // secondary: colors.red.lighten4, // #FFCDD2
-      // accent: colors.indigo.base // #3F51B5
+      light: {
+        primary: '#563f5a', // Héros
+        // secondary: colors.red.lighten4, // #FFCDD2
+        accent: '#9b1c47' // Dragons
+      }
     }
   })
 }
