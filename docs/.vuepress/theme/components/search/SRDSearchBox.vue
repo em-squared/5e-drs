@@ -134,7 +134,7 @@ export default {
     },
 
     isSearchable (page) {
-      let searchPaths = null
+      let searchPaths = this.$site.themeConfig.searchPaths || null
 
       // all paths searchables
       if (searchPaths === null) { return true }

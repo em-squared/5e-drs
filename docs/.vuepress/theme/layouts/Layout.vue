@@ -1,24 +1,17 @@
 <template>
   <div>
-    <Home v-if="$page.frontmatter.home" />
-
-    <Page v-else>
-      <template #top>
-        <slot name="page-top" />
-      </template>
-      <template #bottom>
-        <slot name="page-bottom" />
-      </template>
-    </Page>
+    <Page></Page>
   </div>
 </template>
 
 <script>
+import Page from '@theme/components/Page.vue'
 
 export default {
   name: 'Layout',
 
   components: {
+    Page
   },
 
   computed: {

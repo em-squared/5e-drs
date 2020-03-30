@@ -31,34 +31,98 @@ module.exports = {
     sidebar: [
       {
         title: 'Pour les joueurs',
+        expanded: true,
         children: [
-          '/creation-du-personnage/',
-          '/au-dela-du-niveau-1/',
+          {
+            title: "Création du personnage",
+            path: '/creation-du-personnage/'
+          },
+          {
+            title: 'Au-delà du niveau 1',
+            path: '/au-dela-du-niveau-1/'
+          },
           {
             title: 'Races',
             path: '/races/',
             children: [
-              '/races/demi-elfe/',
-              '/races/demi-orc/',
-              '/races/elfe/',
-              '/races/gnome/',
-              '/races/halfelin/',
-              '/races/humain/',
-              '/races/nain/',
-              '/races/aasimar/',
-              '/races/demi-ogre/',
-              '/races/felys/',
-              '/races/homme-serpent/',
-              '/races/sangdragon/',
-              '/races/tieffelin/'
+              {
+                title: 'Demi-elfe',
+                path: '/races/demi-elfe/'
+              },
+              {
+                title: 'Demi-orc',
+                path: '/races/demi-orc/'
+              },
+              {
+                title: 'Elfe',
+                path: '/races/elfe/'
+              },
+              {
+                title: 'Gnome',
+                path: '/races/gnome/'
+              },
+              {
+                title: 'Halfelin',
+                path: '/races/halfelin/'
+              },
+              {
+                title: 'Humain',
+                path: '/races/humain/'
+              },
+              {
+                title: 'Nain',
+                path: '/races/nain/'
+              },
+              {
+                title: 'Aasimar',
+                path: '/races/aasimar/'
+              },
+              {
+                title: 'Demi-ogre',
+                path: '/races/demi-ogre/'
+              },
+              {
+                title: 'Félys',
+                path: '/races/felys/'
+              },
+              {
+                title: 'Homme serpent',
+                path: '/races/homme-serpent/'
+              },
+              {
+                title: 'Sangdragon',
+                path: '/races/sangdragon/'
+              },
+              {
+                title: 'Tieffelin',
+                path: '/races/tieffelin/'
+              }
             ]
           },
-          '/options-de-personnalisation/',
-          '/utiliser-les-caracteristiques/',
-          '/partir-a-laventure/',
-          '/combattre/',
-          '/gerer-la-sante-du-personnage/',
-          '/lancer-des-sorts/',
+          {
+            title: 'Options de personnalisation',
+            path: '/options-de-personnalisation/'
+          },
+          {
+            title: 'Utiliser les caractéristiques',
+            path: '/utiliser-les-caracteristiques/'
+          },
+          {
+            title: "Partir à l'aventure",
+            path: '/partir-a-laventure/'
+          },
+          {
+            title: "Combattre",
+            path: '/combattre/'
+          },
+          {
+            title: "Gérer la santé du personnage",
+            path: '/gerer-la-sante-du-personnage/'
+          },
+          {
+            title: "Lancer des sorts",
+            path: '/lancer-des-sorts/'
+          },
           {
             title: 'Grimoire',
             path: '/grimoire/'
@@ -68,14 +132,38 @@ module.exports = {
       {
         title: 'Pour les meneurs',
         children: [
-          '/les-tresors/',
-          '/objets-magiques/',
-          '/objets-magiques-intelligents/',
-          '/pieges/',
-          '/maladies/',
-          '/folie/',
-          '/objets-opposition/',
-          '/poisons/'
+          {
+            title: "Les trésorrs",
+            path: '/les-tresors/'
+          },
+          {
+            title: "Objects magiques",
+            path: '/objets-magiques/'
+          },
+          {
+            title: "Objets magiques intelligents",
+            path: '/objets-magiques-intelligents/'
+          },
+          {
+            title: "Les pièges",
+            path: '/pieges/'
+          },
+          {
+            title: "Les maladies",
+            path: '/maladies/'
+          },
+          {
+            title: "La folie",
+            path: '/folie/'
+          },
+          {
+            title: "Les objets",
+            path: '/objets-opposition/'
+          },
+          {
+            title: "Les poisons",
+            path: '/poisons/'
+          }
         ]
       }
     ]
