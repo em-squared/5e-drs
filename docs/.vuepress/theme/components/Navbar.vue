@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" app :color="$site.themeConfig.primaryColor" dark>
+  <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" :clipped-right="$vuetify.breakpoint.lgAndUp" app :color="$site.themeConfig.primaryColor" dark>
     <v-app-bar-nav-icon @click.stop="setDrawer" />
     <v-toolbar-title class="ml-0 mr-4 pl-4">
       <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }">{{ $site.title }}</v-btn>
@@ -7,6 +7,9 @@
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <!-- <v-text-field flat solo-inverted hide-details prepend-inner-icon="mdi-magnify" label="Search" class="hidden-sm-and-down" /> -->
     <v-spacer />
+    <v-btn @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
+      <v-icon>mdi-format-list-bulleted</v-icon>
+    </v-btn>
   </v-app-bar>
 </template>
 
@@ -30,12 +33,21 @@ export default {
   computed: {
     drawer() {
       return this.$store.state.drawer
+    },
+    rightDrawer() {
+      return this.$store.state.rightDrawer
+    },
+    hasRightDrawer() {
+      return this.$store.state.hasRightDrawer
     }
   },
 
   methods: {
     setDrawer () {
       this.$store.commit('setDrawer', !this.$store.state.drawer)
+    },
+    setRightDrawer () {
+      this.$store.commit('setRightDrawer', !this.$store.state.rightDrawer)
     }
   }
 }

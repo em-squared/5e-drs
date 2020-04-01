@@ -1,17 +1,5 @@
 <template>
   <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
-    <!-- <v-treeview
-        item-key="path"
-        item-text="title"
-        :items="items"
-        dense
-        open-all
-        hoverable
-        open-on-click
-        activatable
-        @update:active="updateActive"
-      >
-      </v-treeview> -->
     <v-list dense nav>
       <template v-for="item in items">
         <v-list-group v-if="item.children" :key="item.title" v-model="item.expanded" :color="$site.themeConfig.accentColor">
@@ -87,12 +75,6 @@ export default {
   },
 
   methods: {
-    updateActive (active) {
-      console.log(active)
-      if (active[0] == undefined) return
-      const path = active[0].replace('.html', '')
-      this.$router.push(path)
-    }
   }
 }
 </script>
@@ -122,12 +104,5 @@ export default {
       }
     }
   }
-}
-
-
-
-// Case of treeview
-.v-treeview-node__level {
-  width: 12px;
 }
 </style>

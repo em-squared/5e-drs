@@ -9,6 +9,8 @@ module.exports = {
           {
             // Unique ID of current classification
             id: 'spell',
+            // Meta title for spell list page
+            title: 'Grimoire',
             // Target directory
             dirname: '_spells',
             // Path of the `entry page` (or `list page`)
@@ -16,6 +18,12 @@ module.exports = {
             layout: 'SpellsLayout',
             itemLayout: 'SpellLayout',
             itemPermalink: '/grimoire/:slug',
+            pagination: {
+              lengthPerPage: 1000,
+              sorter: (prev, next) => {
+                return prev.path - next.path
+              },
+            },
           },
         ],
       }

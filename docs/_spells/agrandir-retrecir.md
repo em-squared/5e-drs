@@ -1,26 +1,21 @@
 ---
 title: Agrandir/rétrécir
-spell:
-    casting_time: "1 action"
-    range: "9 mètres"
-    components: "V, S, M (une pincée de limaille de fer)"
-    duration: "jusqu'à 1 minute"
-taxonomy:
-    source:
-        - "Manuel des règles"
-    category:
-        - docs
-        - joueur
-        - sorts
-    spell_school:
-        - Transmutation
-    spell_level:
-        - '2'
-    spell_class:
-        - Ensorceleur/Sorcelame
-        - Magicien
-    spell_tag:
-        - concentration
+school: Transmutation
+level: 2
+classes:
+  - Ensorceleur/Sorcelame
+  - Magicien
+concentration: true
+casting_time: "1 action"
+range: "9 mètres"
+components:
+  verbal: true
+  somatic: true
+  material: true
+  materials: "une pincée de limaille de fer"
+duration: "jusqu'à 1 minute"
+ritual: false
+source: Manuel des règles
 ---
 Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle le réussit, le sort est sans effet. Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle lâche un objet, il reprend sa taille normale sur-le-champ.
 
