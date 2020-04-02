@@ -14,7 +14,7 @@ export default new Vuex.Store({
     drawer: true,
     rightDrawer: false,
     hasRightDrawer: false,
-    inRightSidebar: null,
+    inRightDrawer: null,
   },
 
   getters: {
@@ -38,7 +38,7 @@ export default new Vuex.Store({
       commit('setInRightDrawer', payload)
     },
   },
-  
+
   mutations: {
     setDrawer: (state, payload) => {
       state.drawer = payload

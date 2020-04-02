@@ -325,6 +325,9 @@ export default {
   },
 
   mounted () {
+    console.log('filter mounted')
+    this.$store.dispatch('spellFilters/reset')
+
     let selectedSchools = getUrlParameter(window.location.href, "ecoles").split(",")
     let selectedClasses = getUrlParameter(window.location.href, "classes").split(",")
     let selectedLevels = getUrlParameter(window.location.href, "niveaux").split(",")

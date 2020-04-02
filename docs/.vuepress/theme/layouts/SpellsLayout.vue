@@ -13,7 +13,7 @@
     >
 
       <template v-slot:item.title="{ item }">
-        <router-link :to="{ path: item.path }">{{ item.title }}</router-link>
+        <router-link :to="{ path: item.path }" class="subtitle-2">{{ item.title }}</router-link>
       </template>
 
       <template v-slot:item.frontmatter.level="{ item }">
@@ -165,5 +165,18 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+@import '../styles/colors';
+
+.v-data-table {
+  a {
+    color: $color-dragon;
+    text-decoration: none;
+  }
+
+  .v-data-table__mobile-row {
+    min-height: 32px;
+  }
+}
+
 </style>

@@ -58,6 +58,17 @@ export default {
   },
 
   actions: {
+    reset: ({ commit }) => {
+      commit('resetSearch')
+      commit('resetMustBeConcentration')
+      commit('resetMustBeRitual')
+      commit('resetClasses')
+      commit('resetLevels')
+      commit('resetSchools')
+      commit('resetComponentVerbal')
+      commit('resetComponentSomatic')
+      commit('resetComponentMaterial')
+    },
     updateSearch: ({ commit }, payload) => {
       commit('setSearch', payload)
     },
@@ -109,11 +120,20 @@ export default {
     setSearch: (state, payload) => {
       state.search = payload
     },
+    resetSearch: (state) => {
+      state.search = ''
+    },
     setMustBeConcentration: (state, payload) => {
       state.mustBeConcentration = payload
     },
+    resetMustBeConcentration: (state) => {
+      state.mustBeConcentration = undefined
+    },
     setMustBeRitual: (state, payload) => {
       state.mustBeRitual = payload
+    },
+    resetMustBeRitual: (state) => {
+      state.mustBeRitual = undefined
     },
     setClasses: (state, payload) => {
       state.classes = payload
@@ -196,11 +216,20 @@ export default {
     setComponentVerbal: (state, payload) => {
       state.componentVerbal = payload
     },
+    resetComponentVerbal: (state) => {
+      state.componentVerbal = undefined
+    },
     setComponentSomatic: (state, payload) => {
       state.componentSomatic = payload
     },
+    resetComponentSomatic: (state) => {
+      state.componentSomatic = undefined
+    },
     setComponentMaterial: (state, payload) => {
       state.componentMaterial = payload
+    },
+    resetComponentMaterial: (state) => {
+      state.componentMaterial = undefined
     },
   }
 

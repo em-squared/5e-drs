@@ -8,7 +8,7 @@
     <!-- <v-text-field flat solo-inverted hide-details prepend-inner-icon="mdi-magnify" label="Search" class="hidden-sm-and-down" /> -->
     <v-spacer />
     <v-btn @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
-      <v-icon>mdi-format-list-bulleted</v-icon>
+      <v-icon>{{ rightDrawerIcon }}</v-icon>
     </v-btn>
   </v-app-bar>
 </template>
@@ -39,6 +39,17 @@ export default {
     },
     hasRightDrawer() {
       return this.$store.state.hasRightDrawer
+    },
+    inRightDrawer() {
+      return this.$store.state.inRightDrawer
+    },
+    rightDrawerIcon() {
+      if (this.inRightDrawer == 'pageToc') {
+        return 'mdi-format-list-bulleted'
+      } else if (this.inRightDrawer == 'spellFilters') {
+        return 'mdi-filter-variant'
+      }
+      return 'mdi-menu'
     }
   },
 

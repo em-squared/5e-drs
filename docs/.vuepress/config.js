@@ -129,7 +129,7 @@ module.exports = {
           },
           {
             title: "Partir à l'aventure",
-            path: '/partir-a-laventure/'
+            path: '/partir-a-l-aventure/'
           },
           {
             title: "Combattre",

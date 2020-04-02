@@ -12,6 +12,12 @@ export default {
 
   components: {
     Spell
+  },
+
+  mounted () {
+    this.$store.commit('setHasRightDrawer', false)
+    this.$store.commit('setRightDrawer', false)
+    this.$store.commit('setInRightDrawer', null)
   }
 }
 </script>
