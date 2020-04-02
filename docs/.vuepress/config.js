@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Héros & Dragons',
+  title: 'Héros & Dragons DRS',
   description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
   plugins: [
     [

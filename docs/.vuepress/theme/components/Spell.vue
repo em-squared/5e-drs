@@ -23,6 +23,8 @@
 
     <Content class="mt-4" />
 
+    <p v-if="$page.frontmatter.source" class="source">Source : <em>{{ $page.frontmatter.source }}</em></p>
+
   </main>
 </template>
 

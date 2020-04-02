@@ -53,7 +53,7 @@
               </v-btn>
             </v-btn-toggle>
 
-            <p class="mt-0 mb-0 ml-2">Verbale</p>
+            <p class="mt-0 mb-0 ml-2">Verbales</p>
           </div>
 
           <div class="d-flex mb-4">
@@ -66,7 +66,7 @@
               </v-btn>
             </v-btn-toggle>
 
-            <p class="mt-0 mb-0 ml-2">Somatique</p>
+            <p class="mt-0 mb-0 ml-2">Somatiques</p>
           </div>
 
           <div class="d-flex">
@@ -79,7 +79,7 @@
               </v-btn>
             </v-btn-toggle>
 
-            <p class="mt-0 mb-0 ml-2">Matérielle</p>
+            <p class="mt-0 mb-0 ml-2">Matérielles</p>
           </div>
         </v-expansion-panel-content>
       </v-expansion-panel>
