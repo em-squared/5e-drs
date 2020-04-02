@@ -44,7 +44,7 @@
         <v-expansion-panel-header>Composantes d'incantation</v-expansion-panel-header>
         <v-expansion-panel-content>
           <div class="d-flex mt-2 mb-4">
-            <v-btn-toggle v-model="componentVerbal" dark>
+            <v-btn-toggle v-model="componentVerbal" @change="switchComponentVerbal" dark>
               <v-btn :value="true" small :color="setColor(componentVerbal, true, 'green')">
                 <v-icon>mdi-check</v-icon>
               </v-btn>
@@ -57,7 +57,7 @@
           </div>
 
           <div class="d-flex mb-4">
-            <v-btn-toggle v-model="componentSomatic" dark>
+            <v-btn-toggle v-model="componentSomatic" @change="switchComponentSomatic" dark>
               <v-btn :value="true" small :color="setColor(componentSomatic, true, 'green')">
                 <v-icon>mdi-check</v-icon>
               </v-btn>
@@ -70,7 +70,7 @@
           </div>
 
           <div class="d-flex">
-            <v-btn-toggle v-model="componentMaterial" dark>
+            <v-btn-toggle v-model="componentMaterial" @change="switchComponentMaterial" dark>
               <v-btn :value="true" small :color="setColor(componentMaterial, true, 'green')">
                 <v-icon>mdi-check</v-icon>
               </v-btn>
@@ -88,7 +88,7 @@
         <v-expansion-panel-header>Concentration et Rituel</v-expansion-panel-header>
         <v-expansion-panel-content>
           <div class="d-flex mt-2 mb-4">
-            <v-btn-toggle v-model="mustBeConcentration" dark>
+            <v-btn-toggle v-model="mustBeConcentration" @change="switchMustBeConcentration" dark>
               <v-btn :value="true" small :color="setColor(mustBeConcentration, true, 'green')">
                 <v-icon>mdi-check</v-icon>
               </v-btn>
@@ -101,7 +101,7 @@
           </div>
 
           <div class="d-flex">
-            <v-btn-toggle v-model="mustBeRitual" dark>
+            <v-btn-toggle v-model="mustBeRitual" @change="switchMustBeRitual" dark>
               <v-btn :value="true" small :color="setColor(mustBeRitual, true, 'green')">
                 <v-icon>mdi-check</v-icon>
               </v-btn>
@@ -122,7 +122,7 @@
 
 <script>
 // import { mapMutations } from 'vuex'
-import { setUrlParams } from '@theme/util/filterHelpers'
+import { setUrlParams, getUrlParameter, setBooleanMutation, setListMutation } from '@theme/util/filterHelpers'
 
 export default {
   name: 'SpellFilters',
@@ -248,6 +248,46 @@ export default {
       setUrlParams('niveaux', list)
     },
 
+    switchComponentVerbal () {
+      let value = []
+      if ((this.componentVerbal !== undefined)) {
+        value[0] = this.componentVerbal
+      }
+      setUrlParams('v', value)
+    },
+
+    switchComponentSomatic () {
+      let value = []
+      if ((this.componentSomatic !== undefined)) {
+        value[0] = this.componentSomatic
+      }
+      setUrlParams('s', value)
+    },
+
+    switchComponentMaterial () {
+      let value = []
+      if ((this.componentMaterial !== undefined)) {
+        value[0] = this.componentMaterial
+      }
+      setUrlParams('m', value)
+    },
+
+    switchMustBeConcentration () {
+      let value = []
+      if ((this.mustBeConcentration !== undefined)) {
+        value[0] = this.mustBeConcentration
+      }
+      setUrlParams('c', value)
+    },
+
+    switchMustBeRitual () {
+      let value = []
+      if ((this.mustBeRitual !== undefined)) {
+        value[0] = this.mustBeRitual
+      }
+      setUrlParams('r', value)
+    },
+
     isSchool (school) {
       return this.schools.indexOf(school) > -1
     },
@@ -283,6 +323,28 @@ export default {
       this.switchSchool()
     },
   },
+
+  mounted () {
+    let selectedSchools = getUrlParameter(window.location.href, "ecoles").split(",")
+    let selectedClasses = getUrlParameter(window.location.href, "classes").split(",")
+    let selectedLevels = getUrlParameter(window.location.href, "niveaux").split(",")
+    let componentVerbal = getUrlParameter(window.location.href, "v")
+    let componentSomatic = getUrlParameter(window.location.href, "s")
+    let componentMaterial = getUrlParameter(window.location.href, "m")
+    let mustBeConcentration = getUrlParameter(window.location.href, "c")
+    let mustBeRitual = getUrlParameter(window.location.href, "r")
+
+    setListMutation(selectedClasses, this.$store, 'spellFilters/setClassesFromList')
+    setListMutation(selectedLevels, this.$store, 'spellFilters/setLevelsFromList')
+    setListMutation(selectedSchools, this.$store, 'spellFilters/setSchoolsFromList')
+
+    setBooleanMutation(componentVerbal, this.$store, 'spellFilters/setComponentVerbal')
+    setBooleanMutation(componentSomatic, this.$store, 'spellFilters/setComponentSomatic')
+    setBooleanMutation(componentMaterial, this.$store, 'spellFilters/setComponentMaterial')
+
+    setBooleanMutation(mustBeConcentration, this.$store, 'spellFilters/setMustBeConcentration')
+    setBooleanMutation(mustBeRitual, this.$store, 'spellFilters/setMustBeRitual')
+  }
 }
 </script>
 

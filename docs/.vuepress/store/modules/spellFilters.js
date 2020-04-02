@@ -70,17 +70,26 @@ export default {
     updateClasses: ({ commit }, payload) => {
       commit('setClasses', payload)
     },
+    updateClassesFromList: ({ commit }, payload) => {
+      commit('setClassesFromList', payload)
+    },
     resetClasses: ({ commit }) => {
       commit('resetClasses')
     },
     updateLevels: ({ commit }, payload) => {
       commit('setLevels', payload)
     },
+    updateLevelsFromList: ({ commit }, payload) => {
+      commit('setLevelsFromList', payload)
+    },
     resetLevels: ({ commit }) => {
       commit('resetLevels')
     },
     updateSchools: ({ commit }, payload) => {
       commit('setSchools', payload)
+    },
+    updateSchoolsFromLst: ({ commit }, payload) => {
+      commit('setSchoolsFromList', payload)
     },
     resetSchools: ({ commit }) => {
       commit('resetSchools')
@@ -109,6 +118,16 @@ export default {
     setClasses: (state, payload) => {
       state.classes = payload
     },
+    setClassesFromList: (state, payload) => {
+      for (let i = 0; i < payload.length; i++) {
+        let idx = state.classes.findIndex(item => {
+          return item.label == payload[i]
+        })
+        if (idx > -1) {
+          state.classes[idx].value = true
+        }
+      }
+    },
     resetClasses: (state) => {
       state.classes = [
         { label: "Barde", value: false },
@@ -124,6 +143,16 @@ export default {
     },
     setLevels: (state, payload) => {
       state.levels = payload
+    },
+    setLevelsFromList: (state, payload) => {
+      for (let i = 0; i < payload.length; i++) {
+        let idx = state.levels.findIndex(item => {
+          return item.level == payload[i]
+        })
+        if (idx > -1) {
+          state.levels[idx].value = true
+        }
+      }
     },
     resetLevels: (state) => {
       state.levels = [
@@ -141,6 +170,16 @@ export default {
     },
     setSchools: (state, payload) => {
       state.schools = payload
+    },
+    setSchoolsFromList: (state, payload) => {
+      for (let i = 0; i < payload.length; i++) {
+        let idx = state.schools.findIndex(item => {
+          return item.label == payload[i]
+        })
+        if (idx > -1) {
+          state.schools[idx].value = true
+        }
+      }
     },
     resetSchools: (state) => {
       state.schools = [

@@ -7,7 +7,7 @@ export function setUrlParams (urlParam, list) {
     params = params + list[i]
   }
   if (list.length == 0) {
-    params = "null"
+    params = ''
   }
   history.replaceState(null, null, setUrlParameter(window.location.href, urlParam, params))
 }
@@ -32,16 +32,16 @@ export function setUrlParameter (url, key, value) {
         var removeRegex = new RegExp('([\?&])' + key + '=[^&;]+[&;]?');
 
         if (typeof value === 'undefined' || value === null || value === "") { // Remove param if value is empty
-            params = urlQueryString.replace(removeRegex, "$1");
-            params = params.replace(/[&;]$/, "");
+          params = urlQueryString.replace(removeRegex, "$1");
+          params = params.replace(/[&;]$/, "");
 
         } else if (urlQueryString.match(updateRegex) !== null) { // If param exists already, update it
-            params = urlQueryString.replace(updateRegex, "$1" + newParam);
+          params = urlQueryString.replace(updateRegex, "$1" + newParam);
 
         } else if (urlQueryString=="") { // If there are no query strings
-            params = '?' + newParam;
+          params = '?' + newParam;
         } else { // Otherwise, add it to end of query string
-            params = urlQueryString + '&' + newParam;
+          params = urlQueryString + '&' + newParam;
         }
     }
 
@@ -49,4 +49,27 @@ export function setUrlParameter (url, key, value) {
     params = params === '?' ? '' : params;
 
     return baseUrl + params;
+}
+
+export function getUrlParameter (url, parameter) {
+  parameter = parameter.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+  var regex = new RegExp('[\\?|&]' + parameter + '=([^&#]*)');
+  var results = regex.exec('?' + url.split('?')[1]);
+  return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+}
+
+export function setListMutation (param, store, mutation) {
+  if (param.length > 0 && param[0] !== "" && param[0] !== "null") {
+    store.commit(mutation, param)
+  }
+}
+
+export function setBooleanMutation (param, store, mutation) {
+  if (param !== undefined && param !== '') {
+    let value = false
+    if (param == 'true') {
+      value = true
+    }
+    store.commit(mutation, value)
+  }
 }
