@@ -2,7 +2,7 @@
   <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
     <v-list dense nav>
       <template v-for="item in items">
-        <v-list-group v-if="item.children" :key="item.title" v-model="item.expanded" :color="$site.themeConfig.accentColor">
+        <v-list-group v-if="item.children" :key="item.title" v-model="item.expanded" color="accent">
           <template v-slot:activator>
             <v-list-item-content>
               <v-list-item-title>
@@ -12,7 +12,7 @@
           </template>
 
           <template v-for="child in item.children">
-            <v-list-group v-if="child.children" :key="child.title" sub-group v-model="child.expanded" :color="$site.themeConfig.accentColor">
+            <v-list-group v-if="child.children" :key="child.title" sub-group v-model="child.expanded" color="accent">
               <template v-slot:activator>
                 <v-list-item-content>
                   <v-list-item-title>
@@ -20,7 +20,7 @@
                   </v-list-item-title>
                 </v-list-item-content>
               </template>
-              <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}">
+              <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" exact>
                 <v-list-item-content>
                   <v-list-item-title>
                     {{ subchild.title }}
@@ -28,7 +28,7 @@
                 </v-list-item-content>
               </v-list-item>
             </v-list-group>
-            <v-list-item v-else :key="child.title" link :to="{path: child.path}">
+            <v-list-item v-else :key="child.title" link :to="{path: child.path}" exact>
               <v-list-item-content>
                 <v-list-item-title>
                   {{ child.title }}
@@ -37,7 +37,7 @@
             </v-list-item>
           </template>
         </v-list-group>
-        <v-list-item v-else :key="item.title" link :to="{path: item.path}" :color="$site.themeConfig.accentColor">
+        <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" exact>
           <v-list-item-content>
             <v-list-item-title>
               {{ item.title }}

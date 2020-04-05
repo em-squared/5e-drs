@@ -19,8 +19,9 @@ Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais
 
 À chaque caractéristique correspond un modificateur. Ces modificateurs vont de -5 (pour une valeur de caractéristique de 1) à +10 (pour une valeur de caractéristique de 30). Vous pouvez trouver la liste des modificateurs de caractéristiques en fonction des valeurs (entre 1 et 30) dans le tableau ci-dessous.
 
-[div class="table-container"]
+::: .table-container
 ### Valeurs de caractéristiques et modificateurs
+
 | Valeur | Modificateur |
 |:-:|:-:|
 | **1** | -5 |
@@ -39,7 +40,8 @@ Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais
 | **26-27** | +8 |
 | **28-29** | +9 |
 | **30** | +10 |
-[/div]
+
+:::
 
 Pour déterminer un modificateur de caractéristique sans consulter le tableau, soustrayez 10 à la valeur de la caractéristique puis divisez le total par deux (en arrondissant à l'entier inférieur).
 
@@ -72,7 +74,8 @@ Un test de caractéristique permet de tester le talent inné et l'entraînement 
 
 Pour chaque test de caractéristique, le MJ décide laquelle des six caractéristiques est la plus pertinente en fonction de la situation, et la difficulté de la tâche à accomplir, qui est représentée par un degré de difficulté (DD). Plus une tâche est difficile, plus son DD est élevé. Vous pouvez consulter le [tableau des degrés de difficulté typiques](#degrés-de-difficulté-typiques) pour avoir une idée de l'échelle des DD les plus courants.
 
-[div class="table-container"]
+::: .table-container
+
 | Difficulté de l'action | DD |
 |:-|:-:|
 | **Très facile** | 5 |
@@ -81,7 +84,8 @@ Pour chaque test de caractéristique, le MJ décide laquelle des six caractéris
 | **Difficile** | 20 |
 | **Très difficile** | 25 |
 | **Presque impossible** | 30 |
-[/div]
+
+:::
 
 Pour faire un test de caractéristique, lancez un d20 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de d20, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le test de caractéristique est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou le monstre ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
 
@@ -99,29 +103,29 @@ Par exemple, un test de Dextérité peut refléter la tentative d'un personnage 
 
 Les compétences liées à chaque valeur de caractéristique sont présentées dans la liste ci-dessous. Aucune compétence n'est associée à la Constitution. Plus loin dans ce chapitre, vous pourrez trouver un descriptif de chaque caractéristique avec des exemples de l'utilisation des compétences associées.
 
-[div class="title is-4"][Force](#force)[/div]
+#### Force
 Athlétisme
 
-[div class="title is-4"][Dextérité](#dextérité)[/div]
+#### Dextérité
 Acrobaties  
 Discrétion  
 Escamotage
 
-[div class="title is-4"][Intelligence](#intelligence)[/div]
+#### Intelligence
 Arcanes  
 Histoire  
 Investigation  
 Nature  
 Religion
 
-[div class="title is-4"][Sagesse](#sagesse)[/div]
+#### Sagesse
 Dressage  
 Médecine  
 Perception  
 Perspicacité  
 Survie
 
-[div class="title is-4"][Charisme](#charisme)[/div]
+#### Charisme
 Intimidation  
 Persuasion  
 Représentation  
@@ -131,8 +135,10 @@ Il peut arriver que le MJ demande un test de caractéristique lié à une compé
 
 Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de Force (Athlétisme). Si le personnage maîtrise la compétence Athlétisme, il ajoute son bonus de maîtrise à son test de Force. S'il ne maîtrise pas cette compétence, il réalise simplement un test de Force.
 
-! #### Option : compétences associées avec différentes caractéristiques
-! Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'Athlétisme, par exemple, n'est généralement utile que pour les tests de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests. Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de Force (Athlétisme). De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de Force (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
+::: .hero
+#### Option : compétences associées avec différentes caractéristiques
+Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'Athlétisme, par exemple, n'est généralement utile que pour les tests de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests. Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de Force (Athlétisme). De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de Force (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
+:::
 
 ### Tests passifs
 Un test passif est un test de caractéristique particulier qui n'implique pas de jet de dé. Un tel test peut représenter un résultat moyen réalisé pour une tâche répétitive, comme chercher des portes secrètes, encore et encore, ou il peut être utilisé quand le MJ veut secrètement déterminer si les personnages réussissent quelque chose sans avoir à lancer de dés, comme remarquer un monstre caché, par exemple.
@@ -193,12 +199,14 @@ Votre valeur de Force détermine le poids que vous pouvez porter. Les termes sui
 
 **Taille et Force**. Les grandes créatures peuvent porter des poids plus importants que les petites. Pour chaque catégorie de taille au-dessus de la taille moyenne, doublez la capacité de charge d'une créature et le poids qu'elle peut pousser, tirer ou soulever. Pour une créature de taille très petite , divisez ces valeurs par deux.
 
-! ##### Option : Encombrement
-! Les règles permettant de gérer ce que peuvent porter les personnages sont intentionnellement simples. Voilà donc une variante, si vous vous cherchez des règles plus précises permettant de déterminer la gêne occasionnée par le poids de l'équipement d'un personnage. Si vous utilisez cette variante, vous pouvez ignorer la colonne Force du [tableau des armures](/equipement/armures#armures).
-!
-! Vous êtes encombré si votre charge dépasse votre valeur de Force multipliée par 2,5. Cela signifie que votre vitesse est réduite de 3 mètres.
-!
-! Si votre charge dépasse votre valeur de Force multipliée par 5, vous êtes lourdement encombré, ce qui signifie que votre vitesse est réduite de 6 mètres et que vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour tous les tests de caractéristique, les jets d'attaque et les jets de sauvegarde liés à la Force, la Dextérité ou la Constitution.
+::: .hero
+##### Option : Encombrement
+Les règles permettant de gérer ce que peuvent porter les personnages sont intentionnellement simples. Voilà donc une variante, si vous vous cherchez des règles plus précises permettant de déterminer la gêne occasionnée par le poids de l'équipement d'un personnage. Si vous utilisez cette variante, vous pouvez ignorer la colonne Force du [tableau des armures](/equipement/armures#armures).
+
+Vous êtes encombré si votre charge dépasse votre valeur de Force multipliée par 2,5. Cela signifie que votre vitesse est réduite de 3 mètres.
+
+Si votre charge dépasse votre valeur de Force multipliée par 5, vous êtes lourdement encombré, ce qui signifie que votre vitesse est réduite de 6 mètres et que vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour tous les tests de caractéristique, les jets d'attaque et les jets de sauvegarde liés à la Force, la Dextérité ou la Constitution.
+:::
 
 <h3 class="h1 color-dragon">Dextérité</h3>
 La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.
@@ -232,18 +240,20 @@ En fonction de l'armure que vous portez, vous pouvez ajouter une partie ou le to
 #### Initiative
 Au début de chaque combat, vous déterminez votre initiative en faisant un test de Dextérité. L'initiative détermine l'ordre des tours des créatures pendant le combat.
 
-! #### Se cacher
-! Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de Sagesse (Perception) de toute créature qui cherche activement des signes de votre présence.
-!
-! Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
-!
-! Une créature [_invisible_](/gerer-la-sante-du-personnage#invisible) peut toujours tenter de se cacher, mais des signes de son passage peuvent être remarqués et elle doit rester silencieuse.
-!
-! Pendant un combat, la plupart des créatures restent attentives aux signes de danger qui les entourent, donc si vous sortez de votre cachette pour vous approcher d'une créature, il est probable qu'elle vous remarque. Néanmoins, dans certaines circonstances, le MJ peut vous permettre de vous approcher d'une créature distraite en restant caché, ce qui vous permet d'obtenir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur votre attaque avant qu'elle ne vous remarque.
-!
-! **Perception passive.** Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de Sagesse (Perception) de cette créature, qui est égale à 10 + le modificateur de Sagesse de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage), ajoutez 5 à sa valeur passive. Si au contraire elle subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage), retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une Sagesse de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 14.
-!
-! **Que pouvez-vous voir ?** L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre [_Partir à l'aventure - Vision et lumière_](/partir-a-laventure#vision-et-lumière).
+::: .hero
+#### Se cacher
+Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de Sagesse (Perception) de toute créature qui cherche activement des signes de votre présence.
+
+Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
+
+Une créature [_invisible_](/gerer-la-sante-du-personnage#invisible) peut toujours tenter de se cacher, mais des signes de son passage peuvent être remarqués et elle doit rester silencieuse.
+
+Pendant un combat, la plupart des créatures restent attentives aux signes de danger qui les entourent, donc si vous sortez de votre cachette pour vous approcher d'une créature, il est probable qu'elle vous remarque. Néanmoins, dans certaines circonstances, le MJ peut vous permettre de vous approcher d'une créature distraite en restant caché, ce qui vous permet d'obtenir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur votre attaque avant qu'elle ne vous remarque.
+
+**Perception passive.** Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de Sagesse (Perception) de cette créature, qui est égale à 10 + le modificateur de Sagesse de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage), ajoutez 5 à sa valeur passive. Si au contraire elle subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage), retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une Sagesse de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 14.
+
+**Que pouvez-vous voir ?** L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre [_Partir à l'aventure - Vision et lumière_](/partir-a-laventure#vision-et-lumière).
+:::
 
 <h3 class="h1 color-dragon">Constitution</h3>
 La Constitution représente la santé, l'endurance et la force vitale.

@@ -13,6 +13,7 @@ Le tableau d'évolution des personnages ci-dessous vous indique le nombre de poi
 
 ::: .table-container
 ## Évolution des personnages
+
 | Points d'expérience | Niveau | Bonus de maîtrise |
 |:-:|:-:|:-:|
 | **0** | 1 | +2 |
@@ -35,6 +36,5 @@ Le tableau d'évolution des personnages ci-dessous vous indique le nombre de poi
 | **265000** | 18 | +6 |
 | **305000** | 19 | +6 |
 | **355000** | 20 | +6 |
-  </tbody>
-</table>
+
 :::

@@ -1,16 +1,19 @@
 <template>
   <div class="spell">
+    <Breadcrumb />
     <Spell />
   </div>
 </template>
 
 <script>
-import Spell from '@theme/components/Spell.vue'
+import Breadcrumb from '@theme/components/Breadcrumb'
+import Spell from '@theme/components/Spell'
 
 export default {
   name: 'SpellLayout',
 
   components: {
+    Breadcrumb,
     Spell
   },
 

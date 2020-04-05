@@ -27,7 +27,7 @@ Le bonus d'attaque d'un piège, le DD du [jet de sauvegarde](/utiliser-les-carac
 
 Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage du niveau indiqué, en revanche, un piège dangereux provoque des blessures graves chez les personnages du niveau indiqué (et peut même en tuer certains). Un piège mortel est conçu pour tuer les personnages du niveau indiqué.
 
-[div class="table-container"]
+::: .table-container
 ### DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) et bonus d'attaque des pièges
 | Sévérité du piège | DD du JdS | Bonus d'attaque |
 |:-|:-:|:-:|
@@ -42,7 +42,7 @@ Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage 
 | **5-10** | 2d10 | 4d10 | 10d10 |
 | **11-16** | 4d10 | 10d10 | 18d10 |
 | **17-20** | 10d10 | 18d10 | 24d10 |
-[/div]
+:::
 
 ## Les pièges complexes
 Les pièges complexes fonctionnent comme les pièges ordinaires mais, une fois activés, ils effectuent une série d'actions à chaque round. Une rencontre avec un piège complexe tient alors beaucoup du combat.

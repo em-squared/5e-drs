@@ -32,6 +32,7 @@
 
 <script>
 import matchQuery from './match-query'
+import { displaySchoolLevel } from '@theme/util/spellHelpers'
 
 /* global SEARCH_MAX_SUGGESTIONS, SEARCH_PATHS, SEARCH_HOTKEYS */
 export default {
@@ -104,7 +105,15 @@ export default {
         }
 
         if (matchQuery(query, p)) {
-          res.push(p)
+          if (p.pid && p.pid == 'spell') {
+            res.push(Object.assign({}, p, {
+              subtitle: displaySchoolLevel(p.frontmatter),
+              title: p.title,
+              path: p.path
+            }))
+          } else {
+            res.push(p)
+          }
         } else if (p.headers) {
           for (let j = 0; j < p.headers.length; j++) {
             if (res.length >= max) break

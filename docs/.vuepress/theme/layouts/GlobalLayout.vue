@@ -46,6 +46,7 @@ export default {
   },
 
   mounted () {
+    this.$vuetify.theme.dark = this.$store.state.isThemeDark
   },
 
   methods: {

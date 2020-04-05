@@ -1,7 +1,10 @@
 <template>
   <div class="spells">
 
+    <Breadcrumb />
+
     <v-data-table
+      class="data-table"
       :headers="headers"
       :items="spells"
       item-key="key"
@@ -45,8 +48,11 @@
 
 <script>
 import { mapState } from 'vuex'
+import Breadcrumb from '@theme/components/Breadcrumb'
 
 export default {
+  components: { Breadcrumb },
+
   data () {
     return {
       sortBy: 'title',
@@ -166,17 +172,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import '../styles/colors';
-
-.v-data-table {
-  a {
-    color: $color-dragon;
-    text-decoration: none;
-  }
-
-  .v-data-table__mobile-row {
-    min-height: 32px;
-  }
-}
 
 </style>

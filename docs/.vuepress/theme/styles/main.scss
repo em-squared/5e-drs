@@ -1,12 +1,7 @@
+@import "breakpoints";
 @import "colors";
 @import "typography";
 @import "anchors";
 @import "tables";
-
-.srd {
-  .content {
-    a {
-      color: #9b1c47;
-    }
-  }
-}
+@import "blocks";
+@import "layout";

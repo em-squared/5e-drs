@@ -1,16 +1,19 @@
 <template>
   <div>
+    <Breadcrumb />
     <Page></Page>
   </div>
 </template>
 
 <script>
-import Page from '@theme/components/Page.vue'
+import Breadcrumb from '@theme/components/Breadcrumb'
+import Page from '@theme/components/Page'
 
 export default {
   name: 'Layout',
 
   components: {
+    Breadcrumb,
     Page
   },
 
@@ -25,7 +28,7 @@ export default {
 
       if (this.$page.headers && this.$page.headers.length > 0 && this.$page.frontmatter.toc !== false) {
         this.$store.commit('setHasRightDrawer', true)
-        this.$store.commit('setRightDrawer', true)
+        this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
         this.$store.commit('setInRightDrawer', 'pageToc')
       }
     }

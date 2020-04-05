@@ -1,0 +1,22 @@
+.block-highlight {
+  padding: 24px;
+  border-top: 6px double;
+  border-bottom: 2px solid;
+}
+
+.hero {
+  @extend .block-highlight;
+  background-color: lighten($color-hero, 55);
+  color: $color-hero;
+  border-color: $color-hero;
+}
+
+.dragon {
+  @extend .block-highlight;
+  background-color: $color-dragon;
+  color: #fff;
+  border-color: darken($color-dragon, 10);
+  a {
+    color: #fff;
+  }
+}

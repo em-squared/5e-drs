@@ -32,6 +32,7 @@ Voici un résumé des tailles et poids habituels pour chaque peuple. Déterminez
 Les valeurs indiquées ne sont pas absolues et ne constituent pas des minimums et maximums. Toutefois, des individus plus petits, grands, légers ou lourds devraient être exceptionnels. Par ailleurs, un tel gabarit entraînera forcément des conséquences pour le personnage : une certaine difficulté à trouver une armure à sa taille, par exemple.
 
 ### Races principales
+
 |Race|Taille basse|Taille moyenne|Taille haute|Poids bas|Poids moyen|Poids haut|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |**[Demi-elfe](/races/demi-elfe)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|
@@ -49,7 +50,9 @@ Les valeurs indiquées ne sont pas absolues et ne constituent pas des minimums e
 |**[Nain des pierres](/races/nain)**|1,25 m|1,35 m|1,45 m|65 kg|85 kg|115 kg|
 |**[Nain des tertres](/races/nain)**|1,15 m|1,25 m|1,35 m|60 kg|75 kg|105 kg|
 
+
 ### Races exceptionnelles
+
 |Race|Taille basse|Taille moyenne|Taille haute|Poids bas|Poids moyen|Poids haut|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |**[Aasimar](/races/aasimar)**|1,55 m|1,75 m|2,00 m|55 kg|80 kg|130 kg|

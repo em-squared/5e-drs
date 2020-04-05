@@ -157,7 +157,8 @@ Les états suivants pourraient aussi affecter votre personnage. Tout comme les �
 ### Fatigue et épuisement
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l'épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d'épuisement, comme indiqué dans la description de chaque effet.
 
-[div class="table-container"]
+::: .table-container
+
 | Niveau | Effet |
 |:-:|:-|
 | **1** | [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lors des tests de caractéristique |
@@ -166,7 +167,8 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 | **4** | Maximum de points de vie réduit de moitié |
 | **5** | Vitesse réduite à 0 |
 | **6** | Décès |
-[/div]
+
+:::
 
 Si une créature déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
 

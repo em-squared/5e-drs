@@ -15,6 +15,7 @@ export default new Vuex.Store({
     rightDrawer: false,
     hasRightDrawer: false,
     inRightDrawer: null,
+    isThemeDark: false,
   },
 
   getters: {
@@ -22,6 +23,7 @@ export default new Vuex.Store({
     rightDrawer: state => state.rightDrawer,
     hasRightDrawer: state => state.hasRightDrawer,
     inRightDrawer: state => state.inRightDrawer,
+    isThemeDark: state => state.isThemeDark,
   },
 
   actions: {
@@ -37,6 +39,9 @@ export default new Vuex.Store({
     updateInRightDrawer: ({ commit }, payload) => {
       commit('setInRightDrawer', payload)
     },
+    isThemeDark: ({ commit }, payload) => {
+      commit('setIsThemeDark', payload)
+    },
   },
 
   mutations: {
@@ -51,6 +56,9 @@ export default new Vuex.Store({
     },
     setInRightDrawer: (state, payload) => {
       state.inRightDrawer = payload
+    },
+    setIsThemeDark: (state, payload) => {
+      state.isThemeDark = payload
     },
   },
 })

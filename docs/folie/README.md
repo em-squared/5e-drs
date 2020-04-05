@@ -16,7 +16,7 @@ Un personnage victime d'une **folie à durée illimitée** acquiert un défaut t
 ## Soigner la folie
 Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions) peut supprimer les effets de la folie, tandis qu'une [_restauration inférieure_](/grimoire/restauration-inferieure) peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_dissipation du mal_](/grimoire/dissipation-du-mal-et-du-bien) fonctionne parfois. En revanche, il faut recourir à une [_restauration supérieure_](/grimoire/restauration-superieure) ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
 
-[div class="table-container"]
+::: .table-container
 ## Folie passagère
 | D100 | Effet (durant 1d10 minutes) |
 |:-:|:-|
@@ -62,4 +62,4 @@ Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions) peut sup
 | **81-85** | « Je ne peux me fier qu'à une seule personne et je suis le seul à pouvoir voir cet ami très spécial. » |
 | **86-95** | « Je suis incapable de prendre quelque chose au sérieux. Plus la situation est grave, plus je la trouve marrante. » |
 | **95-100** | « Je viens de découvrir que j'adore tuer des gens. » |
-[/div]
+:::

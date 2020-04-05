@@ -44,29 +44,31 @@ Pour utiliser certains objets magiques et autres objets spéciaux, vous devrez t
 
 Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité qui requiert une attention particulière ou lorsque vous vous trouvez face à un obstacle inhabituel. Par exemple, le MJ peut raisonnablement vous demander d'utiliser une action pour forcer une porte coincée ou pour tourner une manivelle qui fera descendre un pont-levis.
 
-! #### Interagir avec les objets alentours
-! Voici quelques exemples de ce que vous pouvez accomplir librement, en même temps que votre déplacement ou que votre action. Pour rappel, vous ne pouvez interagir librement qu'avec un seul objet par tour de jeu. Interagir avec deux objets vous oblige à utiliser votre action.
-! * Dégainer ou rengainer une épée
-! * Ouvrir ou fermer une porte
-! * Prendre une potion dans votre sac à dos
-! * Ramasser une hache tombée au sol
-! * Prendre un bibelot posé sur une table
-! * Retirer un anneau de votre doigt
-! * Enfourner de la nourriture dans votre bouche
-! * Planter une bannière dans le sol
-! * Prendre de l'argent dans votre bourse
-! * Finir toute la bière d'une cruche
-! * Actionner un levier ou un interrupteur
-! * Retirer une torche de son support
-! * Prendre un livre sur une étagère qui se trouve à votre portée
-! * Éteindre une petite flamme
-! * Mettre un masque
-! * Vous couvrir la tête avec la capuche de votre manteau
-! * Plaquer votre oreille contre une porte
-! * Donner un coup de pied dans une petite pierre
-! * Tourner une clef dans une serrure
-! * Frapper le sol avec un bâton de 3 mètres
-! * Tendre un objet à un autre personnage
+::: .hero
+#### Interagir avec les objets alentours
+Voici quelques exemples de ce que vous pouvez accomplir librement, en même temps que votre déplacement ou que votre action. Pour rappel, vous ne pouvez interagir librement qu'avec un seul objet par tour de jeu. Interagir avec deux objets vous oblige à utiliser votre action.
+* Dégainer ou rengainer une épée
+* Ouvrir ou fermer une porte
+* Prendre une potion dans votre sac à dos
+* Ramasser une hache tombée au sol
+* Prendre un bibelot posé sur une table
+* Retirer un anneau de votre doigt
+* Enfourner de la nourriture dans votre bouche
+* Planter une bannière dans le sol
+* Prendre de l'argent dans votre bourse
+* Finir toute la bière d'une cruche
+* Actionner un levier ou un interrupteur
+* Retirer une torche de son support
+* Prendre un livre sur une étagère qui se trouve à votre portée
+* Éteindre une petite flamme
+* Mettre un masque
+* Vous couvrir la tête avec la capuche de votre manteau
+* Plaquer votre oreille contre une porte
+* Donner un coup de pied dans une petite pierre
+* Tourner une clef dans une serrure
+* Frapper le sol avec un bâton de 3 mètres
+* Tendre un objet à un autre personnage
+:::
 
 ## Réaction
 Certaines capacités spéciales, sorts ou situations permettent à votre personnage d'accomplir une action spéciale appelée une **réaction**. Une réaction est une réponse instantanée déclenchée par un stimulus qui peut se produire pendant votre tour ou celui de quelqu'un d'autre. Le type de réaction le plus courant est l'attaque d'opportunité, décrite plus loin dans ce chapitre.
@@ -121,6 +123,7 @@ Les créatures volantes bénéficient d'une grande mobilité. En revanche elles 
 Chaque créature occupe une surface plus ou moins importante en fonction de sa taille. Le [tableau des catégories de tailles](#catégories-de-tailles) qui suit indique la taille de la surface occupée et contrôlée en combat par une créature d'une taille donnée. Les objets utilisent parfois les mêmes catégories de taille.
 
 #### Catégories de tailles
+
 | Taille | | Espace occupé |
 |:-|:-:|:-|
 | **Très petit** | TP | Carré de 0,75 mètre de côté |
@@ -129,6 +132,7 @@ Chaque créature occupe une surface plus ou moins importante en fonction de sa t
 | **Grand** | G | Carré de 3 mètres de côté |
 | **Très grand** | TG | Carré de 4,50 mètres de côté |
 | **Gigantesque** | Gig | Carré de 6 mètres de côté |
+
 
 #### Emplacement
 L'emplacement d'une créature correspond à la surface qu'elle contrôle lors d'un combat et non à la surface qu'elle occupe réellement. Par exemple, une créature de taille moyenne classique ne fait pas 1,50 mètre de large, mais elle contrôle une surface de 1,50 mètre de côté. Si un hobgobelin de taille moyenne se trouve dans l'embrasure d'une porte de 1,50 mètre de large, les autres créatures ne peuvent passer que si le hobgobelin leur permet.

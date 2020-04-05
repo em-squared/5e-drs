@@ -50,11 +50,13 @@ C'est la méthode la plus simple et la plus équitable. En fonction du niveau de
 
 ::: .table-container
 #### Table des valeurs fixes
+
 | Niveau de puissance | Valeurs de caractéristiques |
 |:-:|:-:|
 | **Courageux** | 14,12,12,10,10,8 |
 | **Héroïque** | 15,14,13,12,10,8 |
 | **Légendaire** | 16,15,13,12,12,10 |
+
 :::
 
 ### Méthode aléatoire
@@ -62,11 +64,13 @@ C'est la méthode la plus hasardeuse, qui peut donner des personnages extrêmeme
 
 ::: .table-container
 #### Table des modificateurs pour la méthode aléatoire
+
 | Niveau de puissance | Modificateur au résultat des dés |
 |:-:|:-:|
 | **Courageux** | -1 |
 | **Héroïque** | 0 |
 | **Légendaire** | +1 |
+
 :::
 
 ### Méthode par répartition
@@ -74,15 +78,18 @@ Dans cette méthode, toutes les caractéristiques du personnage débutent à 8. 
 
 ::: .table-container
 #### Table des points de caractéristiques
+
 | Niveau de puissance | Points à répartir |
 |:-:|:-:|
 | **Courageux** | 19 |
 | **Héroïque** | 27 |
 | **Légendaire** | 36 |
+
 :::
 
 ::: .table-container
 #### Table d'achat des caractéristiques
+
 | Valeur | Coût |
 |:-:|:-:|
 | **6 (courageux)** | -2 |
@@ -96,6 +103,7 @@ Dans cette méthode, toutes les caractéristiques du personnage débutent à 8. 
 | **14** | 7 |
 | **15** | 9 |
 | **16 (légendaire)** | 12 |
+
 :::
 
 ### Valeurs et modificateurs
@@ -103,6 +111,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 
 ::: .table-container
 #### Table des modificateurs
+
 | Valeur | Modificateur |
 |:-:|:-:|
 | **2-3** | -4 |
@@ -115,6 +124,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 | **16-17** | +3 |
 | **18-19** | +4 |
 | **20-21** | +5 |
+
 :::
 
 ### Dés de vie et points de vie

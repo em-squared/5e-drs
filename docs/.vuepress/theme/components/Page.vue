@@ -10,7 +10,7 @@
 
 export default {
   name: 'Page',
-  components: { }
+  components: {  }
 }
 </script>
 

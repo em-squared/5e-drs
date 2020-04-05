@@ -12,8 +12,9 @@ En avançant dans les niveaux, vous pouvez choisir de rester fidèle à votre cl
 ### Prérequis
 Afin de vous qualifier pour une nouvelle classe, vous devez posséder des valeurs de caractéristiques spécifiques correspondant à votre classe actuelle et à celle que vous voulez acquérir. Ces valeurs sont indiquées dans le [tableau des prérequis du multiclassage](#prérequis-de-multiclassage). Par exemple, un barbare qui décide d'adopter en plus la classe druide doit avoir des valeurs de Force et de Sagesse de 13 ou plus. Un personnage multiclassé n'a en effet pas bénéficié de la formation complète d'un personnage qui débute normalement dans une classe, et il doit donc faire preuve de prédispositions (qui se traduisent par des valeurs de caractéristiques au-dessus de la moyenne) qui lui permettent d'assimiler rapidement les principes propres à cette nouvelle classe.
 
-[div class="table-container"]
+::: .table-container
 #### Prérequis de multiclassage
+
 | Classe | Valeurs minimales de caractéristiques |
 |:-|:-|
 | **Barbare** | Force 13 |
@@ -28,7 +29,8 @@ Afin de vous qualifier pour une nouvelle classe, vous devez posséder des valeur
 | **Rôdeur** | Dextérité 13 et Sagesse 13 |
 | **Roublard** | Dextérité 13 |
 | **Sorcier** | Charisme 13 |
-[/div]
+
+:::
 
 ### Points d'expérience
 Le nombre de points d'expérience permettant de passer au niveau supérieur se base sur le niveau total de votre personnage, comme vous pouvez le voir sur le tableau d'évolution des personnages, et non sur son niveau dans une classe donnée. Donc si votre personnage est un clerc 6/guerrier 1, il doit gagner assez de points d'expérience pour atteindre le niveau 8 avant de pouvoir gagner un deuxième niveau en tant que guerrier ou un septième en tant que clerc.
@@ -44,8 +46,9 @@ Votre bonus de maîtrise se base toujours sur le niveau de votre personnage, com
 ### Maîtrises
 Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre classe initiale, vous ne gagnez qu'une partie des maîtrises de départ de cette nouvelle classe, ainsi que vous pouvez le voir dans le [tableau des maîtrises multiclasses](#tableau-des-maîtrises-multiclasses).
 
-[div class="table-container"]
+::: .table-container
 #### Tableau des maîtrises multiclasses
+
 | Classe | Maîtrises obtenus |
 |:-|:-|
 | **Barbare** | Boucliers, armes courantes, armes de guerre |
@@ -60,7 +63,8 @@ Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre class
 | **Rôdeur** | Armures légères, armures intermédiaires, boucliers, armes courantes, armes de guerre, une compétence au choix parmi celles proposées pour cette classe |
 | **Roublard** | Armures légères, une compétence au choix parmi celles proposées pour cette classe, outils de voleur |
 | **Sorcier** | Armures légères, armes courantes |
-[/div]
+
+:::
 
 ### Aptitudes de classe
 Quand vous gagnez un nouveau niveau dans une classe, vous obtenez les aptitudes correspondant à ce niveau. Cela dit, si vous choisissez d'être multiclassé, vous ne recevez pas l'équipement de départ de votre nouvelle classe, et certaines aptitudes ont des règles additionnelles : canalisation d'énergie divine, attaque supplémentaire, défense sans armure et incantations.
@@ -91,8 +95,9 @@ Par exemple, si vous êtes toujours ce rôdeur 4/magicien  3, vous êtes consid�
 
 **Points de sorcellerie**. Si vous obtenez des points de sorcellerie de deux classes, ils ne s'additionnent pas, car le rythme auquel vous les récupérez peut ne pas être le même selon la classe dont ils sont issus. En revanche, vous pouvez les dépenser indifféremment pour utiliser des sorts ou des aptitudes de l'une ou l'autre classe.
 
-[div class="table-container"]
+::: .table-container
 ##### Incantation multiclasse : nombre d'emplacements de sorts par niveau de sort
+
 | Niveau | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **1** | 2 | - | - | - | - | - | - | - | - |
@@ -115,7 +120,8 @@ Par exemple, si vous êtes toujours ce rôdeur 4/magicien  3, vous êtes consid�
 | **18** | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | **19** | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | **20** | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-[/div]
+
+:::
 
 ## Dons
 Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui accorde des capacités spéciales. Un don représente un entraînement, une expérience et des capacités qui sortent du cadre de ce que la classe d'un personnage peut lui accorder.
@@ -124,10 +130,9 @@ Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui 
 
 Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au préalable. Si vous ne remplissez plus les conditions d'utilisation d'un don que vous possédez, vous devez attendre de les remplir de nouveau pour pouvoir utiliser ce don. Par exemple, vous devez avoir une Force supérieure ou égale à 13 pour choisir le don Lutteur. Si votre valeur de Force passe en dessous de 13 pour une raison ou une autre – peut-être à la suite d'une ponction de force (la capacité d'une ombre), – vous ne pouvez plus utiliser le don Lutteur tant que vous n'aurez pas retrouvé une Force de 13 ou plus.
 
-[div class="table-container"]
+::: .table-container
 ### Liste des dons
-[/div]
-[div class="column-count-3 print-invisible"]
+::: .column-count-3 .print-invisible
 * [Acrobate](#acrobate)
 * [Ambidextre](#ambidextre)
 * [Arbalétrier](#arbalétrier)
@@ -177,7 +182,7 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 * [Vétéran](#vétéran)
 * [Vigilant](#vigilant)
 * [Volonté de fer](#volonté-de-fer)
-[/div]
+:::
 
 #### Acrobate
 Vous avez passé de longues heures à pratiquer des exercices de haute voltige, d'escalade et de culbute afin d'améliorer vos performances acrobatiques. Lorsque vous ne portez pas d'armure plus lourde qu'une armure légère, vous obtenez les atouts suivants.

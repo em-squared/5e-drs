@@ -12,7 +12,7 @@ Les poisons se divisent en quatre catégories.
 
 **Blessure**. Un poison agissant via une blessure s'applique sur une arme, une munition, un élément d'un piège ou tout autre objet infligeant des dégâts perforants ou tranchants. Le poison reste actif tant qu'il n'a pas affecté quelqu'un ou été lavé. Une créature est soumise aux effets du poison après avoir reçu des dégâts perforants ou tranchants via un objet enduit de ce type de poison.
 
-[div class="table-container"]
+::: .table-container
 ## Les poisons
 | Objet | Type | Prix pour une dose |
 |:-|:-:|:-:|
@@ -30,7 +30,7 @@ Les poisons se divisent en quatre catégories.
 | [**Torpeur**](#torpeur-ingestion) | ingestion | 600 po |
 | [**Sérum de vérité**](#sérum-de-vérité-ingestion) | ingestion | 150 po |
 | [**Poison de vouivre**](#poison-de-vouivre-blessure) | blessure | 1200 po |
-[/div]
+:::
 
 ## Exemples de poisons
 Chaque poison possède ses propres effets débilitants.

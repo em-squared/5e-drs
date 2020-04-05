@@ -7,7 +7,7 @@
       label="Filtrer"
       single-line
       hide-details
-      :color="$site.themeConfig.accentColor"
+      color="accent"
       ></v-text-field>
 
     <v-expansion-panels multiple flat hover v-model="panels">
@@ -15,16 +15,16 @@
       <v-expansion-panel>
         <v-expansion-panel-header>Classes</v-expansion-panel-header>
         <v-expansion-panel-content>
-          <v-btn class="mb-2 mt-2" small :color="$site.themeConfig.primaryColor" @click="resetClasses" dark>Réinitialiser</v-btn>
-          <v-switch v-for="(c, idx) in classes" v-model="c.value" :label="c.label" dense class="ma-0" @change="switchClass" :color="$site.themeConfig.accentColor"></v-switch>
+          <v-btn class="mb-2 mt-2" small color="primary" @click="resetClasses" dark>Réinitialiser</v-btn>
+          <v-switch v-for="(c, idx) in classes" v-model="c.value" :label="c.label" dense class="ma-0" @change="switchClass" color="accent"></v-switch>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
       <v-expansion-panel>
         <v-expansion-panel-header>Niveaux de sorts</v-expansion-panel-header>
         <v-expansion-panel-content>
-          <v-btn class="mb-2 mt-2" small :color="$site.themeConfig.primaryColor" @click="resetLevels" dark>Réinitialiser</v-btn>
-          <v-switch v-for="level in levels" v-model="level.value" dense class="ma-0" @change="switchLevel" :color="$site.themeConfig.accentColor">
+          <v-btn class="mb-2 mt-2" small color="primary" @click="resetLevels" dark>Réinitialiser</v-btn>
+          <v-switch v-for="level in levels" v-model="level.value" dense class="ma-0" @change="switchLevel" color="accent">
             <template v-slot:label>
               <span v-html="levelDisplay(level)"></span>
             </template>
@@ -35,8 +35,8 @@
       <v-expansion-panel>
         <v-expansion-panel-header>Écoles de magie</v-expansion-panel-header>
         <v-expansion-panel-content>
-          <v-btn class="mb-2 mt-2" small :color="$site.themeConfig.primaryColor" @click="resetSchools" dark>Réinitialiser</v-btn>
-          <v-switch v-for="school in schools" v-model="school.value" :label="school.label" dense class="ma-0" @change="switchSchool" :color="$site.themeConfig.accentColor"></v-switch>
+          <v-btn class="mb-2 mt-2" small color="primary" @click="resetSchools" dark>Réinitialiser</v-btn>
+          <v-switch v-for="school in schools" v-model="school.value" :label="school.label" dense class="ma-0" @change="switchSchool" color="accent"></v-switch>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
@@ -325,7 +325,6 @@ export default {
   },
 
   mounted () {
-    console.log('filter mounted')
     this.$store.dispatch('spellFilters/reset')
 
     let selectedSchools = getUrlParameter(window.location.href, "ecoles").split(",")

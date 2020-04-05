@@ -3,6 +3,7 @@ import store from '../store'
 import '@mdi/font/css/materialdesignicons.css'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
+import fr from 'vuetify/es5/locale/fr';
 
 import colors from 'vuetify/es5/util/colors'
 
@@ -18,11 +19,25 @@ export default ({
   Vue.use(Vuetify)
   options.vuetify = new Vuetify({
     theme: {
-      light: {
-        primary: '#563f5a', // Héros
-        // secondary: colors.red.lighten4, // #FFCDD2
-        accent: '#9b1c47' // Dragons
+      options: {
+        customProperties: true,
+      },
+      themes: {
+        light: {
+          primary: '#9b1c47', // Dragons
+          navbar: '#563f5a', // Héros
+          accent: '#563f5a', // Héros
+        },
+        dark: {
+          primary: '#c38dcc', // Héros
+          navbar: '#563f5a', // Héros
+          accent: '#e02867', // Dragons
+        }
       }
-    }
+    },
+    lang: {
+      locales: { fr },
+      current: 'fr',
+    },
   })
 }

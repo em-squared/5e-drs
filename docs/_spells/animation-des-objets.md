@@ -29,7 +29,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez animer deux objets supplémentaires par emplacement au-delà du niveau 5.
 
 ## Profil technique des objets animés
-<v-simple-table class="width-auto">
+
 |Taille|PV|CA|Attaque|For|Dex|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |**Très petite**|20|18|+8 pour toucher, 1d4+4 dégâts|4|18|
@@ -37,4 +37,4 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 |**Moyenne**|40|13|+5 pour toucher, 2d6+1 dégâts|10|12|
 |**Grande**|50|10|+6 pour toucher, 2d10+2 dégâts|14|10|
 |**Très grande**|80|10|+8 pour toucher, 2d12+4 dégâts|18|6|
-</v-simple-table>
+

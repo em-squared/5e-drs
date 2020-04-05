@@ -37,6 +37,11 @@ module.exports = {
     },
     extendMarkdown: md => {
       md.use(require('markdown-it-div'))
+      md.use(require('markdown-it-multimd-table'), {
+        multiline:  true,
+        rowspan:    true,
+        headerless: false,
+      })
     }
   },
   themeConfig: {
@@ -65,6 +70,10 @@ module.exports = {
             title: 'Races',
             path: '/races/',
             children: [
+              {
+                title: 'Les races',
+                path: '/races/'
+              },
               {
                 title: 'Demi-elfe',
                 path: '/races/demi-elfe/'
@@ -116,6 +125,136 @@ module.exports = {
               {
                 title: 'Tieffelin',
                 path: '/races/tieffelin/'
+              }
+            ]
+          },
+          {
+            title: "Personnalité & Historique",
+            children: [
+              {
+                title: "Personnalité & Historique",
+                path: '/personnalite-et-historique/'
+              },
+              {
+                title: "Brigand",
+                path: '/personnalite-et-historique/brigand/'
+              },
+              {
+                title: "Crapule",
+                path: '/personnalite-et-historique/crapule/'
+              },
+              {
+                title: "Dévot",
+                path: '/personnalite-et-historique/devot/'
+              },
+              {
+                title: "Érudit",
+                path: '/personnalite-et-historique/erudit/'
+              },
+              {
+                title: "Explorateur",
+                path: '/personnalite-et-historique/explorateur/'
+              },
+              {
+                title: "Homme de loi",
+                path: '/personnalite-et-historique/homme-de-loi/'
+              },
+              {
+                title: "Itinérant",
+                path: '/personnalite-et-historique/itinerant/'
+              },
+              {
+                title: "Manouvrier",
+                path: '/personnalite-et-historique/manouvrier/'
+              },
+              {
+                title: "Membre de guilde",
+                path: '/personnalite-et-historique/membre-de-guilde/'
+              },
+              {
+                title: "Militaire",
+                path: '/personnalite-et-historique/militaire/'
+              },
+              {
+                title: "Miséreux",
+                path: '/personnalite-et-historique/misereux/'
+              },
+              {
+                title: "Primitif",
+                path: '/personnalite-et-historique/primitif/'
+              },
+              {
+                title: "Sang-bleu",
+                path: '/personnalite-et-historique/sang-bleu/'
+              },
+              {
+                title: "Serviteur",
+                path: '/personnalite-et-historique/serviteur/'
+              },
+              {
+                title: "Solitaire",
+                path: '/personnalite-et-historique/solitaire/'
+              },
+              {
+                title: "Villageois",
+                path: '/personnalite-et-historique/villageois/'
+              }
+            ]
+          },
+          {
+            title: "Classes",
+            children: [
+              {
+                title: "Les classes",
+                path: '/classes/'
+              },
+              {
+                title: "Barbare",
+                path: '/classes/barbare/'
+              },
+              {
+                title: "Barde",
+                path: '/classes/barde/'
+              },
+              {
+                title: "Clerc",
+                path: '/classes/clerc/'
+              },
+              {
+                title: "Druide",
+                path: '/classes/druide/'
+              },
+              {
+                title: "Ensorceleur",
+                path: '/classes/ensorceleur/'
+              },
+              {
+                title: "Guerrier",
+                path: '/classes/guerrier/'
+              },
+              {
+                title: "Magicien",
+                path: '/classes/magicien/'
+              },
+              {
+                title: "Moine",
+                path: '/classes/moine/'
+              },
+              {
+                title: "Paladin",
+                path: '/classes/paladin/'
+              },
+              {
+                title: "Rôdeur",
+                path: '/classes/rodeur/'
+              },
+              {
+                title: "Roublard",
+                path: '/classes/roublard/'
+              },
+              {
+                title: "Sorcier",
+                path: '/classes/sorcier/'
               }
             ]
           },
