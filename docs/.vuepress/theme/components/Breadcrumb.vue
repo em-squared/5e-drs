@@ -21,7 +21,6 @@
         for (let i = 0; i < parts.length; i++) {
           let disabled = false
           if (i == parts.length - 1) {
-            console.log(parts[i])
             disabled = true
           }
           link += parts[i]
