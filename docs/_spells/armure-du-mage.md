@@ -1,5 +1,6 @@
 ---
 title: "Armure du mage"
+description: "La CA de base de la cible devient 13 + modificateur de Dextérité."
 school: "Abjuration"
 level: 1
 concentration: false

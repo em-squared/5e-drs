@@ -1,5 +1,6 @@
 ---
 title: "Arrêt du temps"
+description: "Le PJ arrête le temps pendant 1d4+1 rounds pour tout le monde sauf lui."
 school: "Transmutation"
 level: 9
 concentration: false
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: false
   material: false
-  materials: "V"
 ritual: false
 classes:
     - Ensorceleur/Sorcelame

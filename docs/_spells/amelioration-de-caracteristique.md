@@ -1,5 +1,6 @@
 ---
 title: Amélioration de caractéristique
+description: "Une des caractéristiques de la cible est augmentée."
 school: Transmutation
 level: 2
 concentration: true

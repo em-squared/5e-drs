@@ -1,5 +1,6 @@
 ---
 title: Amitié avec les animaux
+description: "Permet de <em>charmer</em> un animal."
 school: Enchantement
 level: 1
 concentration: false

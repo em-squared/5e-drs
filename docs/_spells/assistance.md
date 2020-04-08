@@ -1,5 +1,6 @@
 ---
 title: "Assistance"
+description: "La cible peut ajouter 1d4 à un test de caractéristique."
 school: "Divination"
 level: 0
 concentration: true
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: true
   material: false
-  materials: "V, S"
 ritual: false
 classes:
     - Clerc

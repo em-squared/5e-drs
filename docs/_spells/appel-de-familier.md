@@ -1,6 +1,6 @@
 ---
 title: "Appel de familier"
-description: "Le PJ s’attache les services d’un animal familier."
+description: "Le PJ s'attache les services d'un animal familier."
 school: "Invocation"
 level: 1
 concentration: false

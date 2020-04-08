@@ -1,5 +1,6 @@
 ---
 title: Aide
+description: "Jusqu'à trois cibles augmentent leurs PV maximum et actuels."
 school: Abjuration
 level: 2
 classes:

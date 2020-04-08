@@ -19,29 +19,43 @@
             </div>
             <div class="spell-duration"><strong>Durée</strong> : <span v-if="spell.frontmatter.concentration">concentration, </span>{{ spell.frontmatter.duration }}</div>
           </div>
-          <div class="spell-description">{{ spell.frontmatter.description }}</div>
+          <div class="spell-description" v-html="spell.frontmatter.description"></div>
         </div>
       </v-tooltip>
     </router-link>
-    <router-link :to="{ path: spellPath }" v-else>{{ label }}</router-link>
+    <router-link :to="{ path: spellPath }" v-else><em>{{ label }}</em></router-link>
   </span>
 </template>
 
 <script>
+/*
+** Spell tooltip
+*/
 import {displaySchoolLevel} from '@theme/util/spellHelpers'
 
 export default {
   name: 'SpellTooltip',
 
   props: [
-    'label',
-    'path'
+    'l', // label
+    's' // spell slug
   ],
 
   data () {
     return {
       spellPath: '',
       spell: ''
+    }
+  },
+
+  computed: {
+    label () {
+      if (this.l) {
+        return this.l
+      } else if (this.spell) {
+        return this.spell.title.toLowerCase()
+      }
+      return '[Sort non trouvé]'
     }
   },
 
@@ -52,10 +66,8 @@ export default {
   },
 
   mounted () {
-    console.log(this.path)
-    this.spellPath = '/grimoire/' + this.path + '/'
+    this.spellPath = '/grimoire/' + this.s + '/'
     this.spell = this.$site.pages.find((el) => el.path === this.spellPath || el.path === this.spellPath + "/")
-    console.log(this.spell)
   }
 }
 </script>

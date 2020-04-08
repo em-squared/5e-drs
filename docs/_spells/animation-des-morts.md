@@ -1,5 +1,6 @@
 ---
 title: Animation des morts
+description: "Crée un zombi ou un squelette sous le contrôle du PJ."
 school: Nécromancie
 level: 3
 concentration: false

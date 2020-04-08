@@ -33,14 +33,16 @@
       </template>
 
       <template v-slot:item.frontmatter.components="{ item }">
-        <template v-if="item.frontmatter.components.verbal">V</template><template v-if="item.frontmatter.components.somatic || item.frontmatter.components.material">,</template>
-        <template v-if="item.frontmatter.components.somatic">S</template><template v-if="item.frontmatter.components.material">,</template>
-        <template v-if="item.frontmatter.components.material">M</template>
+        <template v-if="item.frontmatter.components">
+          <template v-if="item.frontmatter.components.verbal">V</template><template v-if="item.frontmatter.components.verbal && (item.frontmatter.components.somatic || item.frontmatter.components.material)">,</template>
+          <template v-if="item.frontmatter.components.somatic">S</template><template v-if="item.frontmatter.components.somatic && item.frontmatter.components.material">,</template>
+          <template v-if="item.frontmatter.components.material">M</template>
+        </template>
       </template>
 
-      <template v-slot:item.frontmatter.classes="{ item }">
+      <!-- <template v-slot:item.frontmatter.classes="{ item }">
         <span v-for="(c, idx) in item.frontmatter.classes" :key="idx">{{c}}<template v-if="idx != item.frontmatter.classes.length-1">, </template></span>
-      </template>
+      </template> -->
 
     </v-data-table>
   </div>
@@ -66,7 +68,7 @@ export default {
         { text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' },
         { text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' },
         { text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' },
-        { text: "Classes", align: 'start', sortable: false, value: 'frontmatter.classes' }
+        // { text: "Classes", align: 'start', sortable: false, value: 'frontmatter.classes' }
       ],
     }
   },
@@ -126,11 +128,17 @@ export default {
         }
       }
       if (selectedClasses.length) {
-        results = results.filter(item => {
-          for (var i = 0; i < item.frontmatter.classes.length; i++) {
-            return selectedClasses.indexOf(item.frontmatter.classes[i]) > -1
+        let classFiltered = []
+        for (var i = 0; i < selectedClasses.length; i++) {
+          for (var j = 0; j < results.length; j++) {
+            if (results[j].frontmatter.classes.indexOf(selectedClasses[i]) > -1) {
+              if (classFiltered.indexOf(results[j]) < 0) {
+                classFiltered.push(results[j])
+              }
+            }
           }
-        })
+        }
+        results = classFiltered
       }
 
       // Filter levels

@@ -1,5 +1,6 @@
 ---
 title: "Aura magique de l'arcaniste"
+description: "Crée une fausse aura magique autour de la cible."
 school: "Illusion"
 level: 2
 concentration: false

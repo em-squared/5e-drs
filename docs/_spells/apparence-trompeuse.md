@@ -1,5 +1,6 @@
 ---
 title: "Apparence trompeuse"
+description: "Illusion permettant de déguiser plusieurs cibles."
 school: "Illusion"
 level: 5
 concentration: false

@@ -1,5 +1,6 @@
 ---
 title: "Aura de force"
+description: "Les cibles acquièrent une résistance aux dégâts."
 school: "Abjuration"
 level: 5
 concentration: true
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: false
   material: false
-  materials: "V"
 ritual: false
 classes:
     - Paladin

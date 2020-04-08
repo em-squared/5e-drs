@@ -1,5 +1,6 @@
 ---
 title: "Arme magique"
+description: "Transforme temporairement une arme en arme magique."
 school: "Transmutation"
 level: 2
 concentration: true

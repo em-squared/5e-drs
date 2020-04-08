@@ -19,6 +19,7 @@
     "sass-loader": "^8.0.2",
     "vuepress": "^1.4.0",
     "vuepress-plugin-clean-urls": "^1.1.1",
+    "vuepress-plugin-sitemap": "^2.3.1",
     "vuetify": "^2.2.19",
     "vuex": "^3.1.3"
   },

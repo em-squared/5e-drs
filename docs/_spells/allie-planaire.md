@@ -1,5 +1,6 @@
 ---
 title: Allié planaire
+description: "Le PJ reçoit l'aide d'une puissante créature d'un autre monde."
 school: Invocation
 level: 6
 concentration: false

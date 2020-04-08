@@ -1,8 +1,9 @@
 .v-tooltip__content {
-  &.spell-tooltip-container {
+  &.spell-tooltip-container,
+  &.condition-tooltip-container {
     opacity: 1 !important;
 
-    .spell-tooltip {
+    .spell-tooltip, .condition-tooltip {
       text-align: left;
       width: 50vw;
       max-width: 555px;
@@ -24,6 +25,14 @@
 
       .spell-details {
         margin-bottom: 24px;
+      }
+
+      .condition-tooltip-title {
+        background-color: $color-hero;
+        color: #fff;
+        margin: -12px -12px 6px;
+        padding: 12px;
+        border-radius: 5px 5px 0 0;
       }
     }
   }

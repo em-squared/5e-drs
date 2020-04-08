@@ -1,5 +1,6 @@
 ---
 title: "Arme sainte"
+description: "L'arme du PJ offre l'<em>avantage</em> contre les fiélons et les morts-vivants."
 school: "Transmutation"
 level: 3
 concentration: true

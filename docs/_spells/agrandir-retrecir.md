@@ -1,5 +1,6 @@
 ---
 title: Agrandir/rétrécir
+description: "Augmente ou diminue la taille de la cible."
 school: Transmutation
 level: 2
 classes:

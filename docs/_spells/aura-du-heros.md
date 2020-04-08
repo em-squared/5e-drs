@@ -1,5 +1,6 @@
 ---
 title: "Aura du héros"
+description: "Le PJ obtient un <em>avantage</em> aux tests de Charisme."
 school: "Enchantement"
 level: 0
 concentration: true
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: true
   material: false
-  materials: "V, S"
 ritual: false
 classes:
     - Barde

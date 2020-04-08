@@ -1,5 +1,6 @@
 ---
 title: "Aspersion acide"
+description: "Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts."
 school: "Invocation"
 level: 0
 concentration: false
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: true
   material: false
-  materials: "V, S"
 ritual: false
 classes:
     - Ensorceleur/Sorcelame

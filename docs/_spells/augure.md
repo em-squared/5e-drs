@@ -1,5 +1,6 @@
 ---
 title: "Augure"
+description: "Divination permettant de deviner l'issue favorable ou défavorable d'une conduite."
 school: "Divination"
 level: 2
 concentration: false

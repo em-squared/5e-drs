@@ -1,5 +1,6 @@
 ---
 title: "Apaisement des émotions"
+description: "Supprime les émotions fortes au sein d'un groupe."
 school: "Enchantement"
 level: 2
 concentration: true

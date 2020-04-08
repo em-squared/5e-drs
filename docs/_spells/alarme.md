@@ -1,5 +1,6 @@
 ---
 title: Alarme
+description: "Place une alarme sonore ou mentale sur une porte, une fenêtre ou une zone."
 school: Abjuration
 level: 1
 concentration: false

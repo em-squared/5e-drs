@@ -1,5 +1,6 @@
 ---
 title: "Appel de la foudre"
+description: "Le PJ crée un orage et peut faire frapper la foudre à chaque tour."
 school: "Invocation"
 level: 3
 concentration: true

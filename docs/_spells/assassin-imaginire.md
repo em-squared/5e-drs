@@ -1,5 +1,6 @@
 ---
 title: "Assassin imaginaire"
+description: "La cible est <em>terrorisée</em> et subit 4d10 dégâts à chaque tour."
 school: "Illusion"
 level: 4
 concentration: true
@@ -10,7 +11,6 @@ components:
   verbal: true
   somatic: true
   material: false
-  materials: "V, S"
 ritual: false
 classes:
     - Magicien

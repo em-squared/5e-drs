@@ -1,5 +1,6 @@
 ---
 title: "Animation des objets"
+description: "Permet d'animer jusqu'à 10 objets et de les contrôler."
 school: "Transmutation"
 level: 5
 concentration: true
@@ -37,4 +38,3 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 |**Moyenne**|40|13|+5 pour toucher, 2d6+1 dégâts|10|12|
 |**Grande**|50|10|+6 pour toucher, 2d10+2 dégâts|14|10|
 |**Très grande**|80|10|+8 pour toucher, 2d12+4 dégâts|18|6|
-

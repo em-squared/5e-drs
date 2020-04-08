@@ -1,5 +1,6 @@
 ---
 title: "Arme spirituelle"
+description: "Crée une arme spectrale que vous envoyez attaquer vos ennemis."
 school: "Évocation"
 level: 2
 concentration: false

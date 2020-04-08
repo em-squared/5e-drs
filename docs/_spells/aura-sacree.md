@@ -1,5 +1,6 @@
 ---
 title: "Aura sacrée"
+description: "Lumière divine qui protège les alliés du PJ."
 school: "Abjuration"
 level: 8
 concentration: true

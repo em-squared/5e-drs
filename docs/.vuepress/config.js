@@ -29,6 +29,11 @@ module.exports = {
       }
     ],
     ['check-md'],
+    [
+      'sitemap', {
+        hostname: 'https://heros-et-dragons.fr'
+      },
+    ]
   ],
   markdown: {
     anchor: {

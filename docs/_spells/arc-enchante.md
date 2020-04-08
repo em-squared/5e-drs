@@ -1,5 +1,6 @@
 ---
 title: "Arc enchanté"
+description: "L'arc du PJ devient magique et tire plus rapidement."
 school: "Enchantement"
 level: 5
 concentration: false
