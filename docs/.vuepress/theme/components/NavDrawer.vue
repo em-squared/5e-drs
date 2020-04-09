@@ -85,7 +85,7 @@ export default {
           }
           if (item.children[i].children) {
             for (var j = 0; j < item.children[i].children.length; j++) {
-              if (item.children[i].path) {
+              if (item.children[i].children[j].path) {
                 if (item.children[i].children[j].path == this.$route.path) {
                   return true
                 }
@@ -94,6 +94,7 @@ export default {
           }
         }
       }
+      console.log(item.title)
       return false
     }
   }
