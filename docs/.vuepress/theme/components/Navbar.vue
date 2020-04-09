@@ -46,7 +46,7 @@ export default {
     rightDrawerIcon() {
       if (this.inRightDrawer == 'pageToc') {
         return 'mdi-format-list-bulleted'
-      } else if (this.inRightDrawer == 'spellFilters') {
+      } else if (this.inRightDrawer == 'spellFilters' || this.inRightDrawer == 'magicItemFilters') {
         return 'mdi-filter-variant'
       }
       return 'mdi-menu'
