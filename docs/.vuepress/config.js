@@ -25,6 +25,25 @@ module.exports = {
               },
             },
           },
+          {
+            // Unique ID of current classification
+            id: 'magicitem',
+            // Meta title for spell list page
+            title: 'Liste des objets magiques',
+            // Target directory
+            dirname: '_magicitems',
+            // Path of the `entry page` (or `list page`)
+            path: '/liste-objets-magiques/',
+            layout: 'MagicItemsLayout',
+            itemLayout: 'MagicItemLayout',
+            itemPermalink: '/liste-objets-magiques/:slug',
+            pagination: {
+              lengthPerPage: 1000,
+              sorter: (prev, next) => {
+                return prev.path - next.path
+              },
+            },
+          },
         ],
       }
     ],
@@ -349,6 +368,10 @@ module.exports = {
           {
             title: "Objets magiques intelligents",
             path: '/objets-magiques-intelligents/'
+          },
+          {
+            title: "Liste des objets magiques",
+            path: '/liste-objets-magiques/'
           },
           {
             title: "Les pièges",

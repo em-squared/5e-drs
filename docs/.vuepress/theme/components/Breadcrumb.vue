@@ -31,6 +31,8 @@
               crumbs.push({to: page.path, disabled: disabled, text: 'Grimoire'})
             } else if (page.path == '/classes/') {
               crumbs.push({to: page.path, disabled: disabled, text: 'Classes'})
+            } else if (page.path == '/liste-objets-magiques/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Liste des objets magiques'})
             } else {
               crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title})
             }

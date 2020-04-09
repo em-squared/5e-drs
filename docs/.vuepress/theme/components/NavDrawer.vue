@@ -94,7 +94,6 @@ export default {
           }
         }
       }
-      console.log(item.title)
       return false
     }
   }
