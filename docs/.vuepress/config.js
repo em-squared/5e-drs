@@ -77,7 +77,8 @@ module.exports = {
             children: [
               {
                 title: 'Les races',
-                path: '/races/'
+                path: '/races/',
+                exact: true
               },
               {
                 title: 'Demi-elfe',
@@ -135,10 +136,12 @@ module.exports = {
           },
           {
             title: "Personnalité & Historique",
+            path: '/personnalite-et-historique/',
             children: [
               {
                 title: "Personnalité & Historique",
-                path: '/personnalite-et-historique/'
+                path: '/personnalite-et-historique/',
+                exact: true
               },
               {
                 title: "Brigand",
@@ -208,10 +211,12 @@ module.exports = {
           },
           {
             title: "Classes",
+            path: '/classes/',
             children: [
               {
                 title: "Les classes",
-                path: '/classes/'
+                path: '/classes/',
+                exact: true
               },
               {
                 title: "Barbare",
@@ -264,6 +269,43 @@ module.exports = {
             ]
           },
           {
+            title: "Équipement",
+            children: [
+              {
+                title: "Système monétaire",
+                path: '/systeme-monetaire/'
+              },
+              {
+                title: "Armures",
+                path: '/armures/'
+              },
+              {
+                title: "Armes",
+                path: '/armes/'
+              },
+              {
+                title: "Équipement d'aventurier",
+                path: '/equipement-d-aventurier/'
+              },
+              {
+                title: "Outils",
+                path: '/outils/'
+              },
+              {
+                title: "Montures et véhicules",
+                path: '/montures-et-vehicules/'
+              },
+              {
+                title: "Marchandises",
+                path: '/marchandises/'
+              },
+              {
+                title: "Dépenses courantes",
+                path: '/depenses-courantes/'
+              }
+            ]
+          },
+          {
             title: 'Options de personnalisation',
             path: '/options-de-personnalisation/'
           },
@@ -297,7 +339,7 @@ module.exports = {
         title: 'Pour les meneurs',
         children: [
           {
-            title: "Les trésorrs",
+            title: "Les trésors",
             path: '/les-tresors/'
           },
           {
