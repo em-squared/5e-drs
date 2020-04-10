@@ -36,7 +36,7 @@ Vous devez choisir une destination connue, située sur le même plan d'existence
 
 **Incident**. La magie imprévisible du sort complique le voyage. Chaque créature téléportée (ou l'objet téléporté) subit 3d10 dégâts de force tandis que le MJ relance le dé pour savoir où vous arrivez (sachant qu'il peut se produire plusieurs incidents, chacun infligeant ses propres dégâts).
 
-::: .table-container
+§§§ .table-container
 |Familiarité|Incident|Zone similaire|À proximité|Sur place|
 |:-|:-:|:-:|:-:|:-:|
 |Cercle permanent|-|-|-|01-100|
@@ -46,4 +46,4 @@ Vous devez choisir une destination connue, située sur le même plan d'existence
 |Vu une seule fois|01-43|44-53|54-73|74-100|
 |Description|01-43|44-53|54-73|74-100|
 |Destination factice|01-50|51-100|-|-|
-:::    
+§§§    

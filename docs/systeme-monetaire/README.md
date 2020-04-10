@@ -12,7 +12,7 @@ En plus de ces pièces courantes, les aventuriers trouvent parfois des pièces r
 
 Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500 grammes.
 
-::: .table-container
+§§§ .table-container
 ## Taux d'échange standard
 | Pièce | PC | PA | PE | PO | PP |
 |:-|:-:|:-:|:-:|:-:|:-:|
@@ -21,4 +21,4 @@ Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500
 | **Électrum (PE)** | 50 | 5 | 1 | 1/2 | 1/20 |
 | **Or (PO)** | 100 | 10 | 2 | 1 | 1/10 |
 | **Platine (PP)** | 1000 | 100 | 20 | 10 | 1 |
-:::
+§§§

@@ -74,7 +74,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 
 ## Variante : Fugitif
 
-**Compétences** : Survie, Tromperie.  
+**Compétences** : Survie, Supercherie.  
 **Outils maîtrisés** : Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.  
 **Équipement** : Sac avec tente et couverture, vêtements de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
@@ -83,6 +83,6 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 ### Aptitude : Confrérie
 Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
 
-**Compétences** : Athlétisme, Tromperie.  
+**Compétences** : Athlétisme, Supercherie.  
 **Outils maîtrisés** : Instruments de navigation, véhicules (marins).  
 **Équipement** : Couverture, vêtements de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.

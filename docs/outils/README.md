@@ -4,7 +4,7 @@ title: Outils
 # Outils
 Des outils vous aident à faire quelque chose que vous ne pouvez pas faire normalement, comme fabriquer ou réparer un objet, falsifier un document ou crocheter une serrure. Votre race, votre classe, votre historique ou vos dons vous accordent la maîtrise de certains outils. Maîtriser un outil vous permet d'ajouter votre bonus de maîtrise à n'importe quel test de caractéristique que vous faites quand vous utilisez cet outil. L'utilisation d'un outil n'est pas liée à une unique caractéristique dans la mesure où la maîtrise d'un outil représente une connaissance approfondie de son utilisation. Par exemple, le MJ peut vous demander de faire un test de Dextérité pour graver des détails avec vos outils de menuisier, ou un test de Force afin de pouvoir travailler un bois particulièrement résistant.
 
-::: .table-container
+§§§ .table-container
 |Objet|Prix|Poids|
 |:-|:-:|:-:|
 |**Instruments de musique**|||
@@ -45,7 +45,7 @@ Des outils vous aident à faire quelque chose que vous ne pouvez pas faire norma
 |&nbsp;&nbsp;Outils de tanneur|5 po|2,5 kg|
 |&nbsp;&nbsp;Outils de tisserand|10 po|2,5 kg|
 |**Outils de voleur**|25 po|0,5 kg|
-:::
+§§§
 
 **Instruments de navigation**. Cet ensemble d'instruments est utilisé pour naviguer en mer. Si vous en maîtrisez l'utilisation, vous pouvez lire une carte et planifier le trajet d'un bateau. Ces outils vous permettent aussi d'ajouter votre bonus de maîtrise à tout test de caractéristique que vous faites pour éviter de vous perdre en mer.
 

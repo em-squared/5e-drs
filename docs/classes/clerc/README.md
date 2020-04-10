@@ -3,7 +3,7 @@ title: Clerc
 ---
 # Clerc
 ## Évolution du clerc
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||
 |^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Clerc
 |**18**|+6|[Canalisation d'énergie divine](#canalisation-d-energie-divine)|5|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|3|2|1|1|1|
 |**20**|+6|[Intervention divine supérieure](#intervention-divine-superieure)|5|4|3|3|3|3|2|2|1|1|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
@@ -104,7 +104,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 ### Destruction des morts-vivants
 À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
 
-::: .table-container
+§§§ .table-container
 |Niveau de clerc|Détruit les morts-vivants avec un ID de...|
 |:-:|:-:|
 |**5**|1/2 ou moins|
@@ -112,7 +112,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 |**11**|2 ou moins|
 |**14**|3 ou moins|
 |**17**|4 ou moins|
-:::
+§§§
 
 ### Intervention divine
 À partir du niveau 10, vous pouvez faire appel à votre déité pour qu'elle intervienne en votre faveur en cas de besoin impérieux.
@@ -187,8 +187,8 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 </v-expansion-panels> -->
 
 ##### Air
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_léger comme une plume_](/grimoire/leger-comme-une-plume/) |
@@ -196,16 +196,16 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 | **5** | [_vol_](/grimoire/vol/) |
 | **7** | [_forme gazeuse_](/grimoire/forme-gazeuse/) |
 | **9** | [_invoquer un élémentaire (Air)_](/grimoire/invoquer-un-elementaire/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Asphyxie
 Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dessiccation_](/grimoire/dessication/), mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).
-:::
-:::
+§§§
+§§§
 
 ##### Arts
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_illusion mineure_](/grimoire/illusion-mineure/) |
@@ -213,16 +213,16 @@ Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dess
 | **5** | [_motif hypnotique_](/grimoire/motif-hypnotique/) |
 | **7** | [_façonnage de la pierre_](/grimoire/faconnage-de-la-pierre/) |
 | **9** | [_apparence trompeuse_](/grimoire/apparence-trompeuse/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Inspiration divine
 Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, [jet d'attaque](/combattre#jets-dattaque), [de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
-:::
-:::
+§§§
+§§§
 
 ##### Charme, amour
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_charme-personne_](/grimoire/charme-personne/) |
@@ -230,16 +230,16 @@ Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Penda
 | **5** | [_envoi de message_](/grimoire/envoi-de-message/) |
 | **7** | [_confusion_](/grimoire/confusion/) |
 | **9** | [_modification de mémoire_](/grimoire/modification-de-memoire/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Splendeur céleste
 Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests de Charisme.
-:::
-:::
+§§§
+§§§
 
 ##### Connaissance
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_compréhension des langues_](/grimoire/comprehension-des-langues/) |
@@ -247,16 +247,16 @@ Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_
 | **5** | [_clairvoyance_](/grimoire/clairvoyance/) |
 | **7** | [_divination_](/grimoire/divination/) |
 | **9** | [_contacter un autre plan_](/grimoire/contacter-un-autre-plan/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : nom secret
 Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses jets de sauvegarde contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
-:::
-:::
+§§§
+§§§
 
 ##### Duperie, illusion
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_déguisement_](/grimoire/deguisement/) |
@@ -264,16 +264,16 @@ Choisissez une cible située dans votre champ de vision et à moins de 18 mètre
 | **5** | [_image majeure_](/grimoire/image-majeure/) |
 | **7** | [_confusion_](/grimoire/confusion/) |
 | **9** | [_tromperie_](/grimoire/tromperie/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Dédoublement
 Vous créez un double illusoire de vous-même pendant un nombre de round égal à votre bonus de maîtrise. Ce double désoriente vos adversaires, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à vos attaques au corps-à-corps. De plus, lorsqu'une créature réussit une attaque contre vous (hors attaque de zone), lancez 1d6. Sur un résultat de 1 à 3, l'attaque affecte l'illusion ; sur 4 à 6, vous subissez normalement les dégâts. Un attaquant est immunisé à cette aptitude s'il n'utilise pas le sens de la vue, comme avec Vision aveugle, ou s'il peut voir à travers les illusions comme avec le sort [_vision suprême_](/grimoire/vision-supreme/).
-:::
-:::
+§§§
+§§§
 
 ##### Eau
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_graisse_](/grimoire/graisse/) |
@@ -281,16 +281,16 @@ Vous créez un double illusoire de vous-même pendant un nombre de round égal �
 | **5** | [_respiration aquatique_](/grimoire/respiration-aquatique/) |
 | **7** | [_contrôle de l'eau_](/grimoire/controle-de-l-eau/) |
 | **9** | [_invoquer un élémentaire (Eau)_](/grimoire/invoquer-un-elementaire/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Forme liquide
 Pendant un nombre de rounds égal à votre bonus de maîtrise, vous obtenez une résistance aux dégâts tranchants, perçants et contondants non magiques. De plus, vous pouvez déformer votre corps pour passer à travers un espace étroit (par le trou d'une serrure, sous une porte, etc.) au prix d'une action.
-:::
-:::
+§§§
+§§§
 
 ##### Feu
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_mains brûlantes_](/grimoire/mains-brulantes/) |
@@ -298,16 +298,16 @@ Pendant un nombre de rounds égal à votre bonus de maîtrise, vous obtenez une 
 | **5** | [_boule de feu_](/grimoire/boule-de-feu/) |
 | **7** | [_mur de feu_](/grimoire/mur-de-feu/) |
 | **9** | [_invoquer un élémentaire (Feu)_](/grimoire/invoquer-un-elementaire/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Armes enflammées
 Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires pendant une minute (10 rounds). Vous pouvez affecter deux armes au niveau 9 et jusqu'à trois armes au niveau 17.
-:::
-:::
+§§§
+§§§
 
 ##### Force, Exploits, Courage
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_héroïsme_](/grimoire/heroisme/) |
@@ -315,16 +315,16 @@ Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires penda
 | **5** | [_bénédiction héroïque_](/grimoire/benediction-heroique/) |
 | **7** | [_nimbe de bienfaisance_](/grimoire/nimbe-de-bienfaisance/) |
 | **9** | [_aura de force_](/grimoire/aura-de-force/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Puissance divine
 Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests et jets de sauvegarde de Force et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde. De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
-:::
-:::
+§§§
+§§§
 
 ##### Froid
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_rayon de givre_](/grimoire/rayon-de-givre/) |
@@ -332,16 +332,16 @@ Vous augmentez votre force pendant un nombre de round égal à votre bonus de ma
 | **5** | [_tempête de neige_](/grimoire/tempete-de-neige/) |
 | **7** | [_tempête de grêle_](/grimoire/tempete-de-grele/) |
 | **9** | [_cône de froid_](/grimoire/cone-de-froid/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Cercueil de glace
 Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force, sans quoi elle est [_entravée_](/gerer-la-sante-du-personnage#entravé) pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
-:::
-:::
+§§§
+§§§
 
 ##### Guerre
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_faveur divine_](/grimoire/faveur-divine/) |
@@ -349,16 +349,16 @@ Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, si
 | **5** | [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/) |
 | **7** | [_bénédiction héroïque_](/grimoire/benediction-heroique/) |
 | **9** | [_peau de pierre_](/grimoire/peau-de-pierre/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Transe guerrière
 Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minute. Pendant cette durée, vous pouvez répartir à votre guise votre bonus de maîtrise entre le [jet d'attaque](/combattre#jets-dattaque) ou de dégâts d'une attaque de corps-à-corps à chaque round. Vous pouvez annoncer quelle partie du bonus vous ajoutez après avoir lancé le dé, mais avant d'avoir pris connaissance du résultat de l'action.
-:::
-:::
+§§§
+§§§
 
 ##### Justice, noblesse
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_serviteur invisible_](/grimoire/serviteur-invisible/) |
@@ -366,16 +366,16 @@ Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minut
 | **5** | [_zone de vérité_](/grimoire/zone-de-verite/) |
 | **7** | [_lance du juste_](/grimoire/lance-du-juste/) |
 | **9** | [_expiation du juste_](/grimoire/expiation-du-juste/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Jugement de dieu
 Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec une arme, vous ajoutez 1d4 dégâts du même type que ceux de l'arme. Ce dé de dégât passe au d6 au niveau 5, au d8 au niveau 9, au d10 au niveau 13 et enfin au d12 au niveau 17.
-:::
-:::
+§§§
+§§§
 
 ##### Lumière
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_lumières dansantes_](/grimoire/lumieres-dansantes/) |
@@ -383,16 +383,16 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 | **5** | [_lumière du jour_](/grimoire/lumiere-du-jour/) |
 | **8** | [_nimbe de bienfaisance_](/grimoire/nimbe-de-bienfaisance/) |
 | **11** | [_rayon de soleil_](/grimoire/rayon-de-soleil/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Explosion de lumière
 Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont _aveuglées_ à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
-:::
-:::
+§§§
+§§§
 
 ##### Magie
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_main du mage_](/grimoire/main-du-mage/) ou [_prestidigitation_](/grimoire/prestidigitation/) |
@@ -400,16 +400,16 @@ Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre c
 | **5** | [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) |
 | **7** | [_contresort_](/grimoire/contresort/) |
 | **9** | [_fabrication_](/grimoire/fabrication/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Magie profane
 Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de votre choix, dont le niveau doit être strictement inférieur à votre bonus de maîtrise (cela ne vous fait pas dépenser de canalisation d'énergie divine). Désormais, vous pouvez le lancer en utilisant une canalisation d'énergie divine. Vous devez terminer un repos long pour pouvoir choisir un autre sort. Vous oubliez alors le précédent.
-:::
-:::
+§§§
+§§§
 
 ##### Maladie, Faiblesse
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_putréfaction_](/grimoire/putrefaction/) |
@@ -417,16 +417,16 @@ Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de 
 | **5** | [_jeter une malédiction_](/grimoire/jeter-une-malediction/) |
 | **7** | [_flétrissement_](/grimoire/fletrissement/) |
 | **9** | [_contagion_](/grimoire/contagion/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Arme infectée
 Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné) pour 1 round. Si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution, elle divise par deux les dégâts de poison et ignore l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné).
-:::
-:::
+§§§
+§§§
 
 ##### Mort
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_contact glacial_](/grimoire/contact-glacial/) |
@@ -434,16 +434,16 @@ Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme,
 | **5** | [_catalepsie_](/grimoire/catalepsie/) |
 | **7** | [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
 | **9** | [_nuage mortel_](/grimoire/nuage-mortel/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Connexion mortelle
 Vous canalisez l'énergie de la mort à travers vous pour une durée égale à 1 round par point de bonus de maîtrise. Pendant ce laps de temps, vous pouvez lancer le tour de magie [_contact glacial_](/grimoire/contact-glacial/) en action bonus et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets d'attaque pour ce sort.
-:::
-:::
+§§§
+§§§
 
 ##### Nature
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/) |
@@ -451,16 +451,16 @@ Vous canalisez l'énergie de la mort à travers vous pour une durée égale à 1
 | **5** | [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/) |
 | **7** | [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
 | **9** | [_communion avec la nature_](/grimoire/communion-avec-la-nature/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Légion des bêtes
 Vous lancez le sort [_invoquer des animaux_](/grimoire/invoquer-des-animaux/), toutefois la somme des indices de dangerosité des bêtes que vous invoquez doit être strictement inférieure à votre bonus de maîtrise (indice 1 au niveau 2, indice 2 au niveau 5, indice 3 au niveau 9, etc.).
-:::
-:::
+§§§
+§§§
 
 ##### Nuit, Ténèbres
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_nappe de brouillard_](/grimoire/nappe-de-brouillard/) |
@@ -468,16 +468,16 @@ Vous lancez le sort [_invoquer des animaux_](/grimoire/invoquer-des-animaux/), t
 | **5** | [_vision dans le noir_](/grimoire/vision-dans-le-noir/) |
 | **7** | [_invisibilité supérieure_](/grimoire/invisibilite-superieure/) |
 | **9** | [_rêve_](/grimoire/reve/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Vision des ténèbres
 Vous obtenez l'aptitude vision aveugle et vous êtes immunisé à l'état spécial aveuglé pendant un nombre de rounds égal à votre bonus de maîtrise.
-:::
-:::
+§§§
+§§§
 
 ##### Protection
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_alarme_](/grimoire/alarme/) |
@@ -485,16 +485,16 @@ Vous obtenez l'aptitude vision aveugle et vous êtes immunisé à l'état spéci
 | **5** | [_cercle magique_](/grimoire/cercle-magique/) |
 | **7** | [_chien de garde_](/grimoire/chien-de-garde/) |
 | **9** | [_coquille antivie_](/grimoire/coquille-antivie/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Résistance
 Vous obtenez une résistance à tous les types de dégâts pendant 1 round par point de bonus de maîtrise. Vous pouvez choisir d'utiliser cette aptitude sur un allié situé dans votre champ de vision à moins de 9 mètres en même temps que sur vous-même.
-:::
-:::
+§§§
+§§§
 
 ##### Temps
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_repli expéditif_](/grimoire/repli-expeditif/) |
@@ -502,16 +502,16 @@ Vous obtenez une résistance à tous les types de dégâts pendant 1 round par p
 | **5** | [_hâte_](/grimoire/hate/) |
 | **7** | [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
 | **9** | [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Repli du temps
 Cette aptitude fait exception à la règle générale de canalisation d'énergie divine, vous n'avez besoin que d'une réaction pour l'activer. En dépensant votre réaction, vous agissez 1 tour complet en plus de votre tour normal. Toutefois ce tour supplémentaire ne vous octroie pas de nouvelle réaction. Vous ne pouvez pas utiliser, dans le même round, une aptitude ou un sort vous octroyant une action, une action bonus et/ou une réaction supplémentaire. Si vous êtes sous l'effet d'un sort de hâte au moment où vous utilisez cette aptitude, il cesse immédiatement. De plus, vous devez terminer un repos court ou long avant de pouvoir réutiliser cette capacité.
-:::
-:::
+§§§
+§§§
 
 ##### Terre
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_enchevêtrement_](/grimoire/enchevetrement/) |
@@ -519,16 +519,16 @@ Cette aptitude fait exception à la règle générale de canalisation d'énergie
 | **5** | [_fusion dans la pierre_](/grimoire/fusion-dans-la-pierre/) |
 | **7** | [_peau de pierre_](/grimoire/peau-de-pierre/) |
 | **9** | [_invoquer un élémentaire (Terre)_](/grimoire/invoquer-un-elementaire/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Enfouissement
 Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale pendant un nombre de rounds égal à votre bonus de maîtrise. Lorsque l'aptitude se termine, si vous restez prisonnier dans la matière, vous êtes éjecté vers l'espace libre le plus proche, vous subissez 1d6 dégâts contondants par mètre de matière traversée, et vous êtes étourdi pendant 1 round.
-:::
-:::
+§§§
+§§§
 
 ##### Tonnerre, tempête
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_vague tonnante_](/grimoire/vague-tonnante/) |
@@ -536,16 +536,16 @@ Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une pa
 | **5** | [_appel de la foudre_](/grimoire/appel-de-la-foudre/) |
 | **8** | [_tempête de grêle_](/grimoire/tempete-de-grele/) |
 | **11** | [_chaîne d'éclairs_](/grimoire/chaine-d-eclairs/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Sous tension
 Pendant une minute, à chaque fois qu'une créature réussit une attaque de corps-à-corps contre vous, elle subit 1d4 dégâts de foudre. Les dégâts passent à 2d4 au niveau 9 et à 3d4 au niveau 17.
-:::
-:::
+§§§
+§§§
 
 ##### Vie, soins
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_soin des blessures_](/grimoire/soin-des-blessures/) |
@@ -553,16 +553,16 @@ Pendant une minute, à chaque fois qu'une créature réussit une attaque de corp
 | **5** | [_vitalité_](/grimoire/vitalite/) |
 | **7** | [_panacée_](/grimoire/panacee/) |
 | **9** | [_restauration supérieure_](/grimoire/restauration-superieure/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Salve de guérison
 Vous et jusqu'à cinq alliés dans votre champ de vision, dans un rayon de 9 mètres autour de vous, récupérez 1d6 points de vie par point de bonus de maîtrise.
-:::
-:::
+§§§
+§§§
 
 ##### Voyage
-::: .d-md-flex
-::: .table-container .flex-shrink-0
+§§§ .d-md-flex
+§§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_grande foulée_](/grimoire/grande-foulee/) |
@@ -570,12 +570,12 @@ Vous et jusqu'à cinq alliés dans votre champ de vision, dans un rayon de 9 mè
 | **5** | [_monture fantôme_](/grimoire/monture-fantome/) |
 | **7** | [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
 | **9** | [_passage par les arbres_](/grimoire/passage-par-les-arbres/) |
-:::
-::: .container
+§§§
+§§§ .container
 ###### Canalisation d'énergie divine : Marche des brumes
 Vous pouvez lancer le sort pas brumeux en dépensant au choix une action bonus ou une réaction (et sans utiliser d'emplacement de sort) une fois par tour pendant un nombre de rounds égal à votre bonus de maîtrise.
-:::
-:::
+§§§
+§§§
 
 
 #### Canalisation d'énergie divine : Sort de domaine
@@ -598,7 +598,7 @@ Au niveau 1, vous obtenez la maîtrise de la compétence Histoire. Si vous maît
 
 Par exemple, un gardien des traditions de premier niveau avec un modificateur de Sagesse de +2 peut préparer cinq sorts différents au lieu de trois : niveau (1) + modificateur de Sagesse (2) + bonus de maîtrise (2). Au niveau  17, il pourra préparer vingt-cinq sorts au lieu de dix-neuf.
 
-::: .table-container
+§§§ .table-container
 #### Sorts de domaine
 Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
@@ -609,7 +609,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts)|
 |**7**|[_divination_](/grimoire/divination/)|
 |**9**|[_coercition mystique_](/grimoire/coercition-mystique/)|
-:::
+§§§
 
 #### Canalisation d'énergie divine : Pouvoir des anciens
 À partir du niveau 2, vous pouvez utiliser une canalisation d'énergie divine pour lancer le sort de [_bénédiction_](/grimoire/benediction) ou le sort de [_fléau_](/grimoire/fleau) en dépensant une action bonus. Lorsque vous lancez [_bénédiction_](/grimoire/benediction) ou [_fléau_](/grimoire/fleau) de cette façon, votre concentration ne peut pas être involontairement interrompue et les cibles ajoutent ou retranchent 1d6 à leurs tests au lieu de 1d4 tel que prévu par ces sorts. À partir du niveau 8, vous utilisez un d8 et, à partir du niveau 14, un d10.
@@ -632,7 +632,7 @@ Désormais, vous êtes capable de lancer le sort [_soin des blessures de groupe_
 
 ### Guide spirituel
 
-::: .table-container
+§§§ .table-container
 #### Sorts de domaine
 Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
@@ -648,7 +648,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |**8**|[_confusion_](/grimoire/confusion/)|
 |**9**|[_modification de mémoire_](/grimoire/modification-de-memoire/)|
 |**10**|[_dominer un humanoïde_](/grimoire/dominer-un-humanoide/)|
-:::
+§§§
 
 #### Force de persuasion
 Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence Persuasion. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
@@ -692,13 +692,13 @@ Contrairement aux sorts de domaines normaux, ces sorts ne sont pas considérés 
 
 Lorsque vous lancez un sort de magicien, vous utilisez votre modificateur d'Intelligence pour déterminer la difficulté de vos sorts et votre modificateur d'attaque magique, au lieu de votre modificateur de Sagesse. Vous préparez le nombre standard de sorts d'un clerc de votre niveau en choisissant indifféremment des sorts de clerc ou de magicien.
 
-::: .table-container
+§§§ .table-container
 ##### Nombre de sorts de clerc connus
 
 |Niveau|1|2|3|4|5|6|7|8|9|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Sorts|8|8|7|6|5|4|3|2|2|
-:::
+§§§
 
 #### Canalisation d'énergie divine : Magie renforcée
 Dès le niveau 2, votre compréhension des principes fondamentaux de la magie vous permet d'utiliser votre canalisation d'énergie divine pour améliorer l'efficacité de vos sorts. Vous pouvez utiliser votre canalisation d'énergie divine pour lancer un sort un niveau au-dessus de l'emplacement de sort utilisé. Par exemple, si vous lancez projectile magique au niveau 1, vous créez quatre projectiles, comme si vous aviez utilisé un emplacement de sort de niveau 2. De cette façon, vous pouvez lancer un sort à un niveau au-dessus de celui que vous êtes habituellement capable de lancer (mais jamais au-dessus du niveau 9).

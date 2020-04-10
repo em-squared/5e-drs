@@ -56,7 +56,7 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 **Lance d'arçon**. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
 ## Tableau des armes
-::: .table-container
+§§§ .table-container
 |Nom|Prix|Dégâts|Poids|Propriétés|
 |:-|:-:|:-:|:-:|:-|
 |**Armes de corps-à-corps courantes**|||||
@@ -101,4 +101,4 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 |Arc long|50 po|1d8 perforant|1 kg|Munitions (portée 45/180), lourde, à deux mains|
 |Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|
 |Sarbacane|10 po|1 perforant|0,5 kg|Munitions (portée 7,5/30), chargement|
-:::
+§§§

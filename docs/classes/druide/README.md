@@ -3,7 +3,7 @@ title: Druide
 ---
 # Druide
 ## Évolution du druide
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||
 |^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Druide
 |**18**|+6|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale](#incantation-animale)|4|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|4|3|3|3|3|2|1|1|1|
 |**20**|+6|[Archidruide](#archidruide)|4|4|3|3|3|3|2|2|1|1|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
@@ -87,13 +87,13 @@ Vous pouvez utiliser un focaliseur druidique (voir le chapitre [Équipement - É
 
 Votre niveau de druide détermine en quel animal vous pouvez vous transformer (voir le tableau des formes sauvages ci-après). Au niveau 2, par exemple, vous pouvez vous transformer en n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.
 
-::: .table-container
+§§§ .table-container
 | Niv. | ID | Limitations | Exemple |
 |:-:|:-:|:-|:-|
 | **2** | 1/4 | Pas de vitesse de vol ou de nage | Loup |
 | **4** | 1/2 | Pas de vitesse de vol | Crocodile |
 | **8** | 1 | - | Aigle géant |
-:::
+§§§
 
 Vous pouvez conserver votre forme sauvage pendant un nombre d'heures équivalent à la moitié de votre niveau de druide (arrondi à l'entier inférieur). Vous reprenez alors forme humaine, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre forme humaine de manière anticipée en utilisant une action bonus lors de votre tour. Vous retrouvez immédiatement forme humaine si vous perdez conscience, si vous êtes réduit à 0 point de vie ou si vous mourrez.
 
@@ -136,7 +136,7 @@ Votre connexion mystique avec la terre vous donne la capacité de lancer certain
 
 Une fois que vous avez appris un sort de cercle, il est toujours considéré comme préparé et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous apprenez un sort qui n'apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
 
-::: .table-container
+§§§ .table-container
 ##### Arctique
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -144,9 +144,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_tempête de neige_](/grimoire/tempete-de-neige/), [_lenteur_](/grimoire/lenteur/) |
 | **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_tempête de grêle_](/grimoire/tempete-de-grele/) |
 | **9** | [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_cône de froid_](/grimoire/cone-de-froid/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Littoral
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -154,9 +154,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_respiration aquatique_](/grimoire/respiration-aquatique/), [_marche sur l'eau_](/grimoire/marche-sur-l-eau/) |
 | **7** | [_contrôle de l'eau_](/grimoire/controle-de-l-eau/), [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
 | **9** | [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/), [_scrutation_](/grimoire/scrutation/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Désert
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -164,9 +164,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_création de nourriture et d'eau_](/grimoire/creation-de-nourriture-et-d-eau/), [_protection contre les énergies_](/grimoire/protection-contre-les-energies/) |
 | **7** | [_flétrissement_](/grimoire/fletrissement/), [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
 | **9** | [_fléau d'insectes_](/grimoire/fleau-d-insectes/), [_mur de pierre_](/grimoire/mur-de-pierre/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Forêt
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -174,9 +174,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_appel de la foudre_](/grimoire/appel-de-la-foudre/), [_croissance végétale_](/grimoire/croissance-vegetale/) |
 | **7** | [_divination_](/grimoire/divination/), [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
 | **9** | [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_passage par les arbres_](/grimoire/passage-par-les-arbres/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Plaine
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -184,9 +184,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_lumière du jour_](/grimoire/lumiere-du-jour/), [_hâte_](/grimoire/hate/) |
 | **7** | [_divination_](/grimoire/divination/), [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
 | **9** | [_rêve_](/grimoire/reve/), [_fléau d'insectes_](/grimoire/fleau-d-insectes/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Montagne
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -194,9 +194,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_éclair_](/grimoire/eclair/), [_fusion dans la pierre_](/grimoire/fusion-dans-la-pierre/) |
 | **7** | [_façonnage de la pierre_](/grimoire/faconnage-de-la-pierre/), [_peau de pierre_](/grimoire/peau-de-pierre/) |
 | **9** | [_passe-muraille_](/grimoire/passe-muraille/), [_mur de pierre_](/grimoire/mur-de-pierre/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Marais
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
@@ -204,7 +204,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 | **5** | [_marche sur l'eau_](/grimoire/marche-sur-l-eau/), [_nuage puant_](/grimoire/nuage-puant/) |
 | **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_localiser une créature_](/grimoire/localiser-une-creature/) |
 | **9** | [_fléau d'insectes_](/grimoire/fleau-d-insectes/), [_scrutation_](/grimoire/scrutation/) |
-:::
+§§§
 
 #### Traversée des terrains
 À partir du niveau 6, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.
@@ -237,7 +237,7 @@ Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 #### Sorts de saison
 Votre connexion mystique avec les saisons vous permet de lancer certains sorts en rapport avec la saison actuelle. Du niveau 2 au niveau 9, vous obtenez accès à des sorts particuliers selon la saison. La liste de sorts à laquelle vous avez accès change durant une cérémonie d'1 heure que vous devez effectuer aux solstices ou aux équinoxes. Tant que vous n'effectuez pas cette cérémonie, vous ne gagnez pas accès aux sorts de la nouvelle saison, mais vous perdez malgré tout l'accès à ceux de la saison passée. Vous en obtenez l'accès dès que la cérémonie est réalisée. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
 
-::: .table-container
+§§§ .table-container
 ##### Printemps
 | Niv. de druide | Sorts de saison |
 |:-:|:-|
@@ -249,9 +249,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 | **7** | [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
 | **8** | [_liane chasseresse_](/grimoire/liane-chasseresse/) |
 | **9** | [_réincarnation_](/grimoire/reincarnation/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Été
 | Niv. de druide | Sorts de saison |
 |:-:|:-|
@@ -263,9 +263,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 | **7** | [_bouclier de feu_](/grimoire/bouclier-de-feu/) |
 | **8** | [_mur de feu_](/grimoire/mur-de-feu/) |
 | **9** | [_fléau d'insectes_](/grimoire/fleau-d-insectes/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Automne
 | Niv. de druide | Sorts de saison |
 |:-:|:-|
@@ -277,9 +277,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 | **7** | [_métamorphose_](/grimoire/metamorphose/) |
 | **8** | [_peau de pierre_](/grimoire/peau-de-pierre/) |
 | **9** | [_passage par les arbres_](/grimoire/passage-par-les-arbres/) |
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ##### Hiver
 | Niv. de druide | Sorts de saison |
 |:-:|:-|
@@ -291,7 +291,7 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 | **7** | [_tempête de grêle_](/grimoire/tempete-de-grele/) |
 | **8** | [_flétrissement_](/grimoire/fletrissement/) |
 | **9** | [_coquille antivie_](/grimoire/coquille-antivie/) |
-:::
+§§§
 
 #### Migration d'été
 L'été est la période des voyages et des grandes migrations pour les animaux. Au niveau 6, vous augmentez votre vitesse de déplacement de 3 mètres. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
@@ -323,7 +323,7 @@ Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langa
 #### Sorts féeriques
 Vous avez appris la magie secrète du peuple des fées. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
 
-::: .table-container
+§§§ .table-container
 | Niv. de druide | Sorts féériques |
 |:-:|:-|
 | **2** | [_appel de familier_](/grimoire/appel-de-familier/) |
@@ -334,7 +334,7 @@ Vous avez appris la magie secrète du peuple des fées. Du niveau 2 au niveau 9,
 | **7** | [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
 | **8** | [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
 | **9** | [_tromperie_](/grimoire/tromperie/) |
-:::
+§§§
 
 #### Disparition instinctive
 Vous savez passer dans le monde invisible en un instant. À partir du niveau 6, vous pouvez lancer le sort [_invisibilité_](/grimoire/invisibilite/) en utilisant une action bonus au lieu d'une action, et une réaction vous suffit à partir du niveau 10. Vous pouvez utiliser cette réaction dès qu'un adversaire prend une action dans votre champ de vision. À partir du niveau 10, vous pouvez lancer le sort [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) en utilisant une action bonus, et une réaction suffit à partir du niveau 14. De plus, vous pouvez lancer ces sorts, toujours en action bonus ou en réaction, même lorsque vous êtes en forme sauvage (éventuellement en utilisant votre aptitude de magie des fées).

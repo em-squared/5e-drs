@@ -15,7 +15,7 @@ Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et tout
 **Maîtrise des armures**. Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour tous les tests de caractéristique, jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
 ## Tableau des armures
-::: .table-container
+§§§ .table-container
 |Armure|Prix|Classe d'armure (CA)|Force|Discrétion|Poids|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |**Armures légères**|||||
@@ -35,7 +35,7 @@ Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et tout
 |[Harnois](#harnois)|1500 po|18|For 15|Désavantage|32,5 kg|
 |**Bouclier**||||||
 |Bouclier|10 po|+2|-|-|3 kg|
-:::
+§§§
 
 ## Armures légères
 Les armures légères sont faites de matériaux souples et fins. Elles sont adaptées aux aventuriers agiles dans la mesure où elles offrent une protection sans sacrifier leur mobilité. Si vous portez une armure légère, vous ajoutez votre modificateur de Dextérité à la valeur de base de votre armure pour déterminer votre classe d'armure.
@@ -80,20 +80,20 @@ Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.
 **Retirer**. C'est le temps nécessaire pour ôter une armure. Si vous êtes aidé, vous pouvez diviser cette durée par deux.
 
 ### Enfiler et retirer une armure
-::: .table-container
+§§§ .table-container
 |Catégorie|Enfiler|Retirer|
 |:-|:-:|:-:|
 |**Armure légère**|1 minute|1 minute|
 |**Armure intermédiaire**|5 minutes|1 minute|
 |**Armure lourde**|10 minutes|5 minutes|
 |**Bouclier**|1 action|1 action|
-:::
+§§§
 
-::: .hero
+§§§ .hero
 ## Option : Encombrement des armures
 Par défaut, les règles imposent très peu de malus pour le port des armures. Toutefois, si le MJ le souhaite, il peut utiliser cette règle optionnelle ; elle correspond à une vision plus contraignante et réaliste des inconvénients d'une armure.
 
 Un personnage qui porte une armure intermédiaire subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous ses tests de Dextérité (Acrobaties).
 
 Un personnage qui porte une armure lourde subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en initiative et à tous ses tests de Dextérité (Acrobaties) ou de Force (Athlétisme).
-:::
+§§§

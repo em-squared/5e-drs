@@ -4,7 +4,7 @@ title: Ensorceleur
 # Ensorceleur
 
 ## Évolution de l'ensorceleur
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts par niveau de sort|||||||||
 |^^|^^|^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -28,7 +28,7 @@ title: Ensorceleur
 |**18**|+6|18|[Aptitude d'origine magique](#origine-magique)|6|15|4|3|3|3|3|1|1|1|1|
 |**19**|+6|19|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|6|15|4|3|3|3|3|2|1|1|1|
 |**20**|+6|20|[Régénération de l'ensorceleur](#regeneration-de-l-ensorceleur)|6|15|4|3|3|3|3|2|2|1|1|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
@@ -98,7 +98,7 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 
 **Convertir un emplacement de sort en points de sorcellerie**. Lors de votre tour, vous pouvez utiliser une action bonus pour utiliser un emplacement de sort et gagner un nombre de points de sorcellerie équivalent au niveau de l'emplacement de sort que vous avez utilisé.
 
-::: .table-container
+§§§ .table-container
 #### Création d'emplacements de sorts
 | Niveau d'emplacement de sort | Points de sorcellerie dépensés |
 |:-:|:-:|
@@ -107,7 +107,7 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 | **3** | 5 |
 | **4** | 6 |
 | **5** | 7 |
-:::
+§§§
 
 ### Métamagie
 Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins. Vous gagnez deux options de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 10 et une dernière au niveau 17.
@@ -159,7 +159,7 @@ Vous pouvez parler, lire et écrire en draconique.
 
 De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des dragons, votre bonus de maîtrise est doublé s'il s'applique.
 
-::: .table-container
+§§§ .table-container
 ##### Lignée draconique
 | Dragon | Type de dégâts |
 |:-|:-|
@@ -173,7 +173,7 @@ De plus, à chaque fois que vous faites un test de Charisme alors que vous inter
 | **Or** | Feu |
 | **Rouge** | Feu |
 | **Vert** | Poison |
-:::
+§§§
 
 #### Résistance draconique
 Avec le temps, la magie qui parcourt vos veines fait émerger certains traits physiques de vos ancêtres dragons. Au niveau 1, votre maximum de points de vie augmente de 1, puis encore de 1 à chaque fois que vous gagnez un niveau dans cette classe.

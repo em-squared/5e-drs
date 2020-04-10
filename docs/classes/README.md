@@ -3,7 +3,7 @@ title: Classes
 ---
 # Classes
 
-::: .table-container
+§§§ .table-container
 |Classe|Dé de vie|Caractéristiques principales|Caractéristique d'incantation|Maîtrises de sauvegarde|
 |:-|:-:|:-|:-|:-|
 |**[Barbare](/classes/barbare/)**|d12|Force, Constitution|-|Force et Constitution|
@@ -18,4 +18,4 @@ title: Classes
 |**[Rôdeur](/classes/rodeur/)**|d10|Dextérité, Sagesse|Sagesse|Force et Dextérité|
 |**[Roublard](/classes/roublard/)**|d8|Dextérité, Intelligence ou Charisme|-|Dextérité et Intelligence|
 |**[Sorcier](/classes/sorcier/)**|d8|Charisme, Force ou Dextérité|Charisme|Sagesse et Charisme|
-:::
+§§§

@@ -3,7 +3,7 @@ title: Sorcier
 ---
 # Sorcier
 ## Évolution du sorcier
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|
 |**1**|+2|[Protecteur de l'outre-monde](#protecteur-de-l-outre-monde), [Magie de pacte](#magie-de-pacte)|2|2|1|1|-|
@@ -26,7 +26,7 @@ title: Sorcier
 |**18**|+6|-|4|14|4|5|8|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|15|4|5|8|
 |**20**|+6|[Maître de l'occulte](#maitre-de-l-occulte)|4|15|4|5|8|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
@@ -110,7 +110,7 @@ Votre protecteur vous donne un grimoire appelé un livre des ombres. Quand vous 
 
 Si vous perdez votre livre des ombres, vous pouvez accomplir une cérémonie d'une durée de 1 heure pour que votre protecteur vous donne un nouveau livre en remplacement. Cette cérémonie peut être accomplie pendant un repos court ou un repos long et, à l'issue de celle-ci, le livre précédent est détruit. Votre livre des ombres se désagrège à votre mort.
 
-::: .hero
+§§§ .hero
 ##### Votre pacte
 À chaque pacte est associé une créature ou un objet spécial qui reflète la nature de votre protecteur.
 
@@ -119,7 +119,7 @@ Si vous perdez votre livre des ombres, vous pouvez accomplir une cérémonie d'u
 **Pacte de la lame**. Si votre protecteur est le seigneur immortel, votre arme correspond à celle qu'il utilisa durant ses conquêtes. Si vous servez le fiélon, ce sera plutôt une hache forgée dans un métal sombre et ornée de flammes. Si votre protecteur est la puissance des profondeurs, votre arme aura un aspect antique, avec une gemme sculptée pour ressembler à un œil fermé, qui s'ouvre parfois lorsque vous faîtes usage de votre magie. Enfin, si vous êtes associé à l'entité extra-dimensionnelle, vous pouvez changer la forme de votre arme simplement en vous concentrant un round complet, depuis une simple dague jusqu'à une épée à deux mains en passant par un marteau de guerre, mais toujours une arme de corps-à-corps.
 
 **Pacte du grimoire**. Votre livre des ombres peut être un ouvrage très ancien, noir et or, hérité du seigneur immortel. Mais il s'agit peut-être aussi d'un lourd grimoire relié avec du cuir de démon et garni de clous de fers contenant des sorts d'invocation et une grande quantité de connaissances interdites sur les régions les plus sinistres du cosmos, qui vous a été offert par le fiélon. Le grimoire de la puissance des profondeurs peut être un simple rouleau de papyrus d'un âge incroyable ou une tablette de pierre ornée de hyéroglyphes changeants. Enfin, celui de l'entité extra-dimensionnelle prend probablement la forme d'un cristal translucide ou d'un cube de métal sur lequel seul un initié peut faire apparaître les runes étranges qui véhiculent les secrets de votre magie.
-:::
+§§§
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.

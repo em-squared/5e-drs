@@ -32,7 +32,7 @@ Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment util
 
 Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes. Par exemple, les langues primordiales sont constituées de quatre dialectes (aérien, aquatique, ignée et terreux), un pour chaque plan élémentaire. Des créatures qui parlent des dialectes différents issus d'une même langue d'origine peuvent communiquer entre elles.
 
-::: .table-container
+§§§ .table-container
 ### Langues courantes
 
 | Langue | Parlée par... | Alphabet |
@@ -46,9 +46,9 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Nain** | Nains | Runique |
 | **Orc** | Orcs | Runique |
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 ### Langues exotiques
 
 | Langue | Parlée par... | Alphabet |
@@ -63,7 +63,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Sselish** | Hommes serpents | - |
 | **Sylvestre** | Fées | Elfique |
 
-:::
+§§§
 
 ## Inspiration
 L'inspiration est une règle que le maître du donjon peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.
@@ -100,7 +100,7 @@ Vous voudrez peut-être adapter certains détails d'un historique pour qu'il cor
 ### Les historiques de Héros & Dragons
 
 Voici la liste des historiques proposés dans ***Héros & Dragons***.
-::: .column-count-3
+§§§ .column-count-3
 * [Brigand](/personnalite-et-historique/brigand)
  * [Bandit de grand chemin](/personnalite-et-historique/brigand#variante-bandit-de-grand-chemin)
  * [Fugitif](/personnalite-et-historique/brigand#variante-fugitif)
@@ -164,13 +164,13 @@ Voici la liste des historiques proposés dans ***Héros & Dragons***.
  * [Artisan local](/personnalite-et-historique/villageois#variante-artisan-local)
  * [Laboureur](/personnalite-et-historique/villageois#variante-laboureur)
  * [Rebouteux](/personnalite-et-historique/villageois#variante-rebouteux)
-:::
+§§§
 
-::: .hero
+§§§ .hero
 #### Variantes
 Lors de la création d'un personnage, il est tout à fait possible de vous contenter des historiques généraux proposés, ou de sélectionner directement outils et compétences avec l'accord de votre MJ. Toutefois, il se peut aussi que vous envisagiez un historique plus précis, qui cadre mieux avec votre idée du personnage.
 
 C'est dans ce but que pour chaque historique général, plusieurs variantes sont proposées. Elles représentent des cas plus spécifiques et se veulent une source d'inspiration additionnelle. Maîtrises, langues et équipement de départ de la variante remplacent complètement les informations de l'historique général. Certaines variantes introduisent une aptitude particulière qui remplace là aussi celle de l'historique général. Si aucune aptitude spécifique n'est proposée, c'est l'aptitude de l'historique général qui s'applique. Toutes les variantes d'un historique utilisent les mêmes tables de Traits de personnalité, d'Idéaux, de Liens et de Défauts.
 
 Si vous le souhaitez, vous pouvez imaginer de nouvelles variantes. Rattachez-les tout simplement à l'historique général qui vous semble le plus adapté. Il ne vous reste alors plus qu'à adapter les compétences, outils, langues et équipement, et créer ou adapter une aptitude si vous le souhaitez.
-:::
+§§§

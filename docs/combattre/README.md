@@ -44,7 +44,7 @@ Pour utiliser certains objets magiques et autres objets spéciaux, vous devrez t
 
 Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité qui requiert une attention particulière ou lorsque vous vous trouvez face à un obstacle inhabituel. Par exemple, le MJ peut raisonnablement vous demander d'utiliser une action pour forcer une porte coincée ou pour tourner une manivelle qui fera descendre un pont-levis.
 
-::: .hero
+§§§ .hero
 #### Interagir avec les objets alentours
 Voici quelques exemples de ce que vous pouvez accomplir librement, en même temps que votre déplacement ou que votre action. Pour rappel, vous ne pouvez interagir librement qu'avec un seul objet par tour de jeu. Interagir avec deux objets vous oblige à utiliser votre action.
 * Dégainer ou rengainer une épée
@@ -68,7 +68,7 @@ Voici quelques exemples de ce que vous pouvez accomplir librement, en même temp
 * Tourner une clef dans une serrure
 * Frapper le sol avec un bâton de 3 mètres
 * Tendre un objet à un autre personnage
-:::
+§§§
 
 ## Réaction
 Certaines capacités spéciales, sorts ou situations permettent à votre personnage d'accomplir une action spéciale appelée une **réaction**. Une réaction est une réponse instantanée déclenchée par un stimulus qui peut se produire pendant votre tour ou celui de quelqu'un d'autre. Le type de réaction le plus courant est l'attaque d'opportunité, décrite plus loin dans ce chapitre.

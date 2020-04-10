@@ -199,7 +199,7 @@ Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élev�
 
 **Aristocratique**. Vous menez une vie d'abondance et de confort. Vous évoluez dans des cercles peuplés par les personnes les plus influentes de la communauté. Vous habitez dans un logis princier, peut-être une maison en ville dans un quartier cossu ou dans un appartement de la meilleure auberge de la ville. Vous dînez dans les meilleurs restaurants, vous vous êtes attaché les services du dernier tailleur à la mode et vos serviteurs répondent à vos moindres désirs. Vous êtes invités aux événements mondains organisés par les riches et les puissants et vous passez vos soirées en compagnie de politiciens, de responsables de guildes, de grands prêtres et d'aristocrates. Vous faites cependant face à des tentatives d'escroquerie et de trahison de grande envergure. Plus vous êtes riche, plus grandes sont vos chances de vous retrouver mêlé à une intrigue politique en tant que pion ou que participant.
 
-::: .table-container
+§§§ .table-container
 ##### Trains de vie
 
 | Train de vie | Coût quotidien |
@@ -212,14 +212,14 @@ Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élev�
 | **riche** | 4 po |
 | **aristocratique** | 10 po minimum |
 
-:::
+§§§
 
-::: .hero
+§§§ .hero
 ##### Autosuffisance
 Les dépenses et les trains de vie décrits dans cette section ont été pensés en partant du principe que vous passez votre temps en ville entre deux aventures et profitez des ressources que vous pouvez vous payer : acheter de la nourriture, louer un logement, payer un artisan pour affûter votre épée et réparer votre armure, et ainsi de suite. Certains personnages préfèrent cependant passer leur temps loin de la civilisation et se débrouiller dans la nature en vivant de chasse et de cueillette et en réparant eux-mêmes leur équipement.
 
 Vous pouvez mener un tel train de vie sans rien dépenser, mais cela vous prend beaucoup de temps. Si vous passez ainsi votre temps entre deux aventures sans exercer de profession, vous pouvez gagner de quoi mener un train de vie pauvre. Maîtriser la compétence Survie peut vous permettre de vivre l'équivalent d'une vie confortable.
-:::
+§§§
 
 ### Moments de répit
 

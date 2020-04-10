@@ -17,7 +17,7 @@ title: "Les trésors"
 Les tableaux qui suivent vous aideront à déterminer les trésors découverts par les aventuriers. Avant d'utiliser les tableaux, il faut distinguer l'argent transporté par des monstres individuels ou de petits groupes et le véritable trésor d'un groupe composé de nombreuses créatures (une horde d'orcs ou un clan de géants) ou de créatures légendaires (un dragon). Le tableau [_A – trésor individuel_](#table-a) représente la somme possédée par chaque monstre individuellement. Les tableaux [_B – objets rares_](#table-b), [_C – trésor, gemmes et objets d'art_](#table-c) et [_D – objets magiques_](#table-d) permettent de déterminer le trésor d'un grand groupe, d'une créature puissante ou, pourquoi pas, la somme offerte par le commanditaire des PJ. Vous effectuerez donc un tirage par monstre sur la table A et un seul tirage par rencontre dans les tables B, C et/ou D si le tirage sur la table de base vous l'indique.
 
 Chaque tableau est divisé en colonnes, selon le niveau des PJ ajusté par la difficulté de la rencontre : -1 pour une rencontre aisée, +1 pour une rencontre ordinaire et +3 pour une rencontre ardue (voir [Construire une rencontre](/creatures-et-oppositions/construire-une-rencontre#difficulté-dune-rencontre) pour les difficultés des rencontres) Notez que ces tableaux ne sont qu'indicatifs. Chaque monstre ne transporte pas de l'argent et des objets magiques sur lui. Pour justifier la présence d'un trésor précieux auprès d'un monstre relativement faible ou peu intelligent, pensez que les objets peuvent très bien se trouver sur les cadavres des précédents aventuriers qui ont tenté d'affronter la créature.
-::: .table-container
+§§§ .table-container
 ### Table de base
 
 <table>
@@ -66,14 +66,14 @@ Chaque tableau est divisé en colonnes, selon le niveau des PJ ajusté par la di
   </tbody>
 </table>
 
-:::
+§§§
 
 ### Table A – trésor individuel
 Cette table indique combien d'argent transporte chaque monstre affronté. Si la rencontre comporte plusieurs monstres, effectuez un tirage par adversaire. Pour plus de rapidité, vous pouvez également multiplier le résultat obtenu par le nombre d'adversaires.
 
 Vous pouvez remplacer, particulièrement au-delà du niveau 8, tout ou partie de cet argent par des gemmes ou des objets magiques de valeur équivalente. Les monstres transportent rarement des sacs de plus de 50  kilos de pièces sur eux.
 
-::: .table-container
+§§§ .table-container
 #### Table A
 
 <table>
@@ -135,12 +135,12 @@ Vous pouvez remplacer, particulièrement au-delà du niveau 8, tout ou partie de
   </tbody>
 </table>
 
-:::
+§§§
 
 ### Table B – objets rares
 Avec ce tableau vous allez déterminer quels objets insolites, rares et de faible valeur votre groupe de créatures possède. Réalisez d'abord un tirage sur la première table pour connaître le nombre d'objets à déterminer dans le second tableau. Rappelez-vous qu'il ne faut réaliser qu'un seul tirage par rencontre.
 
-::: .table-container
+§§§ .table-container
 #### Table B
 
 <table>
@@ -202,7 +202,7 @@ Avec ce tableau vous allez déterminer quels objets insolites, rares et de faibl
   </tbody>
 </table>
 
-:::
+§§§
 
 
 |1d100|Objet|
@@ -286,7 +286,7 @@ Ce tableau vous permet de mesurer la taille du trésor accumulé par un groupe d
 
 **Objets d'art à 7500 po**. Couronne d'un empereur en platine sertie d'opales noires, cor de chasse en ivoire relevé d'or et de platine, dague sacrificielle dont la lame est une dent de dragon.
 
-::: .table-container
+§§§ .table-container
 #### Table C
 
 <table>
@@ -372,12 +372,12 @@ Ce tableau vous permet de mesurer la taille du trésor accumulé par un groupe d
   </tbody>
 </table>
 
-:::
+§§§
 
 ### Table D – Objets magiques
 Ce dernier tableau vous permet de déterminer le nombre d'objets magiques, et les tableaux dans lesquels vous allez les tirer au hasard, possédés par les monstres de votre rencontre.
 
-::: .table-container
+§§§ .table-container
 #### Table D
 
 <table>
@@ -559,12 +559,12 @@ Ce dernier tableau vous permet de déterminer le nombre d'objets magiques, et le
   </tbody>
 </table>
 
-:::
+§§§
 
 ### Objets magiques aléatoires
 Les tableaux suivants vous seront utiles pour déterminer les objets magiques présents dans les trésors des monstres rencontrés par les personnages.
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 1
 
 |D100|Objet magique|
@@ -586,9 +586,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Sac sans fond](/liste-objets-magiques/sac-sans-fond)|
 |**96-00**|Relancer sur [table 2](#objets-magiques-2)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 2
 
 |D100|Objet magique|
@@ -638,9 +638,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Poussière de disparition](/liste-objets-magiques/poussiere-de-disparition)|
 |**96-00**|Relancer sur [table 3](#objets-magiques-3)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 3
 
 |D100|Objet magique|
@@ -692,9 +692,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Trident de domination aquatique](/liste-objets-magiques/trident-de-domination-aquatique)|
 |**96-00**|Relancer sur [table 4](#objets-magiques-4)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 4
 
 |D100|Objet magique|
@@ -762,9 +762,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Puits portatif](/liste-objets-magiques/puits-portatif)|
 |**96-00**|Relancer sur [table 5](#objets-magiques-5)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 5
 
 |D100|Objet magique|
@@ -828,9 +828,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Sceptre de suzeraineté](/liste-objets-magiques/sceptre-de-suzerainete)|
 |**96-00**|Relancer sur [table 6](#objets-magiques-6)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 6
 
 |D100|Objet magique|
@@ -879,9 +879,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Ceinturon de force de géant des pierres/du givre](/liste-objets-magiques/ceinturon-de-force-de-geant-des-pierres-du-givre)|
 |**96-00**|Relancer sur [table 7](#objets-magiques-7)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 7
 
 |D100|Objet magique|
@@ -927,9 +927,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Tapis volant](/liste-objets-magiques/tapis-volant)|
 |**96-00**|Relancer sur [table 8](#objets-magiques-8)|
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Objets magiques 8
 
 |D100|Objet magique|
@@ -984,4 +984,4 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Submersible du crabe](/liste-objets-magiques/submersible-du-crabe)|
 |**96-00**|Artefact (au choix du MJ)|
 
-:::
+§§§

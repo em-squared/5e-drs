@@ -22,7 +22,7 @@ Vous touchez un humanoïde mort ou un morceau du cadavre d'une telle créature. 
 
 La magie façonne un nouveau corps pour accueillir l'âme, ce qui risque de modifier la race de la créature. Le MJ lance 1d100 et consulte la table suivante pour déterminer quel sera le corps de la créature ramenée à la vie ou il en choisit un.
 
-::: .table-container
+§§§ .table-container
 |D100|Race|
 |:-:|:-|
 |**01-03**|sangdragon|
@@ -44,6 +44,6 @@ La magie façonne un nouveau corps pour accueillir l'âme, ce qui risque de modi
 |**90-92**|félys|
 |**93-96**|aasimar|
 |**97-100**|tieffelin|
-:::
+§§§
 
 La créature réincarnée se souvient de son ancienne vie et de ses expériences passées. Elle conserve les capacités dont elle disposait sous sa forme d'origine, mais échange sa race précédente contre la nouvelle et modifie ses traits raciaux en conséquence.

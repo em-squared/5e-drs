@@ -13,6 +13,7 @@ export default new Vuex.Store({
   },
 
   state: {
+    loading: false,
     drawer: true,
     rightDrawer: false,
     hasRightDrawer: false,
@@ -21,6 +22,7 @@ export default new Vuex.Store({
   },
 
   getters: {
+    loading: state => state.loading,
     drawer: state => state.drawer,
     rightDrawer: state => state.rightDrawer,
     hasRightDrawer: state => state.hasRightDrawer,
@@ -29,6 +31,9 @@ export default new Vuex.Store({
   },
 
   actions: {
+    updateLoading: ({ commit }, payload) => {
+      commit('setLoading', payload)
+    },
     updateDrawer: ({ commit }, payload) => {
       commit('setDrawer', payload)
     },
@@ -47,6 +52,9 @@ export default new Vuex.Store({
   },
 
   mutations: {
+    setLoading: (state, payload) => {
+      state.loading = payload
+    },
     setDrawer: (state, payload) => {
       state.drawer = payload
     },

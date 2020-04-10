@@ -24,21 +24,21 @@ source: "Manuel des règles"
 ---
 Vous voyez et entendez une créature donnée de votre choix, à condition qu'elle se trouve sur le même plan d'existence que vous. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse, modifié par le degré de connaissance que vous avez d'elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) si elle veut que vous l'observiez.
 
-::: .table-container
+§§§ .table-container
 |Connaissance|Modificateur du jet de sauvegarde|
 |:-|:-:|
 |Deuxième main (vous avez entendu parler de la cible)|+5|    
 |Première main (vous avez rencontré la cible)|0|    
 |Familière (vous connaissez bien la cible)|-5|    
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 |Lien|Modificateur du jet de sauvegarde|
 |:-|:-:|
 |Représentation ou portrait|-2|    
 |Possession ou vêtement|-4|    
 |Partie du corps, cheveux, ongles, etc.|-10|    
-:::
+§§§
 
 Si la cible réussit son jet de sauvegarde, elle n'est pas affectée et vous ne pouvez plus utiliser ce sort sur elle pendant 24 heures.
 

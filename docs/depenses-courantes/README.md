@@ -18,7 +18,7 @@ Les lanceurs de sorts ne rentrent pas dans la même catégorie que les employés
 Dans une petite ville, il sera assez facile de trouver des gens volontaires pour lancer des sorts relativement courants de niveau 1 ou 2, comme soin des blessures ou identification, en échange d'un salaire entre 10 et 50 po en plus du coût de toute composante matérielle chère. Il faudra sûrement voyager jusqu'à une grande ville, avec une université ou un temple important, pour trouver quelqu'un qui accepte de lancer un sort d'un niveau plus élevé. Une fois que vous avez trouvé le lanceur de sort, celui-ci peut par contre vous demander une faveur en guise de paiement, le genre de service que seuls des aventuriers sont en mesure de rendre, comme récupérer un objet rare détenu par des gens dangereux ou traverser une région infestée de monstres pour livrer quelque chose d'important à une communauté lointaine.
 
 ## Nourriture, boisson et logement
-::: .table-container
+§§§ .table-container
 | Objet | Prix |
 |:-|:-:|
 | **Banquet (par personne)** | 10 po |
@@ -45,10 +45,10 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 | **Vin** | |
 | &nbsp;&nbsp;Ordinaire (cruche) | 2 pa |
 | &nbsp;&nbsp;Raffiné (bouteille) | 10 po |
-:::
+§§§
 
 ## Services
-::: .table-container
+§§§ .table-container
 | Service | Prix |
 |:-|:-:|
 | **Employé** | |
@@ -60,4 +60,4 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 | &nbsp;&nbsp;Dans une ville | 1 pc |
 | &nbsp;&nbsp;Entre deux villes | 2 pc par kilomètre |
 | **Voyage maritime** | 7 pc par kilomètre |
-:::
+§§§

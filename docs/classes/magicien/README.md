@@ -3,7 +3,7 @@ title: Magicien
 ---
 # Magicien
 ## Évolution du magicien
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||
 |^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Magicien
 |**18**|+6|[Maîtrise des sorts](#maitrise-des-sorts)|5|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|3|2|1|1|1|
 |**20**|+6|[Sorts de prédilection](#sorts-de-predilection)|5|4|3|3|3|3|2|2|1|1|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
@@ -60,7 +60,7 @@ Au niveau 1, vous connaissez trois tours de magie de votre choix que vous choisi
 ### Grimoire
 Au niveau 1, votre grimoire contient six sorts de magicien de niveau 1 de votre choix. C'est dans votre grimoire que se trouvent tous les sorts que vous connaissez, à la différence des tours de magie, que vous avez mémorisés.
 
-::: .hero
+§§§ .hero
 #### Votre grimoire
 Les sorts que vous ajoutez à votre grimoire au fur et à mesure de votre progression sont le reflet des recherches arcaniques que vous menez ainsi que de vos découvertes sur la nature du multivers. Néanmoins, vous pouvez découvrir d'autres sorts au cours de vos aventures. Vous pouvez par exemple découvrir un sort noté sur un parchemin dans le coffre d'un magicien maléfique, ou un grimoire poussiéreux dans une antique bibliothèque.
 
@@ -75,7 +75,7 @@ Pour chaque niveau de sort, le processus de transcription vous prend 2 heures et
 Si vous perdez votre grimoire, vous pouvez utiliser le même processus pour transcrire les sorts que vous avez préparés dans un nouveau grimoire. Afin de compléter votre grimoire, vous devrez trouver de nouveaux sorts en suivant la voie normale. C'est pour cette raison que de nombreux magiciens conservent des copies de leur grimoire dans des endroits sûrs.
 
 **L'apparence de votre grimoire**. Votre grimoire est une compilation unique de sorts avec ses propres enluminures et notes dans la marge. Il peut se présenter sous la forme d'un livre simple et fonctionnel avec une reliure de cuir donné par votre maître, ou comme un tome à la tranche dorée que vous avez trouvé dans une antique bibliothèque, ou encore simplement un ensemble épars de notes réunies à la va-vite après la perte de votre précédent grimoire suite à une mésaventure.
-:::
+§§§
 
 ### Préparer et lancer des sorts
 Le tableau d'[évolution du magicien](#evolution-du-magicien) vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de magicien, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.

@@ -17,7 +17,7 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 **Selle**. Une selle militaire offre un support à un cavalier et l'aide à conserver son assise sur une monture au cœur d'une bataille. Elle lui donne un avantage à tous les tests qu'il fait pour rester en selle. Il est nécessaire de posséder une selle exotique pour chevaucher une créature volante ou aquatique.
 
 ## Montures et autres animaux
-::: .table-container
+§§§ .table-container
 | Animal | Prix | Vitesse | Capacité de charge |
 |:-|:-:|:-:|:-:|
 | **Âne ou mule** | 8&nbsp;po | 12&nbsp;m | 210&nbsp;kg |
@@ -28,10 +28,10 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | **Éléphant** | 200&nbsp;po | 12&nbsp;m | 660&nbsp;kg |
 | **Molosse** | 25&nbsp;po | 12&nbsp;m | 97,5&nbsp;kg |
 | **Poney** | 30&nbsp;po | 12&nbsp;m | 112,5&nbsp;kg |
-:::
+§§§
 
 ## Équipement, sellerie et véhicules à traction
-::: .table-container
+§§§ .table-container
 | Objet | Prix | Poids |
 |:-|:-:|:-:|
 | **Barde** | x4 | x2 |
@@ -49,10 +49,10 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | &nbsp;&nbsp;exotique | 60&nbsp;po | 20&nbsp;kg |
 | &nbsp;&nbsp;militaire | 20&nbsp;po | 15&nbsp;kg |
 | **Traîneau** | 20&nbsp;po | 150&nbsp;kg |
-:::
+§§§
 
 ## Bateaux
-::: .table-container
+§§§ .table-container
 | Véhicule | Prix | Vitesse |
 |:-|:-:|:-:|
 | **Barge** | 3000&nbsp;po | 1,4&nbsp;km/h |
@@ -61,4 +61,4 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | **Drakkar** | 10000&nbsp;po | 5&nbsp;km/h |
 | **Galère** | 30000&nbsp;po | 6,5&nbsp;km/h |
 | **Navire de guerre** | 25000&nbsp;po | 4&nbsp;km/h |
-:::
+§§§

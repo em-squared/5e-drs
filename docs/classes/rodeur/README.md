@@ -3,7 +3,7 @@ title: Rôdeur
 ---
 # Rôdeur
 ## Évolution du rôdeur
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Sorts connus|Emplacements de sorts par niveau de sort|||||
 |^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Rôdeur
 |**18**|+6|[Sens sauvages](#sens-sauvages)|10|4|3|3|3|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|11|4|3|3|3|2|
 |**20**|+6|[Tueur d'ennemis](#tueur-d-ennemis)|11|4|3|3|3|2|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.

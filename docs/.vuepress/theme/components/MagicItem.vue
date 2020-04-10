@@ -4,10 +4,7 @@
     <div class="theme-default-content">
       <h1>{{ $page.title }}</h1>
       <div class="magic-item-details">
-        <span>{{ $page.frontmatter.type }}</span>
-        <span v-if="$page.frontmatter.subtype"> ({{ $page.frontmatter.subtype }})</span>
-        <span>, {{ $page.frontmatter.rarity }}</span>
-        <span v-if="$page.frontmatter.attunement"> ({{ $page.frontmatter.attunement }})</span>
+        {{displayItemMeta()}}
       </div>
     </div>
 
@@ -19,8 +16,14 @@
 </template>
 
 <script>
-export default {
+import {displayItemMeta} from '@theme/util/magicItemHelpers'
 
+export default {
+  methods : {
+    displayItemMeta () {
+      return displayItemMeta(this.$page.frontmatter)
+    }
+  }
 }
 </script>
 

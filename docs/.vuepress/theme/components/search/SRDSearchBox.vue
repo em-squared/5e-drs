@@ -33,6 +33,7 @@
 <script>
 import matchQuery from './match-query'
 import { displaySchoolLevel } from '@theme/util/spellHelpers'
+import { displayItemMeta } from '@theme/util/magicItemHelpers'
 
 /* global SEARCH_MAX_SUGGESTIONS, SEARCH_PATHS, SEARCH_HOTKEYS */
 export default {
@@ -111,10 +112,16 @@ export default {
               title: p.title,
               path: p.path
             }))
+          } else if (p.pid && p.pid == 'magicitem') {
+            res.push(Object.assign({}, p, {
+              subtitle: displayItemMeta(p.frontmatter, true),
+              title: p.title,
+              path: p.path
+            }))
           } else {
             res.push(p)
           }
-        } else if (p.headers) {
+        } else if (p.headers && p.pid != 'monster') { // Only parse relevent headers. Monster headers are not
           for (let j = 0; j < p.headers.length; j++) {
             if (res.length >= max) break
             const h = p.headers[j]

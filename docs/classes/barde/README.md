@@ -3,7 +3,7 @@ title: Barde
 ---
 # Barde
 ## Évolution du barde
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts par niveau de sort|||||||||
 |^^|^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Barde
 |**18**|+6|[Secrets magiques](#secrets-magiques)|4|22|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|22|4|3|3|3|3|2|1|1|1|
 |**20**|+6|[Inspiration supérieure](#inspiration-superieure)|4|22|4|3|3|3|3|2|2|1|1|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que barde, vous bénéficiez des aptitudes de classe suivantes.

@@ -3,7 +3,7 @@ title: Paladin
 ---
 # Paladin
 # Évolution du paladin
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Emplacements de sorts par niveau de sort|||||
 |^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|
@@ -27,7 +27,7 @@ title: Paladin
 |**18**|+6|Amélioration des auras|4|3|3|3|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|3|3|3|2|
 |**20**|+6|[Aptitude de serment sacré](#serment-sacre)|4|3|3|3|2|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
@@ -165,7 +165,7 @@ Bien que les termes exacts et les limites imposées par le serment de dévotion 
 #### Sorts de serment
 Vous avez accès aux sorts de paladins de la liste suivante.
 
-::: .table-container
+§§§ .table-container
 | Niv. de paladin | Sorts |
 |:-:|:-|
 | **3** | [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/), [_sanctuaire_](/grimoire/sanctuaire/) |
@@ -173,7 +173,7 @@ Vous avez accès aux sorts de paladins de la liste suivante.
 | **9** | [_lueur d'espoir_](/grimoire/lueur-d-espoir/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) |
 | **13** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_gardien de la foi_](/grimoire/gardien-de-la-foi/) |
 | **17** | [_communion_](/grimoire/communion/), [_colonne de flamme_](/grimoire/colonne-de-flamme/) |
-:::
+§§§
 
 #### Canalisation d'énergie divine
 Quand vous prêtez serment au niveau 3, vous pouvez décliner votre aptitude canalisation d'énergie divine de deux façons différentes.
@@ -218,7 +218,7 @@ Bien que les termes exacts et les limites imposées par le serment d'obédience 
 #### Sorts de serment
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
-::: .table-container
+§§§ .table-container
 | Niv. de paladin | Sorts |
 |:-:|:-|
 | **3** | [_alarme_](/grimoire/alarme/), [_héroïsme_](/grimoire/heroisme/) |
@@ -226,7 +226,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 | **9** | [_envoi de message_](/grimoire/envoi-de-message/), [_lueur d'espoir_](/grimoire/lueur-d-espoir/) |
 | **13** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
 | **17** | [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) |
-:::
+§§§
 
 #### Canalisation d'énergie divine
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de canalisation d'énergie divine suivantes.
@@ -267,7 +267,7 @@ Bien que les termes exacts et les limites imposées par le serment de perfection
 #### Sorts de serment
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
-::: .table-container
+§§§ .table-container
 | Niv. de paladin | Sorts |
 |:-:|:-|
 | **3** | [_choc des titans_](/grimoire/choc-des-titans/), [_compréhension des langues_](/grimoire/comprehension-des-langues/) |
@@ -275,7 +275,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 | **9** | [_lueur d'espoir_](/grimoire/lueur-d-espoir/), [_monture fantôme_](/grimoire/monture-fantome/) |
 | **13** | [_bouclier de feu_](/grimoire/bouclier-de-feu/), [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
 | **17** | [_lien télépathique_](/grimoire/lien-telepathique/), [_festin des héros_](/grimoire/festin-des-heros/) |
-:::
+§§§
 
 #### Canalisation d'énergie divine
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.
@@ -314,7 +314,7 @@ Bien que les termes exacts et les limites imposées par le serment de piété va
 #### Sorts de serment
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
-::: .table-container
+§§§ .table-container
 | Niv. de paladin | Sorts |
 |:-:|:-|
 | **3** | [_bénédiction_](/grimoire/benediction/), [_sanctuaire_](/grimoire/sanctuaire/) |
@@ -322,7 +322,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 | **9** | [_esprits gardiens_](/grimoire/esprits-gardiens/), [_lever une malédiction_](/grimoire/lever-une-malediction/) |
 | **13** | [_divination_](/grimoire/divination/), [_gardien de la foi_](/grimoire/gardien-de-la-foi/) |
 | **17** | [_communion_](/grimoire/communion/), [_rappel à la vie_](/grimoire/rappel-a-la-vie/) |
-:::
+§§§
 
 #### Canalisation d'énergie divine
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.

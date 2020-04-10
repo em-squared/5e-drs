@@ -4,7 +4,7 @@ title: "Équipement d'aventurier"
 # Équipement d'aventurier
 Vous trouverez dans cette section des objets qui ont des règles spéciales ou dont l'utilisation nécessite des explications.
 
-::: .table-container
+§§§ .table-container
 |Objet|Prix|Poids|
 |:-|:-:|:-:|
 |**Acide (fiole)**|25 po|0,5 kg|
@@ -111,7 +111,7 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |&nbsp;&nbsp;Habits de bonne qualité|15 po|3 kg|
 |&nbsp;&nbsp;Robes|1 po|2 kg|
 |&nbsp;&nbsp;Tenue de voyageur|2 po|2 kg|
-:::
+§§§
 
 Acide. Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous avec le contenu de cette fiole ou bien la lancer jusqu'à une distance de 6 mètres. La fiole se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'acide doit être considéré comme une arme improvisée. Si vous touchez votre cible, celle-ci reçoit 2d6 dégâts acides.
 
@@ -200,7 +200,7 @@ Torche. Une torche brûle pendant 1 heure et dégage une lumière vive dans un r
 Trousse de soins. Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de Sagesse (Médecine).
 
 ## Capacité des récipients
-::: .table-container
+§§§ .table-container
 |Récipient|Capacité|
 |:-|:-|
 |**Bouteille**|0,75 L de liquide|
@@ -217,9 +217,9 @@ Trousse de soins. Une trousse de soin est une sacoche de cuir contenant des band
 |**Seau**|10 L de liquide, 15 L de solide|
 |**Tonneau**|140 L de liquide, 120 L de solide|
 _* Vous pouvez aussi attacher des objets comme un sac de couchage ou un rouleau de corde sur le sac à dos_
-:::
+§§§
 
-::: .hero
+§§§ .hero
 ## Paquetages
 Votre classe vous propose un équipement de départ qui contient un ensemble d'outils pratiques réunis sous forme de paquetages. Le contenu de ces paquetages est décrit ici. Si vous achetez vous-même votre équipement de départ, vous pouvez acheter l'un de ces paquetages pour le prix indiqué. Cela sera plus économique que d'acheter chaque objet séparément.
 
@@ -236,4 +236,4 @@ Paquetage d'érudit (40 po). Comprend un sac à dos, un traité de connaissances
 Paquetage d'explorateur (10 po). Comprend un sac à dos, un sac de couchage, une gamelle, une boîte à amadou, dix torches, dix jours de rations et une outre. Un rouleau de 15 mètres de corde de chanvre est attaché à l'extérieur du sac.
 
 Paquetage d'exploration souterraine (12 po). Comprend un sac à dos, un pied-de-biche, un marteau, dix pitons, dix torches, une boîte à amadou, 10 jours de rations et une outre. Un rouleau de 15 mètres de corde de chanvre est attaché à l'extérieur du sac.
-:::
+§§§

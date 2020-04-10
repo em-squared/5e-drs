@@ -69,10 +69,10 @@ Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mo
 #### Somatiques (S)
 Les gestes à exécuter lors de l'incantation se traduisent par force gesticulations ou par un ensemble de mouvements complexes. Si un sort exige une composante somatique, le lanceur doit avoir au moins une main libre pour accomplir les mouvements nécessaires.
 
-::: .hero
+§§§ .hero
 ##### Les incantations en armure
 Pour incanter, il faut se concentrer intensément et exécuter des gestes précis, c'est pourquoi le personnage doit impérativement maîtriser le port de l'armure dont il est vêtu, sans quoi cette dernière le distrait et le gêne trop dans ses mouvements pour lui permettre de lancer un sort.
-:::
+§§§
 
 #### Matérielles (M)
 L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre [_Équipement - Équipement d'aventurier_](/equipement/equipement-daventurier)) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
@@ -162,7 +162,7 @@ Les effets de différents sorts s'additionnent quand leurs durées se superposen
 
 Par exemple, si deux clerc lancent [_bénédiction_](/grimoire/benediction) sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
 
-::: .hero
+§§§ .hero
 ## Les écoles de magie
 Les académies de magie regroupent les sorts en huit catégories appelées des écoles de magie. Les érudits, en particulier les magiciens, classent tous les sorts dans ces catégories, persuadés que la magie fonctionne toujours de la même manière, et ce qu'elle découle d'études rigoureuses ou qu'elle émane d'une divinité.
 
@@ -183,4 +183,4 @@ Les sorts d'**illusion** dupent les sens ou l'esprit d'autrui. Ils poussent les 
 Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. Ils servent à accroître les réserves de force vitale, à absorber l'énergie vitale d'autrui, à créer des morts-vivants et même à ressusciter les défunts.
 
 Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
-:::
+§§§

@@ -4,7 +4,7 @@ title: Barbare
 # Barbare
 
 ## Évolution du barbare
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Rages|Dégâts de rage|
 |:-:|:-:|:-|:-:|:-:|
 |**1**|+2|[Rage](#rage), [Défense sans armure](#defense-sans-armure)|2|+2|
@@ -27,7 +27,7 @@ title: Barbare
 |**18**|+6|[Puissance indomptable](#puissance-indomptable)|6|+4|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|6|+4|
 |**20**|+6|[Champion primitif](#champion-primitif)|Illimité|+4|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.

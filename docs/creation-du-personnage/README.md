@@ -48,7 +48,7 @@ Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les
 ### Méthode fixe
 C'est la méthode la plus simple et la plus équitable. En fonction du niveau de puissance, vous disposez d'une série de valeurs à répartir dans les six caractéristiques de votre personnage.
 
-::: .table-container
+§§§ .table-container
 #### Table des valeurs fixes
 
 | Niveau de puissance | Valeurs de caractéristiques |
@@ -57,12 +57,12 @@ C'est la méthode la plus simple et la plus équitable. En fonction du niveau de
 | **Héroïque** | 15,14,13,12,10,8 |
 | **Légendaire** | 16,15,13,12,12,10 |
 
-:::
+§§§
 
 ### Méthode aléatoire
 C'est la méthode la plus hasardeuse, qui peut donner des personnages extrêmement déséquilibrés. Lancez six fois 4d6. Conservez à chaque fois les trois meilleurs scores. Pour chaque niveau de puissance, ajustez chaque résultat selon le modificateur indiqué dans la table suivante. Une fois que vous avez déterminé six valeurs, associez chacune d'entre elles avec l'une des caractéristiques de votre personnage.
 
-::: .table-container
+§§§ .table-container
 #### Table des modificateurs pour la méthode aléatoire
 
 | Niveau de puissance | Modificateur au résultat des dés |
@@ -71,12 +71,12 @@ C'est la méthode la plus hasardeuse, qui peut donner des personnages extrêmeme
 | **Héroïque** | 0 |
 | **Légendaire** | +1 |
 
-:::
+§§§
 
 ### Méthode par répartition
 Dans cette méthode, toutes les caractéristiques du personnage débutent à 8. Vous disposez d'un certain nombre de points à dépenser. Si vous jouez au niveau de puissance courageux, vous avez le choix de diminuer une (et une seule) caractéristique jusqu'à un minimum de 6 afin d'obtenir quelques points supplémentaires. Le maximum possible pour les caractéristiques est de 15 (16 au niveau de puissance légendaire).
 
-::: .table-container
+§§§ .table-container
 #### Table des points de caractéristiques
 
 | Niveau de puissance | Points à répartir |
@@ -85,9 +85,9 @@ Dans cette méthode, toutes les caractéristiques du personnage débutent à 8. 
 | **Héroïque** | 27 |
 | **Légendaire** | 36 |
 
-:::
+§§§
 
-::: .table-container
+§§§ .table-container
 #### Table d'achat des caractéristiques
 
 | Valeur | Coût |
@@ -104,12 +104,12 @@ Dans cette méthode, toutes les caractéristiques du personnage débutent à 8. 
 | **15** | 9 |
 | **16 (légendaire)** | 12 |
 
-:::
+§§§
 
 ### Valeurs et modificateurs
 Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
 
-::: .table-container
+§§§ .table-container
 #### Table des modificateurs
 
 | Valeur | Modificateur |
@@ -125,7 +125,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 | **18-19** | +4 |
 | **20-21** | +5 |
 
-:::
+§§§
 
 ### Dés de vie et points de vie
 Une fois le score et le modificateur de Constitution définis, il est possible de calculer les **points de vie (pv)** de départ de votre personnage. Les pv reflètent l'énergie et la forme physique du personnage, son aptitude à poursuivre le combat malgré la fatigue et la douleur. Pour plus de détails sur les points et les dés de vie, ainsi que les notions de blessure, de soins et de fatigue, consultez le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage).

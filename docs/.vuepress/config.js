@@ -27,6 +27,25 @@ module.exports = {
           },
           {
             // Unique ID of current classification
+            id: 'monster',
+            // Meta title for spell list page
+            title: 'Bestiaire',
+            // Target directory
+            dirname: '_monsters',
+            // Path of the `entry page` (or `list page`)
+            path: '/bestiaire/',
+            layout: 'MonstersLayout',
+            itemLayout: 'MonsterLayout',
+            itemPermalink: '/bestiaire/:slug',
+            pagination: {
+              lengthPerPage: 1000,
+              sorter: (prev, next) => {
+                return prev.path - next.path
+              },
+            },
+          },
+          {
+            // Unique ID of current classification
             id: 'magicitem',
             // Meta title for spell list page
             title: 'Liste des objets magiques',
@@ -52,15 +71,18 @@ module.exports = {
       'sitemap', {
         hostname: 'https://heros-et-dragons.fr'
       },
-    ]
+    ],
   ],
+  extendPageData ($page) {
+    $page.rawContent = ($page._strippedContent)
+  },
   markdown: {
     anchor: {
       permalinkBefore: false,
       permalinkSymbol: '<i class="v-icon notranslate mdi mdi-link-variant"></i>'
     },
     extendMarkdown: md => {
-      md.use(require('markdown-it-div'))
+      md.use(require('markdown-it-div'), {marker: "§"})
       md.use(require('markdown-it-multimd-table'), {
         multiline:  true,
         rowspan:    true,
@@ -357,6 +379,23 @@ module.exports = {
       {
         title: 'Pour les meneurs',
         children: [
+          {
+            title: "Créatures & oppositions",
+            children: [
+              {
+                title: "Comprendre le profil technique des monstres",
+                path: '/comprendre-le-profil-technique-des-monstres/'
+              },
+              {
+                title: "Inventer un monstre ou un PNJ",
+                path: '/inventer-un-monstre-ou-un-pnj/'
+              },
+              {
+                title: "Construire une rencontre",
+                path: '/construire-une-rencontre/'
+              },
+            ]
+          },
           {
             title: "Les trésors",
             path: '/les-tresors/'

@@ -3,7 +3,7 @@ title: Moine
 ---
 # Moine
 ## Évolution du moine
-::: .table-container
+§§§ .table-container
 |Niveau|Bonus de maîtrise|Arts martiaux|Points de Ki|Mouvement sans armure|Aptitudes|
 |:-:|:-:|:-:|:-:|:-:|:-|
 |**1**|+2|1d4|-|-|[Défense sans armure](#defense-sans-armure), [Arts martiaux](#arts-martiaux)|
@@ -26,7 +26,7 @@ title: Moine
 |**18**|+6|1d10|18|+9 m|[Corps vide](#corps-vide)|
 |**19**|+6|1d10|19|+9 m|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|
 |**20**|+6|1d10|20|+9 m|[Perfection](#perfection)|
-:::
+§§§
 
 ## Aptitudes de classe
 En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
