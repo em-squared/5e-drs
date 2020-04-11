@@ -12,7 +12,7 @@ module.exports = {
             // Meta title for spell list page
             title: 'Grimoire',
             // Target directory
-            dirname: '_spells',
+            dirname: 'grimoire',
             // Path of the `entry page` (or `list page`)
             path: '/grimoire/',
             layout: 'SpellsLayout',
@@ -50,7 +50,7 @@ module.exports = {
             // Meta title for spell list page
             title: 'Liste des objets magiques',
             // Target directory
-            dirname: '_magicitems',
+            dirname: 'liste-objets-magiques',
             // Path of the `entry page` (or `list page`)
             path: '/liste-objets-magiques/',
             layout: 'MagicItemsLayout',
@@ -66,16 +66,16 @@ module.exports = {
         ],
       }
     ],
-    ['check-md'],
+    ['check-md', {}],
     [
       'sitemap', {
         hostname: 'https://heros-et-dragons.fr'
       },
     ],
   ],
-  extendPageData ($page) {
-    $page.rawContent = ($page._strippedContent)
-  },
+  // extendPageData ($page) {
+  //   $page.rawContent = ($page._strippedContent)
+  // },
   markdown: {
     anchor: {
       permalinkBefore: false,

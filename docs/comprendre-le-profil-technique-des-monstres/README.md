@@ -5,7 +5,7 @@ title: Comprendre le profil technique des monstres
 Les statistiques des monstres, parfois appelées **profils**, livrent les informations essentielles et nécessaires pour les jouer.
 
 ## Taille
-Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très grand (TG) ou gigantesque (Gig). La table des catégories de taille indique l'espace que contrôlent les créatures en fonction de leur taille lors d'un combat. Voir le chapitre [_Combattre - Taille des créatures_](/combattre#taille-des-créatures) pour plus d'informations sur la taille des créatures et l'emplacement qu'elles occupent.
+Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très grand (TG) ou gigantesque (Gig). La table des catégories de taille indique l'espace que contrôlent les créatures en fonction de leur taille lors d'un combat. Voir le chapitre [_Combattre - Taille des créatures_](/combattre#taille-des-creatures) pour plus d'informations sur la taille des créatures et l'emplacement qu'elles occupent.
 
 ### Catégories de taille
 §§§ .table-container
@@ -89,7 +89,7 @@ La taille d'un monstre détermine le dé utilisé pour calculer ses points de vi
 Le modificateur de Constitution d'un monstre affecte également son nombre de points de vie. On le multiplie par le nombre de dés de vie et le résultat est ajouté aux points de vie du monstre. Par exemple, un monstre avec une Constitution de 12 (modificateur de +1) et 2d8 dés de vie possède 2d8+2 points de vie (moyenne de 11).
 
 ## Vitesse
-La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre#déplacement-et-position) pour plus d'informations sur la vitesse de déplacement.
+La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre#deplacement-et-position) pour plus d'informations sur la vitesse de déplacement.
 
 Toutes les créatures ont une vitesse au sol, simplement appelée vitesse. Les créatures incapables de se déplacer au sol ont une vitesse de 0 mètre.
 
@@ -105,7 +105,7 @@ Un monstre avec une vitesse de fouissement peut se déplacer à travers le sable
 Un monstre avec une vitesse de nage n'a pas besoin de dépenser plus de déplacement pour nager.
 
 ### Vol
-Un monstre avec une vitesse de vol peut utiliser la totalité ou une partie de son déplacement pour voler. Certains monstres peuvent rester en vol stationnaire, ce qui complique les tentatives pour les déstabiliser en vol (comme expliqué dans les règles sur le vol du chapitre [_Combattre - Déplacement en vol_](/combattre#déplacement-en-vol)). Un tel monstre arrête de voler en mode stationnaire au moment où il meurt.
+Un monstre avec une vitesse de vol peut utiliser la totalité ou une partie de son déplacement pour voler. Certains monstres peuvent rester en vol stationnaire, ce qui complique les tentatives pour les déstabiliser en vol (comme expliqué dans les règles sur le vol du chapitre [_Combattre - Déplacement en vol_](/combattre#deplacement-en-vol)). Un tel monstre arrête de voler en mode stationnaire au moment où il meurt.
 
 ## Valeurs de caractéristique
 Chaque monstre possède six valeurs de caractéristique (Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme) dont chacune est associée à un modificateur. Voir le chapitre [_Utiliser les caractéristiques_](/utiliser-les-caracteristiques) pour plus d'informations sur les valeurs de caractéristique et leurs fonctions en jeu.
@@ -113,7 +113,7 @@ Chaque monstre possède six valeurs de caractéristique (Force, Dextérité, Con
 ## Jets de sauvegarde
 La ligne « _Jets de sauvegarde_ » apparaît seulement chez les créatures particulièrement douées pour résister à certains types d'effets. Par exemple, une créature difficile à charmer ou à terroriser peut bénéficier d'un bonus aux jets de sauvegarde de Sagesse. La plupart des créatures ne possèdent aucun bonus spécial aux jets de sauvegarde et, dans ce cas, cette ligne est omise.
 
-Un bonus aux jets de sauvegarde se calcule en ajoutant le modificateur de la caractéristique pertinente du monstre à son bonus de maîtrise, que l'on détermine grâce à son indice de dangerosité (comme indiqué dans la [table Bonus de maîtrise en fonction de l'indice de dangerosité](#bonus-de-maîtrise-en-fonction-de-lindice-de-dangerosité)).
+Un bonus aux jets de sauvegarde se calcule en ajoutant le modificateur de la caractéristique pertinente du monstre à son bonus de maîtrise, que l'on détermine grâce à son indice de dangerosité (comme indiqué dans la [table Bonus de maîtrise en fonction de l'indice de dangerosité](#bonus-de-maitrise-en-fonction-de-l-indice-de-dangerosite)).
 
 ### Bonus de maîtrise en fonction de l'indice de dangerosité
 §§§ .table-container
@@ -141,7 +141,7 @@ Un bonus aux jets de sauvegarde se calcule en ajoutant le modificateur de la car
 ## Compétences
 La ligne « _Compétences_ » est réservée aux monstres qui maîtrisent une ou plusieurs compétences. Par exemple, un monstre particulièrement perceptif ou discret peut avoir des bonus aux tests de Sagesse (Perception) et de Dextérité (Discrétion).
 
-Un bonus de compétence se calcule en ajoutant le modificateur de la caractéristique pertinente du monstre à son bonus de maîtrise, que l'on détermine grâce à son indice de dangerosité (comme indiqué dans la [table Bonus de maîtrise en fonction de l'indice de dangerosité](#bonus-de-maîtrise-en-fonction-de-lindice-de-dangerosité)). D'autres modificateurs peuvent également s'appliquer. Par exemple, un monstre peut bénéficier d'un bonus plus élevé que prévu (généralement le double de son bonus de maîtrise) pour prendre en compte son expertise accrue.
+Un bonus de compétence se calcule en ajoutant le modificateur de la caractéristique pertinente du monstre à son bonus de maîtrise, que l'on détermine grâce à son indice de dangerosité (comme indiqué dans la [table Bonus de maîtrise en fonction de l'indice de dangerosité](#bonus-de-maitrise-en-fonction-de-l-indice-de-dangerosite)). D'autres modificateurs peuvent également s'appliquer. Par exemple, un monstre peut bénéficier d'un bonus plus élevé que prévu (généralement le double de son bonus de maîtrise) pour prendre en compte son expertise accrue.
 
 ## Vulnérabilités, résistances et immunités
 Certaines créatures possèdent une vulnérabilité, une résistance ou une immunité contre certains types de dégâts. D'autres sont même résistantes ou immunisées contre les dégâts infligés par des attaques non-magiques (une attaque magique est une attaque effectuée avec un sort, un objet magique ou une autre source magique). De plus, certaines créatures sont immunisées contre certains états préjudiciables et spéciaux.
@@ -173,7 +173,7 @@ Les langues qu'un monstre peut parler sont indiquées dans l'ordre alphabétique
 ### Télépathie
 La télépathie est un pouvoir magique qui permet à un monstre de communiquer mentalement avec une autre créature jusqu'à une distance précisée. La créature contactée n'a pas besoin de connaître la ou les langues employées par le monstre pour communiquer avec elle de cette façon mais elle doit pouvoir comprendre au moins l'une d'elles. Une créature sans télépathie peut recevoir des messages télépathiques et y répondre mais elle ne peut pas engager une conversation télépathique ni y mettre fin.
 
-Un monstre télépathe n'a pas besoin de voir la créature contactée et peut rompre le contact télépathique dès qu'il le souhaite. Le contact est interrompu dès que les deux créatures ne sont plus à portée l'une de l'autre ou si le monstre télépathe contacte une créature différente située à portée. Un monstre télépathe peut engager une conversation télépathique ou y mettre fin sans utiliser d'action, mais s'il est [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé), il ne peut initier aucun contact télépathique et tout contact en cours est rompu.
+Un monstre télépathe n'a pas besoin de voir la créature contactée et peut rompre le contact télépathique dès qu'il le souhaite. Le contact est interrompu dès que les deux créatures ne sont plus à portée l'une de l'autre ou si le monstre télépathe contacte une créature différente située à portée. Un monstre télépathe peut engager une conversation télépathique ou y mettre fin sans utiliser d'action, mais s'il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), il ne peut initier aucun contact télépathique et tout contact en cours est rompu.
 
 Une créature située à l'intérieur d'un champ d'_antimagie_ ou dans tout autre endroit où la magie ne fonctionne pas ne peut pas envoyer ni recevoir de message télépathique.
 
@@ -189,7 +189,7 @@ Le nombre de points d'expérience (PX) que vaut un monstre dépend de son indice
 
 Sauf indication contraire, un monstre convoqué par un sort ou un autre pouvoir magique vaut le montant de PX indiqué dans son profil.
 
-Le chapitre [Construire une rencontre](/creatures-et-oppositions/construire-une-rencontre) explique comment créer des rencontres en fonction d'un budget en PX et comment ajuster la difficulté d'une rencontre.
+Le chapitre [Construire une rencontre](/construire-une-rencontre) explique comment créer des rencontres en fonction d'un budget en PX et comment ajuster la difficulté d'une rencontre.
 
 #### Points d'expérience en fonction de l'indice de dangerosité
 §§§ .table-container
@@ -231,13 +231,13 @@ Un monstre capable de lancer des sorts de manière innée possède le trait spé
 
 Des règles ou des restrictions spéciales peuvent modifier l'utilisation d'un sort inné. Par exemple, un mage drow peut lancer de manière innée le sort de [_lévitation_](/grimoire/levitation), mais ce sort impose une restriction « _soi-même_ », ce qui signifie qu'il affecte le mage drow seulement.
 
-Les sorts innés d'un monstre ne peuvent pas être remplacés par d'autres sorts. Si les sorts innés d'un monstre ne nécessitent aucun [jet d'attaque](/combattre#jets-dattaque), aucun bonus d'attaque n'est indiqué en complément.
+Les sorts innés d'un monstre ne peuvent pas être remplacés par d'autres sorts. Si les sorts innés d'un monstre ne nécessitent aucun [jet d'attaque](/combattre/#jets-d-attaque), aucun bonus d'attaque n'est indiqué en complément.
 
 ### Psionique
 Un monstre capable de lancer des sorts en utilisant la seule force de son esprit possède le sous-type psionique ajouté à son trait spécial « _incantation_ » ou « _incantation innée_ ». Aucune règle spéciale n'est spécifiquement associée à ce sous-type mais d'autres éléments du jeu peuvent s'y référer. Un monstre avec ce sous-type n'a généralement besoin d'aucune composante pour lancer ses sorts.
 
 ## Actions
-Quand un monstre effectue son action, il peut choisir parmi les options décrites dans la section « _Actions_ » de son profil ou effectuer l'une des actions communes à toutes les créatures, telles que l'action « [_se précipiter_](/combattre#se-précipiter) » ou « [_se cacher_](/combattre#se-cacher) », décrites dans le chapitre [_Combattre - Actions en combat_](/combattre#actions-en-combat).
+Quand un monstre effectue son action, il peut choisir parmi les options décrites dans la section « _Actions_ » de son profil ou effectuer l'une des actions communes à toutes les créatures, telles que l'action « [_se précipiter_](/combattre/#se-precipiter) » ou « [_se cacher_](/combattre#se-cacher) », décrites dans le chapitre [_Combattre - Actions en combat_](/combattre#actions-en-combat).
 
 ### Attaques au corps à corps et à distance
 Les actions les plus courantes qu'un monstre effectuera lors d'un combat sont des attaques au corps à corps et à distance. Ces attaques se réalisent avec des sorts ou des armes, l'arme employée pouvant être un objet manufacturé ou une arme naturelle, telle qu'une griffe ou une queue acérée. Voir le chapitre [_Combattre - Porter une attaque_](/combattre#porter-une-attaque) pour plus d'informations sur les différents types d'attaques.
@@ -251,7 +251,7 @@ Les actions les plus courantes qu'un monstre effectuera lors d'un combat sont de
 ! #### Règles d'empoignade pour les monstres
 ! Beaucoup de monstres peuvent effectuer des attaques spéciales qui leur permettent d'empoigner rapidement leur proie. Quand un monstre réussit ce type d'attaque, il n'a pas besoin d'effectuer un test de caractéristique supplémentaire pour déterminer s'il réussit ou non l'empoignade, à moins que la description de l'attaque ne précise le contraire.
 !
-! Une créature [_empoignée_](/gerer-la-sante-du-personnage#empoigné) par le monstre peut utiliser son action pour tenter de s'échapper. Elle doit alors réussir un test de Force (Athlétisme) ou de Dextérité (Acrobaties) contre le DD d'évasion indiqué dans le profil du monstre. Si aucun DD d'évasion n'est indiqué, partez du principe qu'il est égal à 10 + le modificateur de Force (Athlétisme) du monstre.
+! Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par le monstre peut utiliser son action pour tenter de s'échapper. Elle doit alors réussir un test de Force (Athlétisme) ou de Dextérité (Acrobaties) contre le DD d'évasion indiqué dans le profil du monstre. Si aucun DD d'évasion n'est indiqué, partez du principe qu'il est égal à 10 + le modificateur de Force (Athlétisme) du monstre.
 
 ### Attaques multiples
 Une créature capable d'effectuer plusieurs attaques lors de son tour peut réaliser l'action « _attaques multiples_ ». Une créature ne peut pas utiliser l'action « _attaques multiples_ » quand elle effectue une attaque d'opportunité car celle-ci consiste en une seule attaque au corps à corps.
@@ -276,7 +276,7 @@ Par exemple, « _recharge 5-6_ » signifie qu'un monstre peut utiliser une seule
 ## Équipement
 Mis à part son armure et ses armes, le reste de l'équipement d'un monstre est rarement précisé dans son profil. On part du principe qu'une créature qui porte habituellement des vêtements (les humanoïdes, par exemple) est vêtue de manière appropriée.
 
-Vous pouvez doter les monstres d'objets et de babioles supplémentaires comme bon vous semble, en vous inspirant de l'équipement décrit au chapitre [_Équipement_](/equipement), décider quels objets sont récupérables une fois le monstre mort et si la totalité ou une partie de cet équipement est toujours utilisable. Une armure abîmée fabriquée pour un monstre spécifique est rarement utilisable par quelqu'un d'autre, par exemple.
+Vous pouvez doter les monstres d'objets et de babioles supplémentaires comme bon vous semble, en vous inspirant de l'équipement décrit au chapitre _Équipement_, décider quels objets sont récupérables une fois le monstre mort et si la totalité ou une partie de cet équipement est toujours utilisable. Une armure abîmée fabriquée pour un monstre spécifique est rarement utilisable par quelqu'un d'autre, par exemple.
 
 Si un monstre lanceur de sorts a besoin de composantes matérielles pour lancer ses sorts, partez du principe qu'il possède les composantes dont il a besoin pour lancer les sorts indiqués dans son profil.
 

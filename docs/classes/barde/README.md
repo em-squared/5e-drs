@@ -63,7 +63,7 @@ Vous trouverez dans le tableau d'[évolution du barde](#evolution-du-barde) le n
 Par exemple, si vous connaissez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures) et que vous avez un emplacement de sort de niveau 1 et un emplacement de sort de niveau 2 disponibles, vous pouvez utiliser au choix l'un de ces deux emplacements pour lancer ce sort.
 
 ### Sorts connus de niveau 1 et supérieur
-Vous connaissez quatre sorts de niveau 1 choisis dans la liste de [sorts de barde](/grimoire/sorts-de-barde).
+Vous connaissez quatre sorts de niveau 1 choisis dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Barde' }}">sorts de barde</router-link>.
 
 La colonne sorts connus du tableau d'[évolution du barde](#evolution-du-barde) vous indique à quels niveaux et combien de nouveaux sorts vous pouvez apprendre. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 3 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
 
@@ -80,12 +80,12 @@ La caractéristique d'incantation que vous utilisez pour les sorts de barde est 
 Vous pouvez lancer tous les sorts de barde que vous connaissez sous la forme d'un rituel dans la mesure où ceux-ci possèdent le sous-type rituel.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un instrument de musique (voir le chapitre [Équipement](/equipement/)) comme focaliseur d'incantation pour vos sorts de barde.
+Vous pouvez utiliser un instrument de musique (voir le chapitre [Équipement](/equipement-d-aventurier/)) comme focaliseur d'incantation pour vos sorts de barde.
 
 ### Inspiration bardique
 La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.
 
-Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un [jet d'attaque](/combattre/#jets-dattaque) ou à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiraion bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
+Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un [jet d'attaque](/combattre/#jets-d-attaque) ou à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiraion bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.
 
@@ -100,7 +100,7 @@ Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devien
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
 ### Collège bardique
-Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-hérauts) ou le [collège des saltimbanques](#college-des-saltimbanques). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts) ou le [collège des saltimbanques](#college-des-saltimbanques). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
 ### Expertise
 Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.
@@ -132,7 +132,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise de trois compétences de votre choix.
 
 #### Mots cinglants
-Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un [jet d'attaque](/combattre/#jets-dattaque), de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le [jet d'attaque](/combattre/#jets-dattaque) ou le test de caractéristique a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmé_](/gerer-la-sante-du-personnage#charme).
+Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un [jet d'attaque](/combattre/#jets-d-attaque), de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le [jet d'attaque](/combattre/#jets-d-attaque) ou le test de caractéristique a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmé_](/gerer-la-sante-du-personnage#charme).
 
 #### Secrets magiques supplémentaires
 Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d'évolution du barde.
@@ -144,7 +144,7 @@ Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde ma
 
 ### Collège des diplomates
 #### Arsenal diplomatique
-Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deux sorts de votre choix dans la liste suivante : [_choc des titans_](/grimoire/choc-des-titans), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien), [_détection du poison et des maladies_](/grimoire/detection-du-poison-et-des-maladies), [_injonction_](/grimoire/injonction), [_modifier son apparence_](/grimoire/modifier-son-apparence), [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-leau). Ces sorts deviennent des sorts de barde, mais ils ne comptent pas dans la limite du nombre de sorts que vous connaissez. Vous choisissez deux sorts supplémentaires au niveau 6 et les deux derniers au niveau 14.
+Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deux sorts de votre choix dans la liste suivante : [_choc des titans_](/grimoire/choc-des-titans), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien), [_détection du poison et des maladies_](/grimoire/detection-du-poison-et-des-maladies), [_injonction_](/grimoire/injonction), [_modifier son apparence_](/grimoire/modifier-son-apparence), [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-l-eau/). Ces sorts deviennent des sorts de barde, mais ils ne comptent pas dans la limite du nombre de sorts que vous connaissez. Vous choisissez deux sorts supplémentaires au niveau 6 et les deux derniers au niveau 14.
 
 #### Orateur exceptionnel
 Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).
@@ -181,7 +181,7 @@ Au niveau 3, vous choisissez une spécialité emblématique des troupes de spect
 * **Voyante** : vous bénéficiez d'un avantage à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les jets de sauvegardes de Sagesse.
 
 #### Main dans la main
-D'où vous venez, la solidarité n'est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section [Travailler ensemble](/utiliser-les-caractéristiques/travailler-ensemble) du chapitre [Utiliser les caractéristiques](/utiliser-les-caractéristiques)), en cas de succès de votre test, vous comptabilisez deux succès.
+D'où vous venez, la solidarité n'est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section [Travailler ensemble](/utiliser-les-caracteristiques/#travailler-ensemble) du chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques)), en cas de succès de votre test, vous comptabilisez deux succès.
 
 #### Instinct de survie
 Vous n'êtes pas un guerrier mais, sur la route, vous avez vécu votre lot d'attaques de brigands et de traquenards. La troupe a du apprendre à se défendre et les saltimbanques ont acquis la réputation de ne pas être des proies faciles. Au niveau 6, vous obtenez une aptitude selon votre spécialité :

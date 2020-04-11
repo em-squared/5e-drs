@@ -24,11 +24,11 @@ Chaque personnage ou monstre est caractérisé par une vitesse qui correspond à
 Les règles suivantes permettent de déterminer la distance que peut parcourir un personnage ou un monstre en une minute, une heure ou une journée.
 
 #### Rythme de déplacement
-Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voyage : normal, rapide ou lent, comme vous pouvez le voir dans le [tableau rythmes de déplacement](#rythmes-de-déplacement). Ce tableau indique quelle distance le groupe parcourt en un temps donné et si ce rythme implique un effet. Une marche rapide implique que les personnages sont moins attentifs à ce qui les entoure, tandis qu'une marche lente leur permet de se déplacer plus furtivement et d'étudier un endroit avec plus d'attention.
+Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voyage : normal, rapide ou lent, comme vous pouvez le voir dans le [tableau rythmes de déplacement](#rythmes-de-deplacement). Ce tableau indique quelle distance le groupe parcourt en un temps donné et si ce rythme implique un effet. Une marche rapide implique que les personnages sont moins attentifs à ce qui les entoure, tandis qu'une marche lente leur permet de se déplacer plus furtivement et d'étudier un endroit avec plus d'attention.
 
 **Marche forcée**. Les chiffres indiqués dans le tableau partent du principe que les personnages marchent 8 heures par jour. Ils peuvent dépasser cette durée, mais risquent alors l'épuisement.
 
-Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne « _heure_ » du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir [Gérer la santé](/gerer-la-sante)).
+Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne « _heure_ » du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir [Gérer la santé du personnage](/gerer-la-sante-du-personnage)).
 
 **Montures et véhicules**. De nombreux animaux sont capables de se déplacer bien plus rapidement que les humanoïdes sur de courtes périodes de temps (jusqu'à une heure). Un personnage sur une monture peut galoper pendant environ une heure, pendant laquelle il couvre le double de la distance normale d'une marche rapide. S'il échange sa monture contre une monture « _fraîche_ » tous les 12 à 15 km, un personnage peut couvrir de grandes distances à cette vitesse, mais c'est un cas de figure très rare, sauf dans les régions densément peuplées et à condition d'en avoir les moyens.
 
@@ -80,7 +80,7 @@ Certaines montures spéciales, comme un pégase ou un griffon, ou un véhicule s
 
 
 #### Terrain difficile
-La distance parcourue donnée dans le [tableau des rythmes de déplacement](#rythmes-de-déplacement) a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
+La distance parcourue donnée dans le [tableau des rythmes de déplacement](#rythmes-de-deplacement) a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
 
 Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (parcourir un mètre vous coûte deux mètres de vitesse), donc vous ne pouvez parcourir que la moitié de la distance normale en une minute, une heure ou un jour.
 
@@ -97,7 +97,7 @@ Votre Force détermine la longueur que vous pouvez parcourir en sautant.
 
 Cette règle part du principe que la hauteur de votre saut n'a pas d'importance, comme si vous deviez sauter par-dessus un ruisseau ou une crevasse. Votre MJ peut néanmoins vous demander de faire un test de Force (Athlétisme) pour déterminer si vous réussissez à sauter par-dessus un petit obstacle (pas plus grand que le quart de la longueur de votre saut), comme une haie ou un muret. Si vous échouez, vous heurtez cet obstacle.
 
-Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de Dextérité (Acrobaties) pour retomber sur vos pieds. Sinon, vous tombez [_à terre_](/gerer-la-sante-du-personnage#à-terre).
+Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de Dextérité (Acrobaties) pour retomber sur vos pieds. Sinon, vous tombez [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 **Saut en hauteur**. Quand vous faites un saut en hauteur, vous sautez dans les airs d'un nombre de mètres égal à 1 + 0,3 × votre modificateur de Force, à condition de prendre au moins 3 mètres d'élan au sol immédiatement avant de sauter. Quand vous faites un saut en hauteur sans élan, vous ne pouvez sauter que la moitié de la hauteur avec élan. Dans tous les cas, chaque mètre parcouru en hauteur réduit d'autant votre déplacement. Dans certaines circonstances, votre MJ peut vous permettre de faire un test de Force (Athlétisme) pour sauter plus haut que vous ne le pourriez normalement.
 
@@ -107,7 +107,7 @@ Vous pouvez tendre les bras au-dessus de vous jusqu'à la moitié de votre propr
 Par définition, l'aventure rime avec l'exploration d'endroits dangereux et mystérieux. Les règles présentées dans cette section traitent des principales manières dont les aventuriers interagissent avec leur environnement dans ce genre de situations très particulières.
 
 ### Chute
-Pour un aventurier, la chute constitue un des risques les plus courants. Suite à une chute, une créature subit 1d6 dégâts contondants pour chaque tranche de 3 mètres de chute, jusqu'à un maximum de 20d6. À moins qu'elle n'ait réussi à éviter de subir les dégâts occasionnés par la chute, la créature termine [_à terre_](/gerer-la-sante-du-personnage#à-terre).
+Pour un aventurier, la chute constitue un des risques les plus courants. Suite à une chute, une créature subit 1d6 dégâts contondants pour chaque tranche de 3 mètres de chute, jusqu'à un maximum de 20d6. À moins qu'elle n'ait réussi à éviter de subir les dégâts occasionnés par la chute, la créature termine [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 ### Asphyxie
 Une créature peut retenir sa respiration pendant un nombre de minutes égal à 1 + son modificateur de Constitution, avec un minimum de 30 secondes.
@@ -119,9 +119,9 @@ Par exemple, une créature avec une Constitution de 14 peut retenir sa respirati
 ### Vision et lumière
 Les fondamentaux de la vie d'un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d'un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.
 
-Dans une zone donnée, la visibilité d'un personnage peut être réduite ou nulle. Dans une zone de **visibilité réduite**, comme une zone avec une lumière faible, ou envahie d'une brume légère ou de végétation luxuriante, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur les tests de Sagesse (Perception) liés à la vision.
+Dans une zone donnée, la visibilité d'un personnage peut être réduite ou nulle. Dans une zone de **visibilité réduite**, comme une zone avec une lumière faible, ou envahie d'une brume légère ou de végétation luxuriante, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) liés à la vision.
 
-Dans les zones de **visibilité nulle**, comme les ténèbres, un brouillard dense ou au milieu d'une végétation dense, le champ de vision d'un personnage est entièrement bloqué. On considère qu'il est alors sous l'effet de l'état [_aveuglé_](/gerer-la-sante-du-personnage#aveuglé) quand il tente de voir quelque chose dans une telle zone.
+Dans les zones de **visibilité nulle**, comme les ténèbres, un brouillard dense ou au milieu d'une végétation dense, le champ de vision d'un personnage est entièrement bloqué. On considère qu'il est alors sous l'effet de l'état [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) quand il tente de voir quelque chose dans une telle zone.
 
 La présence ou l'absence de lumière dans un environnement a été classée en trois catégories d'illumination : la lumière vive, la lumière faible et les ténèbres.
 
@@ -138,7 +138,7 @@ Une créature dotée du trait vision aveugle est capable de percevoir son enviro
 Dans ***Héros & Dragons***, de nombreuses créatures ont la capacité de voir dans le noir, et plus particulièrement celles qui vivent sous terre. Une créature dotée du trait vision dans le noir peut, dans un périmètre donné, voir dans les ténèbres comme s'il s'agissait d'une zone faiblement éclairée. Les zones de ténèbres ne sont donc pour elles que des zones de visibilité réduite. Néanmoins, ces créatures ne peuvent pas distinguer les couleurs dans les ténèbres, mais seulement des nuances de gris.
 
 #### Vision parfaite
-Une créature dotée de vision parfaite peut, dans un périmètre donné, voir parfaitement dans les ténèbres et les ténèbres magiques, voir les créatures et les objets _invisibles_, automatiquement détecter les illusions visuelles et réussir son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre celles-ci, percevoir la forme originale d'un métamorphe ou d'une créature transformée par magie et voir dans le plan éthéré.
+Une créature dotée de vision parfaite peut, dans un périmètre donné, voir parfaitement dans les ténèbres et les ténèbres magiques, voir les créatures et les objets _invisibles_, automatiquement détecter les illusions visuelles et réussir son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre celles-ci, percevoir la forme originale d'un métamorphe ou d'une créature transformée par magie et voir dans le plan éthéré.
 
 ### Eau et nourriture
 Les personnages privés d'eau ou de nourriture subissent les effets de l'épuisement. Une créature ne peut sortir de l'état d'épuisement causé par le manque de nourriture ou d'eau que si elle mange et boit en quantité suffisante.
@@ -151,7 +151,7 @@ Un personnage peut jeûner pendant un nombre de jour égal à 3 + son modificate
 Il suffit de manger normalement un jour pour remettre le compteur de journées de jeûne à zéro.
 
 #### Eau
-Un personnage a besoin de boire 3 litres d'eau par jour, ou 6 litres par temps chaud. Un personnage qui ne boit que la moitié de cette quantité doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution ou gagner un niveau d'épuisement à la fin de la journée. Si le personnage ne peut pas accéder à la quantité d'eau requise, il subit automatiquement un niveau d'épuisement à la fin de la journée.
+Un personnage a besoin de boire 3 litres d'eau par jour, ou 6 litres par temps chaud. Un personnage qui ne boit que la moitié de cette quantité doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou gagner un niveau d'épuisement à la fin de la journée. Si le personnage ne peut pas accéder à la quantité d'eau requise, il subit automatiquement un niveau d'épuisement à la fin de la journée.
 
 Si le personnage a déjà un ou plusieurs niveaux d'épuisement, il gagne deux niveaux d'épuisement au lieu d'un seul.
 
@@ -244,9 +244,9 @@ Si votre PJ maîtrise la compétence Représentation et qu'il la met à profit p
 #### Récupérer
 Un PJ peut mettre à profit une période de répit entre deux aventures pour se remettre d'une blessure handicapante, d'une maladie ou d'un empoisonnement.
 
-Après trois jours de repos, vous pouvez faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 15. S'il est réussi, vous pouvez choisir l'un des bénéfices suivants :
+Après trois jours de repos, vous pouvez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. S'il est réussi, vous pouvez choisir l'un des bénéfices suivants :
 * Annulez un effet qui vous empêche de regagner des points de vie.
-* Pendant les prochaines 24 heures, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour tous les jets de sauvegarde contre une maladie ou un poison dont vous subissez actuellement les effets
+* Pendant les prochaines 24 heures, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les jets de sauvegarde contre une maladie ou un poison dont vous subissez actuellement les effets
 
 #### Mener des recherches
 Quand vous entamez vos recherches, le MJ détermine si vous pouvez trouver l'information qui vous intéresse, combien de temps cela vous prendra et si vos recherches sont soumises à certaines conditions (comme trouver un individu, un livre ou un lieu spécifique). Le MJ peut aussi vous demander de faire un test de caractéristique ou un test plus spécifique, comme un test d'Intelligence (Investigation) pour trouver les indices qui mettent votre PJ sur la bonne voie, ou un test de Charisme (Persuasion) pour vous assurer l'aide de quelqu'un. Une fois que ces conditions ont été remplies, votre PJ déniche l'information, si celle-ci est disponible.

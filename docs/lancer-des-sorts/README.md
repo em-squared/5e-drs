@@ -37,7 +37,7 @@ Pour lancer un sort sous forme de rituel, le lanceur de sorts doit disposer d'un
 ## Lancer un sort
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.
 
-Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire) commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
+Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire/) commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
 
 ### Temps d'incantation
 Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
@@ -56,7 +56,7 @@ La cible d'un sort doit être à portée de ce sort. Pour un sort comme [_projec
 
 La plupart des sorts ont une portée indiquée en mètres. Certains affectent uniquement les créatures (y compris le lanceur de sorts lui-même) avec lesquelles le lanceur établit un contact physique. D'autres, comme [_bouclier_](/grimoire/bouclier), affectent uniquement le lanceur de sorts. Pour ceux-là, la portée est dite « _personnelle_ ».
 
-Les sorts qui génèrent un cône ou une ligne comme effet et prennent leur origine au niveau du lanceur de sorts ont aussi une portée personnelle pour indiquer que le point d'origine de l'effet est obligatoirement le lanceur du sort (voir [_Zones d'effet_](#zones-deffet), plus loin dans ce chapitre).
+Les sorts qui génèrent un cône ou une ligne comme effet et prennent leur origine au niveau du lanceur de sorts ont aussi une portée personnelle pour indiquer que le point d'origine de l'effet est obligatoirement le lanceur du sort (voir [_Zones d'effet_](#zone-d-effet), plus loin dans ce chapitre).
 
 Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moins que sa description n'indique le contraire.
 
@@ -75,7 +75,7 @@ Pour incanter, il faut se concentrer intensément et exécuter des gestes préci
 §§§
 
 #### Matérielles (M)
-L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre [_Équipement - Équipement d'aventurier_](/equipement/equipement-daventurier)) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
+L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre [_Équipement - Équipement d'aventurier_](/equipement-d-aventurier)) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
 
 S'il est noté que le sort consomme la composante matérielle utilisée, le lanceur de sorts doit en fournir une nouvelle à chaque incantation.
 
@@ -96,14 +96,14 @@ Les activités normales, comme les déplacements et les attaques, n'interfèrent
 
 **Lancer un autre sort demandant de la concentration**. Le lanceur de sorts perd sa concentration sur un sort s'il en lance un autre exigeant aussi de la concentration. Il ne peut pas se concentrer sur deux sorts à la fois.
 
-**Subir des dégâts**. Si le lanceur de sorts subit des dégâts alors qu'il se concentre sur un sort, il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution, sans quoi sa concentration se brise. Le DD équivaut à la moitié des dégâts reçus (avec un minimum de 10). Si le lanceur de sorts subit des dégâts issus de plusieurs sources, comme une flèche d'une part et le souffle d'un dragon d'autre part, il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) pour chaque source de dégâts.
+**Subir des dégâts**. Si le lanceur de sorts subit des dégâts alors qu'il se concentre sur un sort, il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, sans quoi sa concentration se brise. Le DD équivaut à la moitié des dégâts reçus (avec un minimum de 10). Si le lanceur de sorts subit des dégâts issus de plusieurs sources, comme une flèche d'une part et le souffle d'un dragon d'autre part, il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour chaque source de dégâts.
 
-**Se retrouver neutralisé ou mourir**. Le lanceur de sorts perd sa concentration s'il est [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé) ou s'il meurt.
+**Se retrouver neutralisé ou mourir**. Le lanceur de sorts perd sa concentration s'il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou s'il meurt.
 
-Le MJ peut aussi décider que certains phénomènes environnementaux, comme une vague s'abattant sur le lanceur de sorts alors qu'il se trouve sur un bateau en pleine tempête, l'obligent à réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 10 s'il veut continuer à se concentrer sur son sort.
+Le MJ peut aussi décider que certains phénomènes environnementaux, comme une vague s'abattant sur le lanceur de sorts alors qu'il se trouve sur un bateau en pleine tempête, l'obligent à réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 s'il veut continuer à se concentrer sur son sort.
 
 ### Cibles
-Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles qui seront affectées par sa magie. La description du sort précise si ce dernier vise les créatures, les objets ou le point d'origine de la [zone d'effet](#zone-deffet).
+Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles qui seront affectées par sa magie. La description du sort précise si ce dernier vise les créatures, les objets ou le point d'origine de la [zone d'effet](#zone-d-effet).
 
 À moins que le sort n'ait un effet perceptible, la créature visée ne sait pas forcément qu'elle a été la cible d'un sort. Un effet provoquant un éclair de lumière se remarque certainement, mais un effet plus subtil, comme une tentative de lecture des pensées, passe souvent inaperçu, à moins que la description du sort ne précise le contraire.
 
@@ -148,14 +148,14 @@ Le lanceur de sorts choisit le point d'origine de la sphère qui s'étend depuis
 Le point d'origine de la sphère est inclus dans sa zone d'effet.
 
 ### Jets de sauvegarde
-De nombreux sorts précisent que la cible a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) pour éviter un ou plusieurs de ses effets. Le sort indique quelle caractéristique utiliser pour le jet et explique ce qui se passe en cas d'échec et de réussite.
+De nombreux sorts précisent que la cible a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour éviter un ou plusieurs de ses effets. Le sort indique quelle caractéristique utiliser pour le jet et explique ce qui se passe en cas d'échec et de réussite.
 
 Le DD pour résister à un sort est de 8 + modificateur de la caractéristique d'incantation + bonus de maîtrise + modificateurs spéciaux.
 
 ### Jets d'attaque
-Dans certains cas, le lanceur de sorts doit faire un [jet d'attaque](/combattre#jets-dattaque) pour savoir si l'effet du sort touche la cible prévue. Lors d'une attaque de sort, son bonus d'attaque est égal à son modificateur de caractéristique d'incantation + son bonus de maîtrise.
+Dans certains cas, le lanceur de sorts doit faire un [jet d'attaque](/combattre/#jets-d-attaque) pour savoir si l'effet du sort touche la cible prévue. Lors d'une attaque de sort, son bonus d'attaque est égal à son modificateur de caractéristique d'incantation + son bonus de maîtrise.
 
-La plupart des sorts s'accompagnant d'un [jet d'attaque](/combattre#jets-dattaque) exigent une attaque à distance. N'oubliez pas que le personnage qui lance un sort subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lors d'un [jet d'attaque](/combattre#jets-dattaque) à distance s'il se trouve dans un rayon de 1,50 mètre autour d'une créature hostile qui peut le voir et n'est pas [_neutralisée_](/gerer-la-sante-du-personnage#neutralisé).
+La plupart des sorts s'accompagnant d'un [jet d'attaque](/combattre/#jets-d-attaque) exigent une attaque à distance. N'oubliez pas que le personnage qui lance un sort subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) à distance s'il se trouve dans un rayon de 1,50 mètre autour d'une créature hostile qui peut le voir et n'est pas [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise).
 
 ### Combiner les effets magiques
 Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.

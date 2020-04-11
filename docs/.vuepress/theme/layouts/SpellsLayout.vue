@@ -11,8 +11,6 @@
       :sort-by.sync="sortBy"
       :sort-desc.sync="sortDesc"
       :search="search"
-      disable-pagination
-      hide-default-footer
     >
 
       <template v-slot:item.title="{ item }">

@@ -69,7 +69,7 @@ Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
 #### Protection
-Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à l'attaquant sur son [jet d'attaque](/combattre#jets-dattaque). Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
+Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à l'attaquant sur son [jet d'attaque](/combattre/#jets-d-attaque). Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
 ### Second souffle
 Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de guerrier. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
@@ -91,7 +91,7 @@ Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmente
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
 
 ### Indomptable
-À partir du niveau 9, vous pouvez relancer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
+À partir du niveau 9, vous pouvez relancer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
@@ -119,13 +119,13 @@ Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au d
 À partir du niveau 3, vous gagnez la maîtrise des sauvegardes de Dextérité.
 
 #### Feinte
-Au niveau 7, lorsque vous effectuez une attaque de corps-à-corps avec une arme qui dispose de la propriété finesse, vous pouvez choisir de subir un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur cette attaque pour obtenir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur une autre attaque contre la même cible et dans le même tour.
+Au niveau 7, lorsque vous effectuez une attaque de corps-à-corps avec une arme qui dispose de la propriété finesse, vous pouvez choisir de subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur cette attaque pour obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur une autre attaque contre la même cible et dans le même tour.
 
 #### Frappe chirurgicale
-Au niveau 10, vous êtes passé maître dans l'art de viser les points vitaux de vos adversaires. Lorsque vous réussissez une attaque de corps-à-corps, pour laquelle vous aviez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage), avec une arme qui dispose de la propriété finesse, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par cette attaque.
+Au niveau 10, vous êtes passé maître dans l'art de viser les points vitaux de vos adversaires. Lorsque vous réussissez une attaque de corps-à-corps, pour laquelle vous aviez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), avec une arme qui dispose de la propriété finesse, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par cette attaque.
 
 #### Parade
-Votre lame est à la fois votre arme et votre meilleure armure. Au niveau 15, vous pouvez ajouter +5 à votre CA contre une unique attaque au corps-à-corps qui devrait vous toucher à ce round. Vous devez voir votre agresseur, ne pas être [_surpris_](/gerer-la-sante-du-personnage#surpris) ni [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé) et manier une arme de corps à corps dotée de la propriété finesse pour pouvoir parer de cette façon.
+Votre lame est à la fois votre arme et votre meilleure armure. Au niveau 15, vous pouvez ajouter +5 à votre CA contre une unique attaque au corps-à-corps qui devrait vous toucher à ce round. Vous devez voir votre agresseur, ne pas être [_surpris_](/gerer-la-sante-du-personnage/#surpris) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et manier une arme de corps à corps dotée de la propriété finesse pour pouvoir parer de cette façon.
 
 #### Riposte
 À partir du niveau 18, une fois par round, lorsque vous utilisez avec succès votre aptitude de parade ou qu'un adversaire vous rate avec une attaque de corps à corps, vous pouvez lui infliger les dégâts de l'arme que vous avez en main comme si vous aviez réussi une attaque contre lui (cette arme doit être dotée de la propriété finesse).
@@ -134,10 +134,10 @@ De plus, à chaque fois que vous utilisez votre aptitude de frappe chirurgicale,
 
 ### Défenseur
 #### Bloquer un adversaire
-À partir du niveau 3, vous pouvez utiliser une réaction pour empêcher un ou plusieurs adversaires au corps-à-corps de se déplacer, dès que l'un d'eux annonce son intention de le faire. Vous pouvez bloquer simultanément un nombre d'adversaires à votre contact égal à votre bonus de maîtrise divisé par deux. Chaque adversaire doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force (DD = 8 + votre bonus de maîtrise + votre modificateur de Force) ou être obligé de rester à moins de 1,50 mètre de vous jusqu'à votre prochain tour tant que vous ne vous déplacez pas.
+À partir du niveau 3, vous pouvez utiliser une réaction pour empêcher un ou plusieurs adversaires au corps-à-corps de se déplacer, dès que l'un d'eux annonce son intention de le faire. Vous pouvez bloquer simultanément un nombre d'adversaires à votre contact égal à votre bonus de maîtrise divisé par deux. Chaque adversaire doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force (DD = 8 + votre bonus de maîtrise + votre modificateur de Force) ou être obligé de rester à moins de 1,50 mètre de vous jusqu'à votre prochain tour tant que vous ne vous déplacez pas.
 
 #### Garde du corps
-Au niveau 7, lorsqu'une créature attaque un allié situé à moins de 1,50 mètre de vous, vous pouvez utiliser votre réaction pour devenir la cible de l'attaque à sa place. Cette aptitude fonctionne pour tout type d'attaque qui nécessite un [jet d'attaque](/combattre#jets-dattaque) (au corps-à-corps, à distance ou par sort). Vous devez annoncer votre intention avant que le résultat de l'attaque soit connu. Si l'attaque vous inflige des dégâts, vous obtenez la résistance à ces dégâts.
+Au niveau 7, lorsqu'une créature attaque un allié situé à moins de 1,50 mètre de vous, vous pouvez utiliser votre réaction pour devenir la cible de l'attaque à sa place. Cette aptitude fonctionne pour tout type d'attaque qui nécessite un [jet d'attaque](/combattre/#jets-d-attaque) (au corps-à-corps, à distance ou par sort). Vous devez annoncer votre intention avant que le résultat de l'attaque soit connu. Si l'attaque vous inflige des dégâts, vous obtenez la résistance à ces dégâts.
 
 #### Posture défensive
 Même lorsque vous adoptez une attitude défensive, vous restez dangereux. Également au niveau 7, lorsque vous utilisez l'action [_esquiver_](/combattre#esquiver), vous pouvez faire une attaque au corps-à-corps en action bonus.
@@ -146,9 +146,9 @@ Même lorsque vous adoptez une attitude défensive, vous restez dangereux. Égal
 Au niveau 10, vous pouvez choisir un deuxième style de combat parmi défense ou protection. De plus, vos réflexes incroyables vous permettent d'utiliser une de vos aptitudes parmi bloquer un adversaire et garde du corps au moment de votre choix dans le round, sans utiliser de réaction. Vous pouvez normalement utiliser votre réaction pour tout autre usage légal au même round, cela vous permet éventuellement une seconde utilisation d'une de ces aptitudes.
 
 #### Tête de fer
-À partir du niveau 15, lorsque vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une [_boule de feu_](/grimoire/boule-de-feu) ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
+À partir du niveau 15, lorsque vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une [_boule de feu_](/grimoire/boule-de-feu) ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
 
-Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de l'un de vos adversaires.
+Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de l'un de vos adversaires.
 
 #### Résistance surhumaine
 À partir du niveau 18, lorsque vous n'avez pas plus de la moitié de vos points de vie, vous gagnez les bénéfices suivants :
@@ -184,20 +184,20 @@ Vous pouvez utiliser une arme de corps-à-corps comme focaliseur d'incantation p
 #### Drain d'énergie
 La magie est présente en chaque être que vous combattez, proportionnelle à sa puissance, et lorsque vous portez un coup mortel à un adversaire, cette énergie s'en échappe au même titre que son âme. Également au niveau 3, vous avez appris à capter cette énergie.
 
-Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher cette aptitude. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé) durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs.
+Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher cette aptitude. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs.
 
 Si l'indice de dangerosité de la créature est inférieur à 1, il s'agit en fait plutôt de modestes étincelles sans danger qui ne vous rapportent aucun point de sorcellerie. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude.
 
 #### Frappe des arcanes
-À partir du niveau 7, vous pouvez dépenser 1 point de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 1d4 dégâts de force à tous vos jets de dégâts avec cette arme pendant ce round. Les dégâts infligés avec l'arme sont considérés comme des dégâts magiques lorsque vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques Si vous utilisez, dans le même round, la capacité [Sursaut d'activité](#sursaut-dactivité), vous devez dépenser 1 point de sorcellerie supplémentaire afin de bénéficier de cette capacité.
+À partir du niveau 7, vous pouvez dépenser 1 point de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 1d4 dégâts de force à tous vos jets de dégâts avec cette arme pendant ce round. Les dégâts infligés avec l'arme sont considérés comme des dégâts magiques lorsque vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques Si vous utilisez, dans le même round, la capacité [Sursaut d'activité](#sursaut-d-activite), vous devez dépenser 1 point de sorcellerie supplémentaire afin de bénéficier de cette capacité.
 
 #### Résistance des arcanes
-Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie pour obtenir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de votre choix contre un sort ou un effet magique.
+Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie pour obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre choix contre un sort ou un effet magique.
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un troisième tour de magie de la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Ensorceleur/Sorcelame' }}">sorts de sorcelame</router-link>.
 
 #### Frappe des arcanes majeure
-À partir du niveau 15, vous pouvez dépenser 2 points de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 2d4 dégâts de force à tous vos jets de dégât avec cette arme pendant ce round Si vous utilisez, dans le même round, la capacité [Sursaut d'activité](#sursaut-dactivité), vous devez dépenser 2 points de sorcellerie supplémentaire afin de bénéficier de cette capacité.
+À partir du niveau 15, vous pouvez dépenser 2 points de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 2d4 dégâts de force à tous vos jets de dégât avec cette arme pendant ce round Si vous utilisez, dans le même round, la capacité [Sursaut d'activité](#sursaut-d-activite), vous devez dépenser 2 points de sorcellerie supplémentaire afin de bénéficier de cette capacité.
 
 #### Sort rapide
 Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'incantation est normalement d'une action en utilisant une action bonus. Le coût en points de sorcellerie est doublé. Vous pouvez utiliser un tour de magie de cette façon en dépensant 1 point de sorcellerie.

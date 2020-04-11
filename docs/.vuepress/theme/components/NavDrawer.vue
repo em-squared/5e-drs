@@ -94,6 +94,14 @@ export default {
           }
         }
       }
+      // Grimoire
+      if ((item.title == "Pour les joueurs") && (this.$route.path.includes('/grimoire/'))) {
+        return true
+      }
+      // Liste des objets magiques
+      if ((item.title == "Pour les meneurs") && (this.$route.path.includes('/liste-objets-magiques/'))) {
+        return true
+      }
       return false
     }
   }

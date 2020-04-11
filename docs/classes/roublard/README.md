@@ -2,6 +2,7 @@
 title: Roublard
 ---
 # Roublard
+## Évolution du roublard
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
 |:-:|:-:|:-:|:-|
@@ -55,9 +56,9 @@ Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.
 
 ### Attaque sournoise
-Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur le [jet d'attaque](/combattre#jets-dattaque). Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
+Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque). Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
 
-Vous n'avez pas besoin d'avoir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur le [jet d'attaque](/combattre#jets-dattaque) si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur le [jet d'attaque](/combattre#jets-dattaque).
+Vous n'avez pas besoin d'avoir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque) si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque).
 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d'[évolution du roublard](#evolution-du-roublard).
 
@@ -67,10 +68,10 @@ Pendant votre entraînement de roublard, vous avez appris l'argot des voleurs, u
 De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d'une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
 ### Ruse
-À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre#se-précipiter), [_se désengager_](/combattre#se-désengager) ou [_se cacher_](/combattre#se-cacher).
+À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre#se-cacher).
 
 ### Archétype de roublard
-Au niveau 3, vous choisissez un [archétype](#archétypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion) ou [ombrelame](#ombrelame). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
+Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion) ou [ombrelame](#ombrelame). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -79,22 +80,22 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
 ### Dérobade
-À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de [_tempête de grêle_](/grimoire/tempete-de-grele/). Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de [_tempête de grêle_](/grimoire/tempete-de-grele/). Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 ### Talent
 Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
 ### Ouïe fine
-À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature [_invisible_](/gerer-la-sante-du-personnage#invisible) ou cachée qui se trouve dans un rayon de 3 mètres.
+À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature [_invisible_](/gerer-la-sante-du-personnage/#invisible) ou cachée qui se trouve dans un rayon de 3 mètres.
 
 ### Esprit impénétrable
 Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
 
 ### Insaisissable
-Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent. Tant que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé), aucun [jet d'attaque](/combattre#jets-dattaque) qui vous cible ne peut bénéficier d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage).
+Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent. Tant que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), aucun [jet d'attaque](/combattre/#jets-d-attaque) qui vous cible ne peut bénéficier d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 ### Coup de chance
-Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre [jet d'attaque](/combattre#jets-dattaque), vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du d20 en 20.
+Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre [jet d'attaque](/combattre/#jets-d-attaque), vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du d20 en 20.
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 
@@ -109,19 +110,19 @@ Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d'es
 De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouvez sauter est augmentée de 30 cm × votre modificateur de Dextérité.
 
 #### Furtivité suprême
-À partir du niveau 9, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur vos tests de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
+À partir du niveau 9, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos tests de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
 
 #### Utilisation d'objets magiques
 Au niveau 13, vous avez appris assez de choses sur le fonctionnement de la magie pour improviser et utiliser des objets magiques, même s'ils ne vous sont pas destinés. Vous ignorez toutes les conditions d'utilisation de classe, de race et de niveau concernant l'utilisation des objets magiques.
 
 #### Réflexes de voleur
-Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dans l'art de tendre une embuscade et de vous enfuir rapidement en cas de danger. Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d'initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d'initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes [_surpris_](/gerer-la-sante-du-personnage#surpris).
+Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dans l'art de tendre une embuscade et de vous enfuir rapidement en cas de danger. Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d'initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d'initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris).
 
 ### Brute
 #### Regard noir
 Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de Charisme et de Force pour les tests de Charisme (Intimidation) et Charisme (Persuasion).
 
-De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Charisme (Intimidation) contre le test de Sagesse (Perspicacité) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à son prochain [jet d'attaque](/combattre#jets-dattaque) ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état [_terrorisé_](/gerer-la-sante-du-personnage#terrorisé) ou aux dégâts psychiques sont immunisées à cette aptitude.
+De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Charisme (Intimidation) contre le test de Sagesse (Perspicacité) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son prochain [jet d'attaque](/combattre/#jets-d-attaque) ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) ou aux dégâts psychiques sont immunisées à cette aptitude.
 
 #### Dur à cuire
 Également au niveau 3, vous ajoutez votre modificateur de Force en plus de celui de Constitution aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de Force augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
@@ -132,12 +133,12 @@ De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Cha
 Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée normale, vous utilisez le même dé que pour cette aptitude pour déterminer vos dégâts.
 
 #### Attaque en meute
-Lorsque vous atteignez le niveau 13, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au [jet d'attaque](/combattre#jets-dattaque) lorsque vous attaquez une cible qui se trouve à moins de 1,50 mètre d'un allié non [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé).
+Lorsque vous atteignez le niveau 13, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque) lorsque vous attaquez une cible qui se trouve à moins de 1,50 mètre d'un allié non [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
-Désormais, si vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lorsque vous utilisez l'aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Force + votre bonus de maîtrise) ou être [_entravée_](/gerer-la-sante-du-personnage#entravé) par la douleur jusqu'au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
+Désormais, si vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous utilisez l'aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Force + votre bonus de maîtrise) ou être [_entravée_](/gerer-la-sante-du-personnage/#entrave) par la douleur jusqu'au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
 
 #### Persécuter
-Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras, mais lorsqu'il s'agit de malmener une cible précise, nul n'est votre égal. Au niveau 17, vous désignez une créature de votre choix en utilisant une action bonus, elle devient la cible de votre vindicte personnelle. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests en opposition, ainsi qu'aux jets de sauvegarde et d'attaque contre la cible sur laquelle vous vous focalisez. Vous ne pouvez pas bénéficier des effets de cette aptitude pour une autre cible avant d'avoir terminé un repos court.
+Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras, mais lorsqu'il s'agit de malmener une cible précise, nul n'est votre égal. Au niveau 17, vous désignez une créature de votre choix en utilisant une action bonus, elle devient la cible de votre vindicte personnelle. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests en opposition, ainsi qu'aux jets de sauvegarde et d'attaque contre la cible sur laquelle vous vous focalisez. Vous ne pouvez pas bénéficier des effets de cette aptitude pour une autre cible avant d'avoir terminé un repos court.
 
 ### Espion
 #### Spécialiste
@@ -147,16 +148,16 @@ Au niveau 3, vous obtenez la maîtrise des accessoires de déguisement et des ac
 Également au niveau 3 et par la suite, vous apprenez une langue supplémentaire issue de la liste des langues standards ou exotiques (voir le chapitre [_Personnalité et historique - Langues_](/personnalite-et-historique#langues-exotiques)) par point de bonus de maîtrise. Vous apprenez de nouvelles langues lorsque votre bonus de maîtrise augmente.
 
 #### Lire sur les lèvres
-À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de Sagesse (Perception) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) si votre cible est dans une zone de lumière faible.
+À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de Sagesse (Perception) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si votre cible est dans une zone de lumière faible.
 
 #### Séducteur hors pair
-Également au niveau 9, nul n'est insensible au charme envoûtant que vous dégagez. Lorsque vous faites preuve de charme ou d'entregents, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests de Charisme effectués contre des humanoïdes attirés par les individus de votre sexe.
+Également au niveau 9, nul n'est insensible au charme envoûtant que vous dégagez. Lorsque vous faites preuve de charme ou d'entregents, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme effectués contre des humanoïdes attirés par les individus de votre sexe.
 
 #### Esprit obscur
 Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie de divination, ni être aperçu ou détecté à travers des sens magiques. Cette aptitude est équivalente à un sort de [_non-détection_](/grimoire/non-detection) permanent.
 
 #### Agent très spécial
-À partir du niveau 17, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests d'Intelligence (Investigation), de Sagesse (Perception) et de Charisme (Supercherie).
+À partir du niveau 17, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'Intelligence (Investigation), de Sagesse (Perception) et de Charisme (Supercherie).
 
 #### Incassable
 Également au niveau 17, rien ne semble pouvoir venir à bout de votre résistance, les bagarres les plus dures comme les chutes les plus vertigineuses. Vous obtenez la résistance aux dégâts contondants.
@@ -188,7 +189,7 @@ Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos 
 #### Enfant de l'ombre
 Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu'elle émet pendant 1 minute. La zone de lumière faible n'est pas affectée. Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mais sa zone de lumière faible reste de 6 mètres. Si la source de lumière est magique, vous devez dépenser 1 point de sorcellerie par niveau du sort (aucun point pour un tour de magie).
 
-De plus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests de Dextérité (Discrétion) que vous effectuez dans une zone de lumière faible.
+De plus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Dextérité (Discrétion) que vous effectuez dans une zone de lumière faible.
 
 #### Énergie de l'ombre
 Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points de sorcellerie égal à votre bonus de maîtrise après avoir terminé un repos court. Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu'une seule fois entre deux repos long.

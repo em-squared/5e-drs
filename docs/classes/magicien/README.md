@@ -87,9 +87,9 @@ Par exemple, si vous êtes un magicien de niveau 3, vous avez quatre emplacement
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de magicien vous demande de passer du temps à étudier votre grimoire et mémoriser les incantations et les gestes que vous devez faire afin de lancer vos sorts : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ### Caractéristique d'incantation
-La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'Intelligence, car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre Intelligence dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'Intelligence quand vous calculez le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'Intelligence, car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre Intelligence dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'Intelligence quand vous calculez le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence**
+**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence**
 
 **Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d'Intelligence**
 
@@ -97,7 +97,7 @@ La caractéristique d'incantation qui vous permet de lancer les sorts de magicie
 Vous pouvez lancer un sort de magicien que vous connaissez sous la forme d'un rituel dans la mesure où il possède le sous-type rituel et que ce sort se trouve dans votre grimoire. Il n'est pas nécessaire d'avoir préparé ce sort.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un [focaliseur arcanique](/equipement/equipement-daventurier#focaliseur-arcanique) comme focaliseur d'incantation pour vos sorts de magicien.
+Vous pouvez utiliser un [focaliseur arcanique](/equipement-d-aventurier/#focaliseur-arcanique) comme focaliseur d'incantation pour vos sorts de magicien.
 
 ### Apprendre des sorts de niveau 1 et supérieur
 Chaque fois que vous gagnez un niveau dans la classe de magicien, vous pouvez ajouter gratuitement deux sorts de magicien de votre choix dans votre grimoire. Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer grâce à vos emplacements de sorts, ainsi que vous pouvez le voir dans le tableau d'[évolution du magicien](#evolution-du-magicien). Lors de vos aventures, vous pouvez trouver de nouveaux sorts à copier dans votre grimoire (voir encadré page suivante).
@@ -133,7 +133,7 @@ Dès le niveau 2, vous obtenez une aptitude qui dépend de votre école.
 
 **Abjuration : Résistance**. Vous gagnez la résistance à un type d'énergie de votre choix : feu, froid, foudre, force, nécrotique, acide, radiance.
 
-**Invocation : Aura d'invocateur**. Toutes les créatures invoquées ou issues d'un autre plan (comme les démons) subissent un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour vous attaquer au corps-à-corps.
+**Invocation : Aura d'invocateur**. Toutes les créatures invoquées ou issues d'un autre plan (comme les démons) subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vous attaquer au corps-à-corps.
 
 **Divination : Intuition du devin**. Vous obtenez un avantage en initiative. En dépensant une réaction, vous pouvez conférer un avantage à un test à un allié en vue. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
@@ -148,18 +148,18 @@ Dès le niveau 2, vous obtenez une aptitude qui dépend de votre école.
 **Transmutation : Amélioration**. Vous apprenez le sort [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/) et pouvez le lancer sans dépenser d'emplacement, tout en étant considéré comme utilisant un emplacement de niveau égal à votre bonus de maîtrise (par exemple, au niveau 10 de magicien, vous le lancez comme avec un emplacement de niveau 4 et affectez trois cibles). Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
 #### Expertise
-Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lorsque vous faites un test d'Intelligence pour dissiper ou contrer un sort de votre école. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
+Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous faites un test d'Intelligence pour dissiper ou contrer un sort de votre école. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
 #### Maîtrise
 Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
-**Abjuration : Champs d'énergie**. Lorsque vous êtes la cible d'un sort de niveau 3 ou inférieur, vous obtenez au choix un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à la sauvegarde ou une résistance aux dégâts du sort.
+**Abjuration : Champs d'énergie**. Lorsque vous êtes la cible d'un sort de niveau 3 ou inférieur, vous obtenez au choix un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la sauvegarde ou une résistance aux dégâts du sort.
 
-**Invocation : Invocation tenace**. Vos sorts d'invocation sont plus difficiles à dissiper, ils nécessitent un test d'Intelligence réussi quel que soit leur niveau. Ceux de niveau 4 et supérieur imposent un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au test. De plus, les créatures que vous invoquez obtiennent 2 points de vie temporaires par niveau du sort.
+**Invocation : Invocation tenace**. Vos sorts d'invocation sont plus difficiles à dissiper, ils nécessitent un test d'Intelligence réussi quel que soit leur niveau. Ceux de niveau 4 et supérieur imposent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au test. De plus, les créatures que vous invoquez obtiennent 2 points de vie temporaires par niveau du sort.
 
-**Divination : Prédiction**. Vous invoquez une vision du futur proche dont vous partagez la conscience avec vos alliés. Tous vos alliés jusqu'à une distance de 9 mètres bénéficient d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à leurs tests et leurs ennemis d'un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour les attaquer (sorts, attaques au corps-à-corps ou à distance) pendant un nombre de rounds égal à votre bonus de maîtrise. Vous devez terminer un repos long avant de pouvoir invoquer une nouvelle vision.
+**Divination : Prédiction**. Vous invoquez une vision du futur proche dont vous partagez la conscience avec vos alliés. Tous vos alliés jusqu'à une distance de 9 mètres bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leurs tests et leurs ennemis d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour les attaquer (sorts, attaques au corps-à-corps ou à distance) pendant un nombre de rounds égal à votre bonus de maîtrise. Vous devez terminer un repos long avant de pouvoir invoquer une nouvelle vision.
 
-**Enchantement : Présence envoûtante**. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être _charmées_.
+**Enchantement : Présence envoûtante**. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être _charmées_.
 
 **Évocation : Sorts puissants**. Vous ajoutez votre bonus de maîtrise aux dégâts des sorts d'évocation. Si votre sort affecte plusieurs cibles, votre bonus de maîtrise ne s'applique qu'à une seule cible de votre choix. Si votre sort inflige des dégâts durant plusieurs rounds, votre bonus de dégât ne s'applique qu'au premier round.
 
@@ -172,11 +172,11 @@ Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 #### Haute maîtrise
 Au niveau 14, vous obtenez les aptitudes suivantes :
 
-**Sans effort**. Le magicien peut maintenir actif un sort de son école de magie nécessitant une concentration en dépensant une action bonus à chaque tour. Ce sort ne nécessite aucune concentration tant que vous dépensez une action bonus à chaque round sans interruption. Il ne cesse que lorsqu'il arrive à terme, si vous le décidez ou si vous êtes [_inconscient_](/gerer-la-sante-du-personnage#inconscient) ou mort. Vous pouvez maintenir la concentration d'un autre sort normalement en parallèle.
+**Sans effort**. Le magicien peut maintenir actif un sort de son école de magie nécessitant une concentration en dépensant une action bonus à chaque tour. Ce sort ne nécessite aucune concentration tant que vous dépensez une action bonus à chaque round sans interruption. Il ne cesse que lorsqu'il arrive à terme, si vous le décidez ou si vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) ou mort. Vous pouvez maintenir la concentration d'un autre sort normalement en parallèle.
 
 **Incantation rapide**. À votre tour, vous pouvez dépenser une action bonus pour lancer un sort de votre école ayant un temps d'incantation d'une action. Ce sort utilise un emplacement de sort d'un niveau supérieur à son niveau normal. Vous ne pouvez toujours lancer qu'un seul sort par round, à moins que vous n'utilisiez votre action pour lancer un sort mineur comme cela est précisé dans le chapitre [Lancer des sorts](/lancer-des-sorts/#lancer-un-sort).
 
-**Sorts supérieurs**. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) des cibles.
+**Sorts supérieurs**. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) des cibles.
 
 ### Arpenteur
 #### Endurci
@@ -212,7 +212,7 @@ Au niveau 2, vous apprenez le tour de magie _prestidigitation élémentaire_. Le
 
 De plus, lorsque vous lancez un sort dont les dégâts correspondent à votre élément de prédilection (air : foudre, terre : acide, eau : froid, feu : feu), vous pouvez utiliser une action bonus pour le lancer avec un emplacement de sort d'un niveau de plus, y compris au-delà de votre niveau maximum (mais jamais au-dessus du niveau 9). Par exemple, un spécialiste du feu peut dépenser un emplacement de sort de niveau 3 et utiliser son action et une action bonus pour lancer la [_boule de feu_](/grimoire/boule-de-feu/) avec l'équivalent d'un emplacement de sort de niveau 4 et infliger 9d6 dégâts au lieu de 8d6.
 
-En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant à votre élément opposé – feu est opposé à froid (eau), acide (terre) opposé à foudre (air) – les cibles obtiennent un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à leurs jets de sauvegarde.
+En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant à votre élément opposé – feu est opposé à froid (eau), acide (terre) opposé à foudre (air) – les cibles obtiennent un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leurs jets de sauvegarde.
 
 #### Puissance élémentaire
 Également à partir du niveau 2, vous pouvez invoquer l'énergie de votre élément de prédilection pour créer un effet magique. Choisissez une seule aptitude parmi les deux proposés pour chaque élément. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser votre pouvoir élémentaire.
@@ -220,44 +220,44 @@ En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant 
 ##### Air
 Vous gagnez le pouvoir surnaturel zéphyr ou arc électrique.
 
-**Zéphyr**. En utilisant une action, vous générez un tourbillon d'air tonitruant autour de vous jusqu'au début de votre prochain tour. Toute créature de taille M ou inférieure située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts de tonnerre et elle est _repoussée_ de 1,50 mètre de vous. La détonation se fait entendre jusqu'à 30 mètres.
+**Zéphyr**. En utilisant une action, vous générez un tourbillon d'air tonitruant autour de vous jusqu'au début de votre prochain tour. Toute créature de taille M ou inférieure située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts de tonnerre et elle est _repoussée_ de 1,50 mètre de vous. La détonation se fait entendre jusqu'à 30 mètres.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-**Arc électrique**. L'air ambiant charge votre corps d'électricité statique que vous libérez pour électrocuter vos adversaires proches. En utilisant une action, vous générez un arc électrique entre vous et chaque créature choisie située jusqu'à 1,50 mètre de vous. Chacune des créatures ciblées doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts de foudre. Toute autre créature non ciblée et située à 1,50 mètre ou moins de l'une des cibles affectées subit la moitié des dégâts de foudre.
+**Arc électrique**. L'air ambiant charge votre corps d'électricité statique que vous libérez pour électrocuter vos adversaires proches. En utilisant une action, vous générez un arc électrique entre vous et chaque créature choisie située jusqu'à 1,50 mètre de vous. Chacune des créatures ciblées doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts de foudre. Toute autre créature non ciblée et située à 1,50 mètre ou moins de l'une des cibles affectées subit la moitié des dégâts de foudre.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
 ##### Eau
 Vous gagnez le pouvoir surnaturel déluge ou décharge glaciale.
 
-**Déluge**. En utilisant une action, vous invoquez une masse d'eau du plan élémentaire qui s'abat autour de vous. Chaque créature située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts contondant et est _repoussée_ de 1,50 mètre de vous.
+**Déluge**. En utilisant une action, vous invoquez une masse d'eau du plan élémentaire qui s'abat autour de vous. Chaque créature située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts contondant et est _repoussée_ de 1,50 mètre de vous.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-**Décharge glaciale**. En utilisant une action, vous libérez une vague d'air glacial depuis un point visible à 12 mètres ou moins de vous. La vague glaciale inflige 1d6 points de froid à toute créature située à 1,50 mètre ou moins de de ce point et réduit sa vitesse de déplacement de 3 mètres jusqu'au début de votre prochain tour. Un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution réussi permet de réduire les dégâts de moitié et d'annuler la réduction de vitesse.
+**Décharge glaciale**. En utilisant une action, vous libérez une vague d'air glacial depuis un point visible à 12 mètres ou moins de vous. La vague glaciale inflige 1d6 points de froid à toute créature située à 1,50 mètre ou moins de de ce point et réduit sa vitesse de déplacement de 3 mètres jusqu'au début de votre prochain tour. Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution réussi permet de réduire les dégâts de moitié et d'annuler la réduction de vitesse.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
 ##### Feu
 Vous gagnez le pouvoir surnaturel jet de flammes ou nimbe de feu.
 
-**Jet de flammes**. En utilisant une action, vous lancez des flammes sur une ligne de 6 mètres de long. Toute créature située sur cette ligne subit 1d6 dégâts de feu. Un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité réussi permet de réduire les dégâts de moitié. En cas d'échec, la créature prend feu et subit 1d6 dégâts de feu supplémentaires au round suivant.
+**Jet de flammes**. En utilisant une action, vous lancez des flammes sur une ligne de 6 mètres de long. Toute créature située sur cette ligne subit 1d6 dégâts de feu. Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité réussi permet de réduire les dégâts de moitié. En cas d'échec, la créature prend feu et subit 1d6 dégâts de feu supplémentaires au round suivant.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-**Nimbe de feu**. En utilisant une action, vous vous entourez d'un nimbe de flammes rugissantes qui vous fait bénéficier d'un bonus de +2 à la CA jusqu'au début de votre prochain tour. De plus, les flammes infligent 1d6 dégâts de feu à toute créature située à 1,50 mètre ou moins de vous. Un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité réussi permet de réduire les dégâts de moitié.
+**Nimbe de feu**. En utilisant une action, vous vous entourez d'un nimbe de flammes rugissantes qui vous fait bénéficier d'un bonus de +2 à la CA jusqu'au début de votre prochain tour. De plus, les flammes infligent 1d6 dégâts de feu à toute créature située à 1,50 mètre ou moins de vous. Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité réussi permet de réduire les dégâts de moitié.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
 ##### Terre
 Vous gagnez le pouvoir surnaturel nuage acide ou secousse sismique.
 
-Nuage acide. En utilisant une action, vous créez un nuage de vapeurs acides de 1,50 mètre de rayon centré sur un point à 12 mètres ou moins de vous. Chaque créature qui se trouve dans le nuage au début ou à la fin de son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts d'acide et se retrouve [_empoisonnée_](/gerer-la-sante-du-personnage#empoisonné). Une réussite permet d'annuler l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné) et de réduire les dégâts de moitié. Ce nuage persiste jusqu'au début de votre tour suivant.
+Nuage acide. En utilisant une action, vous créez un nuage de vapeurs acides de 1,50 mètre de rayon centré sur un point à 12 mètres ou moins de vous. Chaque créature qui se trouve dans le nuage au début ou à la fin de son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts d'acide et se retrouve [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Une réussite permet d'annuler l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) et de réduire les dégâts de moitié. Ce nuage persiste jusqu'au début de votre tour suivant.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-Secousse sismique. En utilisant une action, vous frappez le sol pour générer une brusque secousse sismique autour de vous qui désoriente vos adversaires. Chaque créature en contact avec le sol, situées à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution. En cas d'échec, elle subit 1d6 dégâts de tonnerre et subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à ses jets d'attaque jusqu'à la fin de votre prochain tour.
+Secousse sismique. En utilisant une action, vous frappez le sol pour générer une brusque secousse sismique autour de vous qui désoriente vos adversaires. Chaque créature en contact avec le sol, situées à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, elle subit 1d6 dégâts de tonnerre et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque jusqu'à la fin de votre prochain tour.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
@@ -304,19 +304,19 @@ Au niveau 14, vous pouvez dépenser une action bonus pour augmenter de 2 niveaux
 
 ### Éminence grise
 #### Politicien
-Dès le niveau 2, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à vos tests de compétence en Charisme ainsi qu'aux tests de Sagesse (Perspicacité) destinés à savoir si on vous ment.
+Dès le niveau 2, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos tests de compétence en Charisme ainsi qu'aux tests de Sagesse (Perspicacité) destinés à savoir si on vous ment.
 
 #### Interprète
 Toujours au niveau 2, vous apprenez le sort [_compréhension des langues_](/grimoire/comprehension-des-langues/). Vous le lancez sans utiliser d'emplacement, comme s'il s'agissait d'un tour de magie. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.
 
 #### Imposture
-Au niveau 6, vous apprenez le sort [_déguisement_](/grimoire/deguisement/), et vous le lancez sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer. Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur votre premier [jet d'attaque](/combattre#jets-dattaque) contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
+Au niveau 6, vous apprenez le sort [_déguisement_](/grimoire/deguisement/), et vous le lancez sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer. Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre premier [jet d'attaque](/combattre/#jets-d-attaque) contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
 #### Tour silencieux
-Vous préférez éviter l'emploi de la violence pour régler vos affaires. Toutefois, lorsque cela devient nécessaire, vous savez le faire efficacement et silencieusement, de façon à ne pas laisser de témoin gênant. Également à partir du niveau 6, vous pouvez lancer vos tours de magie sans composante vocale. Lorsque vous utilisez un tour de magie qui nécessite un [jet d'attaque](/combattre#jets-dattaque), vous infligez 1d6 dégâts supplémentaires si vous avez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur ce [jet d'attaque](/combattre#jets-dattaque). Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégâts sont du même type que ceux du sort.
+Vous préférez éviter l'emploi de la violence pour régler vos affaires. Toutefois, lorsque cela devient nécessaire, vous savez le faire efficacement et silencieusement, de façon à ne pas laisser de témoin gênant. Également à partir du niveau 6, vous pouvez lancer vos tours de magie sans composante vocale. Lorsque vous utilisez un tour de magie qui nécessite un [jet d'attaque](/combattre/#jets-d-attaque), vous infligez 1d6 dégâts supplémentaires si vous avez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ce [jet d'attaque](/combattre/#jets-d-attaque). Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégâts sont du même type que ceux du sort.
 
 #### Historiographe
-Au niveau 10, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests d'Intelligence (Histoire), lorsqu'ils concernent les lignées royales ou l'histoire des nations.
+Au niveau 10, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'Intelligence (Histoire), lorsqu'ils concernent les lignées royales ou l'histoire des nations.
 
 #### Influence
 Au niveau 10 encore, vous apprenez le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) et pouvez le lancer sans utiliser d'emplacement. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.

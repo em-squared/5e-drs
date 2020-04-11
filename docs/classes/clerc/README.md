@@ -11,22 +11,22 @@ title: Clerc
 |**2**|+2|[Canalisation d'énergie divine (1/repos)](#canalisation-d-energie-divine), [Aptitude de domaine divin](#domaine-divin)|3|3|-|-|-|-|-|-|-|-|
 |**3**|+2|-|3|4|2|-|-|-|-|-|-|-|
 |**4**|+2|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|4|3|-|-|-|-|-|-|-|
-|**5**|+3|[Destruction de morts-vivants (ID 1/2)](#destruction-de-morts-vivants)|4|4|3|2|-|-|-|-|-|-|
+|**5**|+3|[Destruction de morts-vivants (ID 1/2)](#destruction-des-morts-vivants)|4|4|3|2|-|-|-|-|-|-|
 |**6**|+3|[Canalisation d'énergie divine (2/repos)](#canalisation-d-energie-divine), [Aptitude de domaine divin](#domaine-divin)|4|4|3|3|-|-|-|-|-|-|
 |**7**|+3|-|4|4|3|3|1|-|-|-|-|-|
-|**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques), [Destruction de morts-vivants (ID 1)](#destruction-de-morts-vivants), [Aptitude de domaine divin](#domaine-divin)|4|4|3|3|2|-|-|-|-|-|
+|**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques), [Destruction de morts-vivants (ID 1)](#destruction-des-morts-vivants), [Aptitude de domaine divin](#domaine-divin)|4|4|3|3|2|-|-|-|-|-|
 |**9**|+4|-|4|4|3|3|3|1|-|-|-|-|
 |**10**|+4|[Intervention divine](#intervention-divine)|5|4|3|3|3|2|-|-|-|-|
-|**11**|+4|[Destruction de morts-vivants (ID 2)](#destruction-de-morts-vivants)|5|4|3|3|3|2|1|-|-|-|
+|**11**|+4|[Destruction de morts-vivants (ID 2)](#destruction-des-morts-vivants)|5|4|3|3|3|2|1|-|-|-|
 |**12**|+4|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|2|1|-|-|-|
 |**13**|+5|-|5|4|3|3|3|2|1|1|-|-|
-|**14**|+5|[Destruction de morts-vivants (ID 3)](#destruction-de-morts-vivants)|5|4|3|3|3|2|1|1|-|-|
+|**14**|+5|[Destruction de morts-vivants (ID 3)](#destruction-des-morts-vivants)|5|4|3|3|3|2|1|1|-|-|
 |**15**|+5|-|5|4|3|3|3|2|1|1|1|-|
 |**16**|+5|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|2|1|1|1|-|
-|**17**|+6|[Destruction de morts-vivants (ID 4)](#destruction-de-morts-vivants), [Aptitude de domaine divin](#domaine-divin)|5|4|3|3|3|2|1|1|1|1|
+|**17**|+6|[Destruction de morts-vivants (ID 4)](#destruction-des-morts-vivants), [Aptitude de domaine divin](#domaine-divin)|5|4|3|3|3|2|1|1|1|1|
 |**18**|+6|[Canalisation d'énergie divine](#canalisation-d-energie-divine)|5|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|3|2|1|1|1|
-|**20**|+6|[Intervention divine supérieure](#intervention-divine-superieure)|5|4|3|3|3|3|2|2|1|1|
+|**20**|+6|[Intervention divine supérieure](#intervention-divine)|5|4|3|3|3|3|2|2|1|1|
 §§§
 
 ## Aptitudes de classe
@@ -68,9 +68,9 @@ Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements d
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de clerc vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ### Caractéristique d'incantation
-La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la Sagesse. La puissance de vos sorts dépend de votre dévouement à votre déité. Vous utilisez votre Sagesse dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la Sagesse. La puissance de vos sorts dépend de votre dévouement à votre déité. Vous utilisez votre Sagesse dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**
+**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**
 
 **Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse**
 
@@ -78,7 +78,7 @@ La caractéristique d'incantation qui vous permet de lancer les sorts de clerc e
 Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un symbole sacré (voir le chapitre [Équipement](/equipement)) comme focaliseur d'incantation pour vos sorts de clerc.
+Vous pouvez utiliser un symbole sacré (voir le chapitre [Équipement](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts de clerc.
 
 ### Domaine divin
 Choisissez un domaine divin parmi [gardien des traditions](#gardien-des-traditions), [guide spirituel](#guide-spirituel), [prêtre](#pretre), [théurge](#theurge) et le [domaine de la vie](#domaine-de-la-vie). Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
@@ -96,13 +96,13 @@ Certains effets de la canalisation d'énergie divine impliquent des jets de sauv
 À partir du niveau 6, vous pouvez utiliser l'aptitude canalisation d'énergie divine deux fois entre chaque repos court ou long, puis trois fois à partir du niveau 18.
 
 ### Canalisation d'énergie divine : Renvoi des morts-vivants
-Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son jet de sauvegarde, elle est _repoussée_ pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son jet de sauvegarde, elle est _repoussée_ pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
 ### Destruction des morts-vivants
-À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
+À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
 
 §§§ .table-container
 |Niveau de clerc|Détruit les morts-vivants avec un ID de...|
@@ -199,7 +199,7 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Asphyxie
-Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dessiccation_](/grimoire/dessication/), mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).
+Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dessiccation_](/grimoire/dessiccation/), mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).
 §§§
 §§§
 
@@ -216,7 +216,7 @@ Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dess
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Inspiration divine
-Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, [jet d'attaque](/combattre#jets-dattaque), [de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
+Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, [jet d'attaque](/combattre/#jets-d-attaque), [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
 §§§
 §§§
 
@@ -233,7 +233,7 @@ Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Penda
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Splendeur céleste
-Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests de Charisme.
+Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Charisme.
 §§§
 §§§
 
@@ -267,7 +267,7 @@ Choisissez une cible située dans votre champ de vision et à moins de 18 mètre
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Dédoublement
-Vous créez un double illusoire de vous-même pendant un nombre de round égal à votre bonus de maîtrise. Ce double désoriente vos adversaires, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à vos attaques au corps-à-corps. De plus, lorsqu'une créature réussit une attaque contre vous (hors attaque de zone), lancez 1d6. Sur un résultat de 1 à 3, l'attaque affecte l'illusion ; sur 4 à 6, vous subissez normalement les dégâts. Un attaquant est immunisé à cette aptitude s'il n'utilise pas le sens de la vue, comme avec Vision aveugle, ou s'il peut voir à travers les illusions comme avec le sort [_vision suprême_](/grimoire/vision-supreme/).
+Vous créez un double illusoire de vous-même pendant un nombre de round égal à votre bonus de maîtrise. Ce double désoriente vos adversaires, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos attaques au corps-à-corps. De plus, lorsqu'une créature réussit une attaque contre vous (hors attaque de zone), lancez 1d6. Sur un résultat de 1 à 3, l'attaque affecte l'illusion ; sur 4 à 6, vous subissez normalement les dégâts. Un attaquant est immunisé à cette aptitude s'il n'utilise pas le sens de la vue, comme avec Vision aveugle, ou s'il peut voir à travers les illusions comme avec le sort [_vision suprême_](/grimoire/vision-supreme/).
 §§§
 §§§
 
@@ -277,7 +277,7 @@ Vous créez un double illusoire de vous-même pendant un nombre de round égal �
 | Niveau de clerc | Sorts |
 |:-:|:-|
 | **1** | [_graisse_](/grimoire/graisse/) |
-| **3** | [_dessiccation_](/grimoire/dessication/) |
+| **3** | [_dessiccation_](/grimoire/dessiccation/) |
 | **5** | [_respiration aquatique_](/grimoire/respiration-aquatique/) |
 | **7** | [_contrôle de l'eau_](/grimoire/controle-de-l-eau/) |
 | **9** | [_invoquer un élémentaire (Eau)_](/grimoire/invoquer-un-elementaire/) |
@@ -318,7 +318,7 @@ Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires penda
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Puissance divine
-Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests et jets de sauvegarde de Force et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde. De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
+Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests et jets de sauvegarde de Force et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde. De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
 §§§
 §§§
 
@@ -335,7 +335,7 @@ Vous augmentez votre force pendant un nombre de round égal à votre bonus de ma
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Cercueil de glace
-Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force, sans quoi elle est [_entravée_](/gerer-la-sante-du-personnage#entravé) pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
+Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force, sans quoi elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave) pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
 §§§
 §§§
 
@@ -352,7 +352,7 @@ Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, si
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Transe guerrière
-Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minute. Pendant cette durée, vous pouvez répartir à votre guise votre bonus de maîtrise entre le [jet d'attaque](/combattre#jets-dattaque) ou de dégâts d'une attaque de corps-à-corps à chaque round. Vous pouvez annoncer quelle partie du bonus vous ajoutez après avoir lancé le dé, mais avant d'avoir pris connaissance du résultat de l'action.
+Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minute. Pendant cette durée, vous pouvez répartir à votre guise votre bonus de maîtrise entre le [jet d'attaque](/combattre/#jets-d-attaque) ou de dégâts d'une attaque de corps-à-corps à chaque round. Vous pouvez annoncer quelle partie du bonus vous ajoutez après avoir lancé le dé, mais avant d'avoir pris connaissance du résultat de l'action.
 §§§
 §§§
 
@@ -386,7 +386,7 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Explosion de lumière
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont _aveuglées_ à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont _aveuglées_ à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
 §§§
 §§§
 
@@ -420,7 +420,7 @@ Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de 
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Arme infectée
-Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné) pour 1 round. Si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution, elle divise par deux les dégâts de poison et ignore l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné).
+Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) pour 1 round. Si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, elle divise par deux les dégâts de poison et ignore l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).
 §§§
 §§§
 
@@ -437,7 +437,7 @@ Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme,
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Connexion mortelle
-Vous canalisez l'énergie de la mort à travers vous pour une durée égale à 1 round par point de bonus de maîtrise. Pendant ce laps de temps, vous pouvez lancer le tour de magie [_contact glacial_](/grimoire/contact-glacial/) en action bonus et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets d'attaque pour ce sort.
+Vous canalisez l'énergie de la mort à travers vous pour une durée égale à 1 round par point de bonus de maîtrise. Pendant ce laps de temps, vous pouvez lancer le tour de magie [_contact glacial_](/grimoire/contact-glacial/) en action bonus et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets d'attaque pour ce sort.
 §§§
 §§§
 
@@ -585,7 +585,7 @@ Au niveau 6, vous pouvez lancer un sort de domaine en utilisant votre aptitude d
 Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisi au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent par comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
 
 #### Aspect de l'avatar
-Lorsque vous atteignez le niveau 17, vous incarnez, au sens littéral, la puissance de votre divinité. Vous pouvez utiliser une canalisation d'énergie divine pour prendre l'aspect d'un avatar de votre dieu pendant 1 minute. Votre taille augmente d'une catégorie (de moyenne à grande, par exemple) et vous dégagez une aura de puissance quasi palpable. Votre voix porte sans peine à 100 mètres autour de vous et toutes les créatures qui vous entendent comprennent vos paroles, même celles qui n'ont pas habituellement de langage parlé. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests de Force et de Charisme, et les dégâts de vos attaques avec des armes augmentent d'1d4. Enfin, pendant toute la durée de la transformation, vous pouvez lancer une seule fois chacun de vos sorts de domaine (à leur niveau normal) sans utiliser d'emplacement de sort. Pour lancer un sort de domaine de cette façon, vous devez utiliser votre action à ce tour. Si vous n'avez qu'un seul domaine, vous pouvez lancer chaque sort deux fois.
+Lorsque vous atteignez le niveau 17, vous incarnez, au sens littéral, la puissance de votre divinité. Vous pouvez utiliser une canalisation d'énergie divine pour prendre l'aspect d'un avatar de votre dieu pendant 1 minute. Votre taille augmente d'une catégorie (de moyenne à grande, par exemple) et vous dégagez une aura de puissance quasi palpable. Votre voix porte sans peine à 100 mètres autour de vous et toutes les créatures qui vous entendent comprennent vos paroles, même celles qui n'ont pas habituellement de langage parlé. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Force et de Charisme, et les dégâts de vos attaques avec des armes augmentent d'1d4. Enfin, pendant toute la durée de la transformation, vous pouvez lancer une seule fois chacun de vos sorts de domaine (à leur niveau normal) sans utiliser d'emplacement de sort. Pour lancer un sort de domaine de cette façon, vous devez utiliser votre action à ce tour. Si vous n'avez qu'un seul domaine, vous pouvez lancer chaque sort deux fois.
 
 Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de l'énergie d'un dieu est une épreuve épuisante. À la fin de cette transformation, vous subissez un niveau de fatigue et vous ne pouvez pas réutiliser Aspect de l'avatar avant d'avoir terminé un repos long.
 
@@ -604,7 +604,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
 |Niveau de clerc|Sorts|
 |:-:|:-|
-|**1**|[_protection contre la loi et le bien_](/grimoire/protection-contre-la-loi-et-le-bien/)|
+|**1**|[_protection contre la loi et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)|
 |**3**|[_augure_](/grimoire/augure/)|
 |**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts)|
 |**7**|[_divination_](/grimoire/divination/)|
@@ -644,7 +644,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |**4**|[_héroïsme_](/grimoire/heroisme/)|
 |**5**|[_lueur d'espoir_](/grimoire/lueur-d-espoir/)|
 |**6**|[_langues_](/grimoire/langues/)|
-|**7**|[_nimbes de bienfaisance_](/grimoire/nimbes-de-bienfaisance/)|
+|**7**|[_nimbe de bienfaisance_](/grimoire/nimbe-de-bienfaisance/)|
 |**8**|[_confusion_](/grimoire/confusion/)|
 |**9**|[_modification de mémoire_](/grimoire/modification-de-memoire/)|
 |**10**|[_dominer un humanoïde_](/grimoire/dominer-un-humanoide/)|
@@ -659,21 +659,21 @@ Nul n'est votre égal pour utiliser les mots et pour convaincre les individus co
 #### Canalisation d'énergie divine : Marque de dévotion
 À partir du niveau 2, à la suite d'une cérémonie durant laquelle tous les bénéficiaires sont tenus de prier en votre compagnie et de réciter les préceptes de votre religion pendant 1 minute, vous pouvez dépenser votre canalisation d'énergie divine pour apposer une marque de dévotion sur tous vos alliés et vous-même dans un rayon de 3 mètres. Lancez un d20 et notez le résultat obtenu.
 
-À tout moment pendant les prochaines 24 heures, le bénéficiaire peut dépenser sa marque de dévotion en utilisant une réaction pour remplacer le résultat d'un d20 qu'il vient de lancer par le résultat que vous avez obtenu. Alternativement, il peut dépenser sa marque de dévotion pour remplacer le résultat de son adversaire : par exemple, pour le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'un sort ou pour le jet d'une attaque dirigée contre lui. Aucun bénéficiaire ne peut obtenir plus d'une marque de dévotion à la fois.
+À tout moment pendant les prochaines 24 heures, le bénéficiaire peut dépenser sa marque de dévotion en utilisant une réaction pour remplacer le résultat d'un d20 qu'il vient de lancer par le résultat que vous avez obtenu. Alternativement, il peut dépenser sa marque de dévotion pour remplacer le résultat de son adversaire : par exemple, pour le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort ou pour le jet d'une attaque dirigée contre lui. Aucun bénéficiaire ne peut obtenir plus d'une marque de dévotion à la fois.
 
 #### Soutien étendu
-Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assistance), la cible du sort peut appliquer l'effet à un [jet d'attaque](/combattre#jets-dattaque), et lorsque vous lancez le tour de magie [_résistance_](/grimoire/resistance), elle peut appliquer l'effet à sa CA contre une attaque.
+Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assistance), la cible du sort peut appliquer l'effet à un [jet d'attaque](/combattre/#jets-d-attaque), et lorsque vous lancez le tour de magie [_résistance_](/grimoire/resistance), elle peut appliquer l'effet à sa CA contre une attaque.
 
 #### Analyse des faiblesses
-Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Charisme. En cas d'échec, pendant 1 heure, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests de Charisme effectués contre cette cible et elle subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous ses jets de sauvegarde de Sagesse contre les sorts que vous lancez. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
+Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. En cas d'échec, pendant 1 heure, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme effectués contre cette cible et elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses jets de sauvegarde de Sagesse contre les sorts que vous lancez. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
 
-Si vous conversez pendant 1 heure complète avec votre cible, vous imposez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à la sauvegarde et vous bénéficiez des effets de l'analyse des faiblesses pendant 24 heures. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
+Si vous conversez pendant 1 heure complète avec votre cible, vous imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la sauvegarde et vous bénéficiez des effets de l'analyse des faiblesses pendant 24 heures. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
 
 #### Soutien puissant
 Au niveau 8, si vous utilisez une action pour lancer [_assistance_](/grimoire/assistance) ou [_résistance_](/grimoire/resistance), votre cible obtient un bonus d'1d6 au lieu d'1d4. Le bonus passe à 1d8 au niveau 14 et 1d10 au niveau 17. Désormais, lorsque vous maintenez votre concentration sur l'un de ces sorts, vous ne pouvez plus être involontairement déconcentré.
 
 #### Mentor
-Également, au niveau 8, vous pouvez établir une relation particulière avec un disciple. Vous devez vous entretenir avec le sujet volontaire pendant une journée complète. Votre disciple bénéficie d'effets équivalents au sort [_lueur d'espoir_](/grimoire/lueur-despoir) lorsque vous êtes à moins de 9 mètres l'un de l'autre pendant la semaine qui suit. Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres sorts. Le lien est prolongé de semaine en semaine tant que vous prenez le temps d'un entretien hebdomadaire d'au moins 1 heure, mais il est brisé si votre disciple vous manque de respect, ne fait pas de son mieux pour vous aider ou vous protéger ou s'il agit de façon clairement opposée à vos préceptes moraux. Vous ne pouvez être lié qu'à un seul disciple à la fois.
+Également, au niveau 8, vous pouvez établir une relation particulière avec un disciple. Vous devez vous entretenir avec le sujet volontaire pendant une journée complète. Votre disciple bénéficie d'effets équivalents au sort [_lueur d'espoir_](/grimoire/lueur-d-espoir/) lorsque vous êtes à moins de 9 mètres l'un de l'autre pendant la semaine qui suit. Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres sorts. Le lien est prolongé de semaine en semaine tant que vous prenez le temps d'un entretien hebdomadaire d'au moins 1 heure, mais il est brisé si votre disciple vous manque de respect, ne fait pas de son mieux pour vous aider ou vous protéger ou s'il agit de façon clairement opposée à vos préceptes moraux. Vous ne pouvez être lié qu'à un seul disciple à la fois.
 
 #### Haranguer les foules
 Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
@@ -686,7 +686,7 @@ Le temps que vous avez passé à prier, à méditer et à compulser des grimoire
 Le nombre de tours de magie que vous connaissez correspond à celui indiqué pour un clerc, mais vous pouvez les choisir indifféremment dans la liste de clerc ou celle de magicien. Au moins la moitié (arrondie au supérieur) des tours de magie que vous connaissez doit appartenir à la liste de clerc.
 
 #### Sorts de domaine
-Au premier niveau, vous apprenez un sort de premier niveau de magicien de votre choix et vous l'inscrivez dans votre grimoire. À chaque passage de niveau suivant, vous apprenez un nouveau sort (mais pas un tour de magie) de votre choix, issu de la liste de [sorts de magicien](/grimoire/sorts-de-magicien), d'un niveau que vous êtes capable de lancer, et vous l'inscrivez dans votre grimoire.
+Au premier niveau, vous apprenez un sort de premier niveau de magicien de votre choix et vous l'inscrivez dans votre grimoire. À chaque passage de niveau suivant, vous apprenez un nouveau sort (mais pas un tour de magie) de votre choix, issu de la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Magicien' }}">sorts de magicien</router-link>, d'un niveau que vous êtes capable de lancer, et vous l'inscrivez dans votre grimoire.
 
 Contrairement aux sorts de domaines normaux, ces sorts ne sont pas considérés comme toujours préparés et, si vous voulez les utiliser, vous devez les comptabiliser dans le nombre de sorts que vous préparez chaque jour. De plus, comme vous ne vous consacrez pas exclusivement à la magie divine, vous ne connaissez pas tous les sorts de clerc. Au lieu de cela, vous ne connaissez qu'un nombre limité de sorts de chaque niveau (voir ci-dessous). Choisissez les sorts que vous connaissez au moment où vous devenez capable de les lancer. Cette liste de sorts inscrits dans votre grimoire ne pourra plus changer.
 
@@ -722,7 +722,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |:-:|:-|
 |**1**|[_bénédiction_](/grimoire/benediction/), [_soin des blessures_](/grimoire/soin-des-blessures/)|
 |**3**|[_arme spirituelle_](/grimoire/arme-spirituelle/), [_restauration inférieure_](/grimoire/restauration-inferieure/)|
-|**5**|[_lueur d'espoir_](/grimoire/lueur-despoir/), [_revigorer_](/grimoire/revigorer/)|
+|**5**|[_lueur d'espoir_](/grimoire/lueur-d-espoir/), [_revigorer_](/grimoire/revigorer/)|
 |**7**|[_gardien de la foi_](/grimoire/gardien-de-la-foi/), [_protection contre la mort_](/grimoire/protection-contre-la-mort/)|
 |**9**|[_rappel à la vie_](/grimoire/rappel-a-la-vie/), [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/)|
 

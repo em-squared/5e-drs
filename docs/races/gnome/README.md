@@ -33,6 +33,6 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 ### Gnome des lacs
 
 **Augmentation de caractéristiques**. Votre valeur de Sagesse augmente de 1.  
-**Maître des illusions**. Maître des illusions. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur les jets de sauvegarde effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.  
+**Maître des illusions**. Maître des illusions. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.  
 **Amphibie**. Vous êtes capable de respirer sous l'eau pendant une durée de 10 minutes au maximum. Au bout de ces 10 minutes, vous devez reprendre votre souffle à l'air libre.  
 **Magie instinctive**. Vous connaissez deux tours de magie que vous choisissez parmi la liste de sorts du barde. Votre caractéristique d'incantation pour ces sorts est la Sagesse.

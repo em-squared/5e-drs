@@ -74,7 +74,7 @@ Votre MJ a de nombreuses excuses pour vous permettre d'utiliser l'inspiration. G
 Vous êtes soit inspiré, soit vous ne l'êtes pas. Il n'est pas possible d'emmagasiner des «  inspirations  » que vous pourrez utiliser plus tard à votre convenance.
 
 ### Utiliser l'inspiration
-Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire un [jet d'attaque](/combattre#jets-dattaque), un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) ou un test de caractéristique. Si vous utilisez votre inspiration, vous obtenez l'avantage sur ce lancer de dés.
+Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire un [jet d'attaque](/combattre/#jets-d-attaque), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un test de caractéristique. Si vous utilisez votre inspiration, vous obtenez l'avantage sur ce lancer de dés.
 
 De plus, si vous êtes sous le coup de l'inspiration, vous pouvez récompenser un autre joueur pour son jeu, sa perspicacité, ou simplement pour avoir rendu la partie plus intéressante par ses actions. Quand le personnage de ce joueur fait quelque chose qui contribue à l'histoire de manière intéressante et drôle, vous pouvez décider de lui céder votre inspiration.
 
@@ -83,19 +83,19 @@ De plus, si vous êtes sous le coup de l'inspiration, vous pouvez récompenser u
 Vous trouverez dans ce chapitre des exemples d'historiques de personnages concrets (aptitudes, maîtrises et langues) et des suggestions d'interprétation.
 
 ### Maîtrises
-Chaque historique confère à un personnage la maîtrise de deux compétences. Ces compétences sont décrites dans le [Utiliser les caractéristiques](/utiliser-les-caracteristiques). En plus de cela, la plupart des historiques permettent à un personnage d'acquérir la maîtrise d'un ou plusieurs outils. Ces outils sont décrits dans le chapitre [Équipement](/equipement). Si un personnage gagne une même maîtrise de deux sources différentes, il peut choisir une maîtrise différente du même type (compétence ou outil) à la place.
+Chaque historique confère à un personnage la maîtrise de deux compétences. Ces compétences sont décrites dans le [Utiliser les caractéristiques](/utiliser-les-caracteristiques). En plus de cela, la plupart des historiques permettent à un personnage d'acquérir la maîtrise d'un ou plusieurs outils. Ces outils sont décrits dans le chapitre [Équipement - Outils](/outils/). Si un personnage gagne une même maîtrise de deux sources différentes, il peut choisir une maîtrise différente du même type (compétence ou outil) à la place.
 
 ### Langues
-Le passé de certains personnages leur donne la capacité de pratiquer des langues supplémentaires à celles accordées par leur race. Reportez-vous à la section [Langues](/personnalite-et-historique/langues).
+Le passé de certains personnages leur donne la capacité de pratiquer des langues supplémentaires à celles accordées par leur race. Reportez-vous à la section [Langues](/personnalite-et-historique/#langues).
 
 ### Équipement
-Chaque historique donne accès à un équipement de départ. Si vous utilisez la règle optionnelle qui vous permet à la place d'acheter votre propre équipement, vous ne recevez aucun équipement lié à votre historique. Cette option est décrite dans le chapitre [Création du personnage](/creation-du-personnage#6-équiper-le-personnage).
+Chaque historique donne accès à un équipement de départ. Si vous utilisez la règle optionnelle qui vous permet à la place d'acheter votre propre équipement, vous ne recevez aucun équipement lié à votre historique. Cette option est décrite dans le chapitre [Création du personnage](/creation-du-personnage/#_5-equiper-le-personnage).
 
 ### Suggestions de personnalités
 Chaque historique vous suggère des traits de personnalité liés à l'histoire de votre personnage. Vous pouvez les sélectionner, lancer des dés pour laisser le hasard décider, ou utiliser ces suggestions pour inventer vous-même les spécificités de votre personnage.
 
 ### Personnaliser votre historique
-Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage#3-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
+Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage/#_2-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
 
 ### Les historiques de Héros & Dragons
 
@@ -108,17 +108,17 @@ Voici la liste des historiques proposés dans ***Héros & Dragons***.
 * [Crapule](/personnalite-et-historique/crapule)
  * [Cambrioleur](/personnalite-et-historique/crapule#variante-cambrioleur)
  * [Escroc](/personnalite-et-historique/crapule#variante-escroc)
- * [Voleur à la tire](/personnalite-et-historique/crapule#variante-voleur-à-la-tire)
+ * [Voleur à la tire](/personnalite-et-historique/crapule#variante-voleur-a-la-tire)
 * [Dévot](/personnalite-et-historique/devot)
- * [Initié](/personnalite-et-historique/devot#variante-initié)
- * [Prédicateur](/personnalite-et-historique/devot#variante-prédicateur)
+ * [Initié](/personnalite-et-historique/devot#variante-initie)
+ * [Prédicateur](/personnalite-et-historique/devot#variante-predicateur)
  * [Repenti](/personnalite-et-historique/devot#variante-repenti)
 * [Érudit](/personnalite-et-historique/erudit)
  * [Juriste](/personnalite-et-historique/erudit#variante-juriste)
- * [Médecin](/personnalite-et-historique/erudit#variante-médecin)
+ * [Médecin](/personnalite-et-historique/erudit#variante-medecin)
  * [Naturaliste](/personnalite-et-historique/erudit#variante-naturaliste)
 * [Explorateur](/personnalite-et-historique/explorateur)
- * [Éclaireur](/personnalite-et-historique/explorateur#variante-éclaireur)
+ * [Éclaireur](/personnalite-et-historique/explorateur#variante-eclaireur)
  * [Matelot](/personnalite-et-historique/explorateur#variante-matelot)
  * [Pilleur de ruines](/personnalite-et-historique/explorateur#variante-pilleur-de-ruines)
 * [Homme de Loi](/personnalite-et-historique/homme-de-loi)
@@ -135,7 +135,7 @@ Voici la liste des historiques proposés dans ***Héros & Dragons***.
 * [Membre de guilde](/personnalite-et-historique/membre-de-guilde)
  * [Artisan](/personnalite-et-historique/membre-de-guilde#variante-artisan)
  * [Assassin](/personnalite-et-historique/membre-de-guilde#variante-assassin)
- * [Commerçant](/personnalite-et-historique/membre-de-guilde#variante-commerçant)
+ * [Commerçant](/personnalite-et-historique/membre-de-guilde#variante-commercant)
 * [Militaire](/personnalite-et-historique/militaire)
  * [Garde](/personnalite-et-historique/militaire#variante-garde)
  * [Mercenaire](/personnalite-et-historique/militaire#variante-mercenaire)
@@ -147,15 +147,15 @@ Voici la liste des historiques proposés dans ***Héros & Dragons***.
 * [Primitif](/personnalite-et-historique/primitif)
  * [Chasseur](/personnalite-et-historique/primitif#variante-chasseur)
  * [Gardien tribal](/personnalite-et-historique/primitif#variante-gardien-tribal)
- * [Homme-médecine](/personnalite-et-historique/primitif#variante-homme-médecine)
+ * [Homme-médecine](/personnalite-et-historique/primitif#variante-homme-medecine)
 * [Sang bleu](/personnalite-et-historique/sang-bleu)
- * [Bâtard](/personnalite-et-historique/sang-bleu#variante-bâtard)
- * [Noblesse d'épée](/personnalite-et-historique/sang-bleu#variante-noblesse-dépée)
+ * [Bâtard](/personnalite-et-historique/sang-bleu#variante-batard)
+ * [Noblesse d'épée](/personnalite-et-historique/sang-bleu#variante-noblesse-d-epee)
  * [Noblesse de robe](/personnalite-et-historique/sang-bleu#variante-noblesse-de-robe)
 * [Serviteur](/personnalite-et-historique/serviteur)
  * [Cuisinier](/personnalite-et-historique/serviteur#variante-cuisinier)
  * [Palefrenier](/personnalite-et-historique/serviteur#variante-palefrenier)
- * [Précepteur](/personnalite-et-historique/serviteur#variante-précepteur)
+ * [Précepteur](/personnalite-et-historique/serviteur#variante-precepteur)
 * [Solitaire](/personnalite-et-historique/solitaire)
  * [Ermite](/personnalite-et-historique/solitaire#variante-ermite)
  * [Guide](/personnalite-et-historique/solitaire#variante-guide)

@@ -69,7 +69,7 @@ Ces points vous permettent d'utiliser certaines aptitudes qui fonctionnent avec 
 
 Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utiliser avant d'avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de ki. Pour regagner vos points de ki, vous devez méditer au moins 30 minutes pendant votre période de repos.
 
-Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) pour résister à leurs effets. Le DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) est calculé ainsi :
+Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour résister à leurs effets. Le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est calculé ainsi :
 
 **DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de Sagesse.**
 
@@ -80,7 +80,7 @@ Immédiatement après avoir choisi l'action [_attaquer_](/combattre#attaquer) lo
 Vous pouvez dépenser 1 point de ki pour utiliser l'action [_esquiver_](/combattre#esquiver) en action bonus lors de votre tour.
 
 ### Déplacement aérien
-Vous pouvez dépenser 1 point de ki pour utiliser l'action [_se désengager_](/combattre#se-désengager) ou [_se précipiter_](/combattre#se-précipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
+Vous pouvez dépenser 1 point de ki pour utiliser l'action [_se désengager_](/combattre/#se-desengager) ou [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
 ### Déplacement sans armure
 À partir du niveau 2, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure ni de bouclier. Ce bonus s'accroît en même temps que vos niveaux, comme indiqué dans le tableau d'[évolution du moine](#evolution-du-moine).
@@ -105,16 +105,16 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
 
 ### Frappe étourdissante
-À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution ou elle sera [_étourdie_](/gerer-la-sante-du-personnage#étourdi) jusqu'à la fin de votre prochain tour.
+À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou elle sera [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de votre prochain tour.
 
 ### Frappe de ki
 À partir du niveau 6, vos frappes à mains nues sont considérées comme des attaques magiques quand vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques.
 
 ### Dérobade
-Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de [_boule de feu_](/grimoire/boule-de-feu/). Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de [_boule de feu_](/grimoire/boule-de-feu/). Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 ### Tranquillité de l'esprit
-À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état [_charmé_](/gerer-la-sante-du-personnage#charmé) ou [_terrorisé_](/gerer-la-sante-du-personnage#terrorisé).
+À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
 
 ### Pureté du corps
 Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
@@ -125,13 +125,13 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 ### Âme de diamant
 À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les jets de sauvegarde.
 
-De plus, quand vous faites un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
+De plus, quand vous faites un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
 
 ### Jeunesse éternelle
 Au niveau 15, votre ki vous apporte ce qu'il faut pour ne souffrir aucun des désagréments de la vieillesse et vous ne pouvez pas non plus vieillir suite à un effet magique. Vous pouvez toujours mourir de vieillesse, cela dit. Vous n'avez en outre plus besoin de boire ou manger.
 
 ### Corps vide
-À partir du niveau 18, vous pouvez utiliser une action et utiliser 4 points de ki pour devenir [_invisible_](/gerer-la-sante-du-personnage#invisible) pendant 1 minute. Pendant ce laps de temps, vous devenez résistant à tous les types de dégâts, sauf les dégâts de force.
+À partir du niveau 18, vous pouvez utiliser une action et utiliser 4 points de ki pour devenir [_invisible_](/gerer-la-sante-du-personnage/#invisible) pendant 1 minute. Pendant ce laps de temps, vous devenez résistant à tous les types de dégâts, sauf les dégâts de force.
 
 De plus, vous pouvez utiliser 8 points de ki pour lancer le sort [_projection astrale_](/grimoire/projection-astrale/) sans avoir besoin de composantes matérielles. Néanmoins, vous ne pouvez pas emmener d'autres créatures avec vous.
 
@@ -142,18 +142,18 @@ Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de p
 ### Voie de la main ouverte
 #### Technique de la main ouverte
 Dès que vous choisissez de suivre cette tradition au niveau 3, vous apprenez à manipuler le ki de votre ennemi en même temps que le vôtre. Dès que vous touchez une créature grâce à une des attaques permises par votre déluge de coups, celle-ci subit l'un des effets suivants selon votre choix :
-* Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité ou se retrouver [_à terre_](/gerer-la-sante-du-personnage#à-terre).
-* Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force. Si elle échoue, vous pouvez la repousser jusqu'à 4,50 mètres de vous.
+* Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+* Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Si elle échoue, vous pouvez la repousser jusqu'à 4,50 mètres de vous.
 * Elle ne peut pas utiliser de réaction jusqu'à la fin de votre prochain tour.
 
 #### Intégrité physique
 Au niveau 6, vous gagnez la capacité de vous soigner seul. En utilisant une action, vous pouvez regagner un nombre de points de vie égal à trois fois votre niveau de moine. Vous devez finir un repos long avant de pouvoir utiliser cette aptitude de nouveau.
 
 #### Tranquillité
-À partir du niveau 11, vous pouvez entrer dans un état spécial de méditation qui vous nimbe d'une aura de paix. À la fin d'un repos long, vous gagnez les effets d'un sort de [_sanctuaire_](/grimoire/sanctuaire/) qui dure jusqu'au début de votre prochain repos long (l'effet du sort peut être rompu de manière anticipée, comme indiqué dans le descriptif du sort). Le DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) du sort est égal à 8 +  votre modificateur de Sagesse + votre bonus de maîtrise.
+À partir du niveau 11, vous pouvez entrer dans un état spécial de méditation qui vous nimbe d'une aura de paix. À la fin d'un repos long, vous gagnez les effets d'un sort de [_sanctuaire_](/grimoire/sanctuaire/) qui dure jusqu'au début de votre prochain repos long (l'effet du sort peut être rompu de manière anticipée, comme indiqué dans le descriptif du sort). Le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) du sort est égal à 8 +  votre modificateur de Sagesse + votre bonus de maîtrise.
 
 #### Paume frémissante
-Au niveau 17, vous gagnez la capacité de transmettre des vibrations mortelles dans le corps d'un ennemi. Quand vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour initier ces frémissements imperceptibles qui durent un nombre de jours égal à votre niveau de moine. Les vibrations sont inoffensives tant que vous n'utilisez pas une action pour les faire cesser. Pour cela, vous devez vous trouver sur le même plan d'existence que votre cible et, lorsque vous utilisez cette action, la créature doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution. Si elle échoue, elle est réduite à 0 point de vie. Si elle réussit, elle subit 10d10 dégâts nécrotiques.
+Au niveau 17, vous gagnez la capacité de transmettre des vibrations mortelles dans le corps d'un ennemi. Quand vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour initier ces frémissements imperceptibles qui durent un nombre de jours égal à votre niveau de moine. Les vibrations sont inoffensives tant que vous n'utilisez pas une action pour les faire cesser. Pour cela, vous devez vous trouver sur le même plan d'existence que votre cible et, lorsque vous utilisez cette action, la créature doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle est réduite à 0 point de vie. Si elle réussit, elle subit 10d10 dégâts nécrotiques.
 
 Vous ne pouvez utiliser cette aptitude que sur une seule créature à la fois et vous pouvez décider de mettre fin aux vibrations gratuitement sans blesser la créature.
 
@@ -165,13 +165,13 @@ Vous faites l'acquisition de cette technique au niveau 3. La griffe du tigre vou
 Également à partir du niveau 3, la technique de la Parade de la grue vous permet, en dépensant une réaction et 1 point de ki, d'ajouter le résultat de votre dé d'arts martiaux à votre CA jusqu'à votre prochain tour.
 
 #### Morsure du serpent
-Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki sur une attaque à mains nues réussie, vous obligez votre cible à faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle est [_aveuglée_](/gerer-la-sante-du-personnage#aveuglé) jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.
+Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki sur une attaque à mains nues réussie, vous obligez votre cible à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.
 
 #### Vitesse du léopard
-À partir du niveau 11, vous pouvez utiliser votre réaction et 1 point de Ki pour ajouter le résultat de votre dé d'arts martiaux à un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité ou au résultat de n'importe quel test de Dextérité.
+À partir du niveau 11, vous pouvez utiliser votre réaction et 1 point de Ki pour ajouter le résultat de votre dé d'arts martiaux à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou au résultat de n'importe quel test de Dextérité.
 
 #### Fureur du dragon
-Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez utiliser votre action pour porter une attaque à mains nues contre chaque créature autour de vous dans un rayon de 4,50 mètres. La réussite de votre attaque est automatique et vous infligez vos dégât à mains nues normaux. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise) ou se retrouver [_à terre_](/gerer-la-sante-du-personnage#à-terre).
+Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez utiliser votre action pour porter une attaque à mains nues contre chaque créature autour de vous dans un rayon de 4,50 mètres. La réussite de votre attaque est automatique et vous infligez vos dégât à mains nues normaux. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise) ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 ### Voie de l'illumination
 #### Prières
@@ -184,20 +184,20 @@ Chaque matin après un repos long, vous préparez les sorts de clerc que vous po
 
 Vous devenez capable de les lancer comme s'il s'agissait de sorts de clerc et ils sont toujours considérés préparés, sans être décomptés du nombre maximum de sorts que vous pouvez préparer.
 
-À partir du niveau 11, choisissez deux sorts supplémentaires dans la liste précédente ou dans celle-ci : [_vision dans le noir_](/grimoire/vision-dans-le-noir/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_lévitation_](/grimoire/levitation/), [_pas brumeux_](/grimoire/pas-brumeux/), [_voir l'invisible_](/grimoire/voir-l-invisible/), [_pattes d'araignée_](/grimoire/pattes-daraignee/).
+À partir du niveau 11, choisissez deux sorts supplémentaires dans la liste précédente ou dans celle-ci : [_vision dans le noir_](/grimoire/vision-dans-le-noir/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_lévitation_](/grimoire/levitation/), [_pas brumeux_](/grimoire/pas-brumeux/), [_voir l'invisible_](/grimoire/voir-l-invisible/), [_pattes d'araignée_](/grimoire/pattes-d-araignee/).
 
 À partir du niveau 17, choisissez deux sorts supplémentaires dans les listes précédentes ou dans celle-ci : [_clignotement_](/grimoire/clignotement/), [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/), [_hâte_](/grimoire/hate/), [_non-détection_](/grimoire/non-detection/), [_respiration aquatique_](/grimoire/respiration-aquatique/), [_peau de pierre_](/grimoire/peau-de-pierre/).
 
 ### Voie de la souplesse
 #### Techniques de lutte
-Au niveau 3, lorsque vous choisissez cette tradition, vous apprenez à maîtriser toutes les techniques de saisie, de projection et d'immobilisation. À chaque fois que vous réussissez une empoignade, votre cible subit l'état [_entravé_](/gerer-la-sante-du-personnage#entravé) au lieu d'être simplement [_empoignée_](/gerer-la-sante-du-personnage#empoigné). De plus, lorsque vous réussissez un test d'empoignade ou de bousculade, vous pouvez dépenser 1 point de ki pour lui infliger vos dégâts à mains nues.
+Au niveau 3, lorsque vous choisissez cette tradition, vous apprenez à maîtriser toutes les techniques de saisie, de projection et d'immobilisation. À chaque fois que vous réussissez une empoignade, votre cible subit l'état [_entravé_](/gerer-la-sante-du-personnage/#entrave) au lieu d'être simplement [_empoignée_](/gerer-la-sante-du-personnage/#empoigne). De plus, lorsque vous réussissez un test d'empoignade ou de bousculade, vous pouvez dépenser 1 point de ki pour lui infliger vos dégâts à mains nues.
 
 La taille de votre adversaire n'est plus un obstacle lorsque vous réalisez une empoignade ou que vous tentez de le bousculer, car vous retournez sa propre force contre lui-même. Vous pouvez réussir une empoignade contre un adversaire jusqu'à deux tailles au-dessus de la vôtre et bousculer un adversaire jusqu'à trois tailles au-dessus de la votre.
 
-Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests pour résister aux empoignades et aux bousculades.
+Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests pour résister aux empoignades et aux bousculades.
 
 #### Projection
-Au niveau 6, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 1 point de ki et votre réaction afin de l'obliger à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité. Si la valeur de Force de la créature est supérieure à la vôtre, elle subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage). En cas d'échec, la créature se retrouve [_à terre_](/gerer-la-sante-du-personnage#à-terre) et vous pouvez en profiter pour lui infliger vos dégâts à mains nues.
+Au niveau 6, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 1 point de ki et votre réaction afin de l'obliger à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si la valeur de Force de la créature est supérieure à la vôtre, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). En cas d'échec, la créature se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et vous pouvez en profiter pour lui infliger vos dégâts à mains nues.
 
 #### Absorber les coups
 Lorsque vous atteignez le niveau 11, vous avez endurci votre corps et appris à absorber l'énergie des coups, vous devenez résistant aux dégâts contondants. De plus, chaque blessure reçue renforce votre détermination. Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdre au moins 5 points de vie, vous récupérez 1 point de ki.
@@ -205,4 +205,4 @@ Lorsque vous atteignez le niveau 11, vous avez endurci votre corps et appris à 
 #### Étreinte mortelle
 À partir du niveau 17, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'inconscience.
 
-Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient [_inconscient_](/gerer-la-sante-du-personnage#inconscient) pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
+Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.

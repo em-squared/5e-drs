@@ -7,11 +7,11 @@ Les objets magiques sont classés selon leur rareté : courant, peu courant, rar
 
 |Rareté|Valeur indicative|
 |:-:|:-:|
-|**[Courant](/liste-objets-magiques?rarete=Courant)**|2d6 (7) × 10 po|
-|**[Peu courant](/liste-objets-magiques?rarete=Peu%20courant)**|2d6 (7) × 50 po|
-|**[Rare](/liste-objets-magiques?rarete=Rare)**|2d10 (11) × 250 po|
-|**[Très rare](/liste-objets-magiques?rarete=Très%20rare)**|2d10 (11) × 2 500 po|
-|**[Légendaire](/liste-objets-magiques?rarete=Légendaire)**|2d6 (7) × 10 000 po|
+|**[Courant](/liste-objets-magiques?raretes=Courant)**|2d6 (7) × 10 po|
+|**[Peu courant](/liste-objets-magiques?raretes=Peu%20courant)**|2d6 (7) × 50 po|
+|**[Rare](/liste-objets-magiques?raretes=Rare)**|2d10 (11) × 250 po|
+|**[Très rare](/liste-objets-magiques?raretes=Très%20rare)**|2d10 (11) × 2 500 po|
+|**[Légendaire](/liste-objets-magiques?raretes=Légendaire)**|2d6 (7) × 10 000 po|
 
 ## Identifier un objet magique
 Le sort [_identification_](/grimoire/identification) est le meilleur moyen d'obtenir des informations sur un objet magique. Le coût élevé des composantes nécessaires pousse cependant nombre d'aventuriers à découvrir les secrets de leurs objets magiques par d'autres moyens. Le premier est l'observation. Beaucoup d'objets portent des inscriptions qui peuvent être un mot de commande ou une sorte de notice d'utilisation. D'autres sont créés de manière à donner des indices, comme un anneau de nage qui serait gravé de motifs aquatiques. Le second moyen est l'expérimentation. Passez le même anneau de nage et jetez-vous à l'eau, par exemple. Les potions sont les objets les plus expérimentés : y tremper les lèvres un instant peut suffire, avec de l'expérience, à en découvrir les propriétés. Mais attention aux pièges et aux erreurs qui peuvent coûter très cher !
@@ -33,23 +33,23 @@ Certains objets magiques infligent une malédiction à leur utilisateur. Génér
 ## Les différents types d'objets magiques
 Il existe neuf types d'objets magiques : anneaux, armes, armures, baguettes, bâtons, objets merveilleux, parchemins, potions et sceptres.
 
-**[Anneaux](/liste-objets-magiques?type=Anneau)**. Un anneau doit être porté au doigt pour que son pouvoir fonctionne.
+**[Anneaux](/liste-objets-magiques/?types=Anneau)**. Un anneau doit être porté au doigt pour que son pouvoir fonctionne.
 
-**[Armes](/liste-objets-magiques?type=Arme)**. Les armes offrent leur pouvoir à ceux qui les manient. Si aucun type d'arme n'est précisé, vous pouvez choisir de quelle arme il s'agit.
+**[Armes](/liste-objets-magiques/?types=Arme)**. Les armes offrent leur pouvoir à ceux qui les manient. Si aucun type d'arme n'est précisé, vous pouvez choisir de quelle arme il s'agit.
 
-**[Armures](/liste-objets-magiques?type=Armure)**. Les armures magiques doivent être portées pour que leur pouvoir soit utilisable. De même que pour les armes, quand aucun type d'armure n'est précisé (cotte de mailles, cuir clouté), vous pouvez choisir de quel type d'armure il s'agit.
+**[Armures](/liste-objets-magiques/?types=Armure)**. Les armures magiques doivent être portées pour que leur pouvoir soit utilisable. De même que pour les armes, quand aucun type d'armure n'est précisé (cotte de mailles, cuir clouté), vous pouvez choisir de quel type d'armure il s'agit.
 
-**[Baguettes](/liste-objets-magiques?type=Baguette)**. Une baguette magique est faite de métal, de bois et/ou d'os et mesure en général une cinquantaine de centimètres. Certaines sont ornementées de métaux ou de pierres précieuses. La plupart contiennent un nombre de charges limité. Pour utiliser une baguette, il faut la tenir en main, utiliser une action et dépenser une ou plusieurs charges.
+**[Baguettes](/liste-objets-magiques/?types=Baguette)**. Une baguette magique est faite de métal, de bois et/ou d'os et mesure en général une cinquantaine de centimètres. Certaines sont ornementées de métaux ou de pierres précieuses. La plupart contiennent un nombre de charges limité. Pour utiliser une baguette, il faut la tenir en main, utiliser une action et dépenser une ou plusieurs charges.
 
-**[Bâtons](/liste-objets-magiques?type=Bâton)**. Un bâton magique mesure entre 1,50 m et 1,80 m. Parfois rectilignes, parfois complètement tordus, ils peuvent être faits de métal ou de bois. Ils peuvent être utilisés comme des bâtons de combat. Tout comme les baguettes, les bâtons possèdent des charges. Il est nécessaire de tenir le bâton et d'utiliser une action pour en dépense une charge.
+**[Bâtons](/liste-objets-magiques/?types=Bâton)**. Un bâton magique mesure entre 1,50 m et 1,80 m. Parfois rectilignes, parfois complètement tordus, ils peuvent être faits de métal ou de bois. Ils peuvent être utilisés comme des bâtons de combat. Tout comme les baguettes, les bâtons possèdent des charges. Il est nécessaire de tenir le bâton et d'utiliser une action pour en dépense une charge.
 
-**[Objets merveilleux](/liste-objets-magiques?type=Objet%20merveilleux)**. Cette catégorie regroupe les objets qui n'entrent dans aucune autre. Capes, ceintures, bottes, gants, amulettes, broches, boules de cristal et autres instruments de musique, par exemple.
+**[Objets merveilleux](/liste-objets-magiques/?types=Objet%20merveilleux)**. Cette catégorie regroupe les objets qui n'entrent dans aucune autre. Capes, ceintures, bottes, gants, amulettes, broches, boules de cristal et autres instruments de musique, par exemple.
 
-**[Parchemins](/liste-objets-magiques?type=Parchemin)**. Un parchemin prend généralement la forme d'un rouleau protégé dans un tube. N'importe qui capable de comprendre un langage écrit peut lire le parchemin et en utiliser la magie. La plupart des parchemins contiennent des sorts, mais certains comportent des charmes ou des incantations uniques. Utiliser un parchemin nécessite une action. Une fois utilisé, les écritures s'effacent ou le parchemin tombe en poussière. Dans tous les cas, il ne peut être utilisé qu'une seule fois.
+**[Parchemins](/liste-objets-magiques/?types=Parchemin)**. Un parchemin prend généralement la forme d'un rouleau protégé dans un tube. N'importe qui capable de comprendre un langage écrit peut lire le parchemin et en utiliser la magie. La plupart des parchemins contiennent des sorts, mais certains comportent des charmes ou des incantations uniques. Utiliser un parchemin nécessite une action. Une fois utilisé, les écritures s'effacent ou le parchemin tombe en poussière. Dans tous les cas, il ne peut être utilisé qu'une seule fois.
 
-**[Potions](/liste-objets-magiques?type=Potion)**. Toutes sortes de liquides magiques sont regroupés dans cette catégorie : breuvages, eaux sacrées, huiles. Une potion contient généralement une trentaine de millilitres. Il faut en général une action pour utiliser une potion.
+**[Potions](/liste-objets-magiques/?types=Potion)**. Toutes sortes de liquides magiques sont regroupés dans cette catégorie : breuvages, eaux sacrées, huiles. Une potion contient généralement une trentaine de millilitres. Il faut en général une action pour utiliser une potion.
 
-**[Sceptres](/liste-objets-magiques?type=Sceptre)**. Les sceptres sont des bâtonnets mesurant entre 50  cm et 1  m. La description de chaque sceptre indique la manière de l'utiliser.
+**[Sceptres](/liste-objets-magiques/?types=Sceptre)**. Les sceptres sont des bâtonnets mesurant entre 50  cm et 1  m. La description de chaque sceptre indique la manière de l'utiliser.
 
 ## Porter et manier des objets magiques
 Certains objets doivent être portés ou maniés pour pouvoir utiliser leurs propriétés magiques. Un objet magique censé être porté doit être placé sur le corps de la manière prévue : les bottes se portent aux pieds, les gants aux mains, les chapeaux et les casques sur la tête et les anneaux aux doigts. Une armure magique doit être enfilée, un bouclier sanglé au bras, une cape fixée autour des épaules, et une arme tenue en main.

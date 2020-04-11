@@ -27,7 +27,7 @@ Au moment du choix de la classe de votre personnage, même s'il n'est encore que
 En règle générale, **chaque personnage débute sa vie d'aventurier au niveau 1**.
 
 ### Sorts
-Si vous avez opté pour une classe de lanceur de sorts, vous disposez sans doute d'un certain nombre de sortilèges à choisir parmi la liste des sorts disponibles. Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts) et [Listes de sorts par classe](/grimoire).
+Si vous avez opté pour une classe de lanceur de sorts, vous disposez sans doute d'un certain nombre de sortilèges à choisir parmi la liste des sorts disponibles. Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts) et [Listes de sorts par classe](/grimoire/).
 
 ## 4. Déterminer les caractéristiques
 
@@ -138,16 +138,16 @@ Vous pouvez désormais calculer vos **bonus de compétence** et de **jets de sau
 ## 5. Équiper le personnage
 L'historique et la classe que vous avez choisis suggèrent un équipement de base, avec quelques choix possibles. Si vous souhaitez aller vite et que ces propositions vous suffisent, inscrivez simplement l'équipement sélectionné sur la fiche de votre personnage. Vous pouvez ensuite passer à l'étape suivante.
 
-Si vous préférez faire un choix plus complet, le chapitre [Équipement](/equipement) détaille les objets les plus couramment utilisés par les héros pendant leurs aventures. Il explique aussi le fonctionnement de la monnaie et les caractéristiques des armes et armures les plus courantes. Chaque objet a une valeur (généralement exprimée en pièces d'or) et un poids. En effet, même s'il est un héros, votre personnage ne peut pas espérer transporter de trop lourdes charges sans se fatiguer et être encombré. Le chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques) vous en dira plus à ce propos.
+Si vous préférez faire un choix plus complet, le chapitre [Équipement](/equipement-d-aventurier/) détaille les objets les plus couramment utilisés par les héros pendant leurs aventures. Il explique aussi le fonctionnement de la monnaie et les caractéristiques des armes et armures les plus courantes. Chaque objet a une valeur (généralement exprimée en pièces d'or) et un poids. En effet, même s'il est un héros, votre personnage ne peut pas espérer transporter de trop lourdes charges sans se fatiguer et être encombré. Le chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques) vous en dira plus à ce propos.
 
 ### Classe d'armure
-La **classe d'armure (CA)** de votre personnage détermine sa capacité à éviter les coups, mais aussi à les encaisser sans être blessé. Entrent en jeu à la fois la Dextérité du personnage et d'éventuels bonus d'armure et de bouclier. Le chapitre [Équipement - Armures](/equipement/armures) détaille le calcul de la classe d'armure en fonction de l'équipement du personnage. En règle générale, la CA de votre personnage est de 10 + la somme des modificateurs qui s'appliquent.
+La **classe d'armure (CA)** de votre personnage détermine sa capacité à éviter les coups, mais aussi à les encaisser sans être blessé. Entrent en jeu à la fois la Dextérité du personnage et d'éventuels bonus d'armure et de bouclier. Le chapitre [Équipement - Armures](/armures) détaille le calcul de la classe d'armure en fonction de l'équipement du personnage. En règle générale, la CA de votre personnage est de 10 + la somme des modificateurs qui s'appliquent.
 
-Une chose importante toutefois : pour bénéficier pleinement de la protection d'une armure ou d'un bouclier, il est nécessaire de maîtriser cet équipement. Chaque classe indique les armures maîtrisées et la possibilité d'utiliser ou non un bouclier. Porter une armure que votre personnage ne maîtrise pas vous expose à des pénalités décrites elles aussi dans le chapitre [Équipement - Armures](/equipement/armures).
+Une chose importante toutefois : pour bénéficier pleinement de la protection d'une armure ou d'un bouclier, il est nécessaire de maîtriser cet équipement. Chaque classe indique les armures maîtrisées et la possibilité d'utiliser ou non un bouclier. Porter une armure que votre personnage ne maîtrise pas vous expose à des pénalités décrites elles aussi dans le chapitre [Équipement - Armures](/armures).
 
 ### Armes et bonus d'attaque
 Pour chaque arme que porte votre personnage, il vous faut maintenant calculer le **bonus à l'attaque** lorsque vous utilisez cette arme, et les **dégâts** infligés. Le bonus à l'attaque est la somme de votre bonus de maîtrise et du modificateur de caractéristique approprié :
 * La Force si vous utilisez une arme de corps à corps. Vous pouvez aussi choisir d'utiliser la Force pour une arme à distance dotée de la propriété Lancer.
 * La Dextérité si vous utilisez une arme à distance. Vous pouvez aussi choisir d'utiliser la Dextérité pour une arme de corps à corps dotée de la propriété Finesse.
 
-Ce modificateur de caractéristique s'applique aussi aux dégâts de base de l'arme, qui sont indiqués dans la liste des armes au chapitre [Équipement](/equipement).
+Ce modificateur de caractéristique s'applique aussi aux dégâts de base de l'arme, qui sont indiqués dans la liste des armes au chapitre [Équipement - Armes](/armes/).

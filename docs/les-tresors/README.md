@@ -16,7 +16,7 @@ title: "Les trésors"
 ## Déterminer un trésor
 Les tableaux qui suivent vous aideront à déterminer les trésors découverts par les aventuriers. Avant d'utiliser les tableaux, il faut distinguer l'argent transporté par des monstres individuels ou de petits groupes et le véritable trésor d'un groupe composé de nombreuses créatures (une horde d'orcs ou un clan de géants) ou de créatures légendaires (un dragon). Le tableau [_A – trésor individuel_](#table-a) représente la somme possédée par chaque monstre individuellement. Les tableaux [_B – objets rares_](#table-b), [_C – trésor, gemmes et objets d'art_](#table-c) et [_D – objets magiques_](#table-d) permettent de déterminer le trésor d'un grand groupe, d'une créature puissante ou, pourquoi pas, la somme offerte par le commanditaire des PJ. Vous effectuerez donc un tirage par monstre sur la table A et un seul tirage par rencontre dans les tables B, C et/ou D si le tirage sur la table de base vous l'indique.
 
-Chaque tableau est divisé en colonnes, selon le niveau des PJ ajusté par la difficulté de la rencontre : -1 pour une rencontre aisée, +1 pour une rencontre ordinaire et +3 pour une rencontre ardue (voir [Construire une rencontre](/creatures-et-oppositions/construire-une-rencontre#difficulté-dune-rencontre) pour les difficultés des rencontres) Notez que ces tableaux ne sont qu'indicatifs. Chaque monstre ne transporte pas de l'argent et des objets magiques sur lui. Pour justifier la présence d'un trésor précieux auprès d'un monstre relativement faible ou peu intelligent, pensez que les objets peuvent très bien se trouver sur les cadavres des précédents aventuriers qui ont tenté d'affronter la créature.
+Chaque tableau est divisé en colonnes, selon le niveau des PJ ajusté par la difficulté de la rencontre : -1 pour une rencontre aisée, +1 pour une rencontre ordinaire et +3 pour une rencontre ardue (voir [Construire une rencontre](/construire-une-rencontre#difficulte-d-une-rencontre) pour les difficultés des rencontres) Notez que ces tableaux ne sont qu'indicatifs. Chaque monstre ne transporte pas de l'argent et des objets magiques sur lui. Pour justifier la présence d'un trésor précieux auprès d'un monstre relativement faible ou peu intelligent, pensez que les objets peuvent très bien se trouver sur les cadavres des précédents aventuriers qui ont tenté d'affronter la créature.
 §§§ .table-container
 ### Table de base
 
@@ -570,20 +570,20 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |D100|Objet magique|
 |:-:|:-|
 |**01-50**|**Potions (lancer 1d6)**|
-|1-3|[Potion de soins](/liste-objets-magiques/potion-de-soins)|
-|4|[Potion d'escalade](/liste-objets-magiques/potion-descalade)|
-|5|[Potion d'amitié avec les animaux](/liste-objets-magiques/potion-damitie-avec-les-animaux)|
-|6|[Potion de soins supérieurs](/liste-objets-magiques/potion-de-soins-superieurs)|
+|1-3|[Potion de soins](/liste-objets-magiques/potion-de-soins/)|
+|4|[Potion d'escalade](/liste-objets-magiques/potion-d-escalade/)|
+|5|[Potion d'amitié avec les animaux](/liste-objets-magiques/potion-d-amitie-avec-les-animaux/)|
+|6|[Potion de soins supérieurs](/liste-objets-magiques/potion-de-soins-superieurs/)|
 |**51-80**|**Parchemins de sorts (lancer 1d6)**|
-|1-2|1d4 (2) [tours de magie](/liste-objets-magiques/parchemin-magique-0)|
-|3-4|1d4 (2) [sorts de 1<sup>er</sup> niveau](/liste-objets-magiques/parchemin-magique-1)|
+|1-2|1d4 (2) [tours de magie](/liste-objets-magiques/parchemin-magique-0/)|
+|3-4|1d4 (2) [sorts de 1<sup>er</sup> niveau](/liste-objets-magiques/parchemin-magique-1/)|
 |5-6|1 sorts de 2 e niveau|
 |**81-90**|**Munitions magiques (lancer 1D6)**|
-|1-3|1 [munition +1](/liste-objets-magiques/munition-1)|
-|4-5|1d6 [munitions +1]((/liste-objets-magiques/munition-1))|
-|6|2d6 [munitions +1]((/liste-objets-magiques/munition-1))|
-|**91-93**|[Broche de protection](/liste-objets-magiques/broche-de-protection)|
-|**94-95**|[Sac sans fond](/liste-objets-magiques/sac-sans-fond)|
+|1-3|1 [munition +1](/liste-objets-magiques/munition-1/)|
+|4-5|1d6 [munitions +1](/liste-objets-magiques/munition-1/)|
+|6|2d6 [munitions +1](/liste-objets-magiques/munition-1/)|
+|**91-93**|[Broche de protection](/liste-objets-magiques/broche-de-protection/)|
+|**94-95**|[Sac sans fond](/liste-objets-magiques/sac-sans-fond/)|
 |**96-00**|Relancer sur [table 2](#objets-magiques-2)|
 
 §§§
@@ -594,48 +594,48 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |D100|Objet magique|
 |:-:|:-|
 |**01-25**|**Potions (lancer 1d10)**|
-|1-2|1d4 (2) [potions de soins](/liste-objets-magiques/potion-de-soins)|
-|3-4|[Potion de soins supérieurs](/liste-objets-magiques/potion-de-soins-superieurs)|
-|5|[Potion d'agrandissement](/liste-objets-magiques/potion-dagrandissement)|
-|6|[Potion d'amitié avec les animaux](/liste-objets-magiques/potion-damitie-avec-les-animaux)|
-|7|[Potion de force de géant des collines](/liste-objets-magiques/potion-de-force-de-geant-des-collines)|
-|8|[Potion de poison](/liste-objets-magiques/potion-de-poison)|
-|9|[Potion de résistance](/liste-objets-magiques/potion-de-resistance)|
-|10|[Potion de respiration aquatique](/liste-objets-magiques/potion-de-respiration-aquatique)|
+|1-2|1d4 (2) [potions de soins](/liste-objets-magiques/potion-de-soins/)|
+|3-4|[Potion de soins supérieurs](/liste-objets-magiques/potion-de-soins-superieurs/)|
+|5|[Potion d'agrandissement](/liste-objets-magiques/potion-d-agrandissement/)|
+|6|[Potion d'amitié avec les animaux](/liste-objets-magiques/potion-d-amitie-avec-les-animaux/)|
+|7|[Potion de force de géant des collines](/liste-objets-magiques/potion-de-force-de-geant-des-collines/)|
+|8|[Potion de poison](/liste-objets-magiques/potion-de-poison/)|
+|9|[Potion de résistance](/liste-objets-magiques/potion-de-resistance/)|
+|10|[Potion de respiration aquatique](/liste-objets-magiques/potion-de-respiration-aquatique/)|
 |**26-45**|**Parchemins de sorts (lancer 1d6)**|
-|1-2|1d4 (2) [sorts de 1<sup>er</sup> niveau](/liste-objets-magiques/parchemin-magique-1)|
-|3-4|1d4 (2) [sorts de 2<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-2)|
-|5-6|1d4 (2) [sorts de 3<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-3)|
+|1-2|1d4 (2) [sorts de 1<sup>er</sup> niveau](/liste-objets-magiques/parchemin-magique-1/)|
+|3-4|1d4 (2) [sorts de 2<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-2/)|
+|5-6|1d4 (2) [sorts de 3<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-3/)|
 |**46-60**|**Armes et armures (lancer 1d10)**|
-|1-3|[Arme +1](/liste-objets-magiques/arme-1)|
-|4-6|[Bouclier +1](/liste-objets-magiques/bouclier-1)|
-|7|3d6 (10) [Munitions +1](/liste-objets-magiques/munition-1)|
-|8|[Cape de protection](/liste-objets-magiques/cape-de-protection)|
-|9|[Broche de protection](/liste-objets-magiques/broche-de-protection)|
-|10|[Javeline de foudre](/liste-objets-magiques/javeline-de-foudre)|
+|1-3|[Arme +1](/liste-objets-magiques/arme-1/)|
+|4-6|[Bouclier +1](/liste-objets-magiques/bouclier-1/)|
+|7|3d6 (10) [Munitions +1](/liste-objets-magiques/munition-1/)|
+|8|[Cape de protection](/liste-objets-magiques/cape-de-protection/)|
+|9|[Broche de protection](/liste-objets-magiques/broche-de-protection/)|
+|10|[Javeline de foudre](/liste-objets-magiques/javeline-de-foudre/)|
 |**61-65**|**Baguettes, bâtons et sceptres (lancer 1d6)**|
-|1-2|[Baguette du mage de guerre +1](/liste-objets-magiques/baguette-du-mage-de-guerre-1)|
-|3-4|[Baguette de détection de la magie](/liste-objets-magiques/baguette-de-detection-de-la-magie)|
-|5|[Baguette des secrets](/liste-objets-magiques/baguette-des-secrets)|
-|6|[Sceptre inamovible](/liste-objets-magiques/sceptre-inamovible)|
-|**66-68**|[Sac sans fond](/liste-objets-magiques/sac-sans-fond)|
-|**69-71**|[Bottes de marche et de saut](/liste-objets-magiques/bottes-de-marche-et-de-saut)|
-|**72-74**|[Bottes des terres gelées](/liste-objets-magiques/bottes-des-terres-gelees)|
-|**75-79**|[Bottes elfiques](/liste-objets-magiques/bottes-elfiques)|
-|**78-80**|[Bracelets d'archerie](/liste-objets-magiques/bracelets-darcherie)|
-|**81-82**|[Cape elfique](/liste-objets-magiques/cape-elfique)|
-|**83-84**|[Carquois efficace](/liste-objets-magiques/carquois-efficace)|
-|**85**|[Amulette d'antidétection](/liste-objets-magiques/amulette-dantidetection)|
-|**86**|[Anneau de nage](/liste-objets-magiques/anneau-de-nage)|
-|**87**|[Anneau de saut](/liste-objets-magiques/anneau-de-saut)|
-|**88**|[Chaussons de l'araignée](/liste-objets-magiques/chaussons-de-laraignee)|
-|**89**|[Corde d'escalade](/liste-objets-magiques/corde-descalade)|
-|**90**|[Figurine merveilleuse de corbeau d'argent](/liste-objets-magiques/figurine-merveilleuse-de-corbeau-dargent)|
-|**91**|[Gants de nage et d'escalade](/liste-objets-magiques/gants-de-nage-et-descalade)|
-|**92**|[Pierre porte-bonheur](/liste-objets-magiques/pierre-porte-bonheur)|
-|**93**|[Poussière à éternuer](/liste-objets-magiques/poussiere-a-eternuer)|
-|**94**|[Poussière d'assèchement](/liste-objets-magiques/poussiere-dassechement)|
-|**95**|[Poussière de disparition](/liste-objets-magiques/poussiere-de-disparition)|
+|1-2|[Baguette du mage de guerre +1](/liste-objets-magiques/baguette-du-mage-de-guerre-1/)|
+|3-4|[Baguette de détection de la magie](/liste-objets-magiques/baguette-de-detection-de-la-magie/)|
+|5|[Baguette des secrets](/liste-objets-magiques/baguette-des-secrets/)|
+|6|[Sceptre inamovible](/liste-objets-magiques/sceptre-inamovible/)|
+|**66-68**|[Sac sans fond](/liste-objets-magiques/sac-sans-fond/)|
+|**69-71**|[Bottes de marche et de saut](/liste-objets-magiques/bottes-de-marche-et-de-saut/)|
+|**72-74**|[Bottes des terres gelées](/liste-objets-magiques/bottes-des-terres-gelees/)|
+|**75-79**|[Bottes elfiques](/liste-objets-magiques/bottes-elfiques/)|
+|**78-80**|[Bracelets d'archerie](/liste-objets-magiques/bracelets-d-archerie/)|
+|**81-82**|[Cape elfique](/liste-objets-magiques/cape-elfique/)|
+|**83-84**|[Carquois efficace](/liste-objets-magiques/carquois-efficace/)|
+|**85**|[Amulette d'antidétection](/liste-objets-magiques/amulette-d-antidetection/)|
+|**86**|[Anneau de nage](/liste-objets-magiques/anneau-de-nage/)|
+|**87**|[Anneau de saut](/liste-objets-magiques/anneau-de-saut/)|
+|**88**|[Chaussons de l'araignée](/liste-objets-magiques/chaussons-de-l-araignee/)|
+|**89**|[Corde d'escalade](/liste-objets-magiques/corde-d-escalade/)|
+|**90**|[Figurine merveilleuse de corbeau d'argent](/liste-objets-magiques/figurine-merveilleuse-de-corbeau-d-argent/)|
+|**91**|[Gants de nage et d'escalade](/liste-objets-magiques/gants-de-nage-et-d-escalade/)|
+|**92**|[Pierre porte-bonheur](/liste-objets-magiques/pierre-porte-bonheur/)|
+|**93**|[Poussière à éternuer](/liste-objets-magiques/poussiere-a-eternuer/)|
+|**94**|[Poussière d'assèchement](/liste-objets-magiques/poussiere-d-assechement/)|
+|**95**|[Poussière de disparition](/liste-objets-magiques/poussiere-de-disparition/)|
 |**96-00**|Relancer sur [table 3](#objets-magiques-3)|
 
 §§§
@@ -647,49 +647,49 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 2](#objets-magiques-2)|
 |**06-25**|**Potions et huiles (lancer 1d8)**|
-|1-2|[Baume revigorant](/liste-objets-magiques/baume-revigorant)|
-|3-4|[Huile glissante](/liste-objets-magiques/huile-glissante)|
-|5-6|[Philtre d'amour](/liste-objets-magiques/philtre-damour)|
-|7|[Potion de clairvoyance](/liste-objets-magiques/potion-de-clairvoyance)|
-|8|[Potion de force de géant des pierres/du givre](/liste-objets-magiques/potion-de-force-de-geant-des-pierres-du-givre)|
+|1-2|[Baume revigorant](/liste-objets-magiques/baume-revigorant/)|
+|3-4|[Huile glissante](/liste-objets-magiques/huile-glissante/)|
+|5-6|[Philtre d'amour](/liste-objets-magiques/philtre-d-amour/)|
+|7|[Potion de clairvoyance](/liste-objets-magiques/potion-de-clairvoyance/)|
+|8|[Potion de force de géant des pierres/du givre](/liste-objets-magiques/potion-de-force-de-geant-des-pierres-du-givre/)|
 |**26-45**|**Armures (lancer 1d6)**|
-|1-4|[Armure +1](/liste-objets-magiques/armure-1)|
-|5|[Armure en adamantium](/liste-objets-magiques/armure-en-adamantium)|
-|6|[Armure de mithral](/liste-objets-magiques/armure-de-mithral)|
-|**46-48**|[Amulette de santé](/liste-objets-magiques/amulette-de-sante)|
-|**49-51**|[Anneau de chaleur](/liste-objets-magiques/anneau-de-chaleur)|
-|**52-54**|[Anneau de marche sur l'eau](/liste-objets-magiques/anneau-de-marche-sur-leau)|
-|**55-57**|[Anneau de protection mentale](/liste-objets-magiques/anneau-de-protection-mentale)|
-|**58-60**|[Bâton du python](/liste-objets-magiques/baton-du-python)|
-|**61-62**|[Cartes d'illusion](/liste-objets-magiques/cartes-dillusion)|
-|**63-65**|[Gantelets de puissance d'ogre](/liste-objets-magiques/gantelets-de-puissance-dogre)|
-|**66-67**|[Gemme élémentaire](/liste-objets-magiques/gemme-elementaire)|
-|**68-69**|[Perle de puissance](/liste-objets-magiques/perle-de-puissance)|
-|**70-71**|[Sac à malice](/liste-objets-magiques/sac-a-malice)|
-|**72**|[Amulette de cicatrisation](/liste-objets-magiques/amulette-de-cicatrisation)|
-|**73**|[Balai volant](/liste-objets-magiques/balai-volant)|
-|**74**|[Bandeau d'intelligence](/liste-objets-magiques/bandeau-dintelligence)|
-|**75**|[Bottes ailées](/liste-objets-magiques/bottes-ailees)|
-|**76**|[Bouteille fumigène](/liste-objets-magiques/bouteille-fumigene)|
-|**77**|[Cape de la raie manta](/liste-objets-magiques/cape-de-la-raie-manta)|
-|**78**|[Carafe intarissable](/liste-objets-magiques/carafe-intarissable)|
-|**79**|[Chapeau de déguisement](/liste-objets-magiques/chapeau-de-deguisement)|
-|**80**|[Collier d'adaptation](/liste-objets-magiques/collier-dadaptation)|
-|**81**|[Diadème de destruction](/liste-objets-magiques/diademe-de-destruction)|
-|**82**|[Éventail enchanté](/liste-objets-magiques/eventail-enchante)|
-|**83**|[Flûte des égouts](/liste-objets-magiques/flute-des-egouts)|
-|**84**|[Flûte terrifiante](/liste-objets-magiques/flute-terrifiante)|
-|**85**|[Gants piégeurs de projectiles](/liste-objets-magiques/gants-piegeurs-de-projectiles)|
-|**86**|[Heaume de compréhension des langages](/liste-objets-magiques/heaume-de-comprehension-des-langages)|
-|**87**|[Heaume de télépathie](/liste-objets-magiques/heaume-de-telepathie)|
-|**88**|[Lanterne de révélation](/liste-objets-magiques/lanterne-de-revelation)|
-|**89**|[Lentilles de netteté](/liste-objets-magiques/lentilles-de-nettete)|
-|**90**|[Lunettes nocturnes](/liste-objets-magiques/lunettes-nocturnes)|
-|**91**|[Médaillon des pensées](/liste-objets-magiques/medaillon-des-pensees)|
-|**92**|[Œil de lynx](/liste-objets-magiques/oeil-de-lynx)|
-|**93**|[Regard charmeur](/liste-objets-magiques/regard-charmeur)|
-|**94**|[Robe d'objets pratiques](/liste-objets-magiques/robe-dobjets-pratiques)|
-|**95**|[Trident de domination aquatique](/liste-objets-magiques/trident-de-domination-aquatique)|
+|1-4|[Armure +1](/liste-objets-magiques/armure-1/)|
+|5|[Armure en adamantium](/liste-objets-magiques/armure-en-adamantium/)|
+|6|[Armure de mithral](/liste-objets-magiques/armure-de-mithral/)|
+|**46-48**|[Amulette de santé](/liste-objets-magiques/amulette-de-sante/)|
+|**49-51**|[Anneau de chaleur](/liste-objets-magiques/anneau-de-chaleur/)|
+|**52-54**|[Anneau de marche sur l'eau](/liste-objets-magiques/anneau-de-marche-sur-l-eau/)|
+|**55-57**|[Anneau de protection mentale](/liste-objets-magiques/anneau-de-protection-mentale/)|
+|**58-60**|[Bâton du python](/liste-objets-magiques/baton-du-python/)|
+|**61-62**|[Cartes d'illusion](/liste-objets-magiques/cartes-d-illusion/)|
+|**63-65**|[Gantelets de puissance d'ogre](/liste-objets-magiques/gantelets-de-puissance-d-ogre/)|
+|**66-67**|[Gemme élémentaire](/liste-objets-magiques/gemme-elementaire/)|
+|**68-69**|[Perle de puissance](/liste-objets-magiques/perle-de-puissance/)|
+|**70-71**|[Sac à malice](/liste-objets-magiques/sac-a-malice/)|
+|**72**|[Amulette de cicatrisation](/liste-objets-magiques/amulette-de-cicatrisation/)|
+|**73**|[Balai volant](/liste-objets-magiques/balai-volant/)|
+|**74**|[Bandeau d'intelligence](/liste-objets-magiques/bandeau-d-intelligence/)|
+|**75**|[Bottes ailées](/liste-objets-magiques/bottes-ailees/)|
+|**76**|[Bouteille fumigène](/liste-objets-magiques/bouteille-fumigene/)|
+|**77**|[Cape de la raie manta](/liste-objets-magiques/cape-de-la-raie-manta/)|
+|**78**|[Carafe intarissable](/liste-objets-magiques/carafe-intarissable/)|
+|**79**|[Chapeau de déguisement](/liste-objets-magiques/chapeau-de-deguisement/)|
+|**80**|[Collier d'adaptation](/liste-objets-magiques/collier-d-adaptation/)|
+|**81**|[Diadème de destruction](/liste-objets-magiques/diademe-de-destruction/)|
+|**82**|[Éventail enchanté](/liste-objets-magiques/eventail-enchante/)|
+|**83**|[Flûte des égouts](/liste-objets-magiques/flute-des-egouts/)|
+|**84**|[Flûte terrifiante](/liste-objets-magiques/flute-terrifiante/)|
+|**85**|[Gants piégeurs de projectiles](/liste-objets-magiques/gants-piegeurs-de-projectiles/)|
+|**86**|[Heaume de compréhension des langages](/liste-objets-magiques/heaume-de-comprehension-des-langages/)|
+|**87**|[Heaume de télépathie](/liste-objets-magiques/heaume-de-telepathie/)|
+|**88**|[Lanterne de révélation](/liste-objets-magiques/lanterne-de-revelation/)|
+|**89**|[Lentilles de netteté](/liste-objets-magiques/lentilles-de-nettete/)|
+|**90**|[Lunettes nocturnes](/liste-objets-magiques/lunettes-nocturnes/)|
+|**91**|[Médaillon des pensées](/liste-objets-magiques/medaillon-des-pensees/)|
+|**92**|[Œil de lynx](/liste-objets-magiques/oeil-de-lynx/)|
+|**93**|[Regard charmeur](/liste-objets-magiques/regard-charmeur/)|
+|**94**|[Robe d'objets pratiques](/liste-objets-magiques/robe-d-objets-pratiques/)|
+|**95**|[Trident de domination aquatique](/liste-objets-magiques/trident-de-domination-aquatique/)|
 |**96-00**|Relancer sur [table 4](#objets-magiques-4)|
 
 §§§
@@ -701,65 +701,65 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 3](#objets-magiques-3)|
 |**06-25**|**Potions (lancer 1d8)**|
-|1-3|[Potion de soins excellents](/liste-objets-magiques/potion-de-soins-excellents)|
-|4|[Potion d'héroïsme](/liste-objets-magiques/potion-dheroisme)|
-|5|[Potion de force de géant du feu](/liste-objets-magiques/potion-de-force-de-geant-du-feu)|
-|6|[Potion de forme gazeuse](/liste-objets-magiques/potion-de-forme-gazeuse)|
-|7|[Potion de lecture des pensées](/liste-objets-magiques/potion-de-lecture-des-pensees)|
-|8|[Potion de rétrécissement](/liste-objets-magiques/potion-de-retrecissement)|
+|1-3|[Potion de soins excellents](/liste-objets-magiques/potion-de-soins-excellents/)|
+|4|[Potion d'héroïsme](/liste-objets-magiques/potion-d-heroisme/)|
+|5|[Potion de force de géant du feu](/liste-objets-magiques/potion-de-force-de-geant-du-feu/)|
+|6|[Potion de forme gazeuse](/liste-objets-magiques/potion-de-forme-gazeuse/)|
+|7|[Potion de lecture des pensées](/liste-objets-magiques/potion-de-lecture-des-pensees/)|
+|8|[Potion de rétrécissement](/liste-objets-magiques/potion-de-retrecissement/)|
 |**26-40**|**Parchemins (lancer 1d8)**|
-|1-2|1d4 (2) [sorts de 3<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-3)|
-|3-6|1d4 (2) [sorts de 4<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-4)|
-|7-8|1d4 (2) [sorts de 5<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-5)|
+|1-2|1d4 (2) [sorts de 3<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-3/)|
+|3-6|1d4 (2) [sorts de 4<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-4/)|
+|7-8|1d4 (2) [sorts de 5<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-5/)|
 |**41-60**|**Armes (lancer 1d20)**|
-|1-5|[Arme +2](/liste-objets-magiques/arme-2)|
-|6-8|3d6 (10) [Munitions +2](/liste-objets-magiques/munition-2)|
-|9|[Arme vicieuse](/liste-objets-magiques/arme-vicieuse)|
-|10|[Dague venimeuse](/liste-objets-magiques/dague-venimeuse)|
-|11|[Épée radieuse](/liste-objets-magiques/epee-radieuse)|
-|12|[Épée voleuse de vie](/liste-objets-magiques/epee-voleuse-de-vie)|
-|13|[Épée mordante](/liste-objets-magiques/epee-mordante)|
-|14|[Épée ardente](/liste-objets-magiques/epee-ardente)|
-|15|[Hache de berserker](/liste-objets-magiques/hache-de-berserker)|
-|16|[Masse d'anéantissement](/liste-objets-magiques/masse-daneantissement)|
-|17|[Masse destructrice](/liste-objets-magiques/masse-destructrice)|
-|18|[Masse terrifiante](/liste-objets-magiques/masse-terrifiante)|
-|19|[Tueuse de géants](/liste-objets-magiques/tueuse-de-geants)|
-|20|[Tueuse de dragons](/liste-objets-magiques/tueuse-de-dragons)|
+|1-5|[Arme +2](/liste-objets-magiques/arme-2/)|
+|6-8|3d6 (10) [Munitions +2](/liste-objets-magiques/munition-2/)|
+|9|[Arme vicieuse](/liste-objets-magiques/arme-vicieuse/)|
+|10|[Dague venimeuse](/liste-objets-magiques/dague-venimeuse/)|
+|11|[Épée radieuse](/liste-objets-magiques/epee-radieuse/)|
+|12|[Épée voleuse de vie](/liste-objets-magiques/epee-voleuse-de-vie/)|
+|13|[Épée mordante](/liste-objets-magiques/epee-mordante/)|
+|14|[Épée ardente](/liste-objets-magiques/epee-ardente/)|
+|15|[Hache de berserker](/liste-objets-magiques/hache-de-berserker/)|
+|16|[Masse d'anéantissement](/liste-objets-magiques/masse-d-aneantissement/)|
+|17|[Masse destructrice](/liste-objets-magiques/masse-destructrice/)|
+|18|[Masse terrifiante](/liste-objets-magiques/masse-terrifiante/)|
+|19|[Tueuse de géants](/liste-objets-magiques/tueuse-de-geants/)|
+|20|[Tueuse de dragons](/liste-objets-magiques/tueuse-de-dragons/)|
 |**61-75**|**Armures et boucliers (lancer 1d20)**|
-|1-5|[Armure +1](/liste-objets-magiques/armure-1)|
-|6-10|[Bouclier +2](/liste-objets-magiques/bouclier-2)|
-|11-12|[Bouclier antiprojectiles](/liste-objets-magiques/bouclier-antiprojectiles)|
-|13|[Bouclier d'attraction des projectiles](/liste-objets-magiques/bouclier-dattraction-des-projectiles)|
-|14-15|[Armure de résistance](/liste-objets-magiques/armure-de-resistance)|
-|16|[Armure de vulnérabilité](/liste-objets-magiques/armure-de-vulnerabilite)|
-|17-19|[Chemise de mailles elfique](/liste-objets-magiques/chemise-de-mailles-elfique)|
-|20|[Cuir clouté glamour](/liste-objets-magiques/cuir-cloute-glamour)|
+|1-5|[Armure +1](/liste-objets-magiques/armure-1/)|
+|6-10|[Bouclier +2](/liste-objets-magiques/bouclier-2/)|
+|11-12|[Bouclier antiprojectiles](/liste-objets-magiques/bouclier-antiprojectiles/)|
+|13|[Bouclier d'attraction des projectiles](/liste-objets-magiques/bouclier-d-attraction-des-projectiles/)|
+|14-15|[Armure de résistance](/liste-objets-magiques/armure-de-resistance/)|
+|16|[Armure de vulnérabilité](/liste-objets-magiques/armure-de-vulnerabilite/)|
+|17-19|[Chemise de mailles elfique](/liste-objets-magiques/chemise-de-mailles-elfique/)|
+|20|[Cuir clouté glamour](/liste-objets-magiques/cuir-cloute-glamour/)|
 |**75-81**|**Baguettes (lancer 1d12)**|
-|1-2|[Baguette du mage de guerre +2](/liste-objets-magiques/baguette-du-mage-de-guerre-2)|
-|3-4|[Baguette de projectiles magiques](/liste-objets-magiques/baguette-de-projectiles-magiques)|
-|5|[Baguette d'éclairs](/liste-objets-magiques/baguette-declairs)|
-|6|[Baguette de boules de feu](/liste-objets-magiques/baguette-de-boules-de-feu)|
-|7|[Baguette de détection de l'ennemi](/liste-objets-magiques/baguette-de-detection-de-lennemi)|
-|8|[Baguette de paralysie](/liste-objets-magiques/baguette-de-paralysie)|
-|9|[Baguette de terreur](/liste-objets-magiques/baguette-de-terreur)|
-|10|[Baguette des entraves](/liste-objets-magiques/baguette-des-entraves)|
-|11|[Baguette entoilée](/liste-objets-magiques/baguette-entoilee)|
-|12|[Baguette merveilleuse](/liste-objets-magiques/baguette-merveilleuse)|
-|**82**|[Amulette antidote](/liste-objets-magiques/amulette-antidote)|
-|**83**|[Amulette de bonne santé](/liste-objets-magiques/amulette-de-bonne-sante)|
-|**84**|[Bottes de lévitation](/liste-objets-magiques/bottes-de-levitation)|
-|**85**|[Bottes de rapidité](/liste-objets-magiques/bottes-de-rapidite)|
-|**86**|[Cape de déplacement](/liste-objets-magiques/cape-de-deplacement)|
-|**87**|[Cape de la chauve-souris](/liste-objets-magiques/cape-de-la-chauve-souris)|
-|**88**|[Cape de prestidigitateur](/liste-objets-magiques/cape-de-prestidigitateur)|
-|**89**|[Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines)|
-|**90**|[Ceinturon des nains](/liste-objets-magiques/ceinturon-des-nains)|
-|**91**|[Corde d'enchevêtrement](/liste-objets-magiques/corde-denchevetrement)|
-|**92**|[Havresac magique](/liste-objets-magiques/havresac-magique)|
-|**93**|[Huile éthérée](/liste-objets-magiques/huile-etheree)|
-|**94**|[Menottes dimensionnelles](/liste-objets-magiques/menottes-dimensionnelles)|
-|**95**|[Puits portatif](/liste-objets-magiques/puits-portatif)|
+|1-2|[Baguette du mage de guerre +2](/liste-objets-magiques/baguette-du-mage-de-guerre-2/)|
+|3-4|[Baguette de projectiles magiques](/liste-objets-magiques/baguette-de-projectiles-magiques/)|
+|5|[Baguette d'éclairs](/liste-objets-magiques/baguette-d-eclairs/)|
+|6|[Baguette de boules de feu](/liste-objets-magiques/baguette-de-boules-de-feu/)|
+|7|[Baguette de détection de l'ennemi](/liste-objets-magiques/baguette-de-detection-de-l-ennemi/)|
+|8|[Baguette de paralysie](/liste-objets-magiques/baguette-de-paralysie/)|
+|9|[Baguette de terreur](/liste-objets-magiques/baguette-de-terreur/)|
+|10|[Baguette des entraves](/liste-objets-magiques/baguette-des-entraves/)|
+|11|[Baguette entoilée](/liste-objets-magiques/baguette-entoilee/)|
+|12|[Baguette merveilleuse](/liste-objets-magiques/baguette-merveilleuse/)|
+|**82**|[Amulette antidote](/liste-objets-magiques/amulette-antidote/)|
+|**83**|[Amulette de bonne santé](/liste-objets-magiques/amulette-de-bonne-sante/)|
+|**84**|[Bottes de lévitation](/liste-objets-magiques/bottes-de-levitation/)|
+|**85**|[Bottes de rapidité](/liste-objets-magiques/bottes-de-rapidite/)|
+|**86**|[Cape de déplacement](/liste-objets-magiques/cape-de-deplacement/)|
+|**87**|[Cape de la chauve-souris](/liste-objets-magiques/cape-de-la-chauve-souris/)|
+|**88**|[Cape de prestidigitateur](/liste-objets-magiques/cape-de-prestidigitateur/)|
+|**89**|[Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines/)|
+|**90**|[Ceinturon des nains](/liste-objets-magiques/ceinturon-des-nains/)|
+|**91**|[Corde d'enchevêtrement](/liste-objets-magiques/corde-d-enchevetrement/)|
+|**92**|[Havresac magique](/liste-objets-magiques/havresac-magique/)|
+|**93**|[Huile éthérée](/liste-objets-magiques/huile-etheree/)|
+|**94**|[Menottes dimensionnelles](/liste-objets-magiques/menottes-dimensionnelles/)|
+|**95**|[Puits portatif](/liste-objets-magiques/puits-portatif/)|
 |**96-00**|Relancer sur [table 5](#objets-magiques-5)|
 
 §§§
@@ -771,61 +771,61 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 4](#objets-magiques-4)|
 |**06-25**|**Anneaux magiques (lancer 1d12)**|
-|1-2|[Anneau d'action libre](/liste-objets-magiques/anneau-daction-libre)|
-|3-4|[Anneau d'influence animale](/liste-objets-magiques/anneau-dinfluence-animale)|
-|5|[Anneau de dérobade](/liste-objets-magiques/anneau-de-derobade)|
-|6|[Anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)|
-|7-8|[Anneau de protection](/liste-objets-magiques/anneau-de-protection)|
-|9|[Anneau de résistance](/liste-objets-magiques/anneau-de-resistance)|
-|10|[Anneau de stockage de sorts](/liste-objets-magiques/anneau-de-stockage-de-sorts)|
-|11|[Anneau de vision aux rayons X](/liste-objets-magiques/anneau-de-vision-aux-rayons-x)|
-|12|[Anneau du bélier](/liste-objets-magiques/anneau-du-belier)|
+|1-2|[Anneau d'action libre](/liste-objets-magiques/anneau-d-action-libre/)|
+|3-4|[Anneau d'influence animale](/liste-objets-magiques/anneau-d-influence-animale/)|
+|5|[Anneau de dérobade](/liste-objets-magiques/anneau-de-derobade/)|
+|6|[Anneau de légèreté](/liste-objets-magiques/anneau-de-legerete/)|
+|7-8|[Anneau de protection](/liste-objets-magiques/anneau-de-protection/)|
+|9|[Anneau de résistance](/liste-objets-magiques/anneau-de-resistance/)|
+|10|[Anneau de stockage de sorts](/liste-objets-magiques/anneau-de-stockage-de-sorts/)|
+|11|[Anneau de vision aux rayons X](/liste-objets-magiques/anneau-de-vision-aux-rayons-x/)|
+|12|[Anneau du bélier](/liste-objets-magiques/anneau-du-belier/)|
 |**26-40**|**Bâtons magiques (lancer 1d6)**|
-|1|[Bâton d'envoûtement](/liste-objets-magiques/baton-denvoutement)|
-|2|[Bâton de flétrissement](/liste-objets-magiques/baton-de-fletrissement)|
-|3-4|[Bâton de guérison](/liste-objets-magiques/baton-de-guerison)|
-|5|[Bâton des forêts](/liste-objets-magiques/baton-des-forets)|
-|6|[Bâton du grand essaim](/liste-objets-magiques/baton-du-grand-essaim)|
+|1|[Bâton d'envoûtement](/liste-objets-magiques/baton-d-envoutement/)|
+|2|[Bâton de flétrissement](/liste-objets-magiques/baton-de-fletrissement/)|
+|3-4|[Bâton de guérison](/liste-objets-magiques/baton-de-guerison/)|
+|5|[Bâton des forêts](/liste-objets-magiques/baton-des-forets/)|
+|6|[Bâton du grand essaim](/liste-objets-magiques/baton-du-grand-essaim/)|
 |**41-54**|**Figurines merveilleuses (lancer 1d8)**|
-|1|[Figurine merveilleuse de chèvres d'ivoire](/liste-objets-magiques/figurine-merveilleuse-de-chevres-divoire)|
-|2|[Figurine merveilleuse de chien d'onyx](/liste-objets-magiques/figurine-merveilleuse-de-chien-donyx)|
-|3|[Figurine merveilleuse de griffon de bronze](/liste-objets-magiques/figurine-merveilleuse-de-griffon-de-bronze)|
-|4|[Figurine merveilleuse de lions dorés](/liste-objets-magiques/figurine-merveilleuse-de-lions-dores)|
-|5|[Figurine merveilleuse de mouche d'ébène](/liste-objets-magiques/figurine-merveilleuse-de-mouche-debene)|
-|6|[Figurine merveilleuse de chouette serpentine](/liste-objets-magiques/figurine-merveilleuse-de-chouette-serpentine)|
-|7|[Figurine merveilleuse d'éléphant de marbre](/liste-objets-magiques/figurine-merveilleuse-delephant-de-marbre)|
-|8|[Figurine merveilleuse de destrier d'ébène](/liste-objets-magiques/figurine-merveilleuse-de-destrier-debene)|
+|1|[Figurine merveilleuse de chèvres d'ivoire](/liste-objets-magiques/figurine-merveilleuse-de-chevres-d-ivoire/)|
+|2|[Figurine merveilleuse de chien d'onyx](/liste-objets-magiques/figurine-merveilleuse-de-chien-d-onyx/)|
+|3|[Figurine merveilleuse de griffon de bronze](/liste-objets-magiques/figurine-merveilleuse-de-griffon-de-bronze/)|
+|4|[Figurine merveilleuse de lions dorés](/liste-objets-magiques/figurine-merveilleuse-de-lions-dores/)|
+|5|[Figurine merveilleuse de mouche d'ébène](/liste-objets-magiques/figurine-merveilleuse-de-mouche-d-ebene/)|
+|6|[Figurine merveilleuse de chouette serpentine](/liste-objets-magiques/figurine-merveilleuse-de-chouette-serpentine/)|
+|7|[Figurine merveilleuse d'éléphant de marbre](/liste-objets-magiques/figurine-merveilleuse-d-elephant-de-marbre/)|
+|8|[Figurine merveilleuse de destrier d'ébène](/liste-objets-magiques/figurine-merveilleuse-de-destrier-d-ebene/)|
 |**55-69**|Pierres ioun (lancer 1d4)|
-|1|[Pierre ioun de nourriture](/liste-objets-magiques/pierre-ioun-de-nourriture)|
-|2|[Pierre ioun de protection](/liste-objets-magiques/pierre-ioun-de-protection)|
-|3|[Pierre ioun de réserve](/liste-objets-magiques/pierre-ioun-de-reserve)|
-|4|[Pierre ioun de vigilance](/liste-objets-magiques/pierre-ioun-de-vigilance)|
-|**70**|[Ailes de vol](/liste-objets-magiques/ailes-de-vol)|
-|**71**|[Bateau pliable](/liste-objets-magiques/bateau-pliable)|
-|**72**|[Bol de contrôle des élémentaires de l'eau](/liste-objets-magiques/bol-de-controle-des-elementaires-deau)|
-|**73**|[Bracelets de défense](/liste-objets-magiques/bracelets-de-defense)|
-|**74**|[Brasero de contrôle des élémentaires du feu](/liste-objets-magiques/brasero-de-controle-des-elementaires-du-feu)|
-|**75**|[Carillon d'ouverture](/liste-objets-magiques/carillon-douverture)|
-|**76**|[Chapelet](/liste-objets-magiques/chapelet)|
-|**77**|[Collier de boules de feu](/liste-objets-magiques/collier-de-boules-de-feu)|
-|**78**|[Cor de destruction](/liste-objets-magiques/cor-de-destruction)|
-|**79**|[Cor du Valhalla d'argent](/liste-objets-magiques/cor-du-valhalla-dargent)|
-|**80**|[Cor du Valhalla de cuivre](/liste-objets-magiques/cor-du-valhalla-de-cuivre)|
-|**81**|[Cube de force](/liste-objets-magiques/cube-de-force)|
-|**82**|[Encensoir de contrôle des élémentaires de l'air](/liste-objets-magiques/encensoir-de-controle-des-elementaires-de-lair)|
-|**83**|[Fers de rapidité](/liste-objets-magiques/fers-de-rapidite)|
-|**84**|[Forteresse instantanée](/liste-objets-magiques/forteresse-instantanee)|
-|**85**|[Gemme de vision](/liste-objets-magiques/gemme-de-vision)|
-|**86**|[Gemme lumineuse](/liste-objets-magiques/gemme-lumineuse)|
-|**87**|[Heaume de téléportation](/liste-objets-magiques/heaume-de-teleportation)|
-|**88**|[Liens de fer](/liste-objets-magiques/liens-de-fer)|
-|**89**|[Manteau de résistance aux sorts](/liste-objets-magiques/manteau-de-resistance-aux-sorts)|
-|**90**|[Perle de force](/liste-objets-magiques/perle-de-force)|
-|**91**|[Pierre de contrôle des élémentaires de la Terre](/liste-objets-magiques/pierre-de-controle-des-elementaires-de-la-terre)|
-|**92**|[Plume magique](/liste-objets-magiques/plume-magique)|
-|**93**|[Robe aux yeux multiples](/liste-objets-magiques/robe-aux-yeux-multiples)|
-|**94**|[Sac de haricots](/liste-objets-magiques/sac-de-haricots)|
-|**95**|[Sceptre de suzeraineté](/liste-objets-magiques/sceptre-de-suzerainete)|
+|1|[Pierre ioun de nourriture](/liste-objets-magiques/pierre-ioun-de-nourriture/)|
+|2|[Pierre ioun de protection](/liste-objets-magiques/pierre-ioun-de-protection/)|
+|3|[Pierre ioun de réserve](/liste-objets-magiques/pierre-ioun-de-reserve/)|
+|4|[Pierre ioun de vigilance](/liste-objets-magiques/pierre-ioun-de-vigilance/)|
+|**70**|[Ailes de vol](/liste-objets-magiques/ailes-de-vol/)|
+|**71**|[Bateau pliable](/liste-objets-magiques/bateau-pliable/)|
+|**72**|[Bol de contrôle des élémentaires de l'eau](/liste-objets-magiques/bol-de-controle-des-elementaires-d-eau/)|
+|**73**|[Bracelets de défense](/liste-objets-magiques/bracelets-de-defense/)|
+|**74**|[Brasero de contrôle des élémentaires du feu](/liste-objets-magiques/brasero-de-controle-des-elementaires-du-feu/)|
+|**75**|[Carillon d'ouverture](/liste-objets-magiques/carillon-d-ouverture/)|
+|**76**|[Chapelet](/liste-objets-magiques/chapelet/)|
+|**77**|[Collier de boules de feu](/liste-objets-magiques/collier-de-boules-de-feu/)|
+|**78**|[Cor de destruction](/liste-objets-magiques/cor-de-destruction/)|
+|**79**|[Cor du Valhalla d'argent](/liste-objets-magiques/cor-du-valhalla-d-argent/)|
+|**80**|[Cor du Valhalla de cuivre](/liste-objets-magiques/cor-du-valhalla-de-cuivre/)|
+|**81**|[Cube de force](/liste-objets-magiques/cube-de-force/)|
+|**82**|[Encensoir de contrôle des élémentaires de l'air](/liste-objets-magiques/encensoir-de-controle-des-elementaires-de-l-air/)|
+|**83**|[Fers de rapidité](/liste-objets-magiques/fers-de-rapidite/)|
+|**84**|[Forteresse instantanée](/liste-objets-magiques/forteresse-instantanee/)|
+|**85**|[Gemme de vision](/liste-objets-magiques/gemme-de-vision/)|
+|**86**|[Gemme lumineuse](/liste-objets-magiques/gemme-lumineuse/)|
+|**87**|[Heaume de téléportation](/liste-objets-magiques/heaume-de-teleportation/)|
+|**88**|[Liens de fer](/liste-objets-magiques/liens-de-fer/)|
+|**89**|[Manteau de résistance aux sorts](/liste-objets-magiques/manteau-de-resistance-aux-sorts/)|
+|**90**|[Perle de force](/liste-objets-magiques/perle-de-force/)|
+|**91**|[Pierre de contrôle des élémentaires de la Terre](/liste-objets-magiques/pierre-de-controle-des-elementaires-de-la-terre/)|
+|**92**|[Plume magique](/liste-objets-magiques/plume-magique/)|
+|**93**|[Robe aux yeux multiples](/liste-objets-magiques/robe-aux-yeux-multiples/)|
+|**94**|[Sac de haricots](/liste-objets-magiques/sac-de-haricots/)|
+|**95**|[Sceptre de suzeraineté](/liste-objets-magiques/sceptre-de-suzerainete/)|
 |**96-00**|Relancer sur [table 6](#objets-magiques-6)|
 
 §§§
@@ -837,46 +837,46 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 5](#objets-magiques-5)|
 |**06-20**|Potions (lancer 1d8)|
-|1-2|[Potion de soins suprêmes](/liste-objets-magiques/potion-de-soins-supremes)|
-|3|[Potion d'invisibilité](/liste-objets-magiques/potion-dinvisibilite)|
-|4-5|[Potion de force de géant des nuages](/liste-objets-magiques/potion-de-force-de-geant-des-nuages)|
-|6|[Potion de vitesse](/liste-objets-magiques/potion-de-vitesse)|
-|7|[Potion de vol](/liste-objets-magiques/potion-de-vol)|
-|8|[Potion de force de géant des tempêtes](/liste-objets-magiques/potion-de-force-de-geant-des-tempetes)|
+|1-2|[Potion de soins suprêmes](/liste-objets-magiques/potion-de-soins-supremes/)|
+|3|[Potion d'invisibilité](/liste-objets-magiques/potion-d-invisibilite/)|
+|4-5|[Potion de force de géant des nuages](/liste-objets-magiques/potion-de-force-de-geant-des-nuages/)|
+|6|[Potion de vitesse](/liste-objets-magiques/potion-de-vitesse/)|
+|7|[Potion de vol](/liste-objets-magiques/potion-de-vol/)|
+|8|[Potion de force de géant des tempêtes](/liste-objets-magiques/potion-de-force-de-geant-des-tempetes/)|
 |**21-40**|**Parchemins (lancer 1d8)**|
-|1-2|1d4 (2) [sorts de 5<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-5)|
-|3-6|1d4 (2) [sorts de 6<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-6)|
-|7-8|1d4 (2) [sorts de 7<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-7)|
+|1-2|1d4 (2) [sorts de 5<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-5/)|
+|3-6|1d4 (2) [sorts de 6<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-6/)|
+|7-8|1d4 (2) [sorts de 7<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-7/)|
 |**41-60**|**Armes (lancer 1d20)**|
 |1-6|[Arme +3](/liste-objets-magiques/arme-3)|
-|7-11|3d6 (10) [Munitions +3](/liste-objets-magiques/munition-3)|
-|12|[Arc du serment](/liste-objets-magiques/arc-du-serment)|
-|13|[Cimeterre de célérité](/liste-objets-magiques/cimeterre-de-celerite)|
-|14|[Épée dansante](/liste-objets-magiques/epee-dansante)|
-|15|[Épée tranchante](/liste-objets-magiques/epee-tranchante)|
-|16-18|[Flèche tueuse](/liste-objets-magiques/fleche-tueuse)|
-|19|[Marteau de lancer nain](/liste-objets-magiques/marteau-de-lancer-nain)|
-|20|[Voleuse de vies](/liste-objets-magiques/voleuse-de-vies)|
+|7-11|3d6 (10) [Munitions +3](/liste-objets-magiques/munition-3/)|
+|12|[Arc du serment](/liste-objets-magiques/arc-du-serment/)|
+|13|[Cimeterre de célérité](/liste-objets-magiques/cimeterre-de-celerite/)|
+|14|[Épée dansante](/liste-objets-magiques/epee-dansante/)|
+|15|[Épée tranchante](/liste-objets-magiques/epee-tranchante/)|
+|16-18|[Flèche tueuse](/liste-objets-magiques/fleche-tueuse/)|
+|19|[Marteau de lancer nain](/liste-objets-magiques/marteau-de-lancer-nain/)|
+|20|[Voleuse de vies](/liste-objets-magiques/voleuse-de-vies/)|
 |**61-74**|**Armures et boucliers (lancer 1d12)**|
-|1-4|[Armure +2](/liste-objets-magiques/armure-2)|
-|5-7|[Bouclier +3](/liste-objets-magiques/bouclier-3)|
-|8|[Armure d'écailles de dragon](/liste-objets-magiques/armure-decailles-de-dragon)|
-|9|[Armure démoniaque](/liste-objets-magiques/armure-demoniaque)|
-|10|[Bouclier animé](/liste-objets-magiques/bouclier-anime)|
-|11|[Bouclier de protection contre la magie](/liste-objets-magiques/bouclier-de-protection-contre-la-magie)|
-|12|[Harnois nain](/liste-objets-magiques/harnois-nain)|
+|1-4|[Armure +2](/liste-objets-magiques/armure-2/)|
+|5-7|[Bouclier +3](/liste-objets-magiques/bouclier-3/)|
+|8|[Armure d'écailles de dragon](/liste-objets-magiques/armure-d-ecailles-de-dragon/)|
+|9|[Armure démoniaque](/liste-objets-magiques/armure-demoniaque/)|
+|10|[Bouclier animé](/liste-objets-magiques/bouclier-anime/)|
+|11|[Bouclier de protection contre la magie](/liste-objets-magiques/bouclier-de-protection-contre-la-magie/)|
+|12|[Harnois nain](/liste-objets-magiques/harnois-nain/)|
 |**75-86**|**Pierres Ioun (lancer 1d8)**|
-|1-2|[Pierre ioun d'absorption](/liste-objets-magiques/pierre-ioun-dabsorption)|
-|3|[Pierre ioun d'agilité](/liste-objets-magiques/pierre-ioun-dagilite)|
-|4|[Pierre ioun de dirigeant](/liste-objets-magiques/pierre-ioun-de-dirigeant)|
-|5|[Pierre ioun de force](/liste-objets-magiques/pierre-ioun-de-force)|
-|6|[Pierre ioun de vigueur](/liste-objets-magiques/pierre-ioun-de-vigueur)|
-|7|[Pierre ioun d'intellect](/liste-objets-magiques/pierre-ioun-dintellect)|
-|8|[Pierre ioun d'intuition](/liste-objets-magiques/pierre-ioun-dintuition)|
-|**87-88**|[Baguette de métamorphose](/liste-objets-magiques/baguette-de-metamorphose)|
-|**89-92**|[Baguette de mage de guerre +3](/liste-objets-magiques/baguette-du-mage-de-guerre-3)|
-|**93**|[Ceinturon de force de géant du feu](/liste-objets-magiques/ceinturon-de-force-de-geant-du-feu)|
-|**94-95**|[Ceinturon de force de géant des pierres/du givre](/liste-objets-magiques/ceinturon-de-force-de-geant-des-pierres-du-givre)|
+|1-2|[Pierre ioun d'absorption](/liste-objets-magiques/pierre-ioun-d-absorption/)|
+|3|[Pierre ioun d'agilité](/liste-objets-magiques/pierre-ioun-d-agilite/)|
+|4|[Pierre ioun de dirigeant](/liste-objets-magiques/pierre-ioun-de-dirigeant/)|
+|5|[Pierre ioun de force](/liste-objets-magiques/pierre-ioun-de-force/)|
+|6|[Pierre ioun de vigueur](/liste-objets-magiques/pierre-ioun-de-vigueur/)|
+|7|[Pierre ioun d'intellect](/liste-objets-magiques/pierre-ioun-d-intellect/)|
+|8|[Pierre ioun d'intuition](/liste-objets-magiques/pierre-ioun-d-intuition/)|
+|**87-88**|[Baguette de métamorphose](/liste-objets-magiques/baguette-de-metamorphose/)|
+|**89-92**|[Baguette de mage de guerre +3](/liste-objets-magiques/baguette-du-mage-de-guerre-3/)|
+|**93**|[Ceinturon de force de géant du feu](/liste-objets-magiques/ceinturon-de-force-de-geant-du-feu/)|
+|**94-95**|[Ceinturon de force de géant des pierres/du givre](/liste-objets-magiques/ceinturon-de-force-de-geant-des-pierres-du-givre/)|
 |**96-00**|Relancer sur [table 7](#objets-magiques-7)|
 
 §§§
@@ -888,43 +888,43 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 6](#objets-magiques-6)|
 |**06-20**|**Anneaux magiques (lancer 1d6)**|
-|1-2|[Anneau de feu d'étoiles](/liste-objets-magiques/anneau-de-feu-detoiles)|
-|3-4|[Anneau de régénération](/liste-objets-magiques/anneau-de-regeneration)|
-|5-6|[Anneau de télékinésie](/liste-objets-magiques/anneau-de-telekinesie)|
+|1-2|[Anneau de feu d'étoiles](/liste-objets-magiques/anneau-de-feu-d-etoile/)|
+|3-4|[Anneau de régénération](/liste-objets-magiques/anneau-de-regeneration/)|
+|5-6|[Anneau de télékinésie](/liste-objets-magiques/anneau-de-telekinesie/)|
 |**26-40**|**Bâtons magiques (lancer 1d10)**|
-|1-2|[Bâton de combat](/liste-objets-magiques/baton-de-combat)|
-|3-4|[Bâton de feu](/liste-objets-magiques/baton-de-feu)|
-|5-6|[Bâton de givre](/liste-objets-magiques/baton-de-givre)|
-|7-8|[Bâton de puissance](/liste-objets-magiques/baton-de-puissance)|
-|9-10|[Bâton de tonnerre et de foudre](/liste-objets-magiques/baton-de-tonnerre-et-de-foudre)|
+|1-2|[Bâton de combat](/liste-objets-magiques/baton-de-combat/)|
+|3-4|[Bâton de feu](/liste-objets-magiques/baton-de-feu/)|
+|5-6|[Bâton de givre](/liste-objets-magiques/baton-de-givre/)|
+|7-8|[Bâton de puissance](/liste-objets-magiques/baton-de-puissance/)|
+|9-10|[Bâton de tonnerre et de foudre](/liste-objets-magiques/baton-de-tonnerre-et-de-foudre/)|
 |**41-45**|**Manuels et traités (lancer 1d20)**|
-|1-3|[Manuel d'exercices physiques](/liste-objets-magiques/manuel-dexercices-physiques)|
-|4-6|[Manuel de bonne santé](/liste-objets-magiques/manuel-de-bonne-sante)|
-|7-9|[Manuel de vivacité](/liste-objets-magiques/manuel-de-vivacite)|
-|10-11|[Manuel des golems](/liste-objets-magiques/manuel-des-golems)|
-|12-14|[Traité d'autorité et d'influence](/liste-objets-magiques/traite-dauthorite-et-dinfluence)|
-|15-17|[Traité de compréhension](/liste-objets-magiques/traite-de-comprehension)|
-|18-20|[Traité de perspicacité](/liste-objets-magiques/traite-de-perspicacite)|
+|1-3|[Manuel d'exercices physiques](/liste-objets-magiques/manuel-d-exercices-physiques/)|
+|4-6|[Manuel de bonne santé](/liste-objets-magiques/manuel-de-bonne-sante/)|
+|7-9|[Manuel de vivacité](/liste-objets-magiques/manuel-de-vivacite/)|
+|10-11|[Manuel des golems](/liste-objets-magiques/manuel-des-golems/)|
+|12-14|[Traité d'autorité et d'influence](/liste-objets-magiques/traite-d-authorite-et-d-influence/)|
+|15-17|[Traité de compréhension](/liste-objets-magiques/traite-de-comprehension/)|
+|18-20|[Traité de perspicacité](/liste-objets-magiques/traite-de-perspicacite/)|
 |**46-60**|**Sceptres (lancer 1d6)**|
-|1-2|[Sceptre d'absorption](/liste-objets-magiques/sceptre-dabsorption)|
-|3-4|[Sceptre de sécurité](/liste-objets-magiques/sceptre-de-securite)|
-|5-6|[Sceptre de vigilance](/liste-objets-magiques/sceptre-de-vigilance)|
-|**61-62**|[Amulette des plans](/liste-objets-magiques/amulette-des-plans)|
-|**63-64**|[Boule de cristal](/liste-objets-magiques/boule-de-cristal)|
-|**65-66**|[Bouteille de l'éfrit](/liste-objets-magiques/bouteille-de-lefrit)|
-|**67-68**|[Cape de l'arachnide](/liste-objets-magiques/cape-de-larachnide)|
-|**69-72**|[Cierge d'invocation](/liste-objets-magiques/cierge-dinvocation)|
-|**73-74**|[Cor du Valhalla de bronze](/liste-objets-magiques/cor-du-valhalla-de-bronze)|
-|**75-76**|[Fer gelé](/liste-objets-magiques/fer-gele)|
-|**77-78**|[Fers du zéphyr](/liste-objets-magiques/fers-du-zephyr)|
-|**79-80**|[Heaume scintillant](/liste-objets-magiques/heaume-scintillant)|
-|**81-85**|[Huile d'affûtage](/liste-objets-magiques/huile-daffutage)|
-|**86**|[Miroir d'emprisonnement](/liste-objets-magiques/miroir-demprisonnement)|
-|**87-89**|[Pigments merveilleux](/liste-objets-magiques/pigments-merveilleux)|
-|**90**|[Robe aux étoiles](/liste-objets-magiques/robe-aux-etoiles)|
-|**91**|[Robe de couleurs étincelantes](/liste-objets-magiques/robe-de-couleurs-etincelantes)|
-|**92-93**|[Sac affamé](/liste-objets-magiques/sac-affame)|
-|**94-95**|[Tapis volant](/liste-objets-magiques/tapis-volant)|
+|1-2|[Sceptre d'absorption](/liste-objets-magiques/sceptre-d-absorption/)|
+|3-4|[Sceptre de sécurité](/liste-objets-magiques/sceptre-de-securite/)|
+|5-6|[Sceptre de vigilance](/liste-objets-magiques/sceptre-de-vigilance/)|
+|**61-62**|[Amulette des plans](/liste-objets-magiques/amulette-des-plans/)|
+|**63-64**|[Boule de cristal](/liste-objets-magiques/boule-de-cristal/)|
+|**65-66**|[Bouteille de l'éfrit](/liste-objets-magiques/bouteille-de-l-efrit/)|
+|**67-68**|[Cape de l'arachnide](/liste-objets-magiques/cape-de-l-arachnide/)|
+|**69-72**|[Cierge d'invocation](/liste-objets-magiques/cierge-d-invocation/)|
+|**73-74**|[Cor du Valhalla de bronze](/liste-objets-magiques/cor-du-valhalla-de-bronze/)|
+|**75-76**|[Fer gelé](/liste-objets-magiques/fer-gele/)|
+|**77-78**|[Fers du zéphyr](/liste-objets-magiques/fers-du-zephyr/)|
+|**79-80**|[Heaume scintillant](/liste-objets-magiques/heaume-scintillant/)|
+|**81-85**|[Huile d'affûtage](/liste-objets-magiques/huile-d-affutage/)|
+|**86**|[Miroir d'emprisonnement](/liste-objets-magiques/miroir-d-emprisonnement/)|
+|**87-89**|[Pigments merveilleux](/liste-objets-magiques/pigments-merveilleux/)|
+|**90**|[Robe aux étoiles](/liste-objets-magiques/robe-aux-etoiles/)|
+|**91**|[Robe de couleurs étincelantes](/liste-objets-magiques/robe-de-couleurs-etincelantes/)|
+|**92-93**|[Sac affamé](/liste-objets-magiques/sac-affame/)|
+|**94-95**|[Tapis volant](/liste-objets-magiques/tapis-volant/)|
 |**96-00**|Relancer sur [table 8](#objets-magiques-8)|
 
 §§§
@@ -936,52 +936,52 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |:-:|:-|
 |**01-05**|Relancer sur [table 6](#objets-magiques-7)|
 |**06-20**|Parchemins (lancer 1d8)|
-|1-2|1d4 (2) [sorts de 7<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-7)|
-|3-6|1d4 (2) [sorts de 8<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-8)|
-|7-8|1d4 (2) [sorts de 9<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-9)|
+|1-2|1d4 (2) [sorts de 7<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-7/)|
+|3-6|1d4 (2) [sorts de 8<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-8/)|
+|7-8|1d4 (2) [sorts de 9<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-9/)|
 |**21-35**|Armes (lancer 1d10)|
-|1-2|[Épée vorpale](/liste-objets-magiques/epee-vorpale)|
-|3-4|[Lame porte-bonheur](/liste-objets-magiques/lame-porte-bonheur)|
-|5-6|[Marteau du tonnerre](/liste-objets-magiques/marteau-du-tonnerre)|
-|7-8|[Protectrice](/liste-objets-magiques/protectrice)|
-|9-10|[Vengeresse sacrée](/liste-objets-magiques/vengeresse-sacree)|
+|1-2|[Épée vorpale](/liste-objets-magiques/epee-vorpale/)|
+|3-4|[Lame porte-bonheur](/liste-objets-magiques/lame-porte-bonheur/)|
+|5-6|[Marteau du tonnerre](/liste-objets-magiques/marteau-du-tonnerre/)|
+|7-8|[Protectrice](/liste-objets-magiques/protectrice/)|
+|9-10|[Vengeresse sacrée](/liste-objets-magiques/vengeresse-sacree/)|
 |**36-50**|**Armures (lancer 1d8)**|
-|1-4|[Armure +3](/liste-objets-magiques/armure-3)|
-|5-6|[Armure d'invulnérabilité](/liste-objets-magiques/armure-dinvulnerabilite)|
-|7-8|[Harnois éthéré](/liste-objets-magiques/harnois-ethere)|
+|1-4|[Armure +3](/liste-objets-magiques/armure-3/)|
+|5-6|[Armure d'invulnérabilité](/liste-objets-magiques/armure-d-invulnerabilite/)|
+|7-8|[Harnois éthéré](/liste-objets-magiques/harnois-ethere/)|
 |**51-60**|**Anneaux (lancer 1d10)**|
-|1-2|[Anneau d'invisibilité](/liste-objets-magiques/anneau-dinvisibilite)|
-|3-4|[Anneau de convocation de djinn](/liste-objets-magiques/anneau-de-convocation-de-djinn)|
-|5-6|[Anneau de maîtrise élémentaire](/liste-objets-magiques/anneau-de-maitrise-elementaire)|
-|7-8|[Anneau de renvoi des sorts](/liste-objets-magiques/anneau-de-renvoi-des-sorts)|
-|9-10|[Anneau de triple souhait](/liste-objets-magiques/anneau-de-triple-souhait)|
+|1-2|[Anneau d'invisibilité](/liste-objets-magiques/anneau-d-invisibilite/)|
+|3-4|[Anneau de convocation de djinn](/liste-objets-magiques/anneau-de-convocation-de-djinn/)|
+|5-6|[Anneau de maîtrise élémentaire](/liste-objets-magiques/anneau-de-maitrise-elementaire/)|
+|7-8|[Anneau de renvoi des sorts](/liste-objets-magiques/anneau-de-renvoi-des-sorts/)|
+|9-10|[Anneau de triple souhait](/liste-objets-magiques/anneau-de-triple-souhait/)|
 |**61-65**|**Boule de cristal (lancer 1d6)**|
-|1-2|[Boule de cristal de lecture des pensées](/liste-objets-magiques/boule-de-cristal-de-lecture-des-pensees)|
-|3-4|[Boule de cristal de télépathie](/liste-objets-magiques/boule-de-cristal-de-telepathie)|
-|3-5|[Boule de cristal de vision suprême](/liste-objets-magiques/boule-de-cristal-de-vision-supreme)|
+|1-2|[Boule de cristal de lecture des pensées](/liste-objets-magiques/boule-de-cristal-de-lecture-des-pensees/)|
+|3-4|[Boule de cristal de télépathie](/liste-objets-magiques/boule-de-cristal-de-telepathie/)|
+|3-5|[Boule de cristal de vision suprême](/liste-objets-magiques/boule-de-cristal-de-vision-supreme/)|
 |**66-75**|**Pierres Ioun (lancer 1d6)**|
-|1-2|[Pierre ioun d'absorption supérieure](/liste-objets-magiques/pierre-ioun-dabsorption-superieure)|
-|3-4|[Pierre ioun de maîtrise](/liste-objets-magiques/pierre-ioun-de-maitrise)|
-|5-6|[Pierre ioun de régénération](/liste-objets-magiques/pierre-ioun-de-regeneration)|
+|1-2|[Pierre ioun d'absorption supérieure](/liste-objets-magiques/pierre-ioun-d-absorption-superieure/)|
+|3-4|[Pierre ioun de maîtrise](/liste-objets-magiques/pierre-ioun-de-maitrise/)|
+|5-6|[Pierre ioun de régénération](/liste-objets-magiques/pierre-ioun-de-regeneration/)|
 |**76-80**|**Talismans (lancer 1d6)**|
-|1-2|[Talisman de la sphère](/liste-objets-magiques/talisman-de-la-sphere)|
-|3-4|[Talisman du bien ultime](/liste-objets-magiques/talisman-du-bien-ultime)|
-|5-6|[Talisman du mal ultime](/liste-objets-magiques/talisman-du-mal-ultime)|
-|**81**|[Bâton du thaumaturge](/liste-objets-magiques/baton-du-thaumaturge)|
-|**82**|[Cartes merveilleuses](/liste-objets-magiques/cartes-merveilleuses)|
-|**83**|[Ceinturon de force de géant des nuages](/liste-objets-magiques/ceinturon-de-force-de-geant-des-nuages)|
-|**84**|[Ceinturon de force de géant des tempêtes](/liste-objets-magiques/ceinturon-de-force-de-geant-des-tempetes)|
-|**85**|[Colle universelle](/liste-objets-magiques/colle-universelle)|
-|**86**|[Cor du Valhalla de fer](/liste-objets-magiques/cor-du-valhalla-de-fer)|
-|**87**|[Flasque de fer](/liste-objets-magiques/flasque-de-fer)|
-|**88**|[Portail cubique](/liste-objets-magiques/portail-cubique)|
-|**89**|[Puits des mondes](/liste-objets-magiques/puits-des-mondes)|
-|**90**|[Robe de l'archimage](/liste-objets-magiques/robe-de-larchimage)|
-|**91**|[Scarabée de protection](/liste-objets-magiques/scarabee-de-protection)|
-|**92**|[Sceptre de puissance seigneuriale](/liste-objets-magiques/sceptre-de-puissance-seigneuriale)|
-|**93**|[Solvant universel](/liste-objets-magiques/solvant-universel)|
-|**94**|[Sphère d'annihilation](/liste-objets-magiques/sphere-dannihilation)|
-|**95**|[Submersible du crabe](/liste-objets-magiques/submersible-du-crabe)|
+|1-2|[Talisman de la sphère](/liste-objets-magiques/talisman-de-la-sphere/)|
+|3-4|[Talisman du bien ultime](/liste-objets-magiques/talisman-du-bien-ultime/)|
+|5-6|[Talisman du mal ultime](/liste-objets-magiques/talisman-du-mal-ultime/)|
+|**81**|[Bâton du thaumaturge](/liste-objets-magiques/baton-du-thaumaturge/)|
+|**82**|[Cartes merveilleuses](/liste-objets-magiques/cartes-merveilleuses/)|
+|**83**|[Ceinturon de force de géant des nuages](/liste-objets-magiques/ceinturon-de-force-de-geant-des-nuages/)|
+|**84**|[Ceinturon de force de géant des tempêtes](/liste-objets-magiques/ceinturon-de-force-de-geant-des-tempetes/)|
+|**85**|[Colle universelle](/liste-objets-magiques/colle-universelle/)|
+|**86**|[Cor du Valhalla de fer](/liste-objets-magiques/cor-du-valhalla-de-fer/)|
+|**87**|[Flasque de fer](/liste-objets-magiques/flasque-de-fer/)|
+|**88**|[Portail cubique](/liste-objets-magiques/portail-cubique/)|
+|**89**|[Puits des mondes](/liste-objets-magiques/puits-des-mondes/)|
+|**90**|[Robe de l'archimage](/liste-objets-magiques/robe-de-l-archimage/)|
+|**91**|[Scarabée de protection](/liste-objets-magiques/scarabee-de-protection/)|
+|**92**|[Sceptre de puissance seigneuriale](/liste-objets-magiques/sceptre-de-puissance-seigneuriale/)|
+|**93**|[Solvant universel](/liste-objets-magiques/solvant-universel/)|
+|**94**|[Sphère d'annihilation](/liste-objets-magiques/sphere-d-annihilation/)|
+|**95**|[Submersible du crabe](/liste-objets-magiques/submersible-du-crabe/)|
 |**96-00**|Artefact (au choix du MJ)|
 
 §§§

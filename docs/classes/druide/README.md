@@ -70,9 +70,9 @@ Par exemple, si vous êtes un druide de niveau 3, vous avez quatre emplacements 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de druide vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ### Caractéristique d'incantation
-La caractéristique d'incantation qui vous permet de lancer les sorts de druide est la Sagesse, car votre magie découle de votre dévotion et de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort de druide vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'un sort de druide que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de druide est la Sagesse, car votre magie découle de votre dévotion et de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort de druide vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort de druide que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**
+**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**
 
 **Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de Sagesse**
 
@@ -80,7 +80,7 @@ La caractéristique d'incantation qui vous permet de lancer les sorts de druide 
 Vous pouvez lancer un sort de druide que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un focaliseur druidique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement/equipement-daventurier)) comme focaliseur d'incantation pour vos sorts de druide.
+Vous pouvez utiliser un focaliseur druidique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts de druide.
 
 ### Forme sauvage
 À partir du niveau 2, vous pouvez utiliser une action pour vous métamorphoser en un animal que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.
@@ -98,7 +98,7 @@ Votre niveau de druide détermine en quel animal vous pouvez vous transformer (v
 Vous pouvez conserver votre forme sauvage pendant un nombre d'heures équivalent à la moitié de votre niveau de druide (arrondi à l'entier inférieur). Vous reprenez alors forme humaine, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre forme humaine de manière anticipée en utilisant une action bonus lors de votre tour. Vous retrouvez immédiatement forme humaine si vous perdez conscience, si vous êtes réduit à 0 point de vie ou si vous mourrez.
 
 Pendant que vous êtes transformé, les règles suivantes s'appliquent :
-* Votre profil technique est remplacé par celui de l'animal dont vous avez pris la forme, mais vous conservez votre alignement, votre personnalité et vos valeurs d'Intelligence, de Sagesse et de Charisme. Vous conservez aussi toutes vos compétences et vos maîtrises de jets de sauvegarde, en plus de celles de la créature dont vous avez pris la forme. Si la créature et vous disposez d'un bonus pour la même compétence, vous conservez le plus élevé des deux. Par contre, si elle possède des actions légendaires ou des actions d'antre (voir [Créatures & Oppositions](/creatures-et-oppositions)), comme certains puissants monstres, vous ne pouvez pas les utiliser.
+* Votre profil technique est remplacé par celui de l'animal dont vous avez pris la forme, mais vous conservez votre alignement, votre personnalité et vos valeurs d'Intelligence, de Sagesse et de Charisme. Vous conservez aussi toutes vos compétences et vos maîtrises de jets de sauvegarde, en plus de celles de la créature dont vous avez pris la forme. Si la créature et vous disposez d'un bonus pour la même compétence, vous conservez le plus élevé des deux. Par contre, si elle possède des actions légendaires ou des actions d'antre (voir [Créatures & Oppositions](/comprendre-le-profil-technique-des-monstres/)), comme certains puissants monstres, vous ne pouvez pas les utiliser.
 * Quand vous vous transformez, vous adoptez aussi les dés de vie et les points de vie de la créature. Quand vous reprenez votre forme normale, vous retrouvez le nombre de points de vie que vous aviez avant de vous transformer. Néanmoins, si vous retrouvez votre forme normale après avoir été réduit à 0 point de vie, tous les dégâts supplémentaires qui ont pu vous être infligés sont transférés à votre forme normale. Par exemple, si vous subissez 10 dégâts sous votre forme sauvage alors qu'il ne vous reste qu'1 point de vie, vous reprenez votre forme normale et subissez 9 dégâts sous cette forme. Tant que ces dégâts supplémentaires ne réduisent pas vos points de vie à 0, vous restez conscient.
 * Vous ne pouvez pas lancer de sorts. Vos capacités à parler et à faire n'importe quelle action qui nécessite l'usage des mains sont limitées par les capacités de votre forme sauvage. Vous transformer ne brise cependant pas votre concentration sur un sort que vous avez déjà lancé et ne vous empêche pas d'accomplir des actions qui font partie d'un sort, comme dans le cas d'[appel de la foudre](/grimoire/appel-de-la-foudre/), si vous l'avez déjà lancé.
 * Vous conservez les bénéfices de toute aptitude propre à votre classe, à votre race ou de toute autre source. Vous pouvez les utiliser dans la mesure où votre forme sauvage vous le permet. Néanmoins, vous ne pouvez utiliser vos sens spéciaux, comme la vision dans le noir, que si votre nouvelle forme possède elle aussi ce sens.
@@ -140,7 +140,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 ##### Arctique
 | Niv. de druide | Sorts de cercle |
 |:-:|:-|
-| **3** | [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/), [_croissance d'épines_](/grimoire/croissance-depines/) |
+| **3** | [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/), [_croissance d'épines_](/grimoire/croissance-d-epines/) |
 | **5** | [_tempête de neige_](/grimoire/tempete-de-neige/), [_lenteur_](/grimoire/lenteur/) |
 | **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_tempête de grêle_](/grimoire/tempete-de-grele/) |
 | **9** | [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_cône de froid_](/grimoire/cone-de-froid/) |
@@ -209,13 +209,13 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 #### Traversée des terrains
 À partir du niveau 6, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.
 
-En plus de cela, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur les jets de sauvegarde contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort _enchevêtrement_.
+En plus de cela, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort _enchevêtrement_.
 
 #### Enfant de la nature
-Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage#charmé) ou [_terrorisé_](/gerer-la-sante-du-personnage#terrorisé) par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.
+Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.
 
 #### Sanctuaire de la nature
-Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse contre votre DD de sauvegarde de sorts de druide. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement. Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
+Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre votre DD de sauvegarde de sorts de druide. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement. Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 
 La créature est consciente de cet effet avant de vous attaquer.
 
@@ -305,7 +305,7 @@ L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour rési
 #### Jeunesse éternelle
 Au niveau 18, lorsque vous faites l'acquisition de cette aptitude, votre âge apparent se met à varier en fonction des saisons. Durant la cérémonie de l'équinoxe du printemps, vous rajeunissez jusqu'à ce que votre apparence soit celle d'un adolescent d'une quinzaine d'années pour un humain ou l'équivalent pour une autre race (votre équipement s'adapte par magie à votre nouvelle taille). Chaque jour, vous vieillissez imperceptiblement. Au moment du solstice d'été, vous êtes en pleine force de l'âge (environ trente ans pour un humain) et l'équinoxe vous trouve sur la pente déclinante de la vie (environ cinquante ans). Lorsque vient le solstice d'hiver, la vieillesse vous a rattrapé et vous paraissez avoir environ soixante-dix ans tout en étant toujours aussi vigoureux. Le dernier jour de l'hiver, vous êtes racorni et prêt à vous éteindre mais, dès la cérémonie de l'équinoxe terminée, vous retrouvez la jeunesse du printemps. Vous ne vieillissez réellement que d'un an pour vingt années qui passent.
 
-De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests sur une caractéristique qui dépend de votre âge apparent et de la saison :
+De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests sur une caractéristique qui dépend de votre âge apparent et de la saison :
 * **Printemps** : Dextérité
 * **Été** : Force
 * **Automne** : Sagesse
@@ -315,7 +315,7 @@ Cette aptitude remplace et annule l'aptitude du même nom obtenue par les druide
 
 ### Cercle des fées
 #### Ami des fées
-Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langage sylvain (langue exotique). De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des fées.
+Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langage sylvain (langue exotique). De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des fées.
 
 #### Magie des fées
 Également au niveau 2, vous apprenez les tours de magie [_illusion mineure_](/grimoire/illusion-mineure/) et [_lumières dansantes_](/grimoire/lumieres-dansantes/). De plus, vous pouvez dépenser une utilisation de votre forme sauvage pour lancer un sort féerique sans dépenser d'emplacement de sort.

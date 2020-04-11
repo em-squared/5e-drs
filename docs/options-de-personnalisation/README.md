@@ -10,7 +10,7 @@ Grâce à cette règle, vous avez la possibilité de gagner un niveau dans une n
 En avançant dans les niveaux, vous pouvez choisir de rester fidèle à votre classe d'origine et de gagner juste quelques niveaux dans une autre classe, ou vous pouvez complètement changer d'orientation et ne plus tenir compte de la classe que vous ne développez plus. Vous pouvez même vous lancer dans une troisième ou une quatrième classe. Par rapport à des personnages de même niveau qui restent fidèles à une unique classe, vous sacrifiez la spécialisation pour la polyvalence.
 
 ### Prérequis
-Afin de vous qualifier pour une nouvelle classe, vous devez posséder des valeurs de caractéristiques spécifiques correspondant à votre classe actuelle et à celle que vous voulez acquérir. Ces valeurs sont indiquées dans le [tableau des prérequis du multiclassage](#prérequis-de-multiclassage). Par exemple, un barbare qui décide d'adopter en plus la classe druide doit avoir des valeurs de Force et de Sagesse de 13 ou plus. Un personnage multiclassé n'a en effet pas bénéficié de la formation complète d'un personnage qui débute normalement dans une classe, et il doit donc faire preuve de prédispositions (qui se traduisent par des valeurs de caractéristiques au-dessus de la moyenne) qui lui permettent d'assimiler rapidement les principes propres à cette nouvelle classe.
+Afin de vous qualifier pour une nouvelle classe, vous devez posséder des valeurs de caractéristiques spécifiques correspondant à votre classe actuelle et à celle que vous voulez acquérir. Ces valeurs sont indiquées dans le [tableau des prérequis du multiclassage](#prerequis-de-multiclassage). Par exemple, un barbare qui décide d'adopter en plus la classe druide doit avoir des valeurs de Force et de Sagesse de 13 ou plus. Un personnage multiclassé n'a en effet pas bénéficié de la formation complète d'un personnage qui débute normalement dans une classe, et il doit donc faire preuve de prédispositions (qui se traduisent par des valeurs de caractéristiques au-dessus de la moyenne) qui lui permettent d'assimiler rapidement les principes propres à cette nouvelle classe.
 
 §§§ .table-container
 #### Prérequis de multiclassage
@@ -41,13 +41,13 @@ Votre classe vous permet de gagner des points de vie ainsi que cela est décrit 
 Afin de former votre réserve de dés de vie, regroupez tous les dés de vie accordés par vos classes. Si les dés de vie sont tous du même type, vous pouvez simplement les regrouper de manière indifférenciée. Par exemple, le guerrier et le paladin utilisent tous les deux un d10, donc si vous êtes un paladin 5/guerrier 5, vous utilisez 10d10 pour vos dés de vie. Si vos classes vous indiquent des dés de vie de types différents, vous devez les comptabiliser séparément. Par exemple, si vous êtes un paladin 5/ clerc 5, vous aurez 5d10 + 5d8 pour vos dés de vie.
 
 ### Bonus de maîtrise
-Votre bonus de maîtrise se base toujours sur le niveau de votre personnage, comme vous pouvez le voir dans le [tableau d'évolution des personnages](/creation-du-personnage/au-dela-du-niveau-1#évolution-des-personnages) dans le chapitre [Création du personnage - Au-delà du niveau 1](/creation-du-personnage/au-dela-du-niveau-1) et non sur le niveau d'une classe donnée. Par exemple, si vous êtes un guerrier 3/roublard 2, vous avez le niveau de maîtrise d'un personnage de niveau 5, qui est de +3.
+Votre bonus de maîtrise se base toujours sur le niveau de votre personnage, comme vous pouvez le voir dans le [tableau d'évolution des personnages](/au-dela-du-niveau-1#evolution-des-personnages) dans le chapitre [Création du personnage - Au-delà du niveau 1](/au-dela-du-niveau-1) et non sur le niveau d'une classe donnée. Par exemple, si vous êtes un guerrier 3/roublard 2, vous avez le niveau de maîtrise d'un personnage de niveau 5, qui est de +3.
 
 ### Maîtrises
-Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre classe initiale, vous ne gagnez qu'une partie des maîtrises de départ de cette nouvelle classe, ainsi que vous pouvez le voir dans le [tableau des maîtrises multiclasses](#tableau-des-maîtrises-multiclasses).
+Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre classe initiale, vous ne gagnez qu'une partie des maîtrises de départ de cette nouvelle classe, ainsi que vous pouvez le voir dans le [tableau des maîtrises multiclasses](#tableau-des-maitrises-multiclasses).
 
-§§§ .table-container
 #### Tableau des maîtrises multiclasses
+§§§ .table-container
 
 | Classe | Maîtrises obtenus |
 |:-|:-|
@@ -135,18 +135,18 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 §§§ .column-count-3 .print-invisible
 * [Acrobate](#acrobate)
 * [Ambidextre](#ambidextre)
-* [Arbalétrier](#arbalétrier)
+* [Arbalétrier](#arbaletrier)
 * [Archer](#archer)
-* [Archer monté](#archer-monté)
+* [Archer monté](#archer-monte)
 * [Bagarreur](#bagarreur)
-* [Botte secrète](#botte-secrète)
-* [Caméléon](#caméléon)
+* [Botte secrète](#botte-secrete)
+* [Caméléon](#cameleon)
 * [Cavalier](#cavalier)
-* [Combattant en équipe](#combattant-en-équipe)
-* [Chef né](#chef-né)
-* [Concentré](#concentré)
+* [Combattant en équipe](#combattant-en-equipe)
+* [Chef né](#chef-ne)
+* [Concentré](#concentre)
 * [Coriace](#coriace)
-* [Destiné](#destiné)
+* [Destiné](#destine)
 * [Destructeur](#destructeur)
 * [Docte](#docte)
 * [Enfant des profondeurs](#enfant-des-profondeurs)
@@ -157,39 +157,39 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 * [Expert en armes lourdes](#expert-en-armes-lourdes)
 * [Expert en armures](#expert-en-armures)
 * [Expert au bouclier](#expert-au-bouclier)
-* [Expert en manœuvres](#expert-en-manœuvres)
-* [Fantassin léger](#fantassin-léger)
-* [Fantassin intermédiaire](#fantassin-intermédiaire)
+* [Expert en manœuvres](#expert-en-manoeuvres)
+* [Fantassin léger](#fantassin-leger)
+* [Fantassin intermédiaire](#fantassin-intermediaire)
 * [Fantassin lourd](#fantassin-lourd)
-* [Féroce](#féroce)
-* [Fléau des mages](#fléau-des-mages)
+* [Féroce](#feroce)
+* [Fléau des mages](#fleau-des-mages)
 * [Furtif](#furtif)
 * [Impitoyable](#impitoyable)
 * [Infatigable](#infatigable)
-* [Initié des arcanes](#initié-des-arcanes)
-* [Initié de la foi](#initié-de-la-foi)
+* [Initié des arcanes](#initie-des-arcanes)
+* [Initié de la foi](#initie-de-la-foi)
 * [Lutteur](#lutteur)
 * [Mage combattant](#mage-combattant)
-* [Mains de guérisseur](#mains-de-guérisseur)
-* [Maître empoisonneur](#maître-empoisonneur)
+* [Mains de guérisseur](#mains-de-guerisseur)
+* [Maître empoisonneur](#maitre-empoisonneur)
 * [Pilleur de tombes](#pilleur-de-tombes)
 * [Sang de sorcier](#sang-de-sorcier)
-* [Sang des étoiles](#sang-des-étoiles)
-* [Sort de prédilection](#sort-de-prédilection)
+* [Sang des étoiles](#sang-des-etoiles)
+* [Sort de prédilection](#sort-de-predilection)
 * [Talentueux](#talentueux)
-* [Tireur d'élite](#tireur-délite)
-* [Touche-à-tout](#touche-à-tout)
-* [Vétéran](#vétéran)
+* [Tireur d'élite](#tireur-d-elite)
+* [Touche-à-tout](#touche-a-tout)
+* [Vétéran](#veteran)
 * [Vigilant](#vigilant)
-* [Volonté de fer](#volonté-de-fer)
+* [Volonté de fer](#volonte-de-fer)
 §§§
 
 #### Acrobate
 Vous avez passé de longues heures à pratiquer des exercices de haute voltige, d'escalade et de culbute afin d'améliorer vos performances acrobatiques. Lorsque vous ne portez pas d'armure plus lourde qu'une armure légère, vous obtenez les atouts suivants.
 * Vous pouvez utiliser votre valeur et votre modificateur de Dextérité plutôt que ceux de Force pour déterminer la distance franchie lorsque vous effectuez un saut ou pour les tests d'escalade.
-* Lorsque vous utilisez l'action [_se précipiter_](/combattre#se-précipiter), vous ne divisez plus votre vitesse par deux si vous êtes en terrain difficile ou si vous utilisez l'escalade pour vous dé­placer.
+* Lorsque vous utilisez l'action [_se précipiter_](/combattre/#se-precipiter), vous ne divisez plus votre vitesse par deux si vous êtes en terrain difficile ou si vous utilisez l'escalade pour vous dé­placer.
 * Vous pouvez utiliser votre réaction pour annuler une attaque d'opportunité dirigée contre vous.
-* Vous pouvez utiliser votre réaction pour vous relever lorsque vous êtes [_à terre_](/gerer-la-sante-du-personnage#à-terre).
+* Vous pouvez utiliser votre réaction pour vous relever lorsque vous êtes [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 #### Ambidextre
 Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices différents parmi les cinq présentés ci-dessous. Ce choix est définitif.
@@ -201,23 +201,23 @@ Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices diffé
 
 #### Arbalétrier
 Au cours de longues années de pratique, vous avez appris à transformer votre arbalète en instrument de mort, même en combat rapproché.
-* Vous pouvez ignorer le [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lorsque vous attaquez avec une arbalète à moins de 1,50 mètre d'un adversaire.
-* Au premier round de combat, si votre arbalète est chargée et que vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage#surpris), vous pouvez utiliser votre réaction pour tirer sur un adversaire avant votre propre tour, jusqu'à la portée normale.
+* Vous pouvez ignorer le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous attaquez avec une arbalète à moins de 1,50 mètre d'un adversaire.
+* Au premier round de combat, si votre arbalète est chargée et que vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous pouvez utiliser votre réaction pour tirer sur un adversaire avant votre propre tour, jusqu'à la portée normale.
 * Lorsque vous utilisez l'action [_attaquer_](/combattre#attaquer) avec une arbalète, si cette action vous permet habituellement de faire plusieurs attaques, vous lancez autant de fois les dés de dégât que vous avez d'attaques pour déterminer les dégâts de votre arbalète.
-* Vous pouvez utiliser une action bonus pour viser et obtenir l'[_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en attaque.
+* Vous pouvez utiliser une action bonus pour viser et obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque.
 
 #### Archer
 Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 * Vous doublez la portée normale de l'arme, mais pas sa portée maximum. (Associé à Tireur d'élite, vous quadruplez cette portée.)
-* Jusqu'à 20 mètres, lorsque vous réalisez une attaque à distance avec un arc, vous pouvez tirer simultanément deux flèches au lieu d'une seule en utilisant votre réaction. Vous devez déclarer que vous utilisez votre réaction avant de lancer le dé du [jet d'attaque](/combattre#jets-dattaque). Vous devez viser la même cible ou deux cibles distantes de moins de 3 mètres.
-* En cas de réussite du [jet d'attaque](/combattre#jets-dattaque) contre la CA de la seconde cible, la seconde flèche inflige seulement le dé de dégâts normal, sans aucun modificateur (caractéristique, magie ou autre dé bonus).
-* Lorsque vous obtenez un coup critique sur un [jet d'attaque](/combattre#jets-dattaque) à l'arc, votre flèche se fiche dans le corps de votre cible et lui impose un désavantage à tous ses jets au d20 tant qu'elle ne la retire pas. Il faut utiliser une action pour retirer la flèche et cela inflige 1d4 points de dégâts perforants.
+* Jusqu'à 20 mètres, lorsque vous réalisez une attaque à distance avec un arc, vous pouvez tirer simultanément deux flèches au lieu d'une seule en utilisant votre réaction. Vous devez déclarer que vous utilisez votre réaction avant de lancer le dé du [jet d'attaque](/combattre/#jets-d-attaque). Vous devez viser la même cible ou deux cibles distantes de moins de 3 mètres.
+* En cas de réussite du [jet d'attaque](/combattre/#jets-d-attaque) contre la CA de la seconde cible, la seconde flèche inflige seulement le dé de dégâts normal, sans aucun modificateur (caractéristique, magie ou autre dé bonus).
+* Lorsque vous obtenez un coup critique sur un [jet d'attaque](/combattre/#jets-d-attaque) à l'arc, votre flèche se fiche dans le corps de votre cible et lui impose un désavantage à tous ses jets au d20 tant qu'elle ne la retire pas. Il faut utiliser une action pour retirer la flèche et cela inflige 1d4 points de dégâts perforants.
 
 #### Archer monté
-Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et à utiliser ce mouvement à votre avantage. Si vous êtes sur votre monture (contrôlée) et que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé), vous disposez des bénéfices suivants :
+Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et à utiliser ce mouvement à votre avantage. Si vous êtes sur votre monture (contrôlée) et que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), vous disposez des bénéfices suivants :
 * Vous pouvez dépenser votre réaction pour obtenir un abri partiel contre une attaque à distance ou un sort en vous abritant derrière votre monture.
 * Vous pouvez faire une attaque à distance en utilisant une action bonus si vous utilisez une arme de lancer ou un arc.
-* Vous annulez le [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lié au fait d'effectuer une attaque à distance au corps-à-corps.
+* Vous annulez le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lié au fait d'effectuer une attaque à distance au corps-à-corps.
 
 #### Bagarreur
 Que vous soyez adepte d'un art martial ou du combat appris à la dure dans la rue, vous êtes un expert du combat à mains nues.
@@ -227,34 +227,34 @@ Que vous soyez adepte d'un art martial ou du combat appris à la dure dans la ru
 * Lorsqu'une créature rate une attaque de corps-à-corps contre vous et que vos deux mains sont libres, vous pouvez utiliser votre réaction pour tenter de l'empoigner ou de la bousculer.
 
 #### Botte secrète
-Au cours de vos aventures ou de votre éducation martiale, vous avez appris d'un vieux maître ou d'un adversaire vaincu une botte secrète que vous seul connaissez. Cette botte secrète est propre à un type d'arme en particulier que vous maîtrisez (épée longue, hache d'arme, etc.). La botte secrète vous confère l'[_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur votre attaque et, en cas de succès de celle-ci, votre adversaire subit un effet de votre choix parmi les trois suivants :
+Au cours de vos aventures ou de votre éducation martiale, vous avez appris d'un vieux maître ou d'un adversaire vaincu une botte secrète que vous seul connaissez. Cette botte secrète est propre à un type d'arme en particulier que vous maîtrisez (épée longue, hache d'arme, etc.). La botte secrète vous confère l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre attaque et, en cas de succès de celle-ci, votre adversaire subit un effet de votre choix parmi les trois suivants :
 * Vous empoignez l'adversaire.
 * Vous bousculez l'adversaire.
-* Vous ajoutez aux dégâts 1d6 par point de votre bonus de maîtrise. Si votre adversaire réussit un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'Intelligence (DD = 8 + votre bonus de maîtrise + votre modificateur de Dextérité), il divise par deux ces dégâts supplémentaires.
+* Vous ajoutez aux dégâts 1d6 par point de votre bonus de maîtrise. Si votre adversaire réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence (DD = 8 + votre bonus de maîtrise + votre modificateur de Dextérité), il divise par deux ces dégâts supplémentaires.
 
 Après avoir utilisé votre botte secrète, que l'attaque soit un succès ou un échec, vous devez attendre au moins 5 minutes avant de pouvoir à nouveau en faire usage. Vous pouvez choisir un effet différent à chaque fois que vous utilisez cette aptitude.
 
 #### Caméléon
 Vous avez une capacité innée à vous adapter à n'importe quelle situation et à vous faire passer pour compétent dans des domaines qui vous sont inconnus.
 * Vous augmentez votre valeur de Charisme de 1 sans dépasser  20.
-* Vous disposez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur tous vos tests de Charisme (Persuasion) et de Charisme (Supercherie) lorsqu'il s'agit de vous faire passer pour compétent dans un domaine qui n'est pas le vôtre.
-* Lorsque vous observez quelqu'un de compétent utiliser une compétence que vous ne possédez pas, vous pouvez tenter de l'imiter. Jusqu'à la fin du round suivant, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à votre test sur cette compétence.
+* Vous disposez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous vos tests de Charisme (Persuasion) et de Charisme (Supercherie) lorsqu'il s'agit de vous faire passer pour compétent dans un domaine qui n'est pas le vôtre.
+* Lorsque vous observez quelqu'un de compétent utiliser une compétence que vous ne possédez pas, vous pouvez tenter de l'imiter. Jusqu'à la fin du round suivant, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre test sur cette compétence.
 
 #### Cavalier
-Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle. Lorsque vous êtes sur votre monture et que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé), vous obtenez les bénéfices suivants :
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous vos tests pour rester en selle et, si vous êtes _renversé_ à dos de monture, vous arrivez automatiquement debout sur vos pieds.
-* Toutes les attaques dirigées contre votre monture subissent un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage).
+Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle. Lorsque vous êtes sur votre monture et que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), vous obtenez les bénéfices suivants :
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests pour rester en selle et, si vous êtes _renversé_ à dos de monture, vous arrivez automatiquement debout sur vos pieds.
+* Toutes les attaques dirigées contre votre monture subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 * Lorsque votre monture subit une attaque, vous pouvez choisir de subir les dégâts à sa place.
 * Lorsqu'un sort de zone prend pour effet à la fois votre monture et vous, vous ne subissez qu'une seule fois les dégâts (vous utilisez votre propre jet de sauvegarde) et vous pouvez répartir les dégâts subis à votre guise entre vous et votre monture.
 
 #### Combattant en équipe
 Vous avez été entraîné à combattre au sein d'une unité et vous êtes sensible aux notions militaires de fixation et de soutien.
-* Lorsque vous réussissez une attaque de corps-à-corps, vous pouvez utiliser une action bonus pour focaliser l'attention de cet adversaire sur vous. La première attaque effectuée par un allié contre cet adversaire avant votre prochain tour bénéficie d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au [jet d'attaque](/combattre#jets-dattaque).
-* À votre tour, vous pouvez utiliser une action bonus pour soutenir un allié à moins de 1,50 mètres de vous. La première attaque effectuée contre cet allié avant votre prochain tour souffre d'un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au [jet d'attaque](/combattre#jets-dattaque).
+* Lorsque vous réussissez une attaque de corps-à-corps, vous pouvez utiliser une action bonus pour focaliser l'attention de cet adversaire sur vous. La première attaque effectuée par un allié contre cet adversaire avant votre prochain tour bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque).
+* À votre tour, vous pouvez utiliser une action bonus pour soutenir un allié à moins de 1,50 mètres de vous. La première attaque effectuée contre cet allié avant votre prochain tour souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque).
 
 #### Chef né
 Vous êtes un leader né, vous savez trouver les mots justes pour redonner force et espoir et, à vos côtés, vos alliés donnent le meilleur d'eux-mêmes. Vous pouvez utiliser ce don autant de fois que votre modificateur de Charisme. Vous devez terminer un repos court ou long pour pouvoir de nouveau utiliser cette aptitude. À chaque utilisation, vous obtenez un des effets suivant au choix :
-* Vous pouvez utiliser une action bonus pour encourager un compagnon à moins de 30 mètres. Il obtient un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur un test de votre choix à ce round.
+* Vous pouvez utiliser une action bonus pour encourager un compagnon à moins de 30 mètres. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test de votre choix à ce round.
 * Vous pouvez utiliser votre action pour motiver un compagnon à moins de 12 mètres, il gagne un nombre de points de vie temporaires égal à son niveau. Une créature ne peut bénéficier une nouvelle fois de l'un ou l'autre des bonus de ce don avant d'avoir pris un repos court ou long.
 
 #### Concentré
@@ -271,12 +271,12 @@ Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 #### Destiné
 Il semble que vous soyez destiné à accomplir de grandes choses. Vous possédez un nombre maximal de points de destin égal à votre bonus de maîtrise. Vous récupérez 1 point de destin après chaque repos long.
 * Vous pouvez dépenser un point de destin pour obtenir 10 au résultat d'un d20, même après avoir pris connaissance du résultat, mais avant de déterminer l'issue de l'action.
-* Vous pouvez dépenser 3 points de destin pour obtenir un bonus de +10 sur le résultat d'un test de caractéristique ou d'un [jet d'attaque](/combattre#jets-dattaque) ou [de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde).
+* Vous pouvez dépenser 3 points de destin pour obtenir un bonus de +10 sur le résultat d'un test de caractéristique ou d'un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 #### Destructeur
 Vous vous êtes spécialisé dans un type de sorts et, avec ces sorts, votre capacité de destruction est sans égale.
 * Choisissez un type de dégâts parmi acide, froid, feu, foudre, tonnerre, nécrotique, radiant, force et psychique. Lorsque vous infligez des dégâts de ce type, vous obtenez un bonus de +1 par dé.
-* Vous doublez la portée des sorts qui infligent des dégâts de ce type mais, au-delà de la portée normale, vous subissez un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en attaque et les cibles obtiennent un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde).
+* Vous doublez la portée des sorts qui infligent des dégâts de ce type mais, au-delà de la portée normale, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque et les cibles obtiennent un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 Vous pouvez choisir ce don plusieurs fois, mais vous devez choisir à chaque fois un type de dégâts différent.
 
@@ -289,17 +289,17 @@ Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informa
 #### Enfant des profondeurs
 Vous avez vécu de longues périodes sans lumière, dans les profondeurs de la terre.
 * Vous bénéficiez de la vision dans le noir à une portée de 18 mètres. Si vous disposez déjà de cette aptitude, la portée en est doublée.
-* Lorsque vous souffrez de l'état aveuglé, vous pouvez utiliser une action bonus pour annuler au choix le [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) que vous subissez aux attaques au corps-à-corps ou l'[_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) qu'obtiennent vos adversaires, jusqu'au début de votre prochain tour.
+* Lorsque vous souffrez de l'état aveuglé, vous pouvez utiliser une action bonus pour annuler au choix le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) que vous subissez aux attaques au corps-à-corps ou l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) qu'obtiennent vos adversaires, jusqu'au début de votre prochain tour.
 * Vous savez toujours dans quelle direction se situe le Nord ou l'accès la surface.
 
 #### Escrimeur
 Vous avez appris les subtilités du duel à l'arme blanche et maîtrisez parfaitement la discipline et le style de combat rapide et précis qu'impose l'escrime. Lorsque vous utilisez une arme de corps-à-corps dotée de la propriété finesse et que vous portez une armure légère (ou aucune armure) sans bouclier, vous pouvez obtenir un seul des bénéfices suivants à chaque round :
-* Lorsqu'un adversaire vous attaque avec une arme de mêlée dotée de la propriété lourde, vous pouvez utiliser votre réaction pour lui imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en attaque.
+* Lorsqu'un adversaire vous attaque avec une arme de mêlée dotée de la propriété lourde, vous pouvez utiliser votre réaction pour lui imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque.
 * Vous pouvez utiliser une action bonus afin de doubler votre bonus de maîtrise sur une attaque.
 
 #### Expert en armes de jet
 Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous êtes d'une précision légendaire.
-* Lorsque vous attaquez un adversaire situé à plus de 1,50 mètre avec une arme qui dispose de la propriété lancer, si vous êtes engagé au corps-à-corps, vous annulez le [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour cette attaque.
+* Lorsque vous attaquez un adversaire situé à plus de 1,50 mètre avec une arme qui dispose de la propriété lancer, si vous êtes engagé au corps-à-corps, vous annulez le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour cette attaque.
 * Lorsque vous tenez en main une arme qui dispose de la propriété lancer, une créature hostile qui s'approche à moins de 4,50 mètres de vous déclenche une attaque d'opportunité qui doit obligatoirement être effectuée avec cette arme.
 * Vous doublez la portée normale des armes dotées de la propriété « lancer », sans toutefois accroître leur portée maximale.
 
@@ -324,21 +324,21 @@ Vous savez tirer le meilleur parti possible des armes les plus lourdes et les pl
 Vous savez utiliser au mieux la protection que votre armure vous offre pour atténuer un coup. Vous obtenez les bénéfices suivants :
 * Vous augmentez au choix votre valeur de Force ou de Dextérité de 1, sans dépasser le maximum de 20.
 * Vous obtenez la résistance aux dégâts sur une attaque de corps-à-corps en utilisant votre réaction. Vous décidez l'utilisation de cette réaction après le test d'attaque mais avant le jet de dégâts adverse. Si vous portez une armure légère ou intermédiaire, vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude. S'il s'agit d'une armure lourde, vous pouvez l'utiliser deux fois après chaque repos court ou long.
-* Lorsque vous portez une armure légère ou intermédiaire, vous ignorez le [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en Discrétion qu'impose votre armure.
+* Lorsque vous portez une armure légère ou intermédiaire, vous ignorez le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en Discrétion qu'impose votre armure.
 
 Si vous changez d'armure, cela ne modifie pas le nombre d'utilisation de cette aptitude depuis votre dernier repos, mais seulement le nombre maximum d'utilisation à votre disposition. Par exemple, si vous avez déjà bénéficié une fois de la résistance, vous ne pouvez plus l'utiliser en armure légère ou intermédiaire, mais vous pouvez encore l'utiliser une fois si vous revêtez une armure lourde.
 
 #### Expert au bouclier
 Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d'ailleurs appris à vous en servir autant pour vous défendre que pour attaquer vos adversaires. Lorsque vous utiliser un bouclier dans une de vos mains :
-* Vous pouvez utiliser votre réaction pour obtenir un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets de sauvegarde de Dextérité contre tous les sorts qui permettent de réduire ou d'annuler les dégâts sur une sauvegarde réussie.
+* Vous pouvez utiliser votre réaction pour obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde de Dextérité contre tous les sorts qui permettent de réduire ou d'annuler les dégâts sur une sauvegarde réussie.
 * Vous pouvez utiliser votre bouclier comme une arme légère (1d4 dégâts contondants) tenue dans la seconde main et bénéficier des possibilités du combat à deux armes en plus de son bonus à la CA.
-* Vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à un adversaire sur une attaque de corps-à-corps, à distance ou de sort si vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage#surpris).
+* Vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un adversaire sur une attaque de corps-à-corps, à distance ou de sort si vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris).
 
 #### Expert en manœuvres
 Vous avez étudié des méthodes alternatives de remporter un combat en maîtrisant votre adversaire plutôt qu'en lui infligeant des blessures. Vous obtenez les bénéfices suivants :
 * Vous augmentez au choix votre valeur de Force ou de Dextérité de 1, sans dépasser le maximum de 20.
-* En utilisant une action bonus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) au test de Force (Athlétisme) lorsque vous tentez de bousculer un adversaire.
-* Vous pouvez utiliser votre action pour tenter de désarmer votre adversaire. Faites un [jet d'attaque](/combattre#jets-dattaque) au corps à corps opposé avec la cible. Si la cible utilise une arme à deux mains, elle obtient un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à son test d'attaque. Si vous l'emportez, vous désarmez votre adversaire et l'arme tombe à ses pieds. Si votre valeur final est supérieur de dix points à celui de l'adversaire, vous pouvez utiliser une action bonus pour vous saisir de son arme.
+* En utilisant une action bonus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au test de Force (Athlétisme) lorsque vous tentez de bousculer un adversaire.
+* Vous pouvez utiliser votre action pour tenter de désarmer votre adversaire. Faites un [jet d'attaque](/combattre/#jets-d-attaque) au corps à corps opposé avec la cible. Si la cible utilise une arme à deux mains, elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son test d'attaque. Si vous l'emportez, vous désarmez votre adversaire et l'arme tombe à ses pieds. Si votre valeur final est supérieur de dix points à celui de l'adversaire, vous pouvez utiliser une action bonus pour vous saisir de son arme.
 
 #### Fantassin léger
 Vous avez reçu une formation militaire supérieure à celles des autres individus de votre classe. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les trois présentés ci-dessous.
@@ -364,14 +364,14 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 
 #### Féroce
 Vous êtes un spécialiste des attaques brutales, en particulier après une charge furieuse.
-* En utilisant votre action, vous pouvez vous déplacer de 3 mètres en ligne droite (en plus de votre déplacement normal) et porter une unique attaque avec un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage). Vous ajoutez aux dégâts autant de d6 que vous avez d'attaques lorsque vous prenez l'action attaquer. Vous ne pouvez plus vous déplacer après cette action. Vous ne pouvez pas utiliser cette aptitude avec une arme dotée des propriétés finesse ou légère.
-* Lorsque vous obtenez un critique en attaque au corps-à-corps, vous repoussez votre cible de 1,50 mètre si vous le souhaitez. Si la cible ne peut ou ne veut pas reculer, elle subit un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à ses actions à son prochain tour. Si votre arme est dotée de la propriété lourde, vous pouvez dépenser votre réaction pour obtenir le même effet sur une attaque de corps à corps réussie.
+* En utilisant votre action, vous pouvez vous déplacer de 3 mètres en ligne droite (en plus de votre déplacement normal) et porter une unique attaque avec un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Vous ajoutez aux dégâts autant de d6 que vous avez d'attaques lorsque vous prenez l'action attaquer. Vous ne pouvez plus vous déplacer après cette action. Vous ne pouvez pas utiliser cette aptitude avec une arme dotée des propriétés finesse ou légère.
+* Lorsque vous obtenez un critique en attaque au corps-à-corps, vous repoussez votre cible de 1,50 mètre si vous le souhaitez. Si la cible ne peut ou ne veut pas reculer, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses actions à son prochain tour. Si votre arme est dotée de la propriété lourde, vous pouvez dépenser votre réaction pour obtenir le même effet sur une attaque de corps à corps réussie.
 * Lorsque vous utilisez la compétence Intimidation avec la Force (par des menaces physiques), si vous obtenez un résultat inférieur à 10 au dé, vous pouvez le remplacer par un 10.
 
 #### Fléau des mages
 Que ce soit par haine ou par intérêt, vous avez fait du combat contre les lanceurs de sorts votre fonds de commerce et vous êtes devenu leur Némésis.
 
-Lorsqu'une créature à moins de 1,50 mètre de vous lance un sort, vous obtenez une attaque d'opportunité. Si cette attaque porte, la cible doit immédiatement faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution dont la difficulté est égale à la moitié des dégâts infligés (difficulté minimum 10), ou le sort n'est pas lancé.
+Lorsqu'une créature à moins de 1,50 mètre de vous lance un sort, vous obtenez une attaque d'opportunité. Si cette attaque porte, la cible doit immédiatement faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution dont la difficulté est égale à la moitié des dégâts infligés (difficulté minimum 10), ou le sort n'est pas lancé.
 
 Lorsque vous blessez un lanceur de sort qui maintient sa concentration, la difficulté de la sauvegarde de Constitution est au minimum de 15.
 
@@ -380,12 +380,12 @@ Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser
 * Lorsque vous utilisez l'action [_se cacher_](/combattre#se-cacher), vous obtenez 3 mètres supplémentaires de déplacement.
 * Vous pouvez tenter de vous dissimuler même lorsque vous êtes seulement dans une zone de visibilité réduite pour votre adversaire, qu'il s'agisse d'une forêt ou d'une foule.
 * Si vous ne vous faites pas particulièrement remarquer, les gens sont incapables de se rappeler de vous, de vous décrire ou de donner des détails sur votre apparence.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests destinés à vous faire passer pour quelqu'un d'autre.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests destinés à vous faire passer pour quelqu'un d'autre.
 
 #### Impitoyable
 Vous êtes un spécialiste des mêlées confuses et vous savez tirer profit des erreurs de vos adversaires.
 * Lorsqu'un adversaire à moins de 1,50 mètre de vous est blessé par un allié, vous pouvez profiter de ce moment de distraction et utiliser votre réaction pour faire une attaque d'opportunité sur cet adversaire.
-* Lorsqu'un adversaire rate une attaque de corps-à-corps contre vous, vous pouvez utiliser votre réaction pour faire porter cette attaque contre un autre adversaire à moins de 1,50 mètres de vous. Cet adversaire doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité (DD égal à la CA atteinte par l'attaque). En cas d'échec, il subit la moitié des dégâts habituels de l'attaque initiale.
+* Lorsqu'un adversaire rate une attaque de corps-à-corps contre vous, vous pouvez utiliser votre réaction pour faire porter cette attaque contre un autre adversaire à moins de 1,50 mètres de vous. Cet adversaire doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité (DD égal à la CA atteinte par l'attaque). En cas d'échec, il subit la moitié des dégâts habituels de l'attaque initiale.
 
 #### Infatigable
 Vos capacités de récupération sont exceptionnelles et font de vous un individu très au-dessus de la moyenne dans ce domaine précis.
@@ -415,7 +415,7 @@ Votre caractéristique d'incantation pour les sorts appris par ce biais est la S
 **Prérequis** : Force 13 ou plus
 
 Vous avez développé des compétences qui vous permettent de bien vous débrouiller quand vous luttez au corps-à-corps. Vous obtenez les bénéfices suivants :
-* Vous disposez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) sur vos attaques contre une créature [_empoignée_](/gerer-la-sante-du-personnage#empoigné) par vous.
+* Vous disposez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos attaques contre une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par vous.
 * Vous pouvez utiliser votre action pour tenter d'immobiliser une créature que vous avez empoignée. Vous devez d'abord faire un autre test d'empoignade. Si vous réussissez, vous et la créature en question êtes tous les deux _entravés_.
 
 #### Mage combattant
@@ -426,24 +426,24 @@ Vous êtes une exception, votre talent est le fruit d'un entraînement très par
 
 #### Mains de guérisseur
 Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un guérisseur ou d'un rebouteux, vous disposez d'une compréhension intuitive et intime des mécanismes de la vie.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) lorsque vous tentez de stabiliser une créature.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous tentez de stabiliser une créature.
 * Vous pouvez tenter de stabiliser une créature, lancer le tour de magie [_épargner les mourants_](/grimoire/epargner-les-mourants) ou utiliser une trousse de soins en dépensant une action bonus.
 * Vous pouvez utiliser du matériel d'herboriste pendant 10 minutes sur un patient pour le soigner. Il regagne [son dé de vie + votre bonus de maîtrise] points de vie sans jamais pouvoir dépasser son nombre de points de vie maximum. Une créature ne peut bénéficier de cette aptitude plus d'une fois par repos court ou long.
 
 #### Maître empoisonneur
 Vous êtes passé maître dans l'utilisation de ce que certains appellent l'arme des lâches.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests pour reconnaître, utiliser, appliquer ou soigner les poisons.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à vos jets de sauvegarde contre le poison ou pour résister à l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné).
-* Une fois par repos court, vous pouvez utiliser votre action pour enduire de poison une arme légère tranchante ou perçante, ou un projectile. La première créature blessée par cette arme doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution dont le DD est 8 + votre bonus de maîtrise + votre modificateur d'intelligence. En cas d'échec, elle est [_empoisonnée_](/gerer-la-sante-du-personnage#empoisonné) pendant 1 minute. Le poison perd son efficacité 1 heure après avoir été appliqué.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests pour reconnaître, utiliser, appliquer ou soigner les poisons.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos jets de sauvegarde contre le poison ou pour résister à l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).
+* Une fois par repos court, vous pouvez utiliser votre action pour enduire de poison une arme légère tranchante ou perçante, ou un projectile. La première créature blessée par cette arme doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution dont le DD est 8 + votre bonus de maîtrise + votre modificateur d'intelligence. En cas d'échec, elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. Le poison perd son efficacité 1 heure après avoir été appliqué.
 
 #### Pilleur de tombes
 Vous êtes un chasseur de trésor expérimenté, les tombeaux et les nécropoles n'ont plus de secret pour vous. Lorsque vous faites l'acquisition de ce don, choisissez quatre bénéfices différents parmi les six proposés :
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests de Sagesse (Perception) pour détecter les passages secrets et vous n'êtes pas ralenti lorsque vous cherchez des passages secrets.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux tests de Sagesse (Perception) pour détecter les pièges et vous n'êtes pas ralenti lorsque vous cherchez des pièges.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets de sauvegarde pour éviter les pièges ou résister à leurs effets.
-* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) pour déchiffrer les langues anciennes et les messages cryptés.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) pour détecter les passages secrets et vous n'êtes pas ralenti lorsque vous cherchez des passages secrets.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) pour détecter les pièges et vous n'êtes pas ralenti lorsque vous cherchez des pièges.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde pour éviter les pièges ou résister à leurs effets.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour déchiffrer les langues anciennes et les messages cryptés.
 * Vous savez précisément évaluer la valeur des objets non magiques que vous trouvez.
-* Vous n'êtes jamais [_surpris_](/gerer-la-sante-du-personnage#surpris) par les morts-vivants et vous obtenez un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets de sauvegarde afin de résister aux dégâts de type nécrotique.
+* Vous n'êtes jamais [_surpris_](/gerer-la-sante-du-personnage/#surpris) par les morts-vivants et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde afin de résister aux dégâts de type nécrotique.
 
 #### Sang de sorcier
 Vous vous êtes découvert un don étrange. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les quatre proposés.
@@ -476,7 +476,7 @@ Choisissez une caractéristique. Vous bénéficiez de deux bénéfices différen
 #### Tireur d'élite
 Vous êtes un maître des armes à distance et nul n'est votre égal en ce domaine.
 * Vous doublez la portée normale de l'arme (associé à Archer, vous quadruplez cette portée).
-* À portée normale, vous pouvez vous imposer un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) en attaque pour obtenir +5 aux dégâts.
+* À portée normale, vous pouvez vous imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque pour obtenir +5 aux dégâts.
 * À portée normale, vous pouvez ignorer les bonus de CA de votre cible dus à un abri.
 * Vous pouvez faire une unique attaque à distance en action bonus (si votre arme est chargée, dans le cas d'une arbalète).
 
@@ -495,10 +495,10 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 #### Vigilant
 Vous êtes toujours sur vos gardes et il est exceptionnellement difficile de vous prendre de court.
 * Vous obtenez un bonus de +5 en initiative et à votre valeur passive de Perception.
-* Vous pouvez utiliser votre réaction pour faire une attaque d'opportunité contre une créature qui sort de votre zone de corps-à-corps même si elle utilise l'action [_se désengager_](/combattre#se-désengager).
+* Vous pouvez utiliser votre réaction pour faire une attaque d'opportunité contre une créature qui sort de votre zone de corps-à-corps même si elle utilise l'action [_se désengager_](/combattre/#se-desengager).
 
 #### Volonté de fer
 Nul ne peut vous empêcher de recourir à votre magie lorsque vous le décidez, votre volonté est telle que vous êtes capable de puiser dans vos forces intérieures et par-delà la douleur pour parvenir à vos fins.
 * Lorsque vous perdez votre concentration alors que vous maintenez un sort actif, vous pouvez utiliser votre réaction et dépenser un emplacement de sort approprié pour le relancer sans interruption. Son effet continue comme s'il n'avait pas été relancé ni interrompu.
 * Lorsque vous cessez volontairement de vous concentrer sur un sort, ou à la fin de sa durée légale, vous pouvez prolonger son effet d'un round supplémentaire en sacrifiant 1 point de vie. À chaque round suivant, le nombre de points de vie nécessaire pour maintenir l'effet du sort est égal au nombre de round de prolongation : 2 points de vie au deuxième round (pour un total de 1 + 2 = 3 pv), 3 points au troisième (pour un total de 1 + 2 + 3 = 6 pv), etc. Vous ne pouvez pas prolonger un sort de cette façon au-delà du double de sa durée légale.
-* Lorsque vous tombez à 0 point de vie ou que vous êtes [_neutralisé_](/gerer-la-sante-du-personnage#neutralisé), si vous mainteniez un sort, il dure encore jusqu'à la fin de votre prochain tour.
+* Lorsque vous tombez à 0 point de vie ou que vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), si vous mainteniez un sort, il dure encore jusqu'à la fin de votre prochain tour.

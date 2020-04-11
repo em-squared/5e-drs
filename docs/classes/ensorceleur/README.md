@@ -69,17 +69,17 @@ Par exemple, si vous connaissez le sort de niveau 1 [_mains brûlantes_](/grimoi
 La colonne sorts connus du tableau d'[évolution de l'ensorceleur](#evolution-de-l-ensorceleur) vous indique à quels niveaux vous pouvez apprendre de nouveaux sorts d'ensorceleur de votre choix et combien. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 3 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
 
 ### Caractéristique d'incantation
-La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le Charisme, car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
+La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le Charisme, car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
 
-**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Charisme**
+**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Charisme**
 
 **Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Charisme**
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un focaliseur arcanique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement/equipement-daventurier)) comme focaliseur d'incantation pour vos sorts d'ensorceleur.
+Vous pouvez utiliser un focaliseur arcanique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts d'ensorceleur.
 
 ### Origine magique
-Choisissez une origine qui explique la source de vos pouvoirs magiques innés : [lignée draconique](#lignee-dragonique), [lignée céleste](#lignee-celeste), [lignée féerique](#lignee-feerique) ou [lignée infernale](#lignee-infernale). Ces origines sont détaillées à la fin de la section consacrée à cette classe.
+Choisissez une origine qui explique la source de vos pouvoirs magiques innés : [lignée draconique](#lignee-draconique), [lignée céleste](#lignee-celeste), [lignée féerique](#lignee-feerique) ou [lignée infernale](#lignee-infernale). Ces origines sont détaillées à la fin de la section consacrée à cette classe.
 
 Votre choix vous permet d'accéder à certaines aptitudes particulières quand vous le choisissez au niveau 1 puis aux niveaux 6, 14 et 18.
 
@@ -115,7 +115,7 @@ Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à 
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.
 
 #### Invocation prudente
-Quand vous lancez un sort qui force d'autres créatures à faire un jet de sauvegarde, vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de Charisme (avec un minimum d'une créature). Les créatures désignées réussissent automatiquement leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre ce sort.
+Quand vous lancez un sort qui force d'autres créatures à faire un jet de sauvegarde, vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de Charisme (avec un minimum d'une créature). Les créatures désignées réussissent automatiquement leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre ce sort.
 
 #### Sort distant
 Quand vous lancez un sort qui a une portée de 1,50  mètre ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler la portée de ce sort.
@@ -131,7 +131,7 @@ Vous pouvez utiliser sort puissant même si vous avez déjà utilisé une autre 
 Quand vous lancez un sort qui dure 1 minute ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler sa durée jusqu'à un maximum de 24 heures.
 
 #### Sort intense
-Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un [_désavantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à la cible lors de son premier [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre le sort.
+Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la cible lors de son premier [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le sort.
 
 #### Sort accéléré
 Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
@@ -189,7 +189,7 @@ Au niveau 14, vous gagnez la capacité de faire émerger des ailes de dragon de 
 Vous ne pouvez pas utiliser ces ailes si vous portez une armure, sauf si l'armure a été conçue dans ce but. Les vêtements que vous portez qui n'ont pas été conçus en tenant compte de vos ailes peuvent être déchirés quand elles émergent.
 
 #### Présence draconique
-À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage#charmé) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage#terrorisé) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) est immunisée à votre aura pendant 24 heures.
+À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est immunisée à votre aura pendant 24 heures.
 
 ### Lignée céleste
 #### Ancêtre céleste
@@ -198,7 +198,7 @@ Vous pouvez parler, lire et écrire en céleste.
 De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des célestes, votre bonus de maîtrise est doublé s'il s'applique.
 
 #### Énergie positive
-Au niveau 1, bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les jets de sauvegarde contre l'état [_terrorisé_](/gerer-la-sante-du-personnage#terrorisé). Lorsque vous êtes [_terrorisé_](/gerer-la-sante-du-personnage#terrorisé), vous divisez la durée de l'effet par deux.
+Au niveau 1, bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les jets de sauvegarde contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Lorsque vous êtes [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), vous divisez la durée de l'effet par deux.
 
 L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de sorcellerie, vous récupérez autant de points de vie que de points de sorcellerie utilisés.
 
@@ -220,7 +220,7 @@ Vous pouvez parler, lire et écrire en sylvain.
 De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s'il s'applique.
 
 #### Héritage féerique
-Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les tests de Charisme destinés à séduire ou charmer.
+Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme destinés à séduire ou charmer.
 
 De plus, vous avez une affinité pour les armes de la forêt, au premier niveau vous acquérez la maîtrise de l'arc court et de la lance.
 
@@ -230,7 +230,7 @@ La magie des fées est subtile et adaptable, vous apprenez une option de métama
 #### Charme intense
 Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1 point de sorcellerie que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
 
-De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.
+De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.
 
 #### Forme animale
 À partir du niveau 18, vous pouvez lancer le sort [_formes animales_](/grimoire/formes-animales/) en dépensant 5 points de sorcellerie (aucun emplacement de sort n'est nécessaire). Toutefois, cette version particulière du sort n'affecte que vous-même et ne peut pas s'appliquer à d'autres cibles. Vous pouvez y mettre fin à tout moment en utilisant une action.
@@ -242,7 +242,7 @@ Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre li
 De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
 
 #### Résistance des fiélons
-Au niveau 1, vous obtenez la résistance aux dégâts de poison et un [_avantage_](/utiliser-les-caracteristiques#avantage-et-désavantage) à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l'état [_empoisonné_](/gerer-la-sante-du-personnage#empoisonné), il dure deux fois moins longtemps.
+Au niveau 1, vous obtenez la résistance aux dégâts de poison et un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne), il dure deux fois moins longtemps.
 
 En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
 
