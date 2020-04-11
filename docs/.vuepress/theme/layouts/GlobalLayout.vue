@@ -1,10 +1,10 @@
 <template>
   <v-app class="srd">
 
-    <NavDrawer />
-    <RightDrawer v-if="hasRightDrawer" />
+    <NavDrawer class="d-print-none" />
+    <RightDrawer class="d-print-none" v-if="hasRightDrawer" />
 
-    <Navbar />
+    <Navbar class="d-print-none" />
 
     <v-content>
       <v-container fluid>
@@ -52,6 +52,7 @@ export default {
   },
 
   mounted () {
+    this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$vuetify.theme.dark = this.$store.state.isThemeDark
   },
 

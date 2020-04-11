@@ -170,8 +170,9 @@ export default {
   },
 
   mounted () {
+    this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$store.commit('setHasRightDrawer', true)
-    this.$store.commit('setRightDrawer', true)
+    this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$store.commit('setInRightDrawer', 'spellFilters')
   }
 }

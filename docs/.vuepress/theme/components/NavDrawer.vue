@@ -1,6 +1,7 @@
 <template>
   <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
     <v-list dense nav>
+      <v-btn class="hidden-md-and-up site-title" text link block :to="{ path: '/' }"><img src="/dragon_pourpre.svg" />&nbsp;{{ $site.title }}</v-btn>
       <template v-for="item in items">
         <v-list-group v-if="item.children" :key="item.title" :value="isExpanded(item)" color="accent">
           <template v-slot:activator>

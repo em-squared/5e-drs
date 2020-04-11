@@ -22,6 +22,7 @@ export default {
 
   methods: {
     setRightDrawer () {
+      this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
       this.$store.commit('setHasRightDrawer', false)
       this.$store.commit('setRightDrawer', false)
       this.$store.commit('setInRightDrawer', null)

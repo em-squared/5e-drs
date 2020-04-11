@@ -1,11 +1,19 @@
 <template>
-  <v-breadcrumbs :items="bread">
-    <template v-slot:item="{ item }">
-      <v-breadcrumbs-item :to="item.to" :exact="true" :disabled="item.disabled">
-        {{ item.text }}
-      </v-breadcrumbs-item>
-    </template>
-  </v-breadcrumbs>
+  <div>
+    <v-breadcrumbs v-if="$route.path != '/'" :items="bread">
+      <template v-slot:item="{ item }">
+        <v-breadcrumbs-item :to="item.to" :exact="true" :disabled="item.disabled">
+          <template v-if="item.to == '/'">
+            <img src="/dragon_rouge.svg" />
+          </template>
+          <template v-else>
+            {{ item.text }}
+          </template>
+        </v-breadcrumbs-item>
+      </template>
+    </v-breadcrumbs>
+    <v-row v-else justify="center"><img class="d-block home-logo" src="/dragon_rouge.svg" /></v-row>
+  </div>
 </template>
 
 <script>

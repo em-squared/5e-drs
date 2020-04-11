@@ -37,47 +37,14 @@ Les personnages qui voyagent en chariot, en calèche ou grâce à un autre véhi
 Certaines montures spéciales, comme un pégase ou un griffon, ou un véhicule spécial comme un _tapis volant_, vous permettent de voyager plus vite.
 
 ##### Rythmes de déplacement
-
-<table>
-  <thead>
-    <tr>
-      <th>Rythme</th>
-      <th colspan="3">Distance parcourue par...</th>
-      <th>Effet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="visible-laptop">
-      <td></td>
-      <td><strong>Minute</strong></td>
-      <td><strong>Heure</strong></td>
-      <td><strong>Jour</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Rapide</strong></td>
-      <td>120 mètres</td>
-      <td>6 kilomètres</td>
-      <td>45 kilomètres</td>
-      <td>Malus de -5 à la valeur passive de Sagesse (Perception)</td>
-    </tr>
-    <tr>
-      <td><strong>Normal</strong></td>
-      <td>90 mètres</td>
-      <td>4,5 kilomètres</td>
-      <td>36 kilomètres</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><strong>Lent</strong></td>
-      <td>60 mètres</td>
-      <td>3 kilomètres</td>
-      <td>27 kilomètres</td>
-      <td>Possibilité d'utiliser la Discrétion</td>
-    </tr>
-  </tbody>
-</table>
-
+§§§ .table-container
+|Rythme|Distance parcourue par...|||Effet|
+|:-|:-|:-|:-|:-|
+|&nbsp;|**Minute**|**Heure**|**Jour**|&nbsp;|
+|**Rapide**|120 mètres|6 kilomètres|45 kilomètres|Malus de -5 à la valeur passive de Sagesse (Perception)|
+|**Normal**|90 mètres|4,5 kilomètres|36 kilomètres|-|
+|**Lent**|60 mètres|3 kilomètres|27 kilomètres|Possibilité d'utiliser la Discrétion|
+§§§
 
 #### Terrain difficile
 La distance parcourue donnée dans le [tableau des rythmes de déplacement](#rythmes-de-deplacement) a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.

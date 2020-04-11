@@ -1,3 +1,3 @@
 # Search and replace spell links by Spell Toolips
-search : (\[_)(\D+)(_\]\()(\/grimoire\/)(\D+)(\/\))
-replace : <ST l="$2" s="$5" />
+search : \[_(.*)_\]\(\/grimoire\/(.*)\/\)
+replace : <ST l="$1" s="$2" />
