@@ -45,3 +45,9 @@ ou
 ```
 npm run build
 ```
+Vous pouvez ensuite tester le site statique compilé en lançant un serveur local :
+```
+cd docs/.vuepress/dist
+python -m SimpleHTTPServer 8081
+```
+Le site statique sera accessible sur http://localhost:8081
