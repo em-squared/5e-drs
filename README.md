@@ -1,3 +1,5 @@
+[![H&D DRS Sources Loog](https://github.com/em-squared/heros-et-dragons-drs/blob/master/docs/.vuepress/public/dragon_binaire.png "H&D DRS Sources")](#)
+
 # Héros & Dragons DRS
 Ici se trouvent les sources du Document de Référence Système pour le jeu de rôle Héros & Dragons (H&D).
 
