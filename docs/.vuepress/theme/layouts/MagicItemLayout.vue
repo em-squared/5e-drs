@@ -2,19 +2,22 @@
   <div class="magic-item">
     <Breadcrumb />
     <MagicItem />
+    <Edit />
   </div>
 </template>
 
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import MagicItem from '@theme/components/MagicItem'
+import Edit from '@theme/components/Edit'
 
 export default {
   name: 'MagicItemLayout',
 
   components: {
     Breadcrumb,
-    MagicItem
+    MagicItem,
+    Edit
   },
 
   mounted () {

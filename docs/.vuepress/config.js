@@ -31,7 +31,7 @@ module.exports = {
             // Meta title for spell list page
             title: 'Bestiaire',
             // Target directory
-            dirname: '_monsters',
+            dirname: 'bestiaire',
             // Path of the `entry page` (or `list page`)
             path: '/bestiaire/',
             layout: 'MonstersLayout',
@@ -91,6 +91,8 @@ module.exports = {
     }
   },
   themeConfig: {
+    repository: 'https://github.com/em-squared/heros-et-dragons-drs',
+    kofi: 'https://ko-fi.com/S6S410PB8',
     primaryColor: '#563f5a',
     accentColor: '#9b1c47',
     searchPlaceholder: 'Recherche',
@@ -373,7 +375,7 @@ module.exports = {
           {
             title: 'Grimoire',
             path: '/grimoire/'
-          }
+          },
         ]
       },
       {
@@ -395,6 +397,10 @@ module.exports = {
                 path: '/construire-une-rencontre/'
               },
             ]
+          },
+          {
+            title: "Bestiaire",
+            path: '/bestiaire/'
           },
           {
             title: "Les trésors",
@@ -433,6 +439,12 @@ module.exports = {
             path: '/poisons/'
           }
         ]
+      },
+      {type: 'divider'},
+      {
+        title: "Licence OGL",
+        path: '/licence-ogl/',
+        icon: 'mdi-clipboard-text'
       }
     ]
   }

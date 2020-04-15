@@ -10,7 +10,7 @@ Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez l
 
 |Gemme|Élémentaire invoqué|
 |:-|:-|
-|**Saphir bleu**|[Élémentaire de l'air](/bestiaire/elementaire-de-lair)|
+|**Saphir bleu**|[Élémentaire de l'air](/bestiaire/elementaire-de-l-air/)|
 |**Diamant jaune**|[Élémentaire de la terre](/bestiaire/elementaire-de-la-terre)|
 |**Corindon rouge**|[Élémentaire du feu](/bestiaire/elementaire-du-feu)|
-|**Émeraude**|[Élémentaire de l'eau](/bestiaire/elementaire-de-leau)|
+|**Émeraude**|[Élémentaire de l'eau](/bestiaire/elementaire-de-l-eau/)|

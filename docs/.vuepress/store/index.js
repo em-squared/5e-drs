@@ -3,13 +3,15 @@ import Vuex from 'vuex'
 
 import spellFilters from './modules/spellFilters'
 import magicItemFilters from './modules/magicItemFilters'
+import monsterFilters from './modules/monsterFilters'
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
   modules: {
     spellFilters,
-    magicItemFilters
+    magicItemFilters,
+    monsterFilters
   },
 
   state: {

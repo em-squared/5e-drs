@@ -7,7 +7,7 @@
     <Navbar class="d-print-none" />
 
     <v-content>
-      <v-container fluid>
+      <v-container fluid ref="container">
         <v-row align="start" justify="center">
           <v-col cols="12">
             <DefaultGlobalLayout/>
@@ -26,6 +26,8 @@ import GlobalLayout from '@app/components/GlobalLayout.vue'
 import Navbar from '@theme/components/Navbar.vue'
 import NavDrawer from '@theme/components/NavDrawer.vue'
 import RightDrawer from '@theme/components/RightDrawer.vue'
+import Vue from 'vue'
+import RuleTooltip from '@theme/global-components/RT'
 
 export default {
   name: 'GlobalLayout',
@@ -54,6 +56,21 @@ export default {
   mounted () {
     this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$vuetify.theme.dark = this.$store.state.isThemeDark
+
+    // let conditionLinks = document.links
+    // conditionLinks.forEach((link, idx) => {
+    //   if (link.hash == "#a-terre") {
+    //     let RTClass = Vue.extend(RuleTooltip)
+    //     let rtInstance = new RTClass({
+    //       propsData: { l: link.text, t: link.hash.substring(1, link.hash.length) },
+    //       parent: this.$root
+    //     })
+    //     rtInstance.$mount()
+    //     console.log(link)
+    //     link = rtInstance.$el
+    //     console.log(link)
+    //   }
+    // })
   },
 
   methods: {

@@ -62,7 +62,7 @@ Au niveau 1, vous connaissez deux tours de magie de votre choix parmi la liste d
 ### Emplacements de sorts
 Vous trouverez dans le tableau d'évolution du sorcier le nombre d'emplacements de sorts à votre disposition. Tous vos emplacements de sort sont de même niveau. Pour lancer un de vos sorts de sorcier de niveau 1 ou supérieur, vous devez utiliser un emplacement de sort. Vous regagnez tous les emplacements de sort que vous avez utilisés après un repos court ou un repos long.
 
-Par exemple, si vous êtes au niveau 5, vous avez deux emplacements de sort de niveau 3. Pour lancer le sort de niveau 1 <ST s="vague-tonnante" />, vous devez utiliser un de ces emplacements de sort, et vous le lancez comme un sort de niveau 3.
+Par exemple, si vous êtes au niveau 5, vous avez deux emplacements de sort de niveau 3. Pour lancer le sort de niveau 1 [_vague tonnante_](/grimoire/vague-tonnante/), vous devez utiliser un de ces emplacements de sort, et vous le lancez comme un sort de niveau 3.
 
 ### Sorts connus de niveau 1 et supérieur
 Au niveau 1, vous connaissez deux sorts de niveau 1 choisis dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Sorcier' }}">sorts de sorcier</router-link>.
@@ -92,7 +92,7 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une 
 Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompense de vos loyaux services. Vous gagnez au choix l'une des trois aptitudes suivantes.
 
 #### Pacte de la chaîne
-Vous apprenez le sort <ST s="appel-de-familier" />, que pouvez lancer comme un rituel. Ce sort n'est pas comptabilisé parmi les sorts que vous connaissez.
+Vous apprenez le sort [_appel de familier_](/grimoire/appel-de-familier/), que pouvez lancer comme un rituel. Ce sort n'est pas comptabilisé parmi les sorts que vous connaissez.
 
 Quand vous lancez ce sort, vous pouvez choisir une forme classique pour votre familier ou l'une des formes spéciales suivantes : diablotin, quasit, stirge ou serpent volant.
 
@@ -319,7 +319,7 @@ Quand vous touchez une créature avec [_explosion occulte_](/grimoire/explosion-
 Vous pouvez lancer le sort [_lévitation_](/grimoire/levitation/) sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
 ### Regard de deux esprits
-Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu'à la fin de votre prochain tour. Tant que cette créature est sur le même plan d'existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu'à la fin de votre prochain tour. Tant que vous voyez par les yeux de l'autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes <RT l="aveugle" t="aveugle" /> et <RT l="sourd" t="assourdi" /> à ce qui se passe autour de votre propre corps.
+Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu'à la fin de votre prochain tour. Tant que cette créature est sur le même plan d'existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu'à la fin de votre prochain tour. Tant que vous voyez par les yeux de l'autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) à ce qui se passe autour de votre propre corps.
 
 ### Saut d'outre-monde
 **Prérequis** : niveau 9  

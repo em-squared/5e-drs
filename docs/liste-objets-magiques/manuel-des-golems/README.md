@@ -10,7 +10,7 @@ Ce livre présente des informations et des incantations nécessaires à la fabri
 
 |D20|Golem|Durée|Prix|
 |:-:|:-:|:-:|:-:|
-|**1-5**|[Argile](/bestiaire/golem-dargile)|30 jours|65000 po|
+|**1-5**|[Argile](/bestiaire/golem-d-argile/)|30 jours|65000 po|
 |**6-17**|[Chair](/bestiaire/golem-de-chair)|60 jours|50000 po|
 |**18**|[Fer](/bestiaire/golem-de-fer)|120 jours|100000 po|
 |**19-20**|[Pierre](/bestiaire/golem-de-pierre)|90 jours|80000 po|

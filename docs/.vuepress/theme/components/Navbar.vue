@@ -7,9 +7,24 @@
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <!-- <v-text-field flat solo-inverted hide-details prepend-inner-icon="mdi-magnify" label="Search" class="hidden-sm-and-down" /> -->
     <v-spacer />
+    <v-btn @click.stop="aboutDialog = true" icon><v-icon>mdi-information</v-icon></v-btn>
     <v-btn @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>
     </v-btn>
+
+    <v-dialog v-model="aboutDialog" max-width="600">
+      <v-card>
+        <v-card-title class="headline">À propos de H&D DRS</v-card-title>
+
+        <v-card-text>
+          <p>Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.</p>
+          <p>Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence GPLv3.</p>
+          <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
+          <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
+          <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
+        </v-card-text>
+      </v-card>
+    </v-dialog>
   </v-app-bar>
 </template>
 
@@ -27,6 +42,7 @@ export default {
 
   data () {
     return {
+      aboutDialog: false
     }
   },
 

@@ -3,7 +3,7 @@ title: Création du personnage
 description: Règles de création de personnage
 ---
 # Création du personnage
-<a class="button is-primary" href="https://www.black-book-editions.fr/file.php?id=178" target="_blank"><span><i class="fa fa-theater-masks"></i> Feuille de personnage PDF</span></a>
+<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
 ## 1. Choisir une race
 

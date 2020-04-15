@@ -10,4 +10,4 @@ Une _figurine merveilleuse_ est une statuette représentant un animal et assez p
 
 La créature issue de la figurine existe pendant une durée dépendant de sa statuette. Ensuite, elle se change de nouveau en bibelot. Elle reprend sa forme de figurine avant cela si elle tombe à 0 point de vie ou si vous utilisez une action pour prononcer de nouveau le mot de commande en la touchant. Une fois la créature redevenue bibelot, il faut attendre un certain temps avant qu'elle puisse se transformer de nouveau, comme indiqué dans sa description.
 
-Cette statuette en ébène représente un taon. Elle se change en [mouche géante](/bestiaire/mouche-debene) pendant 12 heures et peut alors servir de monture. Une fois ce pouvoir utilisé, il faut attendre 2 jours avant de pouvoir s'en servir à nouveau.
+Cette statuette en ébène représente un taon. Elle se change en [mouche géante](/bestiaire/mouche-d-ebene/) pendant 12 heures et peut alors servir de monture. Une fois ce pouvoir utilisé, il faut attendre 2 jours avant de pouvoir s'en servir à nouveau.

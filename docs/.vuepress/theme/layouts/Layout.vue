@@ -2,19 +2,22 @@
   <div>
     <Breadcrumb />
     <Page></Page>
+    <Edit />
   </div>
 </template>
 
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Page from '@theme/components/Page'
+import Edit from '@theme/components/Edit'
 
 export default {
   name: 'Layout',
 
   components: {
     Breadcrumb,
-    Page
+    Page,
+    Edit
   },
 
   computed: {

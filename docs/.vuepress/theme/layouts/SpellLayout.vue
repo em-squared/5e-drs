@@ -2,19 +2,22 @@
   <div class="spell">
     <Breadcrumb />
     <Spell />
+    <Edit />
   </div>
 </template>
 
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Spell from '@theme/components/Spell'
+import Edit from '@theme/components/Edit'
 
 export default {
   name: 'SpellLayout',
 
   components: {
     Breadcrumb,
-    Spell
+    Spell,
+    Edit
   },
 
   mounted () {

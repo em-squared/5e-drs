@@ -29,6 +29,7 @@
                 </v-list-item-content>
               </v-list-item>
             </v-list-group>
+            <v-divider v-else-if="child.type == 'divider'" />
             <v-list-item v-else :key="child.title" link :to="{path: child.path}" :exact="child.exact">
               <v-list-item-content>
                 <v-list-item-title>
@@ -38,7 +39,11 @@
             </v-list-item>
           </template>
         </v-list-group>
+        <v-divider v-else-if="item.type == 'divider'" />
         <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" :exact="item.exact">
+          <v-list-item-icon v-if="item.icon">
+            <v-icon v-text="item.icon"></v-icon>
+          </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>
               {{ item.title }}
@@ -46,6 +51,26 @@
           </v-list-item-content>
         </v-list-item>
       </template>
+      <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
+        <v-list-item-icon>
+          <v-icon>mdi-github</v-icon>
+        </v-list-item-icon>
+        <v-list-item-content>
+          <v-list-item-title>
+            Sources GitHub
+          </v-list-item-title>
+        </v-list-item-content>
+      </v-list-item>
+      <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
+        <v-list-item-icon>
+          <v-icon>mdi-glass-mug-variant</v-icon>
+        </v-list-item-icon>
+        <v-list-item-content>
+          <v-list-item-title>
+            Encouragez le développement
+          </v-list-item-title>
+        </v-list-item-content>
+      </v-list-item>
     </v-list>
   </v-navigation-drawer>
 </template>
@@ -68,7 +93,7 @@ export default {
       set (newValue) {
         this.$store.commit('setDrawer', newValue)
       }
-    }
+    },
   },
 
   mounted () {
@@ -97,6 +122,10 @@ export default {
       }
       // Grimoire
       if ((item.title == "Pour les joueurs") && (this.$route.path.includes('/grimoire/'))) {
+        return true
+      }
+      // Bestiaire
+      if ((item.title == "Pour les meneurs") && (this.$route.path.includes('/bestiaire/'))) {
         return true
       }
       // Liste des objets magiques

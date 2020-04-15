@@ -7,10 +7,9 @@
 </template>
 
 <script>
-
 export default {
   name: 'Page',
-  components: {  }
+  components: { }
 }
 </script>
 

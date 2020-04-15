@@ -23,6 +23,7 @@
 */
 import {displaySchoolLevel} from '@theme/util/spellHelpers'
 import {tooltips} from '../../data/ruleTooltips.js'
+import Router from 'vue-router'
 
 export default {
   name: 'RuleTooltip',

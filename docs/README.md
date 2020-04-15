@@ -1,6 +1,6 @@
 ---
 title: H&D DRS
-description: Document Référence Système pour Héros & Dragons
+notEditable: true
 ---
 # Document de Référence Système
 Bienvenue sur la nouvelle version du site Document de Référence Système pour _**Héros & Dragons**_ !
@@ -13,5 +13,5 @@ Voici un aperçu des améliorations apportées :
 * La recherche de sorts est plus réactive et les filtres plus précis.
 
 ## Ressources utiles
-<v-btn color="primary" to="https://www.black-book-editions.fr/file.php?id=178" link><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
-<v-btn color="primary" to="https://www.black-book-editions.fr/forums.php?board_id=115" link><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
+<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="_blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
