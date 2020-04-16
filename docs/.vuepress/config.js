@@ -12,6 +12,9 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
+  shouldPrefetch () {
+    return false
+  },
   plugins: [
     [
       '@vuepress/blog',
