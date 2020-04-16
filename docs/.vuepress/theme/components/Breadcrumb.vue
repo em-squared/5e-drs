@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="d-print-none">
     <v-breadcrumbs v-if="$route.path != '/'" :items="bread">
       <template v-slot:item="{ item }">
         <v-breadcrumbs-item :to="item.to" :exact="true" :disabled="item.disabled">
