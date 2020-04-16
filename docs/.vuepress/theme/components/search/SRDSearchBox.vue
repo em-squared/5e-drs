@@ -34,6 +34,7 @@
 import matchQuery from './match-query'
 import { displaySchoolLevel } from '@theme/util/spellHelpers'
 import { displayItemMeta } from '@theme/util/magicItemHelpers'
+import { displayMonsterTypeSizeAlignment } from '@theme/util/monsterHelpers'
 
 /* global SEARCH_MAX_SUGGESTIONS, SEARCH_PATHS, SEARCH_HOTKEYS */
 export default {
@@ -115,6 +116,12 @@ export default {
           } else if (p.pid && p.pid == 'magicitem') {
             res.push(Object.assign({}, p, {
               subtitle: displayItemMeta(p.frontmatter, true),
+              title: p.title,
+              path: p.path
+            }))
+          } else if (p.pid && p.pid == 'monster') {
+            res.push(Object.assign({}, p, {
+              subtitle: displayMonsterTypeSizeAlignment(p.frontmatter, true, false),
               title: p.title,
               path: p.path
             }))

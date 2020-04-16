@@ -139,7 +139,8 @@ import {
   getModifier,
   displayAbilityScore,
   getProficiencyBonus,
-  displayChallenge
+  displayChallenge,
+  displayMonsterTypeSizeAlignment
 } from '@theme/util/monsterHelpers'
 
 import {stats} from '../../data/stats.js'
@@ -184,22 +185,7 @@ export default {
     getProficiencyBonus () { return getProficiencyBonus(this.monster.challenge) },
 
     displayMonsterTypeSizeAlignment () {
-      let result = ''
-      if (this.monster.isSwarm) {
-        result = 'Nuée de taille '+ this.monster.size + ' composée ' + stats.monsterTypes[this.monster.type].swarm
-        if (this.monster.subtype) {
-          result += ' (' + this.monster.subtype + ')'
-        }
-        result += ' de taille ' + this.monster.swarmSize
-      } else {
-        result = this.monster.type
-        if (this.monster.subtype) {
-          result += ' (' + this.monster.subtype + ')'
-        }
-        result += ' de taille ' + this.monster.size
-      }
-      result += ', ' + this.monster.alignment
-      return result
+      return displayMonsterTypeSizeAlignment(this.monster)
     },
 
     displaySavingThrowBonus (ability) {

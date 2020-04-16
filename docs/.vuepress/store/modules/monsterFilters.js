@@ -29,7 +29,7 @@ export default {
       { label: "Très grand", abbr:"TG", value: false },
       { label: "Gigantesque", abbr:"Gig", value: false },
     ],
-    environements: [
+    environments: [
       { label: "Arctique / Subarctique", value: false },
       { label: "Bois / Forêt", value: false },
       { label: "Collines / Vallées", value: false },

@@ -39,3 +39,28 @@ export function displayChallenge (challenge, xp = false) {
   }
   return challenge
 }
+
+// Affiche le type, la taille et l'alignement
+export function displayMonsterTypeSizeAlignment (monster, hideAlignment = false, showChallenge = false) {
+  let result = ''
+  if (monster.isSwarm) {
+    result = 'Nuée de taille '+ monster.size + ' composée ' + stats.monsterTypes[monster.type].swarm
+    if (monster.subtype) {
+      result += ' (' + monster.subtype + ')'
+    }
+    result += ' de taille ' + monster.swarmSize
+  } else {
+    result = monster.type
+    if (monster.subtype) {
+      result += ' (' + monster.subtype + ')'
+    }
+    result += ' de taille ' + monster.size
+  }
+  if (!hideAlignment) {
+    result += ', ' + monster.alignment
+  }
+  if (showChallenge) {
+    result += ', Dangerosité : ' + displayChallenge(monster.challenge)
+  }
+  return result
+}

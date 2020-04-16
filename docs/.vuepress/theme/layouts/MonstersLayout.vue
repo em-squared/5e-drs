@@ -12,6 +12,8 @@
       item-key="key"
       :sort-by.sync="sortBy"
       :sort-desc.sync="sortDesc"
+      must-sort
+      :search="search"
     >
 
       <template v-slot:item.title="{ item }">
@@ -65,6 +67,8 @@ export default {
       search: state => state.monsterFilters.search,
       types: state => state.monsterFilters.types,
       sizes: state => state.monsterFilters.sizes,
+      environments: state => state.monsterFilters.environments,
+      dungeonTypes: state => state.monsterFilters.dungeonTypes,
     }),
 
     monsters() {
@@ -94,6 +98,52 @@ export default {
         results = results.filter(item => {
           return selectedSizes.indexOf(item.frontmatter.size) > -1
         })
+      }
+
+      // Filter environments
+      let selectedEnvironments = []
+      for (var i = 0; i < this.environments.length; i++) {
+        if (this.environments[i].value) {
+          selectedEnvironments.push(this.environments[i].label)
+        }
+      }
+      if (selectedEnvironments.length) {
+        let classFiltered = []
+        for (var i = 0; i < selectedEnvironments.length; i++) {
+          for (var j = 0; j < results.length; j++) {
+            if (results[j].frontmatter.environments) {
+              if (results[j].frontmatter.environments.indexOf(selectedEnvironments[i]) > -1) {
+                if (classFiltered.indexOf(results[j]) < 0) {
+                  classFiltered.push(results[j])
+                }
+              }
+            }
+          }
+        }
+        results = classFiltered
+      }
+
+      // Filter dungeon types
+      let selectedDungeonTypes = []
+      for (var i = 0; i < this.dungeonTypes.length; i++) {
+        if (this.dungeonTypes[i].value) {
+          selectedDungeonTypes.push(this.dungeonTypes[i].label)
+        }
+      }
+      if (selectedDungeonTypes.length) {
+        let classFiltered = []
+        for (var i = 0; i < selectedDungeonTypes.length; i++) {
+          for (var j = 0; j < results.length; j++) {
+            if (results[j].frontmatter.dungeonTypes) {
+              if (results[j].frontmatter.dungeonTypes.indexOf(selectedDungeonTypes[i]) > -1) {
+                if (classFiltered.indexOf(results[j]) < 0) {
+                  classFiltered.push(results[j])
+                }
+              }
+            }
+          }
+        }
+        results = classFiltered
       }
 
       return results

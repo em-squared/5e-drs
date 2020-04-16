@@ -21,6 +21,7 @@ export default new Vuex.Store({
     hasRightDrawer: false,
     inRightDrawer: null,
     isThemeDark: false,
+    isOpenAboutDialog: false,
   },
 
   getters: {
@@ -30,6 +31,7 @@ export default new Vuex.Store({
     hasRightDrawer: state => state.hasRightDrawer,
     inRightDrawer: state => state.inRightDrawer,
     isThemeDark: state => state.isThemeDark,
+    isOpenAboutDialog: state => state.isOpenAboutDialog,
   },
 
   actions: {
@@ -51,6 +53,9 @@ export default new Vuex.Store({
     isThemeDark: ({ commit }, payload) => {
       commit('setIsThemeDark', payload)
     },
+    isOpenAboutDialog: ({ commit }, payload) => {
+      commit('setIsOpenAboutDialog', payload)
+    },
   },
 
   mutations: {
@@ -71,6 +76,9 @@ export default new Vuex.Store({
     },
     setIsThemeDark: (state, payload) => {
       state.isThemeDark = payload
+    },
+    setIsOpenAboutDialog: (state, payload) => {
+      state.isOpenAboutDialog = payload
     },
   },
 })

@@ -93,7 +93,28 @@ module.exports = {
       '@vuepress/pwa',
       {
         serviceWorker: true,
-        updatePopup: true
+        updatePopup: true,
+        generateSWConfig: {
+          cacheId: 'hddrs',
+          globIgnores: ['**/*.js', '**/*.css', '**/*.html']
+        }
+      }
+    ],
+    [
+      'seo',
+      {
+        siteTitle: (_, $site) => $site.title,
+        title: ($page, $site) => $page.title + ' | ' + $site.title,
+        description: $page => $page.frontmatter.description,
+        // author: (_, $site) => $site.themeConfig.author,
+        // tags: $page => $page.frontmatter.tags,
+        twitterCard: _ => 'summary_large_image',
+        type: $page => 'website',
+        url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
+        // image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image),
+        image: ($page, $site) => $site.themeConfig.domain + '/social-logo.png',
+        // publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
+        // modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       }
     ],
   ],
@@ -115,6 +136,7 @@ module.exports = {
     }
   },
   themeConfig: {
+    domain: 'https://staging.heros-et-dragons.fr',
     repository: 'https://github.com/em-squared/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
     primaryColor: '#563f5a', // Hero

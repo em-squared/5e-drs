@@ -7,12 +7,12 @@
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <!-- <v-text-field flat solo-inverted hide-details prepend-inner-icon="mdi-magnify" label="Search" class="hidden-sm-and-down" /> -->
     <v-spacer />
-    <v-btn @click.stop="aboutDialog = true" icon><v-icon>mdi-information</v-icon></v-btn>
+    <v-btn v-if="$vuetify.breakpoint.lgAndUp" @click.stop="$store.commit('setIsOpenAboutDialog', true)" icon><v-icon>mdi-information</v-icon></v-btn>
     <v-btn @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>
     </v-btn>
 
-    <v-dialog v-model="aboutDialog" max-width="600">
+    <v-dialog v-model="$store.state.isOpenAboutDialog" max-width="600">
       <v-card>
         <v-card-title class="headline">À propos de H&D DRS</v-card-title>
 
@@ -30,7 +30,6 @@
 
 <script>
 import SRDSearchBox from '@theme/components/search/SRDSearchBox.vue'
-// import NavLinks from '@theme/components/NavLinks.vue'
 
 export default {
   name: 'Navbar',
@@ -62,7 +61,7 @@ export default {
     rightDrawerIcon() {
       if (this.inRightDrawer == 'pageToc') {
         return 'mdi-format-list-bulleted'
-      } else if (this.inRightDrawer == 'spellFilters' || this.inRightDrawer == 'magicItemFilters') {
+      } else if (this.inRightDrawer == 'spellFilters' || this.inRightDrawer == 'monsterFilters' || this.inRightDrawer == 'magicItemFilters') {
         return 'mdi-filter-variant'
       }
       return 'mdi-menu'

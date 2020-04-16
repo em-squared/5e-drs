@@ -10,6 +10,7 @@
       item-key="key"
       :sort-by.sync="sortBy"
       :sort-desc.sync="sortDesc"
+      must-sort
       :search="search"
     >
 
