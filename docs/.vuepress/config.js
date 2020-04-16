@@ -1,6 +1,17 @@
 module.exports = {
   title: 'Héros & Dragons DRS',
   description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
+  head: [
+    ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#563f5a' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#563f5a' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
+  ],
   plugins: [
     [
       '@vuepress/blog',
@@ -66,11 +77,21 @@ module.exports = {
         ],
       }
     ],
-    ['check-md', {}],
     [
-      'sitemap', {
+      'check-md', {}
+    ],
+    [
+      'sitemap',
+      {
         hostname: 'https://heros-et-dragons.fr'
-      },
+      }
+    ],
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true
+      }
     ],
   ],
   // extendPageData ($page) {
@@ -93,8 +114,8 @@ module.exports = {
   themeConfig: {
     repository: 'https://github.com/em-squared/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
-    primaryColor: '#563f5a',
-    accentColor: '#9b1c47',
+    primaryColor: '#563f5a', // Hero
+    accentColor: '#9b1c47', // Dragon
     searchPlaceholder: 'Recherche',
     nav: [
       { text: 'Home', link: '/' },

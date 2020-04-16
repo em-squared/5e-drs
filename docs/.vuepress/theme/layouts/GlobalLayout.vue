@@ -14,9 +14,6 @@
           </v-col>
         </v-row>
       </v-container>
-      <v-overlay :value="loading">
-        <v-progress-circular indeterminate size="64"></v-progress-circular>
-      </v-overlay>
     </v-content>
   </v-app>
 </template>
@@ -45,9 +42,9 @@ export default {
   },
 
   computed: {
-    loading () {
-      return this.$store.state.loading
-    },
+    // loading () {
+    //   return this.$store.state.loading
+    // },
     hasRightDrawer() {
       return this.$store.state.hasRightDrawer
     }

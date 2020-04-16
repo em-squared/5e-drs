@@ -1,0 +1,25 @@
+{
+  "dir" : "ltr",
+  "lang" : "fr",
+  "name" : "Héros & Dragons DRS",
+  "scope" : "/",
+  "display" : "standalone",
+  "start_url" : "https://staging.heros-et-dragons.fr/",
+  "short_name" : "H&D DRS",
+  "theme_color" : "#563f5a",
+  "description" : "Document de référence système pour le jeu de rôle Héros & Dragons",
+  "orientation" : "any",
+  "background_color" : "#ffffff",
+  "icons" : [
+    {
+        "src": "https://staging.heros-et-dragons.fr/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    },
+    {
+        "src": "https://staging.heros-et-dragons.fr/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }
+  ]
+}

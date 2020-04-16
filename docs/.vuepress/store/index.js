@@ -16,7 +16,7 @@ export default new Vuex.Store({
 
   state: {
     loading: false,
-    drawer: true,
+    drawer: false,
     rightDrawer: false,
     hasRightDrawer: false,
     inRightDrawer: null,
