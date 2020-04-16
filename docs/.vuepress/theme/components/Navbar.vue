@@ -7,6 +7,7 @@
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <!-- <v-text-field flat solo-inverted hide-details prepend-inner-icon="mdi-magnify" label="Search" class="hidden-sm-and-down" /> -->
     <v-spacer />
+    <v-btn v-if="$vuetify.breakpoint.lgAndUp" @click.stop="$vuetify.theme.dark = !$vuetify.theme.dark" icon><v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon></v-btn>
     <v-btn v-if="$vuetify.breakpoint.lgAndUp" @click.stop="$store.commit('setIsOpenAboutDialog', true)" icon><v-icon>mdi-information</v-icon></v-btn>
     <v-btn @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>

@@ -132,7 +132,7 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 
 §§§ .table-container
 ### Liste des dons
-§§§ .column-count-3 .print-invisible
+§§§ .column-count-3 .d-print-none
 * [Acrobate](#acrobate)
 * [Ambidextre](#ambidextre)
 * [Arbalétrier](#arbaletrier)

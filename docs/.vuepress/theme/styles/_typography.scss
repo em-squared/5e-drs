@@ -14,3 +14,25 @@
 .source {
   font-size: 0.8rem;
 }
+
+.theme--light {
+  h1, h2 {
+    color: $color-dragon;
+  }
+
+  h2 {
+    border-bottom: 1px solid $color-dragon;
+    margin-bottom: 12px;
+  }
+
+  h3, h4, h5, h6 {
+    color: $color-hero;
+  }
+}
+
+.theme--dark {
+  h2 {
+    border-bottom: 1px solid #fff;
+    margin-bottom: 12px;
+  }
+}

@@ -35,7 +35,7 @@ export default {
   },
 
   mounted () {
-    
+
   }
 }
 </script>
@@ -55,6 +55,22 @@ export default {
 
         &:hover {
           color: $color-dragon;
+        }
+      }
+    }
+  }
+}
+
+.theme--dark {
+  .page-toc {
+    ul {
+      li {
+        a {
+          color: lighten($color-gray, 20);
+
+          &:hover {
+            color: lighten($color-dragon, 15);
+          }
         }
       }
     }

@@ -22,7 +22,7 @@
         </div>
         <div class="monster-ability-scores d-flex">
           <div class="monster-ability-scores-physical d-flex">
-            <div class="ability-str text-center px-2">
+            <div class="ability-str text-center">
               <div class="ability-label">
                 <strong>For</strong>
               </div>
@@ -30,7 +30,7 @@
                 {{ displayAbilityScore(monster.abilityScores.for) }}
               </div>
             </div>
-            <div class="ability-dex text-center px-2">
+            <div class="ability-dex text-center">
               <div class="ability-label">
                 <strong>Dex</strong>
               </div>
@@ -38,7 +38,7 @@
                 {{ displayAbilityScore(monster.abilityScores.dex) }}
               </div>
             </div>
-            <div class="ability-con text-center px-2">
+            <div class="ability-con text-center">
               <div class="ability-label">
                 <strong>Con</strong>
               </div>
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="monster-ability-scores-mental d-flex">
-            <div class="ability-int text-center px-2">
+            <div class="ability-int text-center">
               <div class="ability-label">
                 <strong>Int</strong>
               </div>
@@ -56,7 +56,7 @@
                 {{ displayAbilityScore(monster.abilityScores.int) }}
               </div>
             </div>
-            <div class="ability-wis text-center px-2">
+            <div class="ability-wis text-center">
               <div class="ability-label">
                 <strong>Sag</strong>
               </div>
@@ -64,7 +64,7 @@
                 {{ displayAbilityScore(monster.abilityScores.sag) }}
               </div>
             </div>
-            <div class="ability-cha text-center px-2">
+            <div class="ability-cha text-center">
               <div class="ability-label">
                 <strong>Cha</strong>
               </div>
@@ -428,4 +428,18 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../styles/colors';
+
+.monster-ability-scores {
+  margin: 12px 0;
+  
+  .ability-label, .ability-score {
+    padding: 0 8px;
+  }
+
+  .ability-label {
+    border-bottom: 1px solid $color-dragon;
+  }
+
+}
 </style>

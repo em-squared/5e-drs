@@ -42,7 +42,9 @@ table {
     padding: 6px 12px;
     border-bottom: none !important;
   }
+}
 
+.theme--light {
   thead {
     background-color: $color-table-header-bg;
     color: #fff;
@@ -60,6 +62,24 @@ table {
     tr {
       &:nth-of-type(even) {
         background-color: $color-light-gray;
+      }
+      &:nth-of-type(odd):hover {
+        background-color: inherit !important;
+      }
+      td {
+      }
+    }
+  }
+}
+
+.theme--dark {
+  thead {
+    background-color: darken($color-gray, 10);
+  }
+  tbody {
+    tr {
+      &:nth-of-type(even) {
+        background-color: darken($color-gray, 10);
       }
       &:nth-of-type(odd):hover {
         background-color: inherit !important;
