@@ -52,7 +52,7 @@ export default {
 
   mounted () {
     this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
-    this.$vuetify.theme.dark = this.$store.state.isThemeDark
+    // this.$vuetify.theme.dark = this.$store.state.isThemeDark
 
     // let conditionLinks = document.links
     // conditionLinks.forEach((link, idx) => {
