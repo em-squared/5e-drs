@@ -15,6 +15,7 @@
         </v-row>
       </v-container>
     </v-content>
+
   </v-app>
 </template>
 
@@ -42,9 +43,16 @@ export default {
   },
 
   computed: {
-    // loading () {
-    //   return this.$store.state.loading
-    // },
+    footerCSS () {
+      let css = ''
+      if (this.$store.state.drawer) {
+        css += ' footer-padding-left'
+      }
+      if (this.$store.state.rightDrawer) {
+        css += ' footer-padding-right'
+      }
+      return css
+    },
     hasRightDrawer() {
       return this.$store.state.hasRightDrawer
     }
@@ -74,3 +82,12 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+.footer-padding-left {
+  padding-left: 300px;
+}
+.footer-padding-right {
+  padding-right: 300px;
+}
+</style>

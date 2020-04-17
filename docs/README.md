@@ -10,7 +10,8 @@ Cette nouvelle version se veut plus réactive, plus fiable et plus aboutie que l
 Voici un aperçu des améliorations apportées :
 
 * La fonction de recherche grandement changé. À présent, des résultats pertinents vous sont suggérés à mesure que vous tapez.
-* La recherche de sorts est plus réactive et les filtres plus précis.
+* La recherche de sorts, monstres et objets magiques est plus réactive et les filtres plus précis.
+* L'interface a été soignée pour tous les formats d'écrans, de même que pour l'impression.
 
 ## Ressources utiles
 <v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>

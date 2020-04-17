@@ -1,88 +1,130 @@
 <template>
-  <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
-    <v-list dense nav>
-      <v-btn class="hidden-md-and-up site-title" text link block :to="{ path: '/' }"><img src="/dragon_pourpre.svg" />&nbsp;{{ $site.title }}</v-btn>
-      <template v-for="item in items">
-        <v-list-group v-if="item.children" :key="item.title" :value="isExpanded(item)" color="accent">
-          <template v-slot:activator>
-            <v-list-item-content>
-              <v-list-item-title>
-                {{ item.title }}
-              </v-list-item-title>
-            </v-list-item-content>
-          </template>
+  <div class="">
+    <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
+      <v-list dense nav>
+        <!-- <v-btn class="hidden-md-and-up site-title" text link block :to="{ path: '/' }"><img src="/dragon_pourpre.svg" />&nbsp;{{ $site.title }}</v-btn> -->
+        <v-list-item class="hidden-md-and-up site-title" link :to="{path: '/'}">
+          <v-list-item-avatar>
+            <img :src="$vuetify.theme.dark ? '/dragon_blanc.svg' : '/dragon_pourpre.svg'">
+          </v-list-item-avatar>
 
-          <template v-for="child in item.children">
-            <v-list-group v-if="child.children" :key="child.title" sub-group :value="isExpanded(child)" color="accent">
-              <template v-slot:activator>
+          <v-list-item-content>
+            <v-list-item-title>{{ $site.title }}</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-divider class="hidden-md-and-up" />
+        <template v-for="item in items">
+          <v-list-group v-if="item.children" :key="item.title" :value="isExpanded(item)" color="accent">
+            <template v-slot:activator>
+              <v-list-item-content>
+                <v-list-item-title>
+                  {{ item.title }}
+                </v-list-item-title>
+              </v-list-item-content>
+            </template>
+
+            <template v-for="child in item.children">
+              <v-list-group v-if="child.children" :key="child.title" sub-group :value="isExpanded(child)" color="accent">
+                <template v-slot:activator>
+                  <v-list-item-content>
+                    <v-list-item-title>
+                      {{ child.title }}
+                    </v-list-item-title>
+                  </v-list-item-content>
+                </template>
+                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" :exact="subchild.exact">
+                  <v-list-item-content>
+                    <v-list-item-title>
+                      {{ subchild.title }}
+                    </v-list-item-title>
+                  </v-list-item-content>
+                </v-list-item>
+              </v-list-group>
+              <v-divider v-else-if="child.type == 'divider'" />
+              <v-list-item v-else :key="child.title" link :to="{path: child.path}" :exact="child.exact">
                 <v-list-item-content>
                   <v-list-item-title>
                     {{ child.title }}
                   </v-list-item-title>
                 </v-list-item-content>
-              </template>
-              <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" :exact="subchild.exact">
-                <v-list-item-content>
-                  <v-list-item-title>
-                    {{ subchild.title }}
-                  </v-list-item-title>
-                </v-list-item-content>
               </v-list-item>
-            </v-list-group>
-            <v-divider v-else-if="child.type == 'divider'" />
-            <v-list-item v-else :key="child.title" link :to="{path: child.path}" :exact="child.exact">
-              <v-list-item-content>
-                <v-list-item-title>
-                  {{ child.title }}
-                </v-list-item-title>
-              </v-list-item-content>
-            </v-list-item>
-          </template>
-        </v-list-group>
-        <v-divider v-else-if="item.type == 'divider'" />
-        <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" :exact="item.exact">
-          <v-list-item-icon v-if="item.icon">
-            <v-icon v-text="item.icon"></v-icon>
+            </template>
+          </v-list-group>
+          <v-divider v-else-if="item.type == 'divider'" />
+          <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" :exact="item.exact">
+            <v-list-item-icon v-if="item.icon">
+              <v-icon v-text="item.icon"></v-icon>
+            </v-list-item-icon>
+            <v-list-item-content>
+              <v-list-item-title>
+                {{ item.title }}
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+        </template>
+        <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
+          <v-list-item-icon>
+            <v-icon>mdi-github</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>
-              {{ item.title }}
+              Sources GitHub
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
+          <v-list-item-icon>
+            <v-icon>mdi-glass-mug-variant</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              Encouragez le développement
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item @click.stop="toggleAboutDialog">
+          <v-list-item-icon>
+            <v-icon>mdi-information</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              À propos
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+
+      <template v-slot:append>
+        <div class="hidden-md-and-up">
+          <v-divider/>
+          <div class="pa-2 d-flex">
+            <v-spacer/>
+            <v-btn @click.stop="$vuetify.theme.dark = !$vuetify.theme.dark" icon>
+              <v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon>
+            </v-btn>
+          </div>
+        </div>
       </template>
-      <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
-        <v-list-item-icon>
-          <v-icon>mdi-github</v-icon>
-        </v-list-item-icon>
-        <v-list-item-content>
-          <v-list-item-title>
-            Sources GitHub
-          </v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-      <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
-        <v-list-item-icon>
-          <v-icon>mdi-glass-mug-variant</v-icon>
-        </v-list-item-icon>
-        <v-list-item-content>
-          <v-list-item-title>
-            Encouragez le développement
-          </v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-      <v-list-item v-if="$vuetify.breakpoint.mdAndDown" @click.stop="$store.commit('setIsOpenAboutDialog', true)">
-        <v-list-item-icon>
-          <v-icon>mdi-information</v-icon>
-        </v-list-item-icon>
-        <v-list-item-content>
-          <v-list-item-title>
-            À propos
-          </v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-    </v-list>
-  </v-navigation-drawer>
+    </v-navigation-drawer>
+
+    <v-dialog v-model="isOpenAboutDialog" @click:outside="toggleAboutDialog" max-width="600">
+      <v-card>
+        <v-card-title class="headline">À propos de H&D DRS</v-card-title>
+
+        <v-card-text>
+          <p>Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.</p>
+          <p>Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE" target="_blank">GPLv3</a>.</p>
+          <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
+          <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
+          <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
+        </v-card-text>
+
+        <v-card-actions>
+          <v-btn color="primary" text @click="toggleAboutDialog">Fermer</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+  </div>
 </template>
 
 <script>
@@ -104,6 +146,9 @@ export default {
         this.$store.commit('setDrawer', newValue)
       }
     },
+    isOpenAboutDialog () {
+      return this.$store.state.isOpenAboutDialog
+    }
   },
 
   mounted () {
@@ -143,6 +188,9 @@ export default {
         return true
       }
       return false
+    },
+    toggleAboutDialog () {
+      this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
     }
   }
 }

@@ -3,6 +3,8 @@
 
     <Breadcrumb />
 
+    <h1>Grimoire</h1>
+
     <v-data-table
       class="data-table"
       :headers="headers"

@@ -1,8 +1,8 @@
 import Vuex from 'vuex'
 import store from '../store'
+import 'vuetify/dist/vuetify.min.css'
 import '@mdi/font/css/materialdesignicons.css'
 import Vuetify from 'vuetify'
-import 'vuetify/dist/vuetify.min.css'
 import fr from 'vuetify/es5/locale/fr'
 
 import colors from 'vuetify/es5/util/colors'
