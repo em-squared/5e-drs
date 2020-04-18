@@ -99,7 +99,7 @@
           <v-divider/>
           <div class="pa-2 d-flex">
             <v-spacer/>
-            <v-btn @click.stop="$vuetify.theme.dark = !$vuetify.theme.dark" icon>
+            <v-btn @click.stop="setIsThemeDark" icon>
               <v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon>
             </v-btn>
           </div>
@@ -191,6 +191,10 @@ export default {
     },
     toggleAboutDialog () {
       this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
+    },
+    setIsThemeDark () {
+      this.$vuetify.theme.dark = !this.$vuetify.theme.dark
+      this.$store.commit('setIsThemeDark', this.$vuetify.theme.dark)
     }
   }
 }

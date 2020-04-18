@@ -7,6 +7,8 @@ import monsterFilters from './modules/monsterFilters'
 
 Vue.use(Vuex)
 
+import Cookies from 'js-cookie'
+
 export default new Vuex.Store({
   modules: {
     spellFilters,
@@ -76,6 +78,8 @@ export default new Vuex.Store({
     },
     setIsThemeDark: (state, payload) => {
       state.isThemeDark = payload
+      console.log(payload)
+      Cookies.set('heros-et-dragons-is-dark', state.isThemeDark)
     },
     setIsOpenAboutDialog: (state, payload) => {
       state.isOpenAboutDialog = payload

@@ -6,7 +6,7 @@
     </v-toolbar-title>
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <v-spacer />
-    <v-btn class="hidden-sm-and-down" @click.stop="$vuetify.theme.dark = !$vuetify.theme.dark" icon>
+    <v-btn class="hidden-sm-and-down" @click.stop="setIsThemeDark" icon>
       <v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon>
     </v-btn>
     <v-btn class="hidden-sm-and-down" @click.stop="toggleAboutDialog" icon>
@@ -70,6 +70,10 @@ export default {
     },
     toggleAboutDialog () {
       this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
+    },
+    setIsThemeDark () {
+      this.$vuetify.theme.dark = !this.$vuetify.theme.dark
+      this.$store.commit('setIsThemeDark', this.$vuetify.theme.dark)
     }
   },
 
