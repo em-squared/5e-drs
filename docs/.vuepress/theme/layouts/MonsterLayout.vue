@@ -38,9 +38,9 @@ export default {
 
     displayToggleMonsterButton () {
       if (this.isMonsterInBestiary) {
-        return 'Supprimer de mon grimoire'
+        return 'Supprimer de mon bestiaire'
       }
-      return 'Ajouter à mon grimoire'
+      return 'Ajouter à mon bestiaire'
     }
   },
 

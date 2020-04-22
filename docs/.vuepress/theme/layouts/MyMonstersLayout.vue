@@ -2,6 +2,7 @@
   <div class="my-monsters">
     <div class="d-flex align-center mb-4 d-print-none">
       <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
       <v-btn color="primary" depressed link to="/bestiaire/">Bestiaire</v-btn>
     </div>
 

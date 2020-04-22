@@ -2,6 +2,7 @@
   <div class="my-spells">
     <div class="d-flex align-center mb-4 d-print-none">
       <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
       <v-btn color="primary" depressed link to="/grimoire/">Grimoire</v-btn>
     </div>
 
