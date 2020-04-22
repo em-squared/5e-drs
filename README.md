@@ -70,4 +70,4 @@ Le site statique sera accessible sur http://localhost:8081
 Si le cœur vous en dit, vous pouvez soutenir le projet sur [Ko-fi](https://ko-fi.com/S6S410PB8). Ça sera grandement apprécié. Le site est entièrement gratuit et ne souffre d'aucune publicité. Aucun revenu n'est donc généré par son biais.
 
 ## Licence
-Le code source applicatif (hors contenus donc) est sous [licence GPLv3](https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE). Vous êtes donc libre de le copier, le modifier et le redistribuer à condition dans conserver la licence d'origine.
+Le code source applicatif (hors contenus donc) est sous [licence GPLv3](https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE). Vous êtes donc libres de le copier, le modifier et le redistribuer à condition d'en conserver la licence d'origine.
