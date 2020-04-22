@@ -1,9 +1,11 @@
 <template>
   <div class="my-spells">
-    <div class="d-flex align-center mb-4 d-print-none">
-      <Breadcrumb class="mr-auto" />
-      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
-      <v-btn color="primary" depressed link to="/grimoire/">Grimoire</v-btn>
+    <div class="d-flex flex-wrap align-center d-print-none">
+      <Breadcrumb class="mr-auto mb-4" />
+      <div class="d-flex flex-wrap align-center">
+        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
+        <v-btn color="primary" class="mb-4" depressed link to="/grimoire/">Grimoire</v-btn>
+      </div>
     </div>
 
     <h1>Mon grimoire</h1>

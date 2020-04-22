@@ -1,10 +1,12 @@
 <template>
   <div class="monster">
-    <div class="d-flex align-center mb-4 d-print-none">
-      <Breadcrumb class="mr-auto" />
-      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
-      <v-btn :outlined="!isMonsterInBestiary" color="accent" class="mr-4" depressed @click="toggleMonsterInBestiary"><v-icon>mdi-book</v-icon> {{ displayToggleMonsterButton }}</v-btn>
-      <v-btn color="primary" class="mr-4" depressed link to="/mon-bestiaire/">Mon Bestiaire</v-btn>
+    <div class="d-flex flex-wrap align-center d-print-none">
+      <Breadcrumb class="mr-auto mb-4" />
+      <div class="d-flex flex-wrap align-center">
+        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
+        <v-btn :outlined="!isMonsterInBestiary" color="accent" class="mr-4 mb-4" depressed @click="toggleMonsterInBestiary"><v-icon>mdi-book</v-icon> {{ displayToggleMonsterButton }}</v-btn>
+        <v-btn color="primary" class="mb-4" depressed link to="/mon-bestiaire/">Mon Bestiaire</v-btn>
+      </div>
     </div>
     <Monster :monster="$page" />
     <Edit />

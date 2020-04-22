@@ -1,9 +1,11 @@
 <template>
   <div class="create-spell">
-    <div class="d-flex align-center mb-4 d-print-none">
-      <Breadcrumb class="mr-auto" />
-      <v-btn color="primary" class="mr-4" depressed link to="/mon-grimoire/">Mon Grimoire</v-btn>
-      <v-btn color="primary" depressed link to="/grimoire/">Grimoire</v-btn>
+    <div class="d-flex flex-wrap align-center d-print-none">
+      <Breadcrumb class="mr-auto mb-4" />
+      <div class="d-flex flex-wrap align-center">
+        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/mon-grimoire/">Mon Grimoire</v-btn>
+        <v-btn color="primary" class="mb-4" depressed link to="/grimoire/">Grimoire</v-btn>
+      </div>
     </div>
 
     <h1 class="d-print-none">Création de sort</h1>
@@ -21,34 +23,34 @@
     </div>
 
     <v-row>
-      <v-col class="d-print-none" :col="6">
+      <v-col class="d-print-none" :cols="12" :md="6">
 
         <v-row>
-          <v-col>
+          <v-col :cols="12" :lg="3">
             <v-text-field label="Nom" placeholder="Projectile magique" outlined dense v-model="spell.title"></v-text-field>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="4" :lg="3">
             <v-select :items="schools" label="École" outlined dense v-model="spell.frontmatter.school"></v-select>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="4" :lg="3">
             <v-select :items="levels" item-text="label" item-value="value" label="Niveau" outlined dense v-model="spell.frontmatter.level"></v-select>
           </v-col>
-          <v-col>
+          <v-col v:cols="12" :sm="4" :lg="3">
             <v-switch class="my-0" v-model="spell.frontmatter.ritual" label="Rituel" dense></v-switch>
           </v-col>
         </v-row>
 
         <v-row>
-          <v-col>
+          <v-col :cols="12" :sm="6" :lg="3">
             <v-text-field label="Temps d'incantation" placeholder="1 action" outlined dense v-model="spell.frontmatter.casting_time"></v-text-field>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="6" :lg="3">
             <v-text-field label="Portée" placeholder="36 m" outlined dense v-model="spell.frontmatter.range"></v-text-field>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="6" :lg="3">
             <v-text-field label="Duration" placeholder="instantanée" outlined dense v-model="spell.frontmatter.duration"></v-text-field>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="6" :lg="3">
             <v-switch class="my-0" v-model="spell.frontmatter.concentration" label="Concentration" dense></v-switch>
           </v-col>
         </v-row>
@@ -94,7 +96,7 @@
 
       </v-col>
 
-      <v-col :col="6">
+      <v-col :cols="12" :md="6">
         <Spell :spell="spell" />
       </v-col>
     </v-row>

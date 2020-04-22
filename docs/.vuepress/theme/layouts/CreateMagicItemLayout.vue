@@ -1,9 +1,11 @@
 <template>
   <div class="create-magic-item">
-    <div class="d-flex align-center mb-4 d-print-none">
-      <Breadcrumb class="mr-auto" />
-      <v-btn color="primary" class="mr-4" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
-      <v-btn color="primary" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
+    <div class="d-flex flex-wrap align-center d-print-none">
+      <Breadcrumb class="mr-auto mb-4" />
+      <div class="d-flex flex-wrap align-center">
+        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
+        <v-btn color="primary" class="mb-4" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
+      </div>
     </div>
 
     <h1 class="d-print-none">Création de sort</h1>
@@ -21,16 +23,16 @@
     </div>
 
     <v-row>
-      <v-col class="d-print-none" :col="6">
+      <v-col class="d-print-none" :cols="12" :md="6">
 
         <v-row>
-          <v-col>
+          <v-col :cols="12" :sm="4">
             <v-text-field label="Nom" outlined dense v-model="magicItem.title"></v-text-field>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="4">
             <v-select :items="types" label="Type" outlined dense v-model="magicItem.frontmatter.type"></v-select>
           </v-col>
-          <v-col>
+          <v-col :cols="12" :sm="4">
             <v-select :items="rarities" label="Rareté" outlined dense v-model="magicItem.frontmatter.rarity"></v-select>
           </v-col>
         </v-row>

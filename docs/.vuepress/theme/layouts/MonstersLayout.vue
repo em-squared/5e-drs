@@ -1,10 +1,12 @@
 <template>
   <div class="monsters">
 
-    <div class="d-flex align-center mb-4">
-      <Breadcrumb class="mr-auto" />
-      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
-      <v-btn color="primary" depressed link to="/mon-bestiaire/">Mon bestiaire</v-btn>
+    <div class="d-flex flex-wrap align-center">
+      <Breadcrumb class="mr-auto mb-4" />
+      <div class="d-flex flex-wrap align-center">
+        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
+        <v-btn color="primary" class="mb-4" depressed link to="/mon-bestiaire/">Mon bestiaire</v-btn>
+      </div>
     </div>
 
     <h1>Bestiaire</h1>
