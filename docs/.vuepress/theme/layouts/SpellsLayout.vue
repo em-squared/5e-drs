@@ -1,9 +1,14 @@
 <template>
   <div class="spells">
 
-    <Breadcrumb />
+    <div class="d-flex align-center mb-4">
+      <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
+      <v-btn color="primary" depressed link to="/mon-grimoire/">Mon grimoire</v-btn>
+    </div>
 
     <h1>Grimoire</h1>
+
 
     <v-data-table
       class="data-table"
@@ -15,6 +20,10 @@
       must-sort
       :search="search"
     >
+
+      <template v-slot:item.isInSpellBook="{ item }">
+        <v-simple-checkbox off-icon="mdi-bookmark-outline" on-icon="mdi-bookmark" @input="toggleSpellInSpellBook(item)" :value="isSpellInSpellBook(item)"></v-simple-checkbox>
+      </template>
 
       <template v-slot:item.title="{ item }">
         <router-link :to="{ path: item.path }" class="subtitle-2">{{ item.title }}</router-link>
@@ -61,6 +70,7 @@ export default {
       sortBy: 'title',
       sortDesc: false,
       headers: [
+        { text: "", align: 'center', sortable: false, value: 'isInSpellBook' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
         { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' },
         { text: "École", align: 'start', sortable: false, value: 'frontmatter.school' },
@@ -169,6 +179,25 @@ export default {
       }
 
       return results
+    }
+  },
+
+  methods: {
+    isSpellInSpellBook (spell) {
+      let isInSpellBook = false
+      for (let s of this.$store.state.mySpells.spells) {
+        if (s.key == spell.key) {
+          isInSpellBook = true
+        }
+      }
+      return isInSpellBook
+    },
+    toggleSpellInSpellBook (spell) {
+      if (this.isSpellInSpellBook(spell)) {
+        this.$store.commit('mySpells/removeSpell', spell)
+      } else {
+        this.$store.commit('mySpells/addSpell', spell)
+      }
     }
   },
 

@@ -1,19 +1,19 @@
 export const stats = {
   monsterTypes: {
-    "Aberration": { plural: "Aberrations", swarm: "d'aberrations" },
-    "Bête": { plural: "Bêtes", swarm: "de bêtes"},
-    "Céleste": { plural: "Célestes", swarm: "de célestes" },
-    "Créature artificielle": { plural: "Créatures artificielles", swarm: "de créatures artificielles"},
-    "Créature monstrueuse": { plural: "Créatures monstrueuses", swarm: "de créatures monstrueuses"},
-    "Dragon": { plural: "Dragons", swarm: "de dragons"},
-    "Élémentaire": { plural: "Élémentaires", swarm: "d'élémentaires"},
-    "Fées": { plural: "Fées", swarm: "de fées"},
-    "Fiélon": { plural: "Fiélons", swarm: "de fiélons"},
-    "Géant": { plural: "Géants", swarm: "de géants"},
-    "Humanoide": { plural: "Humanoïdes", swarm: "d'humanoïdes"},
-    "Mort-vivant": { plural: "Morts-vivants", swarm: "de morts-vivants"},
-    "Plante": { plural: "Plantes", swarm: "de plantes"},
-    "Vase": { plural: "Vases", swarm: "de vases"}
+    "Aberration": { plural: "Aberrations", swarm: "d'aberrations" , label: "Aberration"},
+    "Bête": { plural: "Bêtes", swarm: "de bêtes", label: "Bête"},
+    "Céleste": { plural: "Célestes", swarm: "de célestes" , label: "Céleste"},
+    "Créature artificielle": { plural: "Créatures artificielles", swarm: "de créatures artificielles", label: "Créature artificielle"},
+    "Créature monstrueuse": { plural: "Créatures monstrueuses", swarm: "de créatures monstrueuses", label: "Créature monstrueuse"},
+    "Dragon": { plural: "Dragons", swarm: "de dragons", label: "Dragon"},
+    "Élémentaire": { plural: "Élémentaires", swarm: "d'élémentaires", label: "Élémentaire"},
+    "Fées": { plural: "Fées", swarm: "de fées", label: "Fées"},
+    "Fiélon": { plural: "Fiélons", swarm: "de fiélons", label: "Fiélon"},
+    "Géant": { plural: "Géants", swarm: "de géants", label: "Géant"},
+    "Humanoide": { plural: "Humanoïdes", swarm: "d'humanoïdes", label: "Humanoide"},
+    "Mort-vivant": { plural: "Morts-vivants", swarm: "de morts-vivants", label: "Mort-vivant"},
+    "Plante": { plural: "Plantes", swarm: "de plantes", label: "Plante"},
+    "Vase": { plural: "Vases", swarm: "de vases", label: "Vase"},
   },
 
   abilities: {

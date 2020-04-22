@@ -43,6 +43,16 @@
               crumbs.push({to: page.path, disabled: disabled, text: 'Bestiaire'})
             } else if (page.path == '/liste-objets-magiques/') {
               crumbs.push({to: page.path, disabled: disabled, text: 'Liste des objets magiques'})
+            } else if (page.path == '/mon-grimoire/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Mon grimoire'})
+            } else if (page.path == '/mon-bestiaire/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Mon bestiaire'})
+            } else if (page.path == '/mes-objets-magiques/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Mes objets magiques'})
+            } else if (page.path == '/creation-de-sort/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Création de sort'})
+            } else if (page.path == '/creation-de-monstre-pnj/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Création de monstre ou PNJ'})
             } else {
               crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title})
             }

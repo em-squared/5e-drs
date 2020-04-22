@@ -5,6 +5,10 @@ import spellFilters from './modules/spellFilters'
 import magicItemFilters from './modules/magicItemFilters'
 import monsterFilters from './modules/monsterFilters'
 
+import mySpells from './modules/mySpells'
+import myMonsters from './modules/myMonsters'
+import myMagicItems from './modules/myMagicItems'
+
 Vue.use(Vuex)
 
 import Cookies from 'js-cookie'
@@ -13,7 +17,10 @@ export default new Vuex.Store({
   modules: {
     spellFilters,
     magicItemFilters,
-    monsterFilters
+    monsterFilters,
+    mySpells,
+    myMonsters,
+    myMagicItems
   },
 
   state: {

@@ -1,0 +1,231 @@
+<template>
+  <div class="create-magic-item">
+    <div class="d-flex align-center mb-4 d-print-none">
+      <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
+      <v-btn color="primary" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
+    </div>
+
+    <h1 class="d-print-none">Création de sort</h1>
+
+    <div class="my-4 d-flex flex-wrap d-print-none">
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed :loading="isUploading" @click="onUploadClick">
+        <v-icon left>mdi-file-upload</v-icon> Charger
+      </v-btn>
+      <input ref="uploader" class="d-none" type="file" @change="upload">
+      <v-btn :outlined="!isMagicItemInTreasureChest" color="accent" class="mr-1 mb-1" depressed @click="toggleMagicItemInTreasureChest"><v-icon>mdi-book</v-icon> {{ displayToggleMagicItemButton }}</v-btn>
+      <v-btn :disabled="!isMagicItemInTreasureChest" outlined color="accent" class="mr-1 mb-1" depressed @click="updateMagicItemInTreasureChest"><v-icon>mdi-update</v-icon> MàJ dans le grimoire</v-btn>
+      <v-btn outlined color="error" class="mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+    </div>
+
+    <v-row>
+      <v-col class="d-print-none" :col="6">
+
+        <v-row>
+          <v-col>
+            <v-text-field label="Nom" outlined dense v-model="magicItem.title"></v-text-field>
+          </v-col>
+          <v-col>
+            <v-select :items="types" label="Type" outlined dense v-model="magicItem.frontmatter.type"></v-select>
+          </v-col>
+          <v-col>
+            <v-select :items="rarities" label="Rareté" outlined dense v-model="magicItem.frontmatter.rarity"></v-select>
+          </v-col>
+        </v-row>
+
+        <v-row>
+          <v-col>
+            <v-text-field label="Sous-type" outlined dense v-model="magicItem.frontmatter.subtype"></v-text-field>
+          </v-col>
+          <v-col>
+            <v-switch class="my-0" v-model="magicItem.hasAttunement" label="Harmonisation" @change="switchAttunement" dense></v-switch>
+          </v-col>
+          <v-col v-if="magicItem.hasAttunement">
+            <v-text-field label="Type d'armonisation" outlined dense v-model="magicItem.frontmatter.attunement"></v-text-field>
+          </v-col>
+        </v-row>
+
+        <v-row>
+          <v-col>
+            <v-textarea outlined label="Description" v-model="magicItem.content"></v-textarea>
+          </v-col>
+        </v-row>
+
+      </v-col>
+
+      <v-col :col="6">
+        <MagicItem :magicItem="magicItem" />
+      </v-col>
+    </v-row>
+  </div>
+</template>
+
+<script>
+import Breadcrumb from '@theme/components/Breadcrumb'
+import MagicItem from '@theme/components/MagicItem'
+import { saveAs } from 'file-saver'
+import { MAGICITEMTYPES, RARITIES } from '../../data/magicItems'
+import { getUrlParameter } from '@theme/util/filterHelpers'
+
+export default {
+  name: 'CreateMagicItemLayout',
+
+  components: {
+    Breadcrumb,
+    MagicItem
+  },
+
+  computed: {
+    isMagicItemInTreasureChest () {
+      let isInTreasureChest = false
+      for (let s of this.$store.state.myMagicItems.magicItems) {
+        if (s.key == this.magicItem.key) {
+          isInTreasureChest = true
+        }
+      }
+      return isInTreasureChest
+    },
+
+    displayToggleMagicItemButton () {
+      if (this.isMagicItemInTreasureChest) {
+        return 'Supprimer de mes objets magiques'
+      }
+      return 'Ajouter à mes objets magiques'
+    },
+
+    displayAttunement () {
+      if (this.customAttunement !== "") {
+        return this.customAttunement
+      } else {
+        return 'harmonisation requise'
+      }
+    }
+  },
+
+  data () {
+    return {
+      isUploading: false,
+      types: MAGICITEMTYPES,
+      rarities: RARITIES,
+      customAttunement: '',
+      magicItem: {
+        custom: true,
+        pid: 'magicItem',
+        key: null,
+        title: '',
+        content: '',
+        hasAttunement: false,
+        frontmatter: {
+          type: '',
+          subtype: '',
+          rarity: '',
+          attunement: '',
+        }
+      }
+    }
+  },
+
+  methods: {
+    download () {
+      saveAs(new Blob([JSON.stringify(this.magicItem)], {
+          type: "text/plain;charset=utf-8"
+      }), "objet-magique.json")
+    },
+
+    upload (e) {
+      let file = e.target.files[0]
+      let reader = new FileReader()
+      let self = this
+
+      reader.onload = function() {
+        let result = JSON.parse(reader.result)
+        if (result.pid == 'magicItem') {
+          self.magicItem = result
+        }
+      }
+
+      reader.readAsText(file)
+    },
+
+    onUploadClick () {
+      this.isUploading = true
+      window.addEventListener('focus', () => {
+        this.isUploading = false
+      }, { once: true })
+
+      this.$refs.uploader.click()
+    },
+
+    print () {
+      window.print()
+    },
+
+    toggleMagicItemInTreasureChest () {
+      if (this.isMagicItemInTreasureChest) {
+        this.$store.commit('myMagicItems/removeMagicItem', this.magicItem)
+      } else {
+        this.$store.commit('myMagicItems/addMagicItem', this.magicItem)
+      }
+    },
+
+    updateMagicItemInTreasureChest () {
+      if (this.isMagicItemInTreasureChest) {
+        this.$store.commit('myMagicItems/updateMagicItem', this.magicItem)
+      }
+    },
+
+    switchAttunement () {
+      if (this.magicItem.hasAttunement) {
+        this.magicItem.frontmatter.attunement = "harmonisation requise"
+      } else {
+        this.magicItem.frontmatter.attunement = ""
+      }
+    },
+
+    reset () {
+      this.customAttunement = '',
+      this.magicItem = {
+        custom: true,
+        pid: 'magicItem',
+        key: Math.random().toString(36).substr(2, 9),
+        title: '',
+        content: '',
+        hasAttunement: false,
+        frontmatter: {
+          type: '',
+          subtype: '',
+          rarity: '',
+          attunement: '',
+        }
+      }
+    }
+  },
+
+  mounted () {
+    this.$store.commit('setHasRightDrawer', false)
+    this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
+    this.$store.commit('setInRightDrawer', null)
+
+    let magicItemKey = getUrlParameter(window.location.href, "key")
+
+    if (magicItemKey) {
+      for (let magicItem of this.$store.state.myMagicItems.magicItems) {
+        if (magicItem.key == magicItemKey) {
+          this.magicItem = magicItem
+          if (!this.magicItem.custom) {
+            this.magicItem.content = magicItem.rawContent
+            this.magicItem.custom = true
+          }
+        }
+      }
+    } else {
+      this.magicItem.key = Math.random().toString(36).substr(2, 9)
+    }
+  }
+}
+</script>
+
+<style>
+</style>

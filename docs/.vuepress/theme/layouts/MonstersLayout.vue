@@ -1,7 +1,11 @@
 <template>
   <div class="monsters">
 
-    <Breadcrumb />
+    <div class="d-flex align-center mb-4">
+      <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
+      <v-btn color="primary" depressed link to="/mon-bestiaire/">Mon bestiaire</v-btn>
+    </div>
 
     <h1>Bestiaire</h1>
 
@@ -15,6 +19,10 @@
       must-sort
       :search="search"
     >
+
+      <template v-slot:item.isInBestiary="{ item }">
+        <v-simple-checkbox off-icon="mdi-bookmark-outline" on-icon="mdi-bookmark" @input="toggleMonsterInBestiary(item)" :value="isMonsterInBestiary(item)"></v-simple-checkbox>
+      </template>
 
       <template v-slot:item.title="{ item }">
         <router-link :to="{ path: item.path }" class="subtitle-2">{{ item.title }}</router-link>
@@ -51,6 +59,7 @@ export default {
       sortBy: 'title',
       sortDesc: false,
       headers: [
+        { text: "", align: 'center', sortable: false, value: 'isInBestiary' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
         { text: "ID", align: 'center', sortable: true, value: 'frontmatter.challenge' },
         { text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' },
@@ -153,6 +162,22 @@ export default {
   methods: {
     displayList (list) { return list.join(', ') },
     displayChallenge (challenge) { return displayChallenge(challenge) },
+    isMonsterInBestiary (monster) {
+      let isInBestiary = false
+      for (let m of this.$store.state.myMonsters.monsters) {
+        if (m.key == monster.key) {
+          isInBestiary = true
+        }
+      }
+      return isInBestiary
+    },
+    toggleMonsterInBestiary (monster) {
+      if (this.isMonsterInBestiary(monster)) {
+        this.$store.commit('myMonsters/removeMonster', monster)
+      } else {
+        this.$store.commit('myMonsters/addMonster', monster)
+      }
+    }
   },
 
   mounted () {

@@ -16,6 +16,9 @@
         <template v-for="item in items">
           <v-list-group v-if="item.children" :key="item.title" :value="isExpanded(item)" color="accent">
             <template v-slot:activator>
+              <v-list-item-icon v-if="item.icon">
+                <v-icon v-text="item.icon"></v-icon>
+              </v-list-item-icon>
               <v-list-item-content>
                 <v-list-item-title>
                   {{ item.title }}
@@ -26,25 +29,37 @@
             <template v-for="child in item.children">
               <v-list-group v-if="child.children" :key="child.title" sub-group :value="isExpanded(child)" color="accent">
                 <template v-slot:activator>
+                  <v-list-item-icon v-if="child.icon">
+                    <v-icon v-text="child.icon"></v-icon>
+                  </v-list-item-icon>
                   <v-list-item-content>
                     <v-list-item-title>
                       {{ child.title }}
+                      <v-chip v-if="child.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(child.badge)"></v-chip>
                     </v-list-item-title>
                   </v-list-item-content>
                 </template>
                 <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" :exact="subchild.exact">
+                  <v-list-item-icon v-if="subchild.icon">
+                    <v-icon v-text="subchild.icon"></v-icon>
+                  </v-list-item-icon>
                   <v-list-item-content>
                     <v-list-item-title>
                       {{ subchild.title }}
+                      <v-chip v-if="subchild.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(subchild.badge)"></v-chip>
                     </v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
               </v-list-group>
               <v-divider v-else-if="child.type == 'divider'" />
               <v-list-item v-else :key="child.title" link :to="{path: child.path}" :exact="child.exact">
+                <v-list-item-icon v-if="child.icon">
+                  <v-icon v-text="child.icon"></v-icon>
+                </v-list-item-icon>
                 <v-list-item-content>
                   <v-list-item-title>
                     {{ child.title }}
+                    <v-chip v-if="child.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(child.badge)"></v-chip>
                   </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
@@ -195,6 +210,15 @@ export default {
     setIsThemeDark () {
       this.$vuetify.theme.dark = !this.$vuetify.theme.dark
       this.$store.commit('setIsThemeDark', this.$vuetify.theme.dark)
+    },
+    displayBadge (badge) {
+      if (badge == 'mySpells') {
+        return this.$store.state.mySpells.spells.length
+      } else if (badge == 'myMonsters') {
+        return this.$store.state.myMonsters.monsters.length
+      } else if (badge == 'myMagicItems') {
+        return this.$store.state.myMagicItems.magicItems.length
+      }
     }
   }
 }

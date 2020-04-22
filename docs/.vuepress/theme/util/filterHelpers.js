@@ -73,3 +73,19 @@ export function setBooleanMutation (param, store, mutation) {
     store.commit(mutation, value)
   }
 }
+
+export function sortByString (a, b, direction = 'ASC') {
+  const titleA = a.toUpperCase()
+  const titleB = b.toUpperCase()
+  let comparison = 0
+  if (titleA > titleB) {
+    comparison = 1
+  } else if (titleA < titleB) {
+    comparison = -1
+  }
+  if (direction == 'ASC') {
+    return comparison
+  } else {
+    return comparison * -1
+  }
+}

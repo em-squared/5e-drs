@@ -13,7 +13,7 @@ title: Magicien
 |**4**|+2|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|4|3|-|-|-|-|-|-|-|
 |**5**|+3|-|4|4|3|2|-|-|-|-|-|-|
 |**6**|+3|[Aptitude de tradition arcanique](#tradition-arcanique)|4|4|3|3|-|-|-|-|-|-|
-|**7**|+3|-|3|4|3|3|1|-|-|-|-|-|
+|**7**|+3|-|4|4|3|3|1|-|-|-|-|-|
 |**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|4|3|3|2|-|-|-|-|-|
 |**9**|+4|-|4|4|3|3|3|1|-|-|-|-|
 |**10**|+4|[Aptitude de tradition arcanique](#tradition-arcanique)|5|4|3|3|3|2|-|-|-|-|

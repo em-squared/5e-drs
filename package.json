@@ -12,7 +12,9 @@
   "dependencies": {
     "@mdi/font": "^5.0.45",
     "@vuepress/plugin-blog": "^1.9.2",
+    "@vuepress/plugin-google-analytics": "^1.4.1",
     "@vuepress/plugin-pwa": "^1.4.1",
+    "file-saver": "^2.0.2",
     "flexsearch": "nextapps-de/flexsearch",
     "js-cookie": "^2.2.1",
     "markdown-it-div": "^1.1.0",
@@ -22,6 +24,7 @@
     "sass-loader": "^8.0.2",
     "slugify": "^1.4.0",
     "vue": "^2.6.11",
+    "vue-masonry-css": "^1.0.3",
     "vuepress": "^1.4.0",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-dehydrate": "^1.1.3",

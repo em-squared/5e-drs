@@ -1,7 +1,11 @@
 <template>
   <div class="magic-items">
 
-    <Breadcrumb />
+    <div class="d-flex align-center mb-4">
+      <Breadcrumb class="mr-auto" />
+      <v-btn color="primary" class="mr-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
+      <v-btn color="primary" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
+    </div>
 
     <h1>Liste des objets magiques</h1>
 
@@ -15,6 +19,10 @@
       must-sort
       :search="search"
     >
+
+      <template v-slot:item.isInTreasureChest="{ item }">
+        <v-simple-checkbox off-icon="mdi-bookmark-outline" on-icon="mdi-bookmark" @input="toggleItemInTreasureChest(item)" :value="isItemInTreasureChest(item)"></v-simple-checkbox>
+      </template>
 
       <template v-slot:item.title="{ item }">
         <router-link :to="{ path: item.path }" class="subtitle-2">{{ item.title }}</router-link>
@@ -40,6 +48,7 @@ export default {
       sortBy: 'title',
       sortDesc: false,
       headers: [
+        { text: "", align: 'center', sortable: false, value: 'isInTreasureChest' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
         { text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' },
         { text: "Rareté", align: 'start', sortable: false, value: 'frontmatter.rarity' },
@@ -99,6 +108,25 @@ export default {
       }
 
       return results
+    }
+  },
+
+  methods: {
+    isItemInTreasureChest (magicItem) {
+      let isInTreasureChest = false
+      for (let mi of this.$store.state.myMagicItems.magicItems) {
+        if (mi.key == magicItem.key) {
+          isInTreasureChest = true
+        }
+      }
+      return isInTreasureChest
+    },
+    toggleItemInTreasureChest (magicItem) {
+      if (this.isItemInTreasureChest(magicItem)) {
+        this.$store.commit('myMagicItems/removeMagicItem', magicItem)
+      } else {
+        this.$store.commit('myMagicItems/addMagicItem', magicItem)
+      }
     }
   },
 

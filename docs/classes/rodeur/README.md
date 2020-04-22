@@ -14,7 +14,7 @@ title: Rôdeur
 |**5**|+3|[Attaque supplémentaire](#attaque-supplementaire)|4|4|2|-|-|-|
 |**6**|+3|[Amélioration d'ennemi juré](#ennemi-jure)|4|4|2|-|-|-|
 |**7**|+3|[Aptitude d'archétype de rôdeur](#archetype-de-rodeur)|5|4|3|-|-|-|
-|**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|-|-|-|
+|**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques), [Traversée des terrains](#traversee-des-terrains)|5|4|3|-|-|-|
 |**9**|+4|-|6|4|3|2|-|-|
 |**10**|+4|[Amélioration d'explorateur né](#explorateur-ne)|6|4|3|2|-|-|
 |**11**|+4|[Aptitude d'archétype de rôdeur](#archetype-de-rodeur)|7|4|3|3|-|-|

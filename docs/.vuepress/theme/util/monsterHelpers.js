@@ -57,7 +57,11 @@ export function displayMonsterTypeSizeAlignment (monster, hideAlignment = false,
     result += ' de taille ' + monster.size
   }
   if (!hideAlignment) {
-    result += ', ' + monster.alignment
+    if (monster.alignment) {
+      result += ', ' + monster.alignment
+    } else {
+      result += ', non alignée'
+    }
   }
   if (showChallenge) {
     result += ', Dangerosité : ' + displayChallenge(monster.challenge)

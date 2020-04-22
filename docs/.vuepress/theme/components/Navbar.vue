@@ -5,7 +5,7 @@
       <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }"><img src="/dragon_blanc.svg" />&nbsp;{{ $site.title }}</v-btn>
     </v-toolbar-title>
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
-    <v-spacer />
+    <v-spacer class="hidden-sm-and-down" />
     <v-btn class="hidden-sm-and-down" @click.stop="setIsThemeDark" icon>
       <v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon>
     </v-btn>

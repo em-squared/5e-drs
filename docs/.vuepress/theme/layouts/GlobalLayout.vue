@@ -101,6 +101,12 @@ export default {
     if (THEMEISDARK === 'true') {
       this.$vuetify.theme.dark = true
     }
+
+    // Chargement des donées utilisateur depuis le navigateur
+    this.$store.commit('mySpells/initialiseStore')
+    this.$store.commit('myMonsters/initialiseStore')
+    this.$store.commit('myMagicItems/initialiseStore')
+
     // this.$vuetify.theme.dark = this.$store.state.isThemeDark
 
     // let conditionLinks = document.links

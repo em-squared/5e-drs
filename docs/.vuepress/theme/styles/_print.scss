@@ -4,6 +4,27 @@
     font-family: serif;
     padding-top: 0;
     margin-top: 0;
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  .d-flex {
+    display: block !important;
+  }
+
+  .scroll-y {
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  .application {
+    display: block !important;
+  }
+  .application--wrap {
+    display: block !important;
+  }
+  .content--wrap {
+    display: block !important;
   }
 
   .p2c {

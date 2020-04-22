@@ -89,17 +89,17 @@ module.exports = {
         hostname: 'https://heros-et-dragons.fr'
       }
     ],
-    [
-      '@vuepress/pwa',
-      {
-        serviceWorker: true,
-        updatePopup: true,
-        generateSWConfig: {
-          cacheId: 'hddrs',
-          globIgnores: ['**/*.js', '**/*.css', '**/*.html']
-        }
-      }
-    ],
+    // [
+    //   '@vuepress/pwa',
+    //   {
+    //     serviceWorker: true,
+    //     updatePopup: true,
+    //     generateSWConfig: {
+    //       cacheId: 'hddrs',
+    //       globIgnores: ['**/*.js', '**/*.css', '**/*.html']
+    //     }
+    //   }
+    // ],
     [
       'seo',
       {
@@ -117,10 +117,16 @@ module.exports = {
         // modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       }
     ],
+    // [
+    //   '@vuepress/google-analytics',
+    //   {
+    //     'ga': '' // UA-00000000-0
+    //   }
+    // ]
   ],
-  // extendPageData ($page) {
-  //   $page.rawContent = ($page._strippedContent)
-  // },
+  extendPageData ($page) {
+    $page.rawContent = ($page._strippedContent)
+  },
   markdown: {
     anchor: {
       permalinkBefore: false,
@@ -135,6 +141,44 @@ module.exports = {
       })
     }
   },
+  additionalPages: [
+    {
+       path: '/mon-grimoire/',
+       frontmatter: {
+          layout: 'MySpellsLayout'
+       }
+    },
+    {
+       path: '/mon-bestiaire/',
+       frontmatter: {
+          layout: 'MyMonstersLayout'
+       }
+    },
+    {
+       path: '/mes-objets-magiques/',
+       frontmatter: {
+          layout: 'MyMagicItemsLayout'
+       }
+    },
+    {
+       path: '/creation-de-sort/',
+       frontmatter: {
+          layout: 'CreateSpellLayout'
+       }
+    },
+    {
+       path: '/creation-de-monstre-pnj/',
+       frontmatter: {
+          layout: 'CreateMonsterLayout'
+       }
+    },
+    {
+       path: '/creation-d-objet-magique/',
+       frontmatter: {
+          layout: 'CreateMagicItemLayout'
+       }
+    }
+  ],
   themeConfig: {
     domain: 'https://staging.heros-et-dragons.fr',
     repository: 'https://github.com/em-squared/heros-et-dragons-drs',
@@ -150,7 +194,7 @@ module.exports = {
     sidebar: [
       {
         title: 'Pour les joueurs',
-        expanded: true,
+        icon: 'mdi-book-open-variant',
         children: [
           {
             title: "Création du personnage",
@@ -426,6 +470,7 @@ module.exports = {
       },
       {
         title: 'Pour les meneurs',
+        icon: 'mdi-map',
         children: [
           {
             title: "Créatures & oppositions",
@@ -484,6 +529,46 @@ module.exports = {
             title: "Les poisons",
             path: '/poisons/'
           }
+        ]
+      },
+      {type: 'divider'},
+      {
+        title: 'Bibliothèques',
+        icon: 'mdi-book',
+        children: [
+          {
+            title: 'Mon grimoire',
+            path: '/mon-grimoire/',
+            badge: 'mySpells'
+          },
+          {
+            title: 'Mon bestiaire',
+            path: '/mon-bestiaire/',
+            badge: 'myMonsters'
+          },
+          {
+            title: 'Mes objets magiques',
+            path: '/mes-objets-magiques/',
+            badge: 'myMagicItems'
+          }
+        ]
+      },
+      {
+        title: 'Outils de création',
+        icon: 'mdi-tools',
+        children: [
+          {
+            title: 'Création de sort',
+            path: '/creation-de-sort/'
+          },
+          {
+            title: 'Création de monstre/PNJ',
+            path: '/creation-de-monstre-pnj/'
+          },
+          {
+            title: "Création d'objet magique",
+            path: '/creation-d-objet-magique/'
+          },
         ]
       },
       {type: 'divider'},

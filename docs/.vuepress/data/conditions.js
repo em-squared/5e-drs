@@ -1,0 +1,17 @@
+export const CONDITIONS = [
+  { text: "À terre", value:'a-terre' },
+  { text: "Assourdi", value: 'assourdi' },
+  { text: "Aveuglé", value: 'aveugle' },
+  { text: "Charmé", value: 'charme' },
+  { text: "Épuisé", value: 'epuise' },
+  { text: "Empoigné", value: 'empoigne' },
+  { text: "Empoisonné", value: 'empoisonne' },
+  { text: "Entravé", value: 'entrave' },
+  { text: "Étourdi", value: 'etourdi' },
+  { text: "Inconscient", value: 'inconscient' },
+  { text: "Invisible", value: 'invisible' },
+  { text: "Neutralisé", value: 'neutralise' },
+  { text: "Paralysé", value: 'paralyse' },
+  { text: "Pétrifié", value: 'petrifie' },
+  { text: "Terrorisé", value: 'terrorise' },
+]
