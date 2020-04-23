@@ -382,7 +382,51 @@ export default {
         title: '',
         content: '',
         frontmatter: {
-
+          type: '',
+          subtype: '',
+          size: '',
+          challenge: '0',
+          alignment: '',
+          isSwarm: false,
+          swarmSize: '',
+          hitDiceCount: 1,
+          hitDieSize: '',
+          abilityScores: {
+            for: 10,
+            dex: 10,
+            con: 10,
+            int: 10,
+            sag: 10,
+            cha: 10,
+          },
+          ac: {
+            armorType: null,
+            value: null, // Dans le cas du type d'armure "Armure naturelle"
+            hasShield: false,
+          },
+          savingThrow: null,
+          skills: null,
+          movement: {
+            walk: '',
+            climb: '',
+            burrow: '',
+            swim: '',
+            fly: '',
+            hover: false,
+          },
+          senses: {
+            tremorsense: '',
+            blindsight: '',
+            darkvision: '',
+            truesight: '',
+          },
+          conditionImmunities: [],
+          damageTypeVulnerabilities: [],
+          damageTypeResistances: [],
+          damageTypeImmunities: [],
+          languages: [],
+          customLanguage: '',
+          telepathy: null
         }
       }
     },
