@@ -15,6 +15,12 @@
         </v-row>
 
       </v-container>
+
+      <v-btn v-show="$vuetify.breakpoint.lgAndUp" color="primary" @click.stop="setRightDrawer" :class="rightDrawerButtonCSS()" small top right fixed fab>
+        <v-icon v-if="$store.state.rightDrawer">mdi-chevron-right</v-icon>
+        <v-icon v-else left>mdi-chevron-left</v-icon>
+      </v-btn>
+
       <v-fab-transition>
         <v-btn color="primary" class="d-print-none" fab bottom right fixed @click="toTop" v-show="toTopButton" v-scroll="onScroll">
           <v-icon class="d-print-none">mdi-chevron-up</v-icon>
@@ -49,6 +55,9 @@ export default {
     Navbar,
     NavDrawer,
     RightDrawer
+  },
+
+  computed: {
   },
 
   data () {
@@ -126,7 +135,18 @@ export default {
 
     toTop () {
       this.$vuetify.goTo(0)
-    }
+    },
+
+    rightDrawerButtonCSS () {
+      if (this.$store.state.rightDrawer) {
+        return 'right-drawer-button right-drawer-button-open'
+      }
+      return 'right-drawer-button right-drawer-button-close'
+    },
+
+    setRightDrawer () {
+      this.$store.commit('setRightDrawer', !this.$store.state.rightDrawer)
+    },
   }
 }
 </script>
@@ -137,5 +157,14 @@ export default {
 }
 .footer-padding-right {
   padding-right: 300px;
+}
+.right-drawer-button {
+  top: 150px !important;
+}
+.right-drawer-button-open {
+  right: 280px !important;
+}
+.right-drawer-button-close {
+  right: -20px !important;
 }
 </style>

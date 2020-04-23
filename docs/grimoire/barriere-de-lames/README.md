@@ -5,7 +5,7 @@ school: "Évocation"
 level: 6
 concentration: true
 casting_time: "1 action"
-duration: "jusqu'à 10 minute"
+duration: "jusqu'à 10 minutes"
 range: "27 mètres"
 components:
   verbal: true

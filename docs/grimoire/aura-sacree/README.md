@@ -5,7 +5,7 @@ school: "Abjuration"
 level: 8
 concentration: true
 casting_time: "1 action"
-duration: "jusqu'à 1 minutes"
+duration: "jusqu'à 1 minute"
 range: "personnelle"
 components:
   verbal: true
