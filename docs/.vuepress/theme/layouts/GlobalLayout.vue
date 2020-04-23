@@ -13,7 +13,13 @@
             <DefaultGlobalLayout/>
           </v-col>
         </v-row>
+
       </v-container>
+      <v-fab-transition>
+        <v-btn color="primary" class="d-print-none" fab bottom right fixed @click="toTop" v-show="toTopButton" v-scroll="onScroll">
+          <v-icon class="d-print-none">mdi-chevron-up</v-icon>
+        </v-btn>
+    </v-fab-transition>
     </v-content>
 
     <v-bottom-sheet v-model="cookieConsentDialog" persistent>
@@ -48,6 +54,7 @@ export default {
   data () {
     return {
       cookieConsentDialog: true,
+      toTopButton: false
     }
   },
 
@@ -109,6 +116,16 @@ export default {
     setCookieConsent () {
       Cookies.set('heros-et-dragons-cookies', 'compris')
       this.cookieConsentDialog = false
+    },
+
+    onScroll (e) {
+      if (typeof window === 'undefined') return
+      const top = window.pageYOffset ||   e.target.scrollTop || 0
+      this.toTopButton = top > 20
+    },
+
+    toTop () {
+      this.$vuetify.goTo(0)
     }
   }
 }
