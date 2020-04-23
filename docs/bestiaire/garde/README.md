@@ -14,7 +14,7 @@ abilityScores:
   sag: 11
   cha: 10
 ac: 
-  armorType: "chemise de maille"
+  armorType: "chemise de mailles"
   hasShield: true
 skills: 
   - name: "perception"

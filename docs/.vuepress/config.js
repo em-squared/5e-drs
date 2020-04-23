@@ -129,6 +129,7 @@ module.exports = {
     $page.rawContent = ($page._strippedContent)
   },
   markdown: {
+    extractHeaders: [ 'h1', 'h2', 'h3', 'h4', 'h5', 'h6' ],
     anchor: {
       permalinkBefore: false,
       permalinkSymbol: '<i class="v-icon notranslate mdi mdi-link-variant"></i>'
@@ -499,7 +500,7 @@ module.exports = {
             path: '/les-tresors/'
           },
           {
-            title: "Objects magiques",
+            title: "Objets magiques",
             path: '/objets-magiques/'
           },
           {

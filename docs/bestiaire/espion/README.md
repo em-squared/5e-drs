@@ -8,14 +8,14 @@ challenge: "1"
 hitDiceCount: 6
 abilityScores:
   for: 10
-  dex: 14
-  con: 15
+  dex: 15
+  con: 10
   int: 12
   sag: 14
   cha: 16
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "escamotage"
   - name: "investigation"
@@ -25,10 +25,10 @@ skills:
   - name: "perspicacite"
   - name: "persuasion"
   - name: "supercherie"
-movement: 
+movement:
   walk: 9
-senses: 
-languages: 
+senses:
+languages:
   - "deux langues au choix"
 source: "Créatures & Oppositions"
 source_page: 334

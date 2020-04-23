@@ -13,16 +13,17 @@ abilityScores:
   int: 12
   sag: 15
   cha: 11
-ac: 
-  armorType: null
-skills: 
+ac:
+  armorType: custom
+  value: 11 (16 avec peau d'écorce)
+skills:
   - name: "medecine"
   - name: "nature"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
-languages: 
+senses:
+languages:
   - "langue des druides plus deux langues au choix"
 source: "Créatures & Oppositions"
 source_page: 332

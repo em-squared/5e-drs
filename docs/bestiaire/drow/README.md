@@ -14,7 +14,7 @@ abilityScores:
   sag: 11
   cha: 12
 ac: 
-  armorType: "chemise de maille"
+  armorType: "chemise de mailles"
 skills: 
   - name: "discretion"
   - name: "perception"

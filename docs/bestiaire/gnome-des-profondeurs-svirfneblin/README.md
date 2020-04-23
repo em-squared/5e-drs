@@ -14,7 +14,7 @@ abilityScores:
   sag: 10
   cha: 9
 ac: 
-  armorType: "chemise de maille"
+  armorType: "chemise de mailles"
 skills: 
   - name: "discretion"
   - name: "investigation"

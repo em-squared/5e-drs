@@ -113,7 +113,7 @@
             <template>{{ displaySenses() }}</template>
           </div>
           <div class="monster-languages">
-            <strong>Langes</strong>
+            <strong>Langues</strong>
             <template>{{ languages }}</template>
           </div>
           <div class="monster-challenge">

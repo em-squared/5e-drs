@@ -14,7 +14,7 @@ abilityScores:
   sag: 16
   cha: 13
 ac: 
-  armorType: "chemise de maille"
+  armorType: "chemise de mailles"
 skills: 
   - name: "medecine"
     isExpert: true
