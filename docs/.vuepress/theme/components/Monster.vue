@@ -197,7 +197,7 @@ export default {
         } else if (this.monsterStats.size) {
           hitDieSize = stats.sizes[this.monsterStats.size].hitDie
         }
-        let hitPointsBonus = 1
+        let hitPointsBonus = 0
         if (this.monsterStats.hitDiceCount > 1) {
           hitPointsBonus = Math.floor(this.monsterStats.hitDiceCount / 2)
         }
@@ -251,7 +251,12 @@ export default {
     },
 
     displaySkillBonus (skill) {
+      console.log(skill)
       let result = stats.skills[skill.name].label
+      if (skill.invalid) {
+        result += ' ' + displayBonus(skill.value)
+        return result
+      }
       let bonus = getModifier(this.monsterStats.abilityScores[stats.skills[skill.name].ability]) + this.proficiencyBonus
       if (skill.isExpert) {
         bonus += this.proficiencyBonus // Bonus de maître doublé pour les experts

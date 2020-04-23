@@ -13,16 +13,16 @@ abilityScores:
   int: 11
   sag: 10
   cha: 9
-ac: 
+ac:
   armorType: "armure d'écailles"
   hasShield: true
-movement: 
-  walk: 7
-senses: 
+movement:
+  walk: 7,5
+senses:
   darkvision: 36
-damageTypeResistances: 
+damageTypeResistances:
   - "poison"
-languages: 
+languages:
   - "commun des profondeurs"
   - "nain"
 dungeonTypes:
