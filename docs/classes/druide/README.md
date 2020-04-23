@@ -362,3 +362,24 @@ De plus, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous 
 Le druide du cercle des profondeurs reconnaît les créatures étranges comme des enfants de la nature au même titre que les animaux. À partir du niveau 2, vous pouvez sacrifier deux formes sauvages pour vous transformer en créature monstrueuse, l'ID et les créatures auxquelles vous avez accès sont précisés dans le tableau ci-dessous.
 
 De plus, vous doublez votre niveau de druide pour déterminer les formes sauvages de bêtes auxquelles vous pouvez accéder (indice de dangerosité et mode de déplacement). À partir du niveau 8, vous gagnez la capacité de vous transformer en une bête dont l'indice de dangerosité est égal à votre niveau de druide divisé par quatre (arrondi à l'inférieur).
+
+§§§ .table-container
+| Niveau 2 | Niveau 4 | Niveau 8 | Niveau 12 | Niveau 18 |
+|:-:|:-:|:-:|:-:|:-:|
+| Oxydeur (ID 1/2) | Chien du trépas (ID 1) | Ankheg (ID 2) | Basilic (ID 3) | Bulette (ID 5) |
+| Worg (ID 1/2) | Cockatrice (ID 1/2) | Ettercap (ID 2) | Hibours (ID 3) | Enlaceur (ID 5) |
+|  | Harpie (ID 1) | Grick (ID 2) | Loup arctique (ID 3) | Gorgone (ID 5) |
+|  | Larve des roches (ID 1) | Merrow (ID 2)* | Manticore (ID 3) | Terreur des roches (ID 5) |
+|  | Mante obscure (ID 1/2) | Mimique (ID 2) | Minotaure (ID 3)* |  |
+§§§
+
+*_Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre._
+
+#### Pouvoir des profondeurs
+À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir _pattes d’araignées_ pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau _pattes d’araignées_.
+
+#### Magie des profondeurs
+Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d’une attaque que vous venez de porter. Les dégâts de l’attaque sont considérés comme magiques et du même type que l’attaque initiale.
+
+#### Déplacement souterrain
+À partir du niveau 14, vous pouvez vous déplacer à travers la pierre ou la terre d’un sol ou d’une paroi, s’ils sont naturels, à la moitié de votre vitesse normale, que ce soit sous votre forme normale ou sous forme sauvage. Vous devez terminer votre déplacement à l’air libre. Si ce n’est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un jet de sauvegarde de Constitution DD 15.
