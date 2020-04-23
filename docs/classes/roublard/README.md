@@ -202,3 +202,4 @@ Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points 
 
 #### Maître de l'ombre
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : [_apparence trompeuse_](/grimoire/apparence-trompeuse/), [_passage dimensionnel_](/grimoire/porte-dimensionnelle/) ou [_tromperie_](/grimoire/tromperie/). Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
+Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
