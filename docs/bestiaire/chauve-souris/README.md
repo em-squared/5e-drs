@@ -15,7 +15,7 @@ abilityScores:
 ac: 
   armorType: null
 movement: 
-  walk: 1
+  walk: 1,5
   fly: 9
 senses: 
   blindsight: 18
