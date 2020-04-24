@@ -12,22 +12,22 @@ abilityScores:
   int: 11
   sag: 10
   cha: 11
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 9
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 6
   burrow: 6
-senses: 
+senses:
   tremorsense: 18
   darkvision: 18
-damageTypeResistances: 
-  - "p-t-non-magique"
-languages: 
+damageTypeResistances:
+  - "p-t-non-adamantite"
+languages:
   - "terreux"
 environments:
   - Montagnes

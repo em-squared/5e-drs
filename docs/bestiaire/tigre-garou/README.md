@@ -13,19 +13,20 @@ abilityScores:
   int: 10
   sag: 13
   cha: 11
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
-senses: 
+customMovement: "9 m (12 m sous forme de tigre)"
+senses:
   darkvision: 18
-damageTypeResistances: 
+damageTypeResistances:
   - "c-p-t-non-argent"
-languages: 
+languages:
   - "commun (ne peut pas parler sous forme de tigre)"
 environments:
   - Jungle

@@ -13,17 +13,18 @@ abilityScores:
   int: 10
   sag: 11
   cha: 8
-ac: 
-  armorType: "armure naturelle"
-  value: 0
-skills: 
+ac:
+  armorType: "custom"
+  value: "10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier"
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
-damageTypeResistances: 
+customMovement: "9 m (12 m sous forme de sanglier)"
+senses:
+damageTypeResistances:
   - "c-p-t-non-argent"
-languages: 
+languages:
   - "commun (ne peut pas parler sous forme de sanglier)"
 environments:
   - Bois / Forêt

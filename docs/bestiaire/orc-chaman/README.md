@@ -1,7 +1,7 @@
 ---
 title: "Orc, chaman"
 type: "Humanoïde"
-subtype: "orc"
+subtype: "demi-orc"
 size: "M"
 alignment: "Neutre Mauvais"
 challenge: "2"
@@ -13,16 +13,17 @@ abilityScores:
   int: 10
   sag: 14
   cha: 12
-ac: 
-  armorType: "armure de cuir"
-skills: 
+ac:
+  armorType: "custom"
+  value: "Classe d'armure 13 (armure de cuir)"
+skills:
   - name: "persuasion"
   - name: "religion"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "commun"
   - "orc"
 dungeonTypes:

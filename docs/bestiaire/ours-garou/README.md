@@ -13,19 +13,20 @@ abilityScores:
   int: 11
   sag: 12
   cha: 12
-ac: 
-  armorType: "armure naturelle"
-  value: 0
-skills: 
+ac:
+  armorType: "custom"
+  value: "10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours"
+skills:
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
   climb: 9
-senses: 
-damageTypeResistances: 
+customMovement: "9 m (12 m, escalade 9 m sous forme hybride ou d'ours)"
+senses:
+damageTypeResistances:
   - "c-p-t-non-argent"
-languages: 
+languages:
   - "commun (ne peut pas parler sous forme d'ours)"
 environments:
   - Bois / Forêt

@@ -13,19 +13,20 @@ abilityScores:
   int: 10
   sag: 11
   cha: 10
-ac: 
-  armorType: "armure naturelle"
-  value: 0
-skills: 
+ac:
+  armorType: "custom"
+  value: "11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup"
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
-senses: 
-damageTypeResistances: 
+customMovement: "9 m (12 m sous forme de loup)"
+senses:
+damageTypeResistances:
   - "c-p-t-non-argent"
-languages: 
+languages:
   - "commun (ne peut pas parler sous forme de loup)"
 environments:
   - Bois / Forêt

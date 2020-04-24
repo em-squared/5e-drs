@@ -13,21 +13,21 @@ abilityScores:
   int: 7
   sag: 12
   cha: 7
-ac: 
+ac:
   armorType: "armure naturelle"
-  value: 5
+  value: 3
   hasShield: true
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
   - name: "survie"
     isExpert: true
-movement: 
+movement:
   walk: 9
   swim: 9
-senses: 
-languages: 
+senses:
+languages:
   - "draconique"
 environments:
   - Mangrove / Marécage

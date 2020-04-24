@@ -3,7 +3,7 @@ module.exports = {
   description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#563f5a' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],

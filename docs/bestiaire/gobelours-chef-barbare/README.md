@@ -13,10 +13,10 @@ abilityScores:
   int: 10
   sag: 11
   cha: 9
-ac: 
+ac:
   armorType: "armure de peau"
   hasShield: true
-skills: 
+skills:
   - name: "discretion"
     invalid: true
     value: 8
@@ -26,11 +26,11 @@ skills:
   - name: "survie"
     invalid: true
     value: 3
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "commun"
   - "gobelin"
 environments:

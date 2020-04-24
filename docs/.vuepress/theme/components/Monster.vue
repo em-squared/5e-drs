@@ -106,7 +106,11 @@
           </div>
           <div class="monster-condition-immunities" v-if="monsterStats.conditionImmunities && monsterStats.conditionImmunities.length > 0">
             <strong>Immunité contre les états</strong>
-            <span v-html="displayConditionImmunities()"></span>
+            <span v-for="(condition, idx) in monsterStats.conditionImmunities">
+              <template v-if="idx < monsterStats.conditionImmunities.length - 2 && idx > 1">,</template>
+              <template v-if="idx == monsterStats.conditionImmunities.length - 1">et</template>
+              <em><router-link :to="{ path: conditionPath(condition) }">{{displayCondition(condition)}}</router-link></em>
+            </span>
           </div>
           <div class="monster-senses">
             <strong>Sens</strong>
@@ -275,6 +279,9 @@ export default {
     },
 
     displayMovement () {
+      if (this.monsterStats.customMovement) {
+        return this.monsterStats.customMovement
+      }
       let result = ''
       if (this.monsterStats.movement.walk) {
         result += this.monsterStats.movement.walk + ' m'
@@ -422,6 +429,14 @@ export default {
       return result
     },
 
+    conditionPath (condition) {
+      return '/gerer-la-sante-du-personnage/#' + condition
+    },
+
+    displayCondition (condition) {
+      return stats.conditions[condition].label
+    },
+
     displayConditionImmunities () {
       let result = ''
       this.monsterStats.conditionImmunities.forEach((condition, idx) => {
@@ -432,7 +447,7 @@ export default {
             result += ', '
           }
         }
-        result += '<em>' + stats.conditions[condition].label + '</em>'
+        result += '<em><router-link :to="{ path: \'/gerer-la-sante-du-personnage/#' + condition + '\' }">' + stats.conditions[condition].label + '</router-link></em>'
       })
       return result
     },
