@@ -237,7 +237,12 @@ export default {
     displayList (list) { return list.join(', ') },
     displayAbilityScore (value) { return displayAbilityScore(value) },
     getModifier (value) { return getModifier(value) },
-    getProficiencyBonus () { return getProficiencyBonus(this.monsterStats.challenge) },
+    getProficiencyBonus () {
+      if (this.monsterStats.proficiencyBonus) {
+        return parseInt(this.monsterStats.proficiencyBonus)
+      }
+      return getProficiencyBonus(this.monsterStats.challenge)
+    },
 
     displayMonsterTypeSizeAlignment () {
       return displayMonsterTypeSizeAlignment(this.monsterStats)
@@ -251,7 +256,6 @@ export default {
     },
 
     displaySkillBonus (skill) {
-      console.log(skill)
       let result = stats.skills[skill.name].label
       if (skill.invalid) {
         result += ' ' + displayBonus(skill.value)

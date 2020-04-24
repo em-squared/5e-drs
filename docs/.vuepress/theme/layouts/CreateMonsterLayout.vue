@@ -104,13 +104,16 @@
           <v-col class="subtitle-2" :cols="12">
             Maîtrises
           </v-col>
-          <v-col class="d-flex align-center" :cols="12" :sm="4">
+          <v-col class="d-flex align-center" :cols="12" :sm="3">
+            <v-text-field label="Bonus de maîtrise" type="number" min="2" max="9" outlined dense v-model="monster.frontmatter.proficiencyBonus"></v-text-field>
+          </v-col>
+          <v-col class="d-flex align-center" :cols="12" :sm="3">
             <v-select multiple clearable :items="abilities" item-text="label" item-value="value" label="Jets de sauvegarde" outlined dense v-model="monster.frontmatter.savingThrows"></v-select>
           </v-col>
-          <v-col class="d-flex align-center" :cols="12" :sm="4">
+          <v-col class="d-flex align-center" :cols="12" :sm="3">
             <v-select multiple clearable return-object :items="skills" item-text="label" item-value="value" label="Compétences" outlined dense v-model="selectedSkillsProficient" @change="selectSkill"></v-select>
           </v-col>
-          <v-col class="d-flex align-center" :cols="12" :sm="4">
+          <v-col class="d-flex align-center" :cols="12" :sm="3">
             <v-select multiple clearable :items="selectedSkillsProficient" item-text="label" item-value="value" label="Compétences expert" outlined dense v-model="selectedSkillsExpert" @change="selectSkillExpert"></v-select>
           </v-col>
         </v-row>
@@ -248,6 +251,9 @@ export default {
     },
 
     challengeHint () {
+      if (this.monster.frontmatter.proficiencyBonus) {
+        return 'Bonus de maîtrise personnalisé : ' + displayBonus(this.monster.frontmatter.proficiencyBonus)
+      }
       return 'Bonus de maîtrise : ' + displayBonus(getProficiencyBonus(this.monster.frontmatter.challenge))
     },
   },
@@ -279,6 +285,7 @@ export default {
           subtype: '',
           size: '',
           challenge: '0',
+          proficiencyBonus: null,
           alignment: '',
           isSwarm: false,
           swarmSize: '',

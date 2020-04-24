@@ -8,7 +8,7 @@
       </div>
     </div>
 
-    <h1 class="d-print-none">Création de sort</h1>
+    <h1 class="d-print-none">Création d'objet magique</h1>
 
     <div class="my-4 d-flex flex-wrap d-print-none">
       <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
