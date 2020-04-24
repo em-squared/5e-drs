@@ -16,7 +16,7 @@ ac:
   armorType: null
 movement: 
   walk: 6
-  burrow: 1
+  burrow: 1,50
 senses: 
   darkvision: 9
 languages: 
