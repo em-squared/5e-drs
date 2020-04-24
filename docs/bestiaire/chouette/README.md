@@ -20,7 +20,7 @@ skills:
   - name: "perception"
     isExpert: true
 movement: 
-  walk: 1
+  walk: 1,5
   fly: 18
 senses: 
   darkvision: 36
