@@ -24,7 +24,7 @@ movement:
   climb: 9
 customMovement: "9 m (12 m, escalade 9 m sous forme hybride ou d'ours)"
 senses:
-damageTypeResistances:
+damageTypeImmunities:
   - "c-p-t-non-argent"
 languages:
   - "commun (ne peut pas parler sous forme d'ours)"

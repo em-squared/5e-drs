@@ -24,7 +24,7 @@ movement:
 customMovement: "9 m (12 m sous forme de tigre)"
 senses:
   darkvision: 18
-damageTypeResistances:
+damageTypeImmunities:
   - "c-p-t-non-argent"
 languages:
   - "commun (ne peut pas parler sous forme de tigre)"

@@ -6,6 +6,7 @@ size: "M"
 alignment: "Loyal Mauvais"
 challenge: "3"
 hitDiceCount: 9
+customHP: "50 (9d8+9)"
 abilityScores:
   for: 13
   dex: 11
@@ -13,22 +14,22 @@ abilityScores:
   int: 12
   sag: 17
   cha: 11
-ac: 
+ac:
   armorType: "custom"
   value: "14 (armure de coquillages)"
-skills: 
+skills:
   - name: "perception"
     invalid: true
     value: 6
   - name: "religion"
     invalid: true
     value: 6
-movement: 
+movement:
   walk: 9
   swim: 12
-senses: 
+senses:
   darkvision: 36
-languages: 
+languages:
   - "sahuagin"
 environments:
   - Littoral

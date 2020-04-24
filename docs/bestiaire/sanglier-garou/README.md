@@ -22,7 +22,7 @@ movement:
   walk: 9
 customMovement: "9 m (12 m sous forme de sanglier)"
 senses:
-damageTypeResistances:
+damageTypeImmunities:
   - "c-p-t-non-argent"
 languages:
   - "commun (ne peut pas parler sous forme de sanglier)"

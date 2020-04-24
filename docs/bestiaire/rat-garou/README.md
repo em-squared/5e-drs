@@ -13,18 +13,18 @@ abilityScores:
   int: 11
   sag: 10
   cha: 8
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-damageTypeResistances: 
+damageTypeImmunities: 
   - "c-p-t-non-argent"
-languages: 
+languages:
   - "commun (ne peut pas parler sous forme de rat)"
 dungeonTypes:
   - Caverne naturelle
