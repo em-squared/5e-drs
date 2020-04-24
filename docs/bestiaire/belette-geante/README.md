@@ -20,6 +20,7 @@ skills:
 movement: 
   walk: 12
 senses: 
+  darkvision: 18
 languages: 
   - ""
 environments:
