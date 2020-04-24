@@ -15,7 +15,7 @@ abilityScores:
 ac: 
   armorType: null
 movement: 
-  walk: 19
+  walk: 18
 senses: 
 languages: 
   - ""
