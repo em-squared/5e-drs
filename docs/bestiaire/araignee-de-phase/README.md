@@ -22,7 +22,7 @@ movement:
   walk: 9
   climb: 9
 senses: 
-  darkvision: 9
+  darkvision: 18
 languages: 
   - ""
 environments:
