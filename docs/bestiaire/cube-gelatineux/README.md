@@ -12,20 +12,20 @@ abilityScores:
   int: 1
   sag: 6
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
-  walk: 4
-senses: 
+movement:
+  walk: 4,50
+senses:
   blindsight: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "assourdi"
   - "aveugle"
   - "charme"
   - "epuise"
   - "terrorise"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Donjon maçonné

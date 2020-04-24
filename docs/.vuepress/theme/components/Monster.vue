@@ -80,11 +80,14 @@
           </div>
         </div>
         <div class="break-avoid">
-          <div class="monster-saving-throws" v-if="monsterStats.savingThrows && monsterStats.savingThrows.length > 0">
+          <div class="monster-saving-throws" v-if="monsterStats.customSavingThrows || (monsterStats.savingThrows && monsterStats.savingThrows.length > 0)">
             <strong>Jets de sauvegarde</strong>
-            <span class="monster-saving-throw" v-for="(savingThrow, idx) in monsterStats.savingThrows">
-              <template>{{displaySavingThrowBonus(savingThrow)}}</template><template v-if="idx < monsterStats.savingThrows.length - 1">, </template>
-            </span>
+              <template v-if="monsterStats.customSavingThrows">{{monsterStats.customSavingThrows}}</template>
+              <template v-else>
+                <template v-for="(savingThrow, idx) in monsterStats.savingThrows">
+                  <template>{{displaySavingThrowBonus(savingThrow)}}</template><template v-if="idx < monsterStats.savingThrows.length - 1">, </template>
+                </template>
+              </template>
           </div>
           <div class="monster-skills" v-if="monsterStats.skills && monsterStats.skills.length > 0">
             <strong>Compétences</strong>
@@ -105,12 +108,13 @@
             <span v-html="displayDamageTypes(monsterStats.damageTypeImmunities)"></span>
           </div>
           <div class="monster-condition-immunities" v-if="monsterStats.conditionImmunities && monsterStats.conditionImmunities.length > 0">
-            <strong>Immunité contre les états</strong>
-            <span v-for="(condition, idx) in monsterStats.conditionImmunities">
+            <strong>Immunité contre <template v-if="monsterStats.conditionImmunities.length == 1">l'état</template><template v-else>les états</template></strong>
+            <span v-html="displayConditionImmunities()"></span>
+            <!-- <span v-for="(condition, idx) in monsterStats.conditionImmunities">
               <template v-if="idx < monsterStats.conditionImmunities.length - 2 && idx > 1">,</template>
               <template v-if="idx == monsterStats.conditionImmunities.length - 1">et</template>
               <em><router-link :to="{ path: conditionPath(condition) }">{{displayCondition(condition)}}</router-link></em>
-            </span>
+            </span> -->
           </div>
           <div class="monster-senses">
             <strong>Sens</strong>
@@ -402,30 +406,45 @@ export default {
         if (this.monsterStats.senses.tremorsense) {
           result += 'perception des vibrations ' + this.monsterStats.senses.tremorsense + ' m'
         }
-        if (this.monsterStats.senses.blindsight) {
+        if (this.monsterStats.senses.blindsight || this.monsterStats.senses.customBlindSight) {
           if (result != '') {
             result += ', '
           }
-          result += 'vision aveugle ' + this.monsterStats.senses.blindsight + ' m'
+          if (this.monsterStats.senses.customBlindSight) {
+            result += 'vision aveugle ' + this.monsterStats.senses.customBlindSight
+          } else {
+            result += 'vision aveugle ' + this.monsterStats.senses.blindsight + ' m'
+          }
         }
-        if (this.monsterStats.senses.darkvision) {
+        if (this.monsterStats.senses.darkvision || this.monsterStats.senses.customDarkvision) {
           if (result != '') {
             result += ', '
           }
-          result += 'vision dans le noir ' + this.monsterStats.senses.darkvision + ' m'
+          if (this.monsterStats.senses.customDarkvision) {
+            result += 'vision dans le noir ' + this.monsterStats.senses.customDarkvision
+          } else {
+            result += 'vision dans le noir ' + this.monsterStats.senses.darkvision + ' m'
+          }
         }
-        if (this.monsterStats.senses.truesight) {
+        if (this.monsterStats.senses.truesight || this.monsterStats.senses.customTrueSight) {
           if (result != '') {
             result += ', '
           }
-          result += 'vision parfaite ' + this.monsterStats.senses.truesight + ' m'
+          if (this.monsterStats.senses.customTrueSight) {
+            result += 'vision parfaite ' + this.monsterStats.senses.customTrueSight
+          } else {
+            result += 'vision parfaite ' + this.monsterStats.senses.truesight + ' m'
+          }
         }
         if (result != '') {
           result += ', '
         }
       }
-
-      result += 'Perception passive ' + this.passivePerception
+      if (this.monsterStats.senses && this.monsterStats.senses.customPassivePerception) {
+        result += 'Perception passive ' + this.monsterStats.senses.customPassivePerception
+      } else {
+        result += 'Perception passive ' + this.passivePerception
+      }
       return result
     },
 

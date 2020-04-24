@@ -13,17 +13,17 @@ abilityScores:
   int: 1
   sag: 3
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
-  walk: 1
-senses: 
+movement:
+  walk: 1,50
+senses:
   blindsight: 9
-conditionImmunities: 
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "terrorise"
-languages: 
+languages:
   - "—"
 environments:
   - Caverne naturelle

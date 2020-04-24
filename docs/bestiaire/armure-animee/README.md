@@ -12,14 +12,14 @@ abilityScores:
   int: 1
   sag: 3
   cha: 1
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 8
-movement: 
-  walk: 7
-senses: 
+movement:
+  walk: 7,50
+senses:
   blindsight: 18
-conditionImmunities: 
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "charme"
@@ -28,10 +28,10 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
   - "psychique"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Donjon maçonné

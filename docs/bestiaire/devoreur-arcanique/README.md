@@ -12,23 +12,24 @@ abilityScores:
   int: 15
   sag: 14
   cha: 18
-ac: 
+ac:
   armorType: "custom"
   value: "15"
-skills: 
+skills:
   - name: "perception"
     invalid: true
     value: 4
-movement: 
-  fly: 1
-senses: 
+movement:
+  walk: 1,50
+  fly: 9
+senses:
   blindsight: 18
-conditionImmunities: 
+conditionImmunities:
   - "aveugle"
   - "a-terre"
-damageTypeResistances: 
+damageTypeResistances:
   - "feu"
-languages: 
+languages:
   - "profond"
   - "commun des profondeurs"
 telepathy: 36

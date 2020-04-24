@@ -13,21 +13,21 @@ abilityScores:
   int: 5
   sag: 13
   cha: 8
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 1
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
-movement: 
-  walk: 4
-senses: 
+movement:
+  walk: 4,50
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "acide"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Caverne aménagée
