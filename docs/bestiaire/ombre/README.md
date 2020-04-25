@@ -16,6 +16,7 @@ ac:
   armorType: null
 skills:
   - name: "discretion"
+customSkills: "Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
 movement:
   walk: 12
 senses:

@@ -89,15 +89,19 @@
                 </template>
               </template>
           </div>
-          <div class="monster-skills" v-if="monsterStats.skills && monsterStats.skills.length > 0">
+          <div class="monster-skills" v-if="monsterStats.customSkills || (monsterStats.skills && monsterStats.skills.length > 0)">
             <strong>Compétences</strong>
-            <span class="monster-skill" v-for="(skill, idx) in monsterStats.skills">
-              <template>{{displaySkillBonus(skill)}}</template><template v-if="idx < monsterStats.skills.length - 1">, </template>
-            </span>
+            <template v-if="monsterStats.customSkills">{{monsterStats.customSkills}}</template>
+            <template v-else>
+              <span v-for="(skill, idx) in monsterStats.skills">
+                <template>{{displaySkillBonus(skill)}}</template><template v-if="idx < monsterStats.skills.length - 1">, </template>
+              </span>
+            </template>
           </div>
-          <div class="monster-damage-type-vulnerabilities" v-if="monsterStats.damageTypeVulnerabilities && monsterStats.damageTypeVulnerabilities.length > 0">
+          <div class="monster-damage-type-vulnerabilities" v-if="monsterStats.customDamageTypeVulnerabilities || (monsterStats.damageTypeVulnerabilities && monsterStats.damageTypeVulnerabilities.length > 0)">
             <strong>Vulnérabilité aux dégâts</strong>
-            <span v-html="displayDamageTypes(monsterStats.damageTypeVulnerabilities)"></span>
+            <span v-if="monsterStats.customDamageTypeVulnerabilities">{{ monsterStats.customDamageTypeVulnerabilities }}</span>
+            <span v-else v-html="displayDamageTypes(monsterStats.damageTypeVulnerabilities)"></span>
           </div>
           <div class="monster-damage-type-resistances" v-if="monsterStats.damageTypeResistances && monsterStats.damageTypeResistances.length > 0">
             <strong>Résistance aux dégâts</strong>
@@ -368,7 +372,9 @@ export default {
               ac = armorType.value + getModifier(this.monsterStats.abilityScores.dex)
             } else {
               // La limite de Dex de l'armure est inférieure à la Dex du monstre
-              if (armorType.maxDex <= getModifier(this.monsterStats.abilityScores.dex)) {
+              if (armorType.maxDex === 0) {
+                ac = armorType.value
+              } else if ((armorType.maxDex !== 0) && (armorType.maxDex <= getModifier(this.monsterStats.abilityScores.dex))) {
                 ac = armorType.value + armorType.maxDex
               } else {
                 ac = armorType.value + getModifier(this.monsterStats.abilityScores.dex)

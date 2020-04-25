@@ -13,10 +13,6 @@ abilityScores:
   int: 11
   sag: 12
   cha: 14
-savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
 ac:
   armorType: null
 skills:

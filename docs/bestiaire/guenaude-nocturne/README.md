@@ -32,6 +32,7 @@ movement:
   walk: 9
 senses:
   darkvision: 36
+  customPassivePerception: 16
 conditionImmunities:
   - "charme"
 damageTypeResistances:

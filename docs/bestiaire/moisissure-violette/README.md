@@ -19,6 +19,7 @@ movement:
   walk: 1,50
 senses:
   blindsight: 9
+  customBlindSight: "9 m (aveugle au-delà de cette distance)"
 conditionImmunities:
   - "assourdi"
   - "aveugle"

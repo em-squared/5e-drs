@@ -32,7 +32,7 @@ damageTypeImmunities:
   - "poison"
 languages:
   - "abyssal"
-telepathy: 36
+  - "commun"
 source: "Créatures & Oppositions"
 source_page: 55
 ---

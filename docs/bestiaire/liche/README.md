@@ -28,7 +28,7 @@ senses:
 conditionImmunities:
   - "charme"
   - "epuise"
-  - "empoigne"
+  - "empoisonne"
   - "paralyse"
   - "terrorise"
 damageTypeResistances:
