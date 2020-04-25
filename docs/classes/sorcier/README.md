@@ -151,7 +151,7 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de Charisme + votre niveau de sorcier (avec un minimum de 1).
 
 #### Chance du ténébreux
-À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur. Quand vous faites un test de caractéristiques ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur. Quand vous faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
 
 Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 

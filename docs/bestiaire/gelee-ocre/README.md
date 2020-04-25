@@ -43,7 +43,7 @@ source_page: 283
 ## Capacités
 _**Informe**_. La gelée peut traverser sans devoir se faufiler un interstice d'une largeur minimale de 2 à 3 centimètres.
 
-_**Pattes d'araignée**_. La gelée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. La gelée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 ## Actions
 _**Pseudopode**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

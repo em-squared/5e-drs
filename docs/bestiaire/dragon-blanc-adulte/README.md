@@ -43,7 +43,7 @@ source: "Créatures & Oppositions"
 source_page: 81
 ---
 ## Capacités
-_**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de test de caractéristique. De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.
+_**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.
 
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
 

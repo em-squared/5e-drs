@@ -47,7 +47,7 @@ Le pouding peut ronger une épaisseur de 5 centimètres de bois non-magique en 1
 
 _**Informe**_. Le pouding peut traverser sans devoir se faufiler un interstice d'une largeur minimale de 2 à 3 centimètres.
 
-_**Pattes d'araignée**_. Le pouding peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. Le pouding peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 ## Actions
 _**Pseudopode**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

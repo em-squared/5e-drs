@@ -41,7 +41,7 @@ _**Absorption de la foudre**_. Chaque fois que le golem devrait subir des dégâ
 
 _**Armes magiques**_. Les attaques d'arme du golem sont magiques.
 
-_**Aversion du feu**_. Si le golem subit des dégâts de feu, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de caractéristique jusqu'à la fin de son prochain tour.
+_**Aversion du feu**_. Si le golem subit des dégâts de feu, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) jusqu'à la fin de son prochain tour.
 
 _**Forme immuable**_. Le golem est immunisé contre les sorts et effets susceptibles d'altérer sa forme.
 

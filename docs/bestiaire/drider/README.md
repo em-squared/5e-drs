@@ -42,7 +42,7 @@ _**Incantation innée**_. La caractéristique d'incantation du drider est la Sag
 
 _**Marche dans les toiles**_. Le drider ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
-_**Pattes d'araignée**_. Le drider peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. Le drider peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 _**Sensibilité à la lumière du soleil**_. Le drider subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 

@@ -36,7 +36,7 @@ source_page: 294
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
-_**Pattes d'araignée**_. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 _**Saut éthéré**_. Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
 

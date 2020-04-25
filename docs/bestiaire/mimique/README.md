@@ -37,7 +37,7 @@ source: "Créatures & Oppositions"
 source_page: 222
 ---
 ## Capacités
-_**Collante (forme d'objet uniquement)**_. La mimique colle à tout ce que qu'elle touche. Une créature de taille TG ou plus petite collée à la mimique se retrouve [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par la créature (évasion DD 13). Les tests de caractéristique effectués pour échapper à cette empoignade se font avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+_**Collante (forme d'objet uniquement)**_. La mimique colle à tout ce que qu'elle touche. Une créature de taille TG ou plus petite collée à la mimique se retrouve [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par la créature (évasion DD 13). Les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) effectués pour échapper à cette empoignade se font avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 _**Empoigneur**_. La mimique obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaques effectués contre les créatures qu'elle empoigne.
 

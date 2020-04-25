@@ -12,7 +12,7 @@ Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et tout
 
 **Discrétion**. Si le tableau des armures indique « [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  » dans la colonne Discrétion, le porteur de l'armure subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests de Dextérité (Discrétion).
 
-**Maîtrise des armures**. Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les tests de caractéristique, jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
+**Maîtrise des armures**. Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
 ## Tableau des armures
 §§§ .table-container
