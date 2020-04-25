@@ -28,7 +28,7 @@ conditionImmunities:
 damageTypeImmunities:
   - "foudre"
   - "poison"
-  - "c-p-t-non-magique"
+  - "c-p-t-non-adamantite"
 languages:
   - "comprend les langues de son créateur mais ne peut pas parler"
 dungeonTypes:

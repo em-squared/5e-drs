@@ -12,18 +12,18 @@ abilityScores:
   int: 6
   sag: 10
   cha: 6
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 1
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
-movement: 
+movement:
   walk: 9
   climb: 9
-senses: 
-  darkvision: 9
-languages: 
+senses:
+  darkvision: 18
+languages:
   - ""
 environments:
   - Bois / Forêt

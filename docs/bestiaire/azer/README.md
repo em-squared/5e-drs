@@ -12,21 +12,21 @@ abilityScores:
   int: 12
   sag: 13
   cha: 10
-savingThrows: 
+savingThrows:
   - "con"
-ac: 
+ac:
   armorType: "armure naturelle"
-  value: 6
+  value: 4
   hasShield: true
-movement: 
+movement:
   walk: 9
-senses: 
-conditionImmunities: 
+senses:
+conditionImmunities:
   - "empoisonne"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "ignée"
 environments:
   - Plans élémentaires

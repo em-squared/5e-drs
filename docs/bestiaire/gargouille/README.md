@@ -12,23 +12,23 @@ abilityScores:
   int: 6
   sag: 11
   cha: 7
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-movement: 
+movement:
   walk: 9
   fly: 18
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
   - "epuise"
   - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
-damageTypeImmunities: 
+damageTypeResistances:
+  - "c-p-t-non-adamantite"
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "terreux"
 environments:
   - Plans élémentaires

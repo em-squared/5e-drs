@@ -30,6 +30,7 @@ senses:
 conditionImmunities:
   - "charme"
   - "terrorise"
+  - "empoisonne"
   - "epuise"
 damageTypeResistances:
   - "radiant"

@@ -12,18 +12,19 @@ abilityScores:
   int: 1
   sag: 5
   cha: 1
-savingThrows: 
+savingThrows:
   - "dex"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-movement: 
+movement:
   walk: 0
   fly: 15
   hover: true
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de cette distance)"
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "charme"
@@ -32,10 +33,10 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
   - "psychique"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Donjon maçonné

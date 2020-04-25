@@ -24,11 +24,11 @@ movement:
   fly: 9
 senses:
   blindsight: 18
+  customBlindSight: "18 m (aveugle au-delà)"
+  customPassivePerception: 14
 conditionImmunities:
   - "aveugle"
   - "a-terre"
-damageTypeResistances:
-  - "feu"
 languages:
   - "profond"
   - "commun des profondeurs"

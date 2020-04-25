@@ -13,8 +13,8 @@ abilityScores:
   sag: 10
   cha: 8
 ac:
-  armorType: "custom"
-  value: "14"
+  armorType: "armure naturelle"
+  value: "2"
 movement:
   walk: 9
   swim: 27

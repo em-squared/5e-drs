@@ -12,15 +12,16 @@ abilityScores:
   int: 4
   sag: 12
   cha: 5
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 12
-senses: 
-languages: 
+senses:
+  darkvision: 18
+languages:
   - ""
 environments:
   - Bois / Forêt

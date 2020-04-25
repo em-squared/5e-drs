@@ -12,17 +12,18 @@ abilityScores:
   int: 14
   sag: 15
   cha: 18
-ac: 
-  armorType: null
-skills: 
+ac:
+  armorType: custom
+  value: 11 (16 avec peau d'écorce)
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "elfe"
   - "sylvestre"
 environments:
