@@ -12,33 +12,33 @@ abilityScores:
   int: 20
   sag: 14
   cha: 16
-savingThrows: 
+savingThrows:
   - "con"
   - "int"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 4
-skills: 
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "epuise"
   - "empoigne"
   - "paralyse"
   - "terrorise"
-damageTypeResistances: 
+damageTypeResistances:
   - "foudre"
   - "froid"
   - "necrotique"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "poison"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "commun et jusqu'à cinq autres langues"
 dungeonTypes:
   - Donjon maçonné

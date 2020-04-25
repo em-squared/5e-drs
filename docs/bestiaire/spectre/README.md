@@ -12,15 +12,15 @@ abilityScores:
   int: 10
   sag: 10
   cha: 11
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 0
   fly: 15
   hover: true
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "charme"
   - "empoigne"
@@ -30,16 +30,16 @@ conditionImmunities:
   - "inconscient"
   - "paralyse"
   - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "acide"
   - "feu"
   - "foudre"
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler"
 dungeonTypes:
   - Ruines extérieures

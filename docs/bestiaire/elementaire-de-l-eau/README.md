@@ -12,15 +12,15 @@ abilityScores:
   int: 5
   sag: 10
   cha: 8
-ac: 
+ac:
   armorType: "custom"
   value: "14"
-movement: 
+movement:
   walk: 9
   swim: 27
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "empoigne"
   - "empoisonne"
@@ -29,12 +29,12 @@ conditionImmunities:
   - "inconscient"
   - "paralyse"
   - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "acide"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "aquatique"
 environments:
   - Mer / Océan

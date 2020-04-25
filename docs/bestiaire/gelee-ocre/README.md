@@ -12,26 +12,27 @@ abilityScores:
   int: 2
   sag: 6
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 3
   climb: 3
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
+conditionImmunities:
   - "a-terre"
   - "assourdi"
   - "aveugle"
   - "charme"
   - "epuise"
   - "terrorise"
-damageTypeResistances: 
+damageTypeResistances:
   - "acide"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "foudre"
   - "tranchant"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne naturelle

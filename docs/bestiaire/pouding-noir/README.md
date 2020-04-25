@@ -12,26 +12,27 @@ abilityScores:
   int: 1
   sag: 6
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 6
   climb: 6
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
+conditionImmunities:
   - "a-terre"
   - "assourdi"
   - "aveugle"
   - "charme"
   - "epuise"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "acide"
   - "foudre"
   - "froid"
   - "tranchant"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne aménagée

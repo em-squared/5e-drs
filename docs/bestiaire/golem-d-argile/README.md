@@ -12,26 +12,26 @@ abilityScores:
   int: 3
   sag: 8
   cha: 1
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-movement: 
+movement:
   walk: 6
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "epuise"
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "acide"
   - "poison"
   - "psychique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "comprend les langues de son créateur mais ne peut pas parler"
 dungeonTypes:
   - Donjon maçonné

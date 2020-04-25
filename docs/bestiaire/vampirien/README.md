@@ -12,23 +12,23 @@ abilityScores:
   int: 11
   sag: 10
   cha: 12
-savingThrows: 
+savingThrows:
   - "dex"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "necrotique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "celles qu'il connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné
@@ -39,7 +39,7 @@ source_page: 281
 _**Faiblesses des vampires**_. Voici les faiblesses du vampirien :  
 * _Défense d'entrer_. Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.  
 * _Blessé par l'eau courante_. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
-* _Pieu dans le cœur_. Si une arme perforante en bois est plantée dans son cœur pendant qu'il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) dans son refuge, il est [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) tant que le pieu n'est pas retiré.
+* _Pieu dans le cœur_. Il est détruit si une arme perforante en bois est plantée dans son coeur pendant qu'il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) dans son refuge.
 * _Hypersensibilité à la lumière du soleil_. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de caractéristique.
 
 _**Pattes d'araignée**_. Le vampirien peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.

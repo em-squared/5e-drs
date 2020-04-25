@@ -13,31 +13,31 @@ abilityScores:
   int: 11
   sag: 12
   cha: 14
-savingThrows: 
+savingThrows:
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perspicacite"
   - name: "persuasion"
   - name: "supercherie"
-movement: 
+movement:
   walk: 6
   fly: 12
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "commun"
   - "infernal"
 source: "Créatures & Oppositions"

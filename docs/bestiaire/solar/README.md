@@ -13,31 +13,31 @@ abilityScores:
   int: 25
   sag: 25
   cha: 30
-savingThrows: 
+savingThrows:
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-skills: 
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 15
   fly: 45
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
   - "epuise"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "radiant"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "toutes"
 telepathy: 36
 source: "Créatures & Oppositions"

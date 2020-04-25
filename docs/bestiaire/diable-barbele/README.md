@@ -13,32 +13,32 @@ abilityScores:
   int: 12
   sag: 14
   cha: 14
-savingThrows: 
+savingThrows:
   - "for"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "perception"
     isExpert: true
   - name: "perspicacite"
   - name: "supercherie"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "infernal"
 telepathy: 36
 source: "Créatures & Oppositions"

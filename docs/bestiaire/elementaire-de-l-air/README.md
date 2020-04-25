@@ -12,15 +12,15 @@ abilityScores:
   int: 6
   sag: 10
   cha: 6
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 0
   fly: 27
   hover: true
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "empoigne"
   - "empoisonne"
@@ -29,13 +29,13 @@ conditionImmunities:
   - "inconscient"
   - "paralyse"
   - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "foudre"
   - "tonnerre"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "aérien"
 environments:
   - Montagnes

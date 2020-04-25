@@ -13,24 +13,24 @@ abilityScores:
   int: 17
   sag: 15
   cha: 18
-savingThrows: 
+savingThrows:
   - "dex"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 36
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "necrotique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "celles qu'il connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné

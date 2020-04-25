@@ -12,34 +12,34 @@ abilityScores:
   int: 11
   sag: 18
   cha: 16
-savingThrows: 
+savingThrows:
   - "con"
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "histoire"
   - name: "religion"
-movement: 
+movement:
   walk: 6
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "epuise"
   - "paralyse"
   - "terrorise"
-damageTypeVulnerabilities: 
+damageTypeVulnerabilities:
   - "feu"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "celles qu'elle connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné

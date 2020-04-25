@@ -13,27 +13,27 @@ abilityScores:
   int: 3
   sag: 11
   cha: 11
-savingThrows: 
+savingThrows:
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 15
-movement: 
+movement:
   walk: 12
-senses: 
+senses:
   blindsight: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "paralyse"
   - "terrorise"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - ""
 source: "Créatures & Oppositions"
 source_page: 271

@@ -12,15 +12,15 @@ abilityScores:
   int: 6
   sag: 10
   cha: 8
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
-movement: 
+movement:
   walk: 12
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "empoigne"
   - "empoisonne"
@@ -29,18 +29,18 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeVulnerabilities: 
+damageTypeVulnerabilities:
   - "radiant"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "acide"
   - "feu"
   - "foudre"
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Donjon maçonné

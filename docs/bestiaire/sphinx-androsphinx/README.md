@@ -12,31 +12,31 @@ abilityScores:
   int: 16
   sag: 18
   cha: 23
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "int"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "arcanes"
   - name: "perception"
   - name: "religion"
     isExpert: true
-movement: 
+movement:
   walk: 12
   fly: 18
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "psychique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "commun"
   - "sphinx"
 environments:
