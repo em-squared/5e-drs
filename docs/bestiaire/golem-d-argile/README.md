@@ -30,7 +30,7 @@ damageTypeImmunities:
   - "acide"
   - "poison"
   - "psychique"
-  - "c-p-t-non-adamantite"
+  - "c-p-t-non-adamantium"
 languages:
   - "comprend les langues de son créateur mais ne peut pas parler"
 dungeonTypes:

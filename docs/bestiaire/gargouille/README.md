@@ -25,7 +25,7 @@ conditionImmunities:
   - "epuise"
   - "petrifie"
 damageTypeResistances:
-  - "c-p-t-non-adamantite"
+  - "c-p-t-non-adamantium"
 damageTypeImmunities:
   - "poison"
 languages:
