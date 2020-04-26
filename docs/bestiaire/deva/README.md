@@ -55,7 +55,7 @@ _**Attaques multiples**_. Le déva effectue deux attaques au corps à corps.
 _**Changer de forme**_. Le déva peut se métamorphoser par magie en un humanoïde ou une bête dont l'indice de dangerosité est inférieur ou égal au sien ou bien reprendre sa véritable forme. Il reprend également sa véritable apparence à sa mort. Sa nouvelle forme absorbe les objets précédemment portés ou transportés ou bien les porte elle aussi, comme il le souhaite.  
 Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacité à parler, mais sa CA, ses modes de déplacement, sa Force, sa Dextérité et ses sens spéciaux sont remplacés par ceux de sa nouvelle forme. En outre, il obtient toutes les statistiques et capacités (à l'exception des aptitudes de classe, des actions légendaires et des actions d'antre) que possède la forme adoptée et que lui ne possédait pas.
 
-_**Contact curatif (3/jour)**_. Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et _assourdi._.
+_**Contact curatif (3/jour)**_. Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_assourdi_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Masse d'armes**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.

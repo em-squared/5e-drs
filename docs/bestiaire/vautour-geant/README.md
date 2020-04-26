@@ -12,15 +12,15 @@ abilityScores:
   int: 6
   sag: 12
   cha: 7
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 3
-  fly: 15
-senses: 
-languages: 
+  fly: 18
+senses:
+languages:
   - "comprend le commun mais ne peut pas parler"
 environments:
   - Plaine / Champs / Prairie / Savane
