@@ -20,6 +20,10 @@
       :sort-desc.sync="sortDesc"
       must-sort
       :search="search"
+      :items-per-page.sync="itemsPerPage"
+      :page.sync="page"
+      @page-count="pageCount = $event"
+      hide-default-footer
     >
 
       <template v-slot:item.isInBestiary="{ item }">
@@ -43,15 +47,23 @@
       </template>
 
     </v-data-table>
+
+    <v-row class="align-center">
+      <v-col :cols="12" md="3">
+        <v-select v-model="itemsPerPage" :items="itemsPerPageChoices" label="Lignes par page" @change="selectItemPerPage"></v-select>
+      </v-col>
+      <v-col :cols="12" md="9">
+        <v-pagination v-model="page" :length="pageCount" :total-visible="7" @input="changePage"></v-pagination>
+      </v-col>
+    </v-row>
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
-import {
-  displayChallenge
-} from '@theme/util/monsterHelpers'
+import { displayChallenge } from '@theme/util/monsterHelpers'
+import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 
 export default {
   components: { Breadcrumb },
@@ -60,6 +72,15 @@ export default {
     return {
       sortBy: 'title',
       sortDesc: false,
+      itemsPerPage: 10,
+      itemsPerPageChoices: [
+        {text: '5', value: 5},
+        {text: '10', value: 10},
+        {text: '15', value: 15},
+        {text: 'Tous', value: -1},
+      ],
+      page: 1,
+      pageCount: 0,
       headers: [
         { text: "", align: 'center', sortable: false, value: 'isInBestiary' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
@@ -179,6 +200,15 @@ export default {
       } else {
         this.$store.commit('myMonsters/addMonster', monster)
       }
+    },
+
+    selectItemPerPage (value) {
+      setUrlParams("lignes", [value])
+    },
+
+    changePage (page) {
+      console.log(page)
+      setUrlParams("page", [page])
     }
   },
 
@@ -186,6 +216,15 @@ export default {
     this.$store.commit('setHasRightDrawer', true)
     this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$store.commit('setInRightDrawer', 'monsterFilters')
+
+    let itemsPerPage = parseInt(getUrlParameter(window.location.href, "lignes"))
+    if (itemsPerPage) {
+      this.itemsPerPage = itemsPerPage
+    }
+    let page = parseInt(getUrlParameter(window.location.href, "page"))
+    if (page) {
+      this.page = page
+    }
   }
 }
 </script>
