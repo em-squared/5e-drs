@@ -40,7 +40,7 @@
 
     </v-data-table>
 
-    <v-row class="align-center">
+    <v-row class="align-center mb-12 pb-6">
       <v-col :cols="12" md="3">
         <v-select v-model="itemsPerPage" :items="itemsPerPageChoices" label="Lignes par page" @change="selectItemPerPage"></v-select>
       </v-col>
