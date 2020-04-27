@@ -48,7 +48,7 @@
             <v-text-field label="Portée" placeholder="36 m" outlined dense v-model="spell.frontmatter.range"></v-text-field>
           </v-col>
           <v-col :cols="12" :sm="6" :lg="3">
-            <v-text-field label="Duration" placeholder="instantanée" outlined dense v-model="spell.frontmatter.duration"></v-text-field>
+            <v-text-field label="Durée" placeholder="instantanée" outlined dense v-model="spell.frontmatter.duration"></v-text-field>
           </v-col>
           <v-col :cols="12" :sm="6" :lg="3">
             <v-switch class="my-0" v-model="spell.frontmatter.concentration" label="Concentration" dense></v-switch>
