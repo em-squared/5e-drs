@@ -577,6 +577,10 @@ module.exports = {
             title: "Création d'objet magique",
             path: '/creation-d-objet-magique/'
           },
+          {
+            title: "Calculateur de caractéristiques",
+            path: '/calculateur-de-caracteristiques/'
+          },
         ]
       },
       {type: 'divider'},

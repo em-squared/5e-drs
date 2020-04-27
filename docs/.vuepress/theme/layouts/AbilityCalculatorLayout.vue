@@ -1,12 +1,17 @@
 <template>
-  <AbilityCalculator />
+  <div>
+    <Breadcrumb class="mr-auto" />
+
+    <AbilityCalculator />
+  </div>
 </template>
 
 <script>
+import Breadcrumb from '@theme/components/Breadcrumb'
 import AbilityCalculator from '@theme/components/AbilityCalculator'
 
 export default {
-  components: { AbilityCalculator }
+  components: { Breadcrumb, AbilityCalculator }
 }
 </script>
 

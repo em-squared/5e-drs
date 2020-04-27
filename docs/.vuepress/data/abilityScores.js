@@ -20,3 +20,9 @@ export const ABILITYSCORES = [
   { text: 'Sagesse', value: 'sag' },
   { text: 'Charisme', value: 'cha' },
 ]
+
+export const POWERTIERS = [
+  { text: 'Courageux', pointBuy: 19, standardArray: [14,12,12,10,10,8] },
+  { text: 'Héroïque', pointBuy: 27, standardArray: [15,14,13,12,10,8] },
+  { text: 'Légendaire', pointBuy: 36, standardArray: [16,15,13,12,12,10] }
+]
