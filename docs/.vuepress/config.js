@@ -179,6 +179,12 @@ module.exports = {
        frontmatter: {
           layout: 'CreateMagicItemLayout'
        }
+    },
+    {
+       path: '/calculateur-de-caracteristiques/',
+       frontmatter: {
+          layout: 'AbilityCalculatorLayout'
+       }
     }
   ],
   themeConfig: {
