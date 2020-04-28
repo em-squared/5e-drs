@@ -485,6 +485,8 @@ export default {
     this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$store.commit('setInRightDrawer', null)
 
+    this.$page.title = "Création de monstre/PNJ"
+
     let monsterKey = getUrlParameter(window.location.href, "key")
 
     if (monsterKey) {
