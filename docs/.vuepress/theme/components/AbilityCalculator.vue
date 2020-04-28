@@ -10,7 +10,10 @@
 
         <v-row>
           <v-col>
-            <v-select dense :items="races" label="Race" item-text="label" v-model="race" return-object outlined @change="selectRace(true)"></v-select>
+            <v-select dense :items="races" label="Race" item-text="label" v-model="selectedRace" return-object outlined @change="selectRace(true, true)"></v-select>
+          </v-col>
+          <v-col v-if="selectedRace && selectedRace.variants">
+            <v-select dense :items="selectedRace.variants" label="Variantes" item-text="label" v-model="selectedSubrace" return-object outlined @change="selectRace(true)"></v-select>
           </v-col>
           <v-col v-if="race && race.freeAbilityBonuses">
             <v-select dense :items="abilityScoresChoices" multiple label="Bonus aux caractéristiques" v-model="abilityBonuses" outlined @change="selectAbilityBonus"></v-select>
@@ -45,8 +48,12 @@
                 <tbody>
                   <tr v-for="ability in abilityScores" :key="ability.key">
                     <td class="text-center"><span class="subtitle-2">{{ ability.label }}</span></td>
-                    <td class="text-center" style="width:110px">
-                      <v-text-field v-if="generationMethod == 'pointBuy'" class="text-center" outlined hide-details dense type="number" min="6" max="16" v-model="ability.value"></v-text-field>
+                    <td class="text-center ability-field">
+                      <div v-if="generationMethod == 'pointBuy'" class="d-flex align-center">
+                        <v-btn icon dense color="accent" :disabled="ability.value <= powerTier.min" @click.stop="ability.value--"><v-icon>mdi-minus-circle</v-icon></v-btn>
+                        <v-text-field class="text-center" readonly outlined hide-details dense :value="ability.value"></v-text-field>
+                        <v-btn icon dense color="accent" :disabled="ability.value >= powerTier.max" @click.stop="ability.value++"><v-icon>mdi-plus-circle</v-icon></v-btn>
+                      </div>
                       <template v-else-if="generationMethod == 'standardArray'">
                         <v-select v-if="!ability.value" dense :items="standardArrayValues" v-model="ability.value" outlined hide-details clearable @change="selectAbilityValue(ability)"></v-select>
                         <v-text-field v-else class="text-center" outlined hide-details dense readonly clearable v-model="ability.value"></v-text-field>
@@ -89,6 +96,8 @@ export default {
       powerTiers: POWERTIERS,
       abilityScoresChoices: null,
       races: races,
+      selectedSubrace: null,
+      selectedRace: null,
       race: null,
       powerTier: POWERTIERS[1],
       abilityScores: [
@@ -166,7 +175,17 @@ export default {
       return displayBonus(score)
     },
 
-    selectRace (clear = false) {
+    selectRace (clearAbilities = false, clearSubrace = false) {
+      if (clearSubrace) {
+        this.selectedSubrace = null
+      }
+
+      if (this.selectedSubrace) {
+        this.race = this.selectedSubrace
+      } else {
+        this.race = this.selectedRace
+      }
+
       for (let ability of this.abilityScores) {
         ability.racialBonus = 0
         if (this.race.abilityBonuses) {
@@ -178,7 +197,7 @@ export default {
         }
       }
 
-      if (clear) {
+      if (clearAbilities) {
         this.abilityBonuses = []
       }
 
@@ -230,6 +249,8 @@ export default {
     },
 
     reset () {
+      this.selectedRace = null
+      this.selectedSubrace = null
       this.race = null
       this.generationMethod = GENERATION_METHOD_CHOICES[1].value
       this.powerTier = POWERTIERS[1]
@@ -251,6 +272,11 @@ export default {
 .v-input.text-center {
   input {
     text-align: center;
+  }
+}
+.ability-field {
+  .v-input__slot {
+    width: 80px;
   }
 }
 </style>
