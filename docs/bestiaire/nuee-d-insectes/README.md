@@ -58,7 +58,7 @@ _**Morsures**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 0 
 ! _**Nuée de mille-pattes**_. Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant une heure, même après avoir récupéré des points de vie. Elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) tant qu'elle est ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).
 !
 ! _**Nuée d'araignée**_. Une nuée d'araignée possède les traits supplémentaires suivants :  
-! * _**Pattes d'araignée**_. La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de test de caractéristique.  
+! * _**Pattes d'araignée**_. La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).  
 ! * _**Marche dans les toiles**_. La nuée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 !
 ! _**Nuée de guêpes**_. Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.

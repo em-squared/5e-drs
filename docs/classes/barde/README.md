@@ -85,14 +85,14 @@ Vous pouvez utiliser un instrument de musique (voir le chapitre [Équipement](/e
 ### Inspiration bardique
 La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.
 
-Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un [jet d'attaque](/combattre/#jets-d-attaque) ou à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiraion bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
+Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), à un [jet d'attaque](/combattre/#jets-d-attaque) ou à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiraion bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.
 
 Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 
 ### Touche-à-tout
-À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.
+À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos [tests de caractéristiques](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui ne prennent pas déjà en compte votre bonus de maîtrise.
 
 ### Chant reposant
 À partir du niveau 2, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points de vie à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.
@@ -103,7 +103,7 @@ Plus votre niveau de barde est élevé, plus le nombre de points de vie récupé
 Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts) ou le [collège des saltimbanques](#college-des-saltimbanques). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
 ### Expertise
-Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.
+Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout [test de caractéristiques](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui met en jeu ces compétences.
 
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
 
@@ -132,7 +132,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise de trois compétences de votre choix.
 
 #### Mots cinglants
-Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un [jet d'attaque](/combattre/#jets-d-attaque), de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le [jet d'attaque](/combattre/#jets-d-attaque) ou le test de caractéristique a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmé_](/gerer-la-sante-du-personnage#charme).
+Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un [jet d'attaque](/combattre/#jets-d-attaque), de dégâts ou un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le [jet d'attaque](/combattre/#jets-d-attaque) ou le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmé_](/gerer-la-sante-du-personnage#charme).
 
 #### Secrets magiques supplémentaires
 Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d'évolution du barde.
@@ -140,7 +140,7 @@ Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe.
 Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde mais ils ne sont pas comptabilisés parmi les sorts de barde que vous connaissez.
 
 #### Compétence hors pair
-À partir du niveau 14, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.
+À partir du niveau 14, quand vous faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), mais avant que le MJ annonce si le test est un succès ou un échec.
 
 ### Collège des diplomates
 #### Arsenal diplomatique
@@ -178,7 +178,7 @@ Au niveau 3, vous choisissez une spécialité emblématique des troupes de spect
 * **Bouffon** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme (Supercherie) et lorsque vous utilisez des accessoires de déguisement.
 * **Force de la nature** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Force (Athlétisme) et vous maîtrisez désormais les jets de sauvegarde de Force.
 * **Jongleur** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité (Acrobatie) et Dextérité (Escamotage).
-* **Voyante** : vous bénéficiez d'un avantage à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les jets de sauvegardes de Sagesse.
+* **Voyante** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les jets de sauvegardes de Sagesse.
 
 #### Main dans la main
 D'où vous venez, la solidarité n'est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section [Travailler ensemble](/utiliser-les-caracteristiques/#travailler-ensemble) du chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques)), en cas de succès de votre test, vous comptabilisez deux succès.

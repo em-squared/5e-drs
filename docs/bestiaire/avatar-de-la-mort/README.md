@@ -4,7 +4,7 @@ type: "Mort-vivant"
 size: "M"
 alignment: "Neutre Mauvais"
 challenge: "-"
-hitDiceCount: la moitié 
+customHP: "la moitié des points de vie maximum de son invocateur"
 abilityScores:
   for: 16
   dex: 16
@@ -12,27 +12,27 @@ abilityScores:
   int: 16
   sag: 16
   cha: 16
-ac: 
+ac:
   armorType: "custom"
   value: "20"
-movement: 
+movement:
   walk: 18
   fly: 18
   hover: true
-senses: 
+senses:
   darkvision: 18
   truesight: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
   - "paralyse"
   - "petrifie"
   - "empoisonne"
   - "inconscient"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "toutes les langues que connaît son invocateur"
 source: "Cadre de campagne"
 source_page: 158

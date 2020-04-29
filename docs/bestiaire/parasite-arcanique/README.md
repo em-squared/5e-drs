@@ -12,23 +12,25 @@ abilityScores:
   int: 2
   sag: 7
   cha: 4
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà)"
+  customPassivePerception: 8
+conditionImmunities:
   - "aveugle"
-damageTypeResistances: 
+damageTypeResistances:
   - "acide"
   - "feu"
   - "foudre"
   - "froid"
   - "tonnerre"
-languages: 
+languages:
   - "–"
 dungeonTypes:
   - Ruines souterraines

@@ -5,6 +5,7 @@ size: "G"
 alignment: "non-alignée"
 challenge: "0.25"
 hitDiceCount: 3
+hitDieSize: 8
 abilityScores:
   for: 14
   dex: 15
@@ -12,17 +13,17 @@ abilityScores:
   int: 3
   sag: 14
   cha: 7
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
-movement: 
+movement:
   walk: 15
   climb: 12
-senses: 
-languages: 
+senses:
+languages:
   - ""
 environments:
   - Arctique / Subarctique

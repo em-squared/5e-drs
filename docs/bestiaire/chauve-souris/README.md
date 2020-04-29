@@ -12,14 +12,14 @@ abilityScores:
   int: 2
   sag: 12
   cha: 4
-ac: 
+ac:
   armorType: null
-movement: 
-  walk: 1,5
+movement:
+  walk: 1,50
   fly: 9
-senses: 
+senses:
   blindsight: 18
-languages: 
+languages:
   - ""
 environments:
   - Bois / Forêt

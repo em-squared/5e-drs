@@ -13,26 +13,26 @@ abilityScores:
   int: 7
   sag: 10
   cha: 10
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
-movement: 
+movement:
   walk: 12
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "feu"
   - "foudre"
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "abyssal"
-telepathy: 36
+  - "commun"
 source: "Créatures & Oppositions"
 source_page: 55
 ---

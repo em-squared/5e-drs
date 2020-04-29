@@ -12,26 +12,27 @@ abilityScores:
   int: 5
   sag: 10
   cha: 5
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 6
-skills: 
+skills:
   - name: "discretion"
-movement: 
+movement:
   walk: 6
   swim: 6
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de cette distance)"
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "epuise"
-damageTypeResistances: 
+damageTypeResistances:
   - "feu"
   - "froid"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "foudre"
-languages: 
+languages:
   - ""
 environments:
   - Jungle
