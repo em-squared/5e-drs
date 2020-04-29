@@ -2,7 +2,7 @@
   <main class="page content">
     <div class="theme-default-content">
       <template v-if="monsters.length > 0">
-        <MonsterCard v-for="(monster, idx) in monsters" :monster="monster" :showActions="true" :key="idx">
+        <MonsterCard class="d-print-none" v-for="(monster, idx) in monsters" :monster="monster" :showActions="true" :key="idx">
         </MonsterCard>
         <div class="d-none d-print-block" v-for="monster in monsters">
           <div>
