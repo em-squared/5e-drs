@@ -14,9 +14,9 @@ abilityScores:
   cha: 7
 ac:
   armorType: null
-movement:
+movement: 
   walk: 18
-senses:
+senses: 
 languages:
   - ""
 environments:
