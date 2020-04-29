@@ -83,7 +83,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de [_tempête de grêle_](/grimoire/tempete-de-grele/). Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 ### Talent
-Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
+Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
 ### Ouïe fine
 À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature [_invisible_](/gerer-la-sante-du-personnage/#invisible) ou cachée qui se trouve dans un rayon de 3 mètres.
@@ -95,7 +95,7 @@ Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent. Tant que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), aucun [jet d'attaque](/combattre/#jets-d-attaque) qui vous cible ne peut bénéficier d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 ### Coup de chance
-Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre [jet d'attaque](/combattre/#jets-d-attaque), vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du d20 en 20.
+Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre [jet d'attaque](/combattre/#jets-d-attaque), vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), vous pouvez transformer le résultat du d20 en 20.
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 

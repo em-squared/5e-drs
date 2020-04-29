@@ -12,21 +12,22 @@ abilityScores:
   int: 13
   sag: 16
   cha: 20
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 3
-skills: 
+skills:
   - name: "perspicacite"
   - name: "supercherie"
-movement: 
+movement:
   walk: 12
-senses: 
+senses:
   darkvision: 18
-damageTypeVulnerabilities: 
+damageTypeVulnerabilities:
   - "perforant"
-damageTypeImmunities: 
+customDamageTypeVulnerabilities: "perforants infligés par des armes magiques maniées par des créatures Bonnes"
+damageTypeImmunities:
   - "c-p-t-non-magique"
-languages: 
+languages:
   - "commun"
   - "infernal"
 source: "Créatures & Oppositions"

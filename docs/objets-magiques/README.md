@@ -102,9 +102,9 @@ La majorité des objets magiques sont plus résistants que leur équivalent non-
 ### Propriété additionnelle
 **Lumineux**. L'objet dégage une lumière vive dans un rayon de 3 mètres.
 
-**Flotte ou coule**. L'objet flotte sur l'eau. Il est très difficile de l'immerger. Le porteur obtient l'avantage sur ses jets de Force (Athlétisme) pour nager. Au contraire, le porteur peut prononcer un mot de commande qui fait couler l'objet à pic.
+**Flotte ou coule**. L'objet flotte sur l'eau. Il est très difficile de l'immerger. Le porteur obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets de Force (Athlétisme) pour nager. Au contraire, le porteur peut prononcer un mot de commande qui fait couler l'objet à pic.
 
-**Passe-partout**. L'objet permet d'obtenir l'avantage aux jets de Dextérité effectués pour crocheter une serrure.
+**Passe-partout**. L'objet permet d'obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de Dextérité effectués pour crocheter une serrure.
 
 **Alarme**. L'objet émet le tintement d'une clochette si un type particulier de créature se trouve à moins de 20 mètres de lui.
 

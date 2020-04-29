@@ -12,28 +12,28 @@ abilityScores:
   int: 16
   sag: 15
   cha: 19
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 9
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 12
   burrow: 9
   fly: 24
-senses: 
+senses:
   blindsight: 18
   darkvision: 36
-damageTypeImmunities: 
+damageTypeImmunities:
   - "foudre"
-languages: 
+languages:
   - "commun"
   - "draconique"
 environments:
@@ -48,15 +48,15 @@ _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un d
 ## Actions
 _**Attaques multiples**_. Le dragon peut utiliser sa _Présence terrifiante_. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
 
-_**Griffe**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 3 m, une cible.  
+_**Griffe**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 14 (2d6+7) dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 18 (2d10+7) dégâts perforants plus 5 (1d10) dégâts de foudre.
 
-_**Présence terrifiante**_. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 17 pour ne pas être _terrorisées_ pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+_**Présence terrifiante**_. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 17 pour ne pas être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
-_**Queue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 6 m, une cible.  
+_**Queue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 16 (2d8+7) dégâts contondants.
 
 _**Souffle de foudre (Recharge 5-6)**_. Le dragon souffle de la foudre sur une ligne de 27 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité DD 19 ; elles subissent 66 (12d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.

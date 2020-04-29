@@ -12,34 +12,34 @@ abilityScores:
   int: 11
   sag: 18
   cha: 16
-savingThrows: 
+savingThrows:
   - "con"
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "histoire"
   - name: "religion"
-movement: 
+movement:
   walk: 6
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "epuise"
   - "paralyse"
   - "terrorise"
-damageTypeVulnerabilities: 
+damageTypeVulnerabilities:
   - "feu"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "celles qu'elle connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné
@@ -76,8 +76,8 @@ _**Attaque**_. La momie auguste effectue une attaque avec son poing en décompos
 
 _**Canaliser l'énergie négative (coûte 2 actions)**_. La momie auguste déverse par magie de l'énergie négative. Les créatures situées à 18 mètres ou moins d'elle, y compris celles à l'abri derrière des obstacles ou des angles de mur, ne peuvent plus récupérer de point de vie jusqu'à la fin du prochain tour de la momie.
 
-_**Parole blasphématoire (coûte 2 actions)**_. La momie auguste murmure une parole blasphématoire. Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de la momie auguste et qui peuvent entendre le murmure magique doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 16 pour ne pas être _étourdies_ jusqu'à la fin du prochain tour de la momie auguste.
+_**Parole blasphématoire (coûte 2 actions)**_. La momie auguste murmure une parole blasphématoire. Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de la momie auguste et qui peuvent entendre le murmure magique doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 16 pour ne pas être [_étourdies_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin du prochain tour de la momie auguste.
 
-_**Poussière aveuglante**_. De la poussière et du sable forment par magie un tourbillon aveuglant autour de la momie auguste. Les créatures situées à 1,50 mètre ou moins d'elle doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 16 pour ne pas être _aveuglées_ jusqu'à la fin de leur prochain tour.
+_**Poussière aveuglante**_. De la poussière et du sable forment par magie un tourbillon aveuglant autour de la momie auguste. Les créatures situées à 1,50 mètre ou moins d'elle doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 16 pour ne pas être [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de leur prochain tour.
 
 _**Tourbillon de sable (coûte 2 actions)**_. La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être [_empoignée_](/gerer-la-sante-du-personnage/#empoigne), [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie), jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre), [_entravée_](/gerer-la-sante-du-personnage/#entrave) ni [_étourdie_](/gerer-la-sante-du-personnage/#etourdi). Ses objets équipés ou transportés restent en sa possession.

@@ -13,28 +13,28 @@ abilityScores:
   int: 12
   sag: 16
   cha: 17
-savingThrows: 
+savingThrows:
   - "for"
   - "dex"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-movement: 
+movement:
   walk: 6
   fly: 18
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "infernal"
 telepathy: 36
 source: "Créatures & Oppositions"

@@ -12,12 +12,12 @@ abilityScores:
   int: 2
   sag: 11
   cha: 7
-ac: 
+ac:
   armorType: null
 movement: 
   walk: 12
 senses: 
-languages: 
+languages:
   - ""
 environments:
   - Collines / Vallées

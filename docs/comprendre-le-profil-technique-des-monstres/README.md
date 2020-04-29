@@ -249,7 +249,7 @@ Les actions les plus courantes qu'un monstre effectuera lors d'un combat sont de
 **Raté**. Si une attaque produit un effet en cas d'attaque ratée, cette information est indiquée après la notation « _Raté_ ».
 
 ! #### Règles d'empoignade pour les monstres
-! Beaucoup de monstres peuvent effectuer des attaques spéciales qui leur permettent d'empoigner rapidement leur proie. Quand un monstre réussit ce type d'attaque, il n'a pas besoin d'effectuer un test de caractéristique supplémentaire pour déterminer s'il réussit ou non l'empoignade, à moins que la description de l'attaque ne précise le contraire.
+! Beaucoup de monstres peuvent effectuer des attaques spéciales qui leur permettent d'empoigner rapidement leur proie. Quand un monstre réussit ce type d'attaque, il n'a pas besoin d'effectuer un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) supplémentaire pour déterminer s'il réussit ou non l'empoignade, à moins que la description de l'attaque ne précise le contraire.
 !
 ! Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par le monstre peut utiliser son action pour tenter de s'échapper. Elle doit alors réussir un test de Force (Athlétisme) ou de Dextérité (Acrobaties) contre le DD d'évasion indiqué dans le profil du monstre. Si aucun DD d'évasion n'est indiqué, partez du principe qu'il est égal à 10 + le modificateur de Force (Athlétisme) du monstre.
 

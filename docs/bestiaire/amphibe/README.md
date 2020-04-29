@@ -12,20 +12,21 @@ abilityScores:
   int: 10
   sag: 10
   cha: 4
-ac: 
+ac:
   armorType: "custom"
   value: "12"
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
     invalid: true
     value: 3
-movement: 
+movement:
+  walk: 9
   swim: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "commun des profondeurs"
 environments:
   - Littoral

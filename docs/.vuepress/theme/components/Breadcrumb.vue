@@ -53,6 +53,8 @@
               crumbs.push({to: page.path, disabled: disabled, text: 'Création de sort'})
             } else if (page.path == '/creation-de-monstre-pnj/') {
               crumbs.push({to: page.path, disabled: disabled, text: 'Création de monstre ou PNJ'})
+            } else if (page.path == '/calculateur-de-caracteristiques/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Calculateur de caractéristiques'})
             } else {
               crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title})
             }

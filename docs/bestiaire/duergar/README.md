@@ -17,7 +17,7 @@ ac:
   armorType: "armure d'écailles"
   hasShield: true
 movement:
-  walk: 7,5
+  walk: 7,50
 senses:
   darkvision: 36
 damageTypeResistances:
