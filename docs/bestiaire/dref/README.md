@@ -12,32 +12,30 @@ abilityScores:
   int: 10
   sag: 14
   cha: 15
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perspicacite"
     invalid: true
     value: 3
   - name: "persuasion"
   - name: "supercherie"
-movement: 
+movement:
   walk: 6
   fly: 12
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
+damageTypeResistances:
   - "acide"
-  - "contondant"
   - "feu"
   - "foudre"
   - "froid"
-  - "perforant"
   - "poison"
-  - "tranchant"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "commun"
 source: "Créatures & Oppositions"
 source_page: 126

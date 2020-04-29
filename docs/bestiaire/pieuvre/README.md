@@ -12,19 +12,19 @@ abilityScores:
   int: 3
   sag: 10
   cha: 4
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
     isExpert: true
-movement: 
-  walk: 1
+movement:
+  walk: 1,50
   swim: 9
-senses: 
+senses:
   darkvision: 9
-languages: 
+languages:
   - ""
 environments:
   - Mer / Océan

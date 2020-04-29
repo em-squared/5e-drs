@@ -12,19 +12,19 @@ abilityScores:
   int: 10
   sag: 12
   cha: 10
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 1
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
-  walk: 4
+movement:
+  walk: 4,50
   fly: 18
-senses: 
+senses:
   blindsight: 3
   darkvision: 18
-languages: 
+languages:
   - "comprend le commun et le draconique mais ne peut pas parler"
 environments:
   - Bois / Forêt

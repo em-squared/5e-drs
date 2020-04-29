@@ -8,7 +8,7 @@ source: "Cadre de campagne"
 ---
 Sur un _parchemin magique_ est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient sans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
 
-Si le sort est présent dans la liste de sorts de votre classe de personnage mais d'un niveau supérieur à ceux que vous êtes normalement capable de lancer, vous devez effectuer un test de caractéristique en utilisant votre caractéristique d'incantation pour déterminer si vous parvenez à le lancer. Le DD est égal à 10 + le niveau du sort. En cas de test raté, le sort disparaît du parchemin sans produire d'effet.
+Si le sort est présent dans la liste de sorts de votre classe de personnage mais d'un niveau supérieur à ceux que vous êtes normalement capable de lancer, vous devez effectuer un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation pour déterminer si vous parvenez à le lancer. Le DD est égal à 10 + le niveau du sort. En cas de test raté, le sort disparaît du parchemin sans produire d'effet.
 
 Une fois le sort lancé, la formule disparaît de la surface du parchemin qui tombe ensuite en poussière.
 

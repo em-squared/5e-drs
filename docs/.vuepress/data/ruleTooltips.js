@@ -22,7 +22,7 @@ export const tooltips = {
     basePath: '/gerer-la-sante-du-personnage/',
     title: 'Aveuglé',
     description: [
-      "Une créature <em>aveuglée</em> ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.",
+      "Une créature <em>aveuglée</em> ne voit plus rien et rate automatiquement tout [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui requiert la vue.",
       "Les jets d'attaque contre la créature bénéficient d'un <em>avantage</em>. Les attaques de la créature subissent un <em>désavantage</em>."
     ]
   },

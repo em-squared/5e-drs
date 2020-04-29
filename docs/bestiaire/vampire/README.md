@@ -13,24 +13,24 @@ abilityScores:
   int: 17
   sag: 15
   cha: 18
-savingThrows: 
+savingThrows:
   - "dex"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 36
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "necrotique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "celles qu'il connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné
@@ -42,7 +42,7 @@ _**Faiblesses des vampires**_. Voici les faiblesses du vampire :
 * _Défense d'entrer_. Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.  
 * _Blessé par l'eau courante_. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
 * _Pieu dans le cœur_. Si une arme perforante en bois est plantée dans son cœur pendant qu'il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) dans son refuge, il est [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) tant que le pieu n'est pas retiré.
-* _Hypersensibilité à la lumière du soleil_. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de caractéristique.
+* _Hypersensibilité à la lumière du soleil_. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 _**Fuite brumeuse**_. Quand il tombe à 0 point de vie à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, le vampire se transforme en nuage ou en brume (comme décrit dans le trait _Métamorphe_) au lieu de tomber inconscient. Il est détruit s'il ne peut pas se transformer.  
 Lorsqu'il a 0 point de vie sous forme de brume, le vampire ne peut pas reprendre sa forme de vampire et doit atteindre son refuge en 2 heures ou moins sous peine d'être détruit. Une fois dans son refuge, il peut prendre sa forme de vampire. Il est ensuite [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) tant qu'il n'a pas récupéré au moins 1 point de vie. Après avoir passé 1 heure dans son refuge avec 0 point de vie, il récupère 1 point de vie.
@@ -50,7 +50,7 @@ Lorsqu'il a 0 point de vie sous forme de brume, le vampire ne peut pas reprendre
 _**Métamorphe**_. S'il n'est pas exposé à la lumière du soleil ou immergé dans l'eau courante, le vampire peut utiliser son action pour se métamorphoser en chauve-souris de taille TP, en brume ou en nuage de taille M ou pour reprendre sa véritable forme. Sous forme de chauve-souris, le vampire ne peut pas parler, sa vitesse au sol est de 1,50 mètre et sa vitesse de vol de 9 mètres. Ses statistiques, à l'exception de sa taille et de sa vitesse, restent les mêmes. Tous les vêtements qu'il porte se transforment également, ce qui n'est pas le cas du reste de son équipement. Il reprend sa forme véritable quand il meurt.  
 Sous forme de brume, le vampire ne peut plus entreprendre aucune action et ne peut ni parler ni manipuler d'objet. Il est extrêmement léger, possède une vitesse en vol de 6 mètres, peut effectuer des vols stationnaires, entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. En outre, si de l'air passe au travers d'un interstice, la brume peut faire de même sans devoir s'y faufiler, mais elle ne peut pas traverser l'eau. Elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force, de Dextérité et de Constitution, et elle est immunisée contre tous les dégâts non-magiques, à l'exception de ceux infligés par la lumière du soleil.
 
-_**Pattes d'araignée**_. Le vampire peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. Le vampire peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 _**Régénération**_. Le vampire récupère 20 points de vie au début de son tour s'il lui reste au moins 1 point de vie et s'il n'est ni exposé à la lumière du soleil ni immergé dans de l'eau courante. S'il subit des dégâts radiants ou des dégâts infligés par de l'eau bénite, ce trait ne fonctionne pas au début du prochain tour du vampire.
 

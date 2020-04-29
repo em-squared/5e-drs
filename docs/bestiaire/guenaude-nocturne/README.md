@@ -12,10 +12,10 @@ abilityScores:
   int: 16
   sag: 14
   cha: 16
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 5
-skills: 
+skills:
   - name: "discretion"
     invalid: true
     value: 6
@@ -28,17 +28,18 @@ skills:
   - name: "supercherie"
     invalid: true
     value: 7
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+  customPassivePerception: 16
+conditionImmunities:
   - "charme"
-damageTypeResistances: 
-  - "p-t-non-argent"
+damageTypeResistances:
   - "feu"
   - "froid"
-languages: 
+  - "p-t-non-argent"
+languages:
   - "abyssal"
   - "commun"
   - "infernal"

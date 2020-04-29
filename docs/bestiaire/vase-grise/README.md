@@ -12,28 +12,29 @@ abilityScores:
   int: 1
   sag: 6
   cha: 2
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
-movement: 
+movement:
   walk: 3
   climb: 3
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
+conditionImmunities:
   - "a-terre"
   - "assourdi"
   - "aveugle"
   - "charme"
   - "epuise"
   - "terrorise"
-damageTypeResistances: 
+damageTypeResistances:
   - "acide"
   - "feu"
   - "froid"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne naturelle

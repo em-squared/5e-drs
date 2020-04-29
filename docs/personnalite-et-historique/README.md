@@ -74,7 +74,7 @@ Votre MJ a de nombreuses excuses pour vous permettre d'utiliser l'inspiration. G
 Vous êtes soit inspiré, soit vous ne l'êtes pas. Il n'est pas possible d'emmagasiner des «  inspirations  » que vous pourrez utiliser plus tard à votre convenance.
 
 ### Utiliser l'inspiration
-Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire un [jet d'attaque](/combattre/#jets-d-attaque), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un test de caractéristique. Si vous utilisez votre inspiration, vous obtenez l'avantage sur ce lancer de dés.
+Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire un [jet d'attaque](/combattre/#jets-d-attaque), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). Si vous utilisez votre inspiration, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ce lancer de dés.
 
 De plus, si vous êtes sous le coup de l'inspiration, vous pouvez récompenser un autre joueur pour son jeu, sa perspicacité, ou simplement pour avoir rendu la partie plus intéressante par ses actions. Quand le personnage de ce joueur fait quelque chose qui contribue à l'histoire de manière intéressante et drôle, vous pouvez décider de lui céder votre inspiration.
 
