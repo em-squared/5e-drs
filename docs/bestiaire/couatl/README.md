@@ -12,24 +12,24 @@ abilityScores:
   int: 18
   sag: 20
   cha: 18
-savingThrows: 
+savingThrows:
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 4
-movement: 
+movement:
   walk: 9
   fly: 27
-senses: 
+senses:
   truesight: 36
-damageTypeResistances: 
+damageTypeResistances:
   - "radiant"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "psychique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "toutes"
 telepathy: 36
 environments:

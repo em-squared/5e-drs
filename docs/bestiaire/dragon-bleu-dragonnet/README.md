@@ -12,28 +12,28 @@ abilityScores:
   int: 12
   sag: 11
   cha: 15
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
-  burrow: 4
+  burrow: 4,50
   fly: 18
-senses: 
+senses:
   blindsight: 3
   darkvision: 18
-damageTypeImmunities: 
+damageTypeImmunities:
   - "foudre"
-languages: 
+languages:
   - "draconique"
 environments:
   - Désert chaud

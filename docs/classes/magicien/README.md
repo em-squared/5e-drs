@@ -135,7 +135,7 @@ Dès le niveau 2, vous obtenez une aptitude qui dépend de votre école.
 
 **Invocation : Aura d'invocateur**. Toutes les créatures invoquées ou issues d'un autre plan (comme les démons) subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vous attaquer au corps-à-corps.
 
-**Divination : Intuition du devin**. Vous obtenez un avantage en initiative. En dépensant une réaction, vous pouvez conférer un avantage à un test à un allié en vue. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
+**Divination : Intuition du devin**. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en initiative. En dépensant une réaction, vous pouvez conférer un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un test à un allié en vue. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
 **Enchantement : Sommation**. Vous apprenez le sort [_injonction_](/grimoire/injonction/). Vous êtes capables de le lancer en utilisant une réaction. Vous n'avez pas besoin de dépenser d'emplacement de sort pour le lancer. Vous devez effectuer un repos long ou un repos court avant de pouvoir le lancer à nouveau.
 

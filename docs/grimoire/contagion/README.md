@@ -34,4 +34,4 @@ Comme le sort déclenche une maladie naturelle chez la cible, tout effet qui gu�
 
 **Mort poisseuse**. La créature est affligée de saignements incontrôlables. Elle souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Constitution et des jets de sauvegarde de Constitution. De plus, elle est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de son prochain tour à chaque fois qu'elle subit des dégâts.
 
-**Pourriture**. La chair de la créature se met à pourrir. Elle subit un désavantage lors des tests de Charisme et devient vulnérable à tous les dégâts.
+**Pourriture**. La chair de la créature se met à pourrir. Elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Charisme et devient vulnérable à tous les dégâts.

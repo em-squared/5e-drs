@@ -12,25 +12,25 @@ abilityScores:
   int: 1
   sag: 3
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 3
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de cette distance)"
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "charme"
   - "empoisonne"
-  - "epuise"
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
   - "psychique"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Donjon maçonné

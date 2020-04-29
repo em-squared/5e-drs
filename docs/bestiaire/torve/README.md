@@ -13,20 +13,22 @@ abilityScores:
   int: 9
   sag: 8
   cha: 6
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "athletisme"
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   blindsight: 9
-conditionImmunities: 
+  customBlindSight: "9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance)"
+  customPassivePerception: 12
+conditionImmunities:
   - "aveugle"
-languages: 
+languages:
   - "commun des profondeurs"
 dungeonTypes:
   - Caverne aménagée

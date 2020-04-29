@@ -12,26 +12,27 @@ abilityScores:
   int: 1
   sag: 6
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 6
   climb: 6
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
+conditionImmunities:
   - "a-terre"
   - "assourdi"
   - "aveugle"
   - "charme"
   - "epuise"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "acide"
   - "foudre"
   - "froid"
   - "tranchant"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne aménagée
@@ -46,7 +47,7 @@ Le pouding peut ronger une épaisseur de 5 centimètres de bois non-magique en 1
 
 _**Informe**_. Le pouding peut traverser sans devoir se faufiler un interstice d'une largeur minimale de 2 à 3 centimètres.
 
-_**Pattes d'araignée**_. Le pouding peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. Le pouding peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 ## Actions
 _**Pseudopode**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
