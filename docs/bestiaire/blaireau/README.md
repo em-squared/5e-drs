@@ -12,14 +12,14 @@ abilityScores:
   int: 2
   sag: 12
   cha: 5
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 6
-  burrow: 1
-senses: 
+  burrow: 1,50
+senses:
   darkvision: 9
-languages: 
+languages:
   - ""
 environments:
   - Bois / Forêt

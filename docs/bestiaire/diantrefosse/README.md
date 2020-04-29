@@ -13,27 +13,27 @@ abilityScores:
   int: 22
   sag: 18
   cha: 24
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-movement: 
+movement:
   walk: 9
   fly: 18
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "infernal"
 telepathy: 36
 source: "Créatures & Oppositions"
@@ -42,7 +42,7 @@ source_page: 69
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du diantrefosse sont magiques.
 
-_**Aura de terreur**_. Toutes les créatures hostiles envers le diantrefosse qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 21, sauf si le diantrefosse est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Les créatures qui ratent leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) sont _terrorisées_ jusqu'au début de leur prochain tour. Celles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) sont immunisées contre l'aura de terreur du diantrefosse pendant 24 heures.
+_**Aura de terreur**_. Toutes les créatures hostiles envers le diantrefosse qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 21, sauf si le diantrefosse est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Les créatures qui ratent leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début de leur prochain tour. Celles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) sont immunisées contre l'aura de terreur du diantrefosse pendant 24 heures.
 
 _**Incantation innée**_. La caractéristique d'incantation du diantrefosse est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 21). Le diantrefosse peut lancer les sorts suivants de manière innée sans composante matérielle :
 * _**À volonté**_ : [_boule de feu_](/grimoire/boule-de-feu), [_détection de la magie_](/grimoire/detection-de-la-magie)

@@ -80,10 +80,10 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses attaques contre la créature. Sinon, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Assourdi
-* Une créature [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
+* Une créature [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) n'entend plus rien et rate automatiquement tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) faisant intervenir des capacités auditives.
 
 #### Aveuglé
-* Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.
+* Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) ne voit plus rien et rate automatiquement tout [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui requiert la vue.
 * Les jets d'attaque contre la créature bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Les attaques de la créature subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Charmé
@@ -96,7 +96,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'état se termine également si un effet emporte la créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [_vague tonnante_](/grimoire/vague-tonnante).
 
 #### Empoisonné
-* Une créature [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de ses tests de caractéristique.
+* Une créature [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 #### Entravé
 * La vitesse de la créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
@@ -138,7 +138,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
 
 #### Terrorisé
-* Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de caractéristique et de ses jets d'attaque tant que la source de sa frayeur se trouve dans son champ de vision.
+* Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et de ses jets d'attaque tant que la source de sa frayeur se trouve dans son champ de vision.
 * La créature est incapable de se rapprocher de la source de sa frayeur de son plein gré.
 
 ### Autres états temporaires
@@ -161,7 +161,7 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 
 | Niveau | Effet |
 |:-:|:-|
-| **1** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de caractéristique |
+| **1** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) |
 | **2** | Vitesse réduite de moitié |
 | **3** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques et des sauvegardes |
 | **4** | Maximum de points de vie réduit de moitié |
@@ -172,7 +172,7 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 
 Si une créature déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
 
-Une créature souffre des effets de son niveau d'épuisement actuel et de tous les effets des niveaux inférieurs. Par exemple, une créature affligée d'un épuisement de niveau 2 voit sa vitesse réduite de moitié et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de caractéristique.
+Une créature souffre des effets de son niveau d'épuisement actuel et de tous les effets des niveaux inférieurs. Par exemple, une créature affligée d'un épuisement de niveau 2 voit sa vitesse réduite de moitié et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 Un effet qui réduit l'épuisement diminue son niveau du montant indiqué dans sa description. Tous les effets d'épuisement se terminent si le niveau d'épuisement de la créature est réduit à moins de 1.
 

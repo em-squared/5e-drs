@@ -179,7 +179,7 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 </v-col>
 <v-col cols="12" md="6" markdown="1">
 <p><strong>Canalisation d'énergie divine : Inspiration divine</strong></p>
-<p>Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.</p>
+<p>Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix ([test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.</p>
 </v-col>
 </v-row>
 </v-expansion-panel-content>
@@ -216,7 +216,7 @@ Cette aptitude a exactement les mêmes effets que si vous lanciez le sort [_dess
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Inspiration divine
-Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, [jet d'attaque](/combattre/#jets-d-attaque), [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
+Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix ([test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), [jet d'attaque](/combattre/#jets-d-attaque), [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
 §§§
 §§§
 
@@ -250,7 +250,7 @@ Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : nom secret
-Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses jets de sauvegarde contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
+Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets de sauvegarde contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
 §§§
 §§§
 
@@ -386,7 +386,7 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Explosion de lumière
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont _aveuglées_ à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
 §§§
 §§§
 
@@ -676,7 +676,7 @@ Au niveau 8, si vous utilisez une action pour lancer [_assistance_](/grimoire/as
 Également, au niveau 8, vous pouvez établir une relation particulière avec un disciple. Vous devez vous entretenir avec le sujet volontaire pendant une journée complète. Votre disciple bénéficie d'effets équivalents au sort [_lueur d'espoir_](/grimoire/lueur-d-espoir/) lorsque vous êtes à moins de 9 mètres l'un de l'autre pendant la semaine qui suit. Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres sorts. Le lien est prolongé de semaine en semaine tant que vous prenez le temps d'un entretien hebdomadaire d'au moins 1 heure, mais il est brisé si votre disciple vous manque de respect, ne fait pas de son mieux pour vous aider ou vous protéger ou s'il agit de façon clairement opposée à vos préceptes moraux. Vous ne pouvez être lié qu'à un seul disciple à la fois.
 
 #### Haranguer les foules
-Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
 ### Théurge
 #### Études académiques

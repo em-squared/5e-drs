@@ -13,27 +13,27 @@ abilityScores:
   int: 22
   sag: 18
   cha: 20
-savingThrows: 
+savingThrows:
   - "for"
   - "dex"
   - "con"
   - "int"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 8
-movement: 
+movement:
   walk: 6
   swim: 18
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "terrorise"
   - "paralyse"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "foudre"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "comprend l'abyssal"
   - "le céleste"
   - "l'infernal et le primordial mais ne peut pas parler"

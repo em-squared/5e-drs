@@ -43,7 +43,7 @@ source: "Créatures & Oppositions"
 source_page: 83
 ---
 ## Capacités
-_**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de test de caractéristique. De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.
+_**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.
 
 ## Actions
 _**Attaques multiples**_. Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.
