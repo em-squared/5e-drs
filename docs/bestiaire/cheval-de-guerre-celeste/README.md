@@ -12,30 +12,31 @@ abilityScores:
   int: 8
   sag: 14
   cha: 10
-savingThrows: 
+savingThrows:
   - "for"
   - "sag"
   - "cha"
-ac: 
+customSavingThrows: "For +7, Sag +5, Cha +3"
+ac:
   armorType: "custom"
   value: "13"
-skills: 
+skills:
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 18
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "epuise"
   - "terrorise"
-damageTypeResistances: 
+damageTypeResistances:
   - "necrotique"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "comprend le commun et le céleste mais ne peut pas parler"
 source: "Créatures & Oppositions"
 source_page: 300

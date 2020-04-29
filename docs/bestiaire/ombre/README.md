@@ -12,15 +12,16 @@ abilityScores:
   int: 6
   sag: 10
   cha: 8
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
-movement: 
+customSkills: "Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
+movement:
   walk: 12
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "empoigne"
   - "empoisonne"
@@ -29,18 +30,18 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeVulnerabilities: 
+damageTypeVulnerabilities:
   - "radiant"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "acide"
   - "feu"
   - "foudre"
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "—"
 dungeonTypes:
   - Donjon maçonné
@@ -50,7 +51,7 @@ source: "Créatures & Oppositions"
 source_page: 237
 ---
 ## Capacités
-_**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des tests de caractéristique et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil.
+_**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil.
 
 _**Discrétion dans les ombres**_. Tant qu'elle se trouve dans une zone faiblement éclairée ou plongée dans l'obscurité totale, l'ombre peut effectuer l'action [_se cacher_](/combattre#se-cacher) par une action bonus.
 

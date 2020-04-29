@@ -26,7 +26,7 @@ senses:
   tremorsense: 18
   darkvision: 18
 damageTypeResistances:
-  - "p-t-non-adamantite"
+  - "p-t-non-adamantium"
 languages:
   - "terreux"
 environments:

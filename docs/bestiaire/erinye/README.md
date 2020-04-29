@@ -13,27 +13,27 @@ abilityScores:
   int: 14
   sag: 14
   cha: 18
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "harnois"
-movement: 
+movement:
   walk: 9
   fly: 18
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "infernal"
 telepathy: 36
 source: "Créatures & Oppositions"

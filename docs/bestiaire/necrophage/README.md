@@ -12,24 +12,24 @@ abilityScores:
   int: 10
   sag: 13
   cha: 15
-ac: 
+ac:
   armorType: "armure de cuir clouté"
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
   - "epuise"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "necrotique"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "celles qu'il connaissait de son vivant"
 environments:
   - Mangrove / Marécage

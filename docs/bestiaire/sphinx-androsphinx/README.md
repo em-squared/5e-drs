@@ -12,31 +12,31 @@ abilityScores:
   int: 16
   sag: 18
   cha: 23
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "int"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "arcanes"
   - name: "perception"
   - name: "religion"
     isExpert: true
-movement: 
+movement:
   walk: 12
   fly: 18
-senses: 
+senses:
   truesight: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
-damageTypeImmunities: 
-  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "psychique"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "commun"
   - "sphinx"
 environments:
@@ -69,9 +69,9 @@ _Touché_ : 17 (2d10+6) dégâts tranchants.
 
 _**Rugissement (3/jour)**_. Le sphinx pousse un rugissement magique. Chaque fois qu'il rugit avant de terminer une période de repos long, le volume sonore du rugissement est plus important et l'effet est différent, comme expliqué plus bas. Les créatures situées à 150 mètres ou moins du sphinx et qui peuvent entendre le rugissement doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde).
 
-_**Premier rugissement**_. Les créatures qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 18 sont _terrorisées_ pendant 1 minute. Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+_**Premier rugissement**_. Les créatures qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 18 sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-_**Deuxième rugissement**_. Les créatures qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 18 sont _assourdies_ et _terrorisées_ pendant 1 minute. Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) et peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+_**Deuxième rugissement**_. Les créatures qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 18 sont _assourdies_ et [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) et peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 _**Troisième rugissement**_. Les créatures effectuent chacune un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 18. En cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté, une créature subit 44 (8d10) dégâts de tonnerre et tombe [_à terre_](/gerer-la-sante-du-personnage/#a-terre). En cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) réussi, la créature subit la moitié seulement des dégâts et ne tombe pas [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 

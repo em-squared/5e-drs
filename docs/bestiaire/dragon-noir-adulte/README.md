@@ -12,28 +12,28 @@ abilityScores:
   int: 14
   sag: 13
   cha: 17
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 7
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 12
   swim: 12
   fly: 24
-senses: 
+senses:
   blindsight: 18
   darkvision: 36
-damageTypeImmunities: 
+damageTypeImmunities:
   - "acide"
-languages: 
+languages:
   - "commun"
   - "draconique"
 environments:
@@ -57,9 +57,9 @@ _Touché_ : 13 (2d6+6) dégâts tranchants.
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 17 (2d10+6) dégâts perforants plus 4 (1d8) dégâts d'acide.
 
-_**Présence terrifiante**_. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 16 pour ne pas être _terrorisées_ pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+_**Présence terrifiante**_. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 16 pour ne pas être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
-_**Queue**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 6 m, une cible.  
+_**Queue**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 15 (2d8+6) dégâts contondants.
 
 _**Souffle d'acide (Recharge 5-6)**_. Le dragon souffle de l'acide sur une ligne de 18 mètres de long et 1,50 mètres de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité DD 18 ; elles subissent 54 (12d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.

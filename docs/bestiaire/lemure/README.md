@@ -13,22 +13,22 @@ abilityScores:
   int: 1
   sag: 11
   cha: 3
-ac: 
+ac:
   armorType: null
-movement: 
-  walk: 4
-senses: 
+movement:
+  walk: 4,50
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
   - "empoisonne"
-damageTypeResistances: 
+damageTypeResistances:
   - "froid"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "feu"
   - "poison"
-languages: 
+languages:
   - "comprend l'infernal mais ne peut pas parler"
 source: "Créatures & Oppositions"
 source_page: 72

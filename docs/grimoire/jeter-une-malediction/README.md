@@ -21,7 +21,7 @@ classes:
 source: "Manuel des règles"
 ---
 Vous touchez une créature qui doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est maudite pour toute la durée du sort. À vous de choisir la nature de cette malédiction parmi les options suivantes au moment de l'incantation.
-* Choisissez une caractéristique. Tant que la cible est maudite, elle est affectée par un désavantage lors des tests et des jets de sauvegarde basés sur cette caractéristique.
+* Choisissez une caractéristique. Tant que la cible est maudite, elle est affectée par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests et des jets de sauvegarde basés sur cette caractéristique.
 * Tant que la cible est maudite, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque contre vous.
 * Tant que la cible est maudite, elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse au début de chacun de ses tours. Si elle le rate, elle gaspille son action du tour et ne fait rien.
 * Tant que la cible est maudite, vos sorts et vos attaques à son encontre lui infligent 1d8 dégâts nécrotiques supplémentaires.

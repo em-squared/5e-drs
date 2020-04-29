@@ -12,12 +12,12 @@ abilityScores:
   int: 2
   sag: 12
   cha: 7
-ac: 
+ac:
   armorType: null
-movement: 
-  walk: 19
-senses: 
-languages: 
+movement:
+  walk: 18
+senses:
+languages:
   - ""
 environments:
   - Plaine / Champs / Prairie / Savane

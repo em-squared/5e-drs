@@ -35,7 +35,7 @@ source_page: 140
 ## Capacités
 _**Marche dans les toiles**_. L'ettercap ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
-_**Pattes d'araignée**_. L'ettercap peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+_**Pattes d'araignée**_. L'ettercap peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.
 
 _**Perception sur les toiles**_. Tant qu'il est en contact avec une toile d'araignée, l'ettercap connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
 

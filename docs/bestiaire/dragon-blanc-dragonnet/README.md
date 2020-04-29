@@ -12,29 +12,29 @@ abilityScores:
   int: 5
   sag: 10
   cha: 11
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 6
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 9
-  burrow: 4
+  burrow: 4,50
   swim: 9
   fly: 18
-senses: 
+senses:
   blindsight: 3
   darkvision: 18
-damageTypeImmunities: 
+damageTypeImmunities:
   - "froid"
-languages: 
+languages:
   - "draconique"
 environments:
   - Arctique / Subarctique
