@@ -21,7 +21,7 @@ skills:
 movement:
   walk: 9
   climb: 9
-senses:
+senses: 
   darkvision: 18
 languages:
   - ""
