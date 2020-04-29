@@ -14,7 +14,7 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 
 **Maîtrise de véhicules**. Si vous maîtrisez l'utilisation d'un véhicule (terrestre ou marin), vous pouvez ajouter votre bonus de maîtrise à tous les tests permettant de conserver le contrôle de ce véhicule dans des circonstances délicates.
 
-**Selle**. Une selle militaire offre un support à un cavalier et l'aide à conserver son assise sur une monture au cœur d'une bataille. Elle lui donne un avantage à tous les tests qu'il fait pour rester en selle. Il est nécessaire de posséder une selle exotique pour chevaucher une créature volante ou aquatique.
+**Selle**. Une selle militaire offre un support à un cavalier et l'aide à conserver son assise sur une monture au cœur d'une bataille. Elle lui donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests qu'il fait pour rester en selle. Il est nécessaire de posséder une selle exotique pour chevaucher une créature volante ou aquatique.
 
 ## Montures et autres animaux
 §§§ .table-container

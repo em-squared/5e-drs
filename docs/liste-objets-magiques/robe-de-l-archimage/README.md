@@ -10,5 +10,5 @@ Ce vêtement élégant est taillé dans un magnifique tissu blanc, gris ou noir,
 
 Vous bénéficiez des avantages suivants lorsque vous portez la robe :
 * Votre Classe d'Armure de base est égale à 15 + votre modificateur de Dextérité si vous ne portez aucune armure.
-* Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+* Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 * Les DD des jets de sauvegarde contre vos sorts et votre bonus d'attaque des sorts augmentent chacun de 2.

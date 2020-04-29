@@ -13,17 +13,18 @@ abilityScores:
   int: 1
   sag: 3
   cha: 1
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 0
-senses: 
+senses:
   blindsight: 9
-conditionImmunities: 
+  customBlindSight: "9 m (aveugle au-delà de cette distance)"
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "terrorise"
-languages: 
+languages:
   - "—"
 environments:
   - Caverne naturelle

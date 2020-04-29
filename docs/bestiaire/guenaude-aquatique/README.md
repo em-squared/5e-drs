@@ -12,15 +12,15 @@ abilityScores:
   int: 12
   sag: 12
   cha: 13
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 3
-movement: 
+movement:
   walk: 9
   swim: 12
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "aquatique"
   - "commun"
   - "géant"
@@ -36,7 +36,7 @@ source_page: 179
 ## Capacités
 _**Amphibie**_. La guenaude peut respirer à l'air libre et sous l'eau.
 
-_**Apparence terrifiante**_. Les humanoïdes qui commencent leur tour à 9 mètres ou moins de la guenaude et qui peuvent voir sa véritable apparence doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 11. En cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté, la créature est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours (elle subit un désavantage si la guenaude se trouve encore dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) est réussi ou si l'effet dont elle est victime prend fin, la créature est immunisée contre l'apparence terrifiante de la guenaude pendant 24 heures.  
+_**Apparence terrifiante**_. Les humanoïdes qui commencent leur tour à 9 mètres ou moins de la guenaude et qui peuvent voir sa véritable apparence doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Sagesse DD 11. En cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté, la créature est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de chacun de ses tours (elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si la guenaude se trouve encore dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si son [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) est réussi ou si l'effet dont elle est victime prend fin, la créature est immunisée contre l'apparence terrifiante de la guenaude pendant 24 heures.  
 À moins que la cible ne soit surprise ou que l'apparence terrifiante de la guenaude ne lui soit brusquement révélée, la cible peut détourner le regard et éviter de faire le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) initial. Jusqu'au début de son prochain tour, une créature qui détourne le regard subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre la guenaude.
 
 ## Actions

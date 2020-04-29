@@ -4,6 +4,7 @@ type: "Créature monstrueuse"
 size: "Gig"
 alignment: "non-alignée"
 challenge: "16"
+proficiencyBonus: 4
 hitDiceCount: 14
 abilityScores:
   for: 28
@@ -12,17 +13,17 @@ abilityScores:
   int: 3
   sag: 10
   cha: 6
-savingThrows: 
+savingThrows:
   - "con"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 8
-movement: 
+movement:
   swim: 15
-senses: 
+senses:
   blindsight: 18
-languages: 
+languages:
   - ""
 environments:
   - Mer / Océan

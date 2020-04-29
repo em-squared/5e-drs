@@ -26,4 +26,4 @@ Ce sort neutralise également les poisons et soigne les maladies non-magiques qu
 
 Ce sort referme les plaies mortelles, mais ne restaure pas les parties manquantes du corps. Si la créature est privée d'un organe ou d'un morceau indispensable à sa survie, comme sa tête, le sort échoue automatiquement.
 
-Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux tests de caractéristique. À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.
+Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.

@@ -211,7 +211,7 @@ Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 * Vous doublez la portée normale de l'arme, mais pas sa portée maximum. (Associé à Tireur d'élite, vous quadruplez cette portée.)
 * Jusqu'à 20 mètres, lorsque vous réalisez une attaque à distance avec un arc, vous pouvez tirer simultanément deux flèches au lieu d'une seule en utilisant votre réaction. Vous devez déclarer que vous utilisez votre réaction avant de lancer le dé du [jet d'attaque](/combattre/#jets-d-attaque). Vous devez viser la même cible ou deux cibles distantes de moins de 3 mètres.
 * En cas de réussite du [jet d'attaque](/combattre/#jets-d-attaque) contre la CA de la seconde cible, la seconde flèche inflige seulement le dé de dégâts normal, sans aucun modificateur (caractéristique, magie ou autre dé bonus).
-* Lorsque vous obtenez un coup critique sur un [jet d'attaque](/combattre/#jets-d-attaque) à l'arc, votre flèche se fiche dans le corps de votre cible et lui impose un désavantage à tous ses jets au d20 tant qu'elle ne la retire pas. Il faut utiliser une action pour retirer la flèche et cela inflige 1d4 points de dégâts perforants.
+* Lorsque vous obtenez un coup critique sur un [jet d'attaque](/combattre/#jets-d-attaque) à l'arc, votre flèche se fiche dans le corps de votre cible et lui impose un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses jets au d20 tant qu'elle ne la retire pas. Il faut utiliser une action pour retirer la flèche et cela inflige 1d4 points de dégâts perforants.
 
 #### Archer monté
 Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et à utiliser ce mouvement à votre avantage. Si vous êtes sur votre monture (contrôlée) et que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), vous disposez des bénéfices suivants :
@@ -260,18 +260,18 @@ Vous êtes un leader né, vous savez trouver les mots justes pour redonner force
 #### Concentré
 Des exercices mentaux ardus vous ont permis de développer vos capacités de concentration dans un domaine précis. Ce don peut être choisi plusieurs fois pour des caractéristiques différentes.
 * Vous augmentez au choix votre valeur d'Intelligence, de Sagesse ou de Charisme de 1 point sans dépasser 20.
-* Vous obtenez un avantage aux jets de sauvegarde de Constitution pour maintenir votre concentration sur les sorts pour lesquels vous utilisez la caractéristique choisie ci-dessus pour incanter.
+* Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde de Constitution pour maintenir votre concentration sur les sorts pour lesquels vous utilisez la caractéristique choisie ci-dessus pour incanter.
 
 #### Coriace
 Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 * Vous augmentez votre valeur de Constitution de 1, jusqu'à un maximum de 20.
 * Vous gagnez autant de points de vie que votre niveau ainsi qu'un point de vie supplémentaire à chaque fois que vous passez un nouveau niveau.
-* À 0 PV, lorsque vous avez déjà obtenus 2 échecs à vos jets de sauvegarde contre la mort, vous obtenez un avantage sur les jets suivants.
+* À 0 PV, lorsque vous avez déjà obtenus 2 échecs à vos jets de sauvegarde contre la mort, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets suivants.
 
 #### Destiné
 Il semble que vous soyez destiné à accomplir de grandes choses. Vous possédez un nombre maximal de points de destin égal à votre bonus de maîtrise. Vous récupérez 1 point de destin après chaque repos long.
 * Vous pouvez dépenser un point de destin pour obtenir 10 au résultat d'un d20, même après avoir pris connaissance du résultat, mais avant de déterminer l'issue de l'action.
-* Vous pouvez dépenser 3 points de destin pour obtenir un bonus de +10 sur le résultat d'un test de caractéristique ou d'un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+* Vous pouvez dépenser 3 points de destin pour obtenir un bonus de +10 sur le résultat d'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ou d'un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 #### Destructeur
 Vous vous êtes spécialisé dans un type de sorts et, avec ces sorts, votre capacité de destruction est sans égale.
