@@ -12,27 +12,28 @@ abilityScores:
   int: 5
   sag: 14
   cha: 10
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 4
-skills: 
+skills:
   - name: "discretion"
     invalid: true
     value: 5
   - name: "perception"
     invalid: true
     value: 10
-movement: 
+movement:
   walk: 12
-senses: 
+senses:
   truesight: 12
-conditionImmunities: 
+  customPassivePerception: 20
+conditionImmunities:
   - "assourdi"
   - "aveugle"
   - "empoisonne"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "—"
 environments:
   - Bois / Forêt

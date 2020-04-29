@@ -216,13 +216,13 @@ Après trois jours de repos, vous pouvez faire un [jet de sauvegarde](/utiliser-
 * Pendant les prochaines 24 heures, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les jets de sauvegarde contre une maladie ou un poison dont vous subissez actuellement les effets
 
 #### Mener des recherches
-Quand vous entamez vos recherches, le MJ détermine si vous pouvez trouver l'information qui vous intéresse, combien de temps cela vous prendra et si vos recherches sont soumises à certaines conditions (comme trouver un individu, un livre ou un lieu spécifique). Le MJ peut aussi vous demander de faire un test de caractéristique ou un test plus spécifique, comme un test d'Intelligence (Investigation) pour trouver les indices qui mettent votre PJ sur la bonne voie, ou un test de Charisme (Persuasion) pour vous assurer l'aide de quelqu'un. Une fois que ces conditions ont été remplies, votre PJ déniche l'information, si celle-ci est disponible.
+Quand vous entamez vos recherches, le MJ détermine si vous pouvez trouver l'information qui vous intéresse, combien de temps cela vous prendra et si vos recherches sont soumises à certaines conditions (comme trouver un individu, un livre ou un lieu spécifique). Le MJ peut aussi vous demander de faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ou un test plus spécifique, comme un test d'Intelligence (Investigation) pour trouver les indices qui mettent votre PJ sur la bonne voie, ou un test de Charisme (Persuasion) pour vous assurer l'aide de quelqu'un. Une fois que ces conditions ont été remplies, votre PJ déniche l'information, si celle-ci est disponible.
 
 Pour chaque jour passé en recherches, vous devez dépenser 1 po pour couvrir les dépenses de cette entreprise. Cette somme s'ajoute au coût normal de votre train de vie.
 
 #### Se former
 Votre personnage peut utiliser le temps libre entre deux aventures pour apprendre une nouvelle langue ou apprendre à maîtriser de nouveaux outils. Votre MJ peut vous donner des options additionnelles d'entraînement.
 
-Avant tout, votre personnage doit trouver quelqu'un qui accepte de l'instruire. Le MJ détermine combien de temps cela prend et si cela nécessite de faire un ou plusieurs tests de caractéristique.
+Avant tout, votre personnage doit trouver quelqu'un qui accepte de l'instruire. Le MJ détermine combien de temps cela prend et si cela nécessite de faire un ou plusieurs [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 Votre formation dure 250 jours et vous coûte 1 po par jour. Après avoir passé le temps requis et payé votre dû, vous connaissez une nouvelle langue ou avez gagné la maîtrise d'un nouvel outil.

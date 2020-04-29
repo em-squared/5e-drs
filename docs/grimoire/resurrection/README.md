@@ -25,6 +25,6 @@ Ce sort neutralise les poisons et maladies ordinaires qui affectaient éventuell
 
 Ce sort referme les blessures mortelles et restaure les parties de corps éventuellement manquantes.
 
-Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux tests de caractéristique. À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.
+Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.
 
-Si ce sort est destiné à une créature décédée depuis un an ou plus, son incantation est extrêmement éprouvante. Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et de sauvegarde et des tests de caractéristique jusqu'à ce que vous ayez terminé un repos long.
+Si ce sort est destiné à une créature décédée depuis un an ou plus, son incantation est extrêmement éprouvante. Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et de sauvegarde et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) jusqu'à ce que vous ayez terminé un repos long.

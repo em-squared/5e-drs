@@ -13,10 +13,10 @@ abilityScores:
   int: 15
   sag: 12
   cha: 20
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
@@ -27,18 +27,18 @@ skills:
     isExpert: true
   - name: "supercherie"
     isExpert: true
-movement: 
+movement:
   walk: 9
   fly: 18
-senses: 
+senses:
   darkvision: 18
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "feu"
   - "foudre"
   - "froid"
   - "poison"
-languages: 
+  - "c-p-t-non-magique"
+languages:
   - "abyssal"
   - "commun"
   - "infernal"

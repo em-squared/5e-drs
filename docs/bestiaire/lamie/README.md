@@ -12,19 +12,19 @@ abilityScores:
   int: 14
   sag: 15
   cha: 16
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 2
-skills: 
+skills:
   - name: "discretion"
   - name: "perspicacite"
   - name: "supercherie"
     isExpert: true
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "abyssal"
   - "commun"
 environments:
@@ -42,7 +42,7 @@ _**Incantation innée**_. La caractéristique d'incantation de la lamie est le C
 _**Attaques multiples**_. La lamie effectue deux attaques : une avec ses griffes et une avec sa dague ou son _Contact enivrant_.
 
 _**Contact enivrant**_. _Attaque de sort au corps à corps_ : +5 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : La cible est victime d'une malédiction magique pendant 1 heure. Jusqu'au terme de cette malédiction, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Sagesse et de tous les tests de caractéristiques.
+_Touché_ : La cible est victime d'une malédiction magique pendant 1 heure. Jusqu'au terme de cette malédiction, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Sagesse et de tous les [tests de caractéristiques](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 _**Dague**_. _Attaque d'arme à distance_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5 (1d4+3) dégâts perforants.

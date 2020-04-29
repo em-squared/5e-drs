@@ -12,18 +12,18 @@ abilityScores:
   int: 8
   sag: 13
   cha: 10
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
     isExpert: true
-movement: 
-  walk: 1,5
+movement:
+  walk: 1,50
   fly: 18
-senses: 
+senses:
   darkvision: 36
-languages: 
+languages:
   - "chouette géante"
   - "comprend le commun"
   - "l'elfe et le sylvestre mais ne peut pas les parler"

@@ -12,14 +12,14 @@ abilityScores:
   int: 18
   sag: 13
   cha: 14
-savingThrows: 
+savingThrows:
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 3
-skills: 
+skills:
   - name: "intimidation"
     invalid: true
     value: 7
@@ -29,18 +29,19 @@ skills:
   - name: "perspicacite"
     invalid: true
     value: 6
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-damageTypeVulnerabilities: 
+  customPassivePerception: 16
+damageTypeVulnerabilities:
   - "feu"
-damageTypeResistances: 
+damageTypeResistances:
   - "acide"
   - "froid"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "Commun des profondeurs"
   - "profond"
   - "langue raciale de la créature d'origine"

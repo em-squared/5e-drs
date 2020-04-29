@@ -13,19 +13,19 @@ abilityScores:
   int: 13
   sag: 16
   cha: 13
-ac: 
+ac:
   armorType: "chemise de mailles"
-skills: 
+skills:
   - name: "medecine"
     isExpert: true
   - name: "persuasion"
   - name: "religion"
     invalid: true
     value: 4
-movement: 
-  walk: 7
-senses: 
-languages: 
+movement:
+  walk: 7,50
+senses:
+languages:
   - "deux langues au choix"
 source: "Créatures & Oppositions"
 source_page: 333

@@ -12,15 +12,15 @@ abilityScores:
   int: 13
   sag: 14
   cha: 11
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 0
   fly: 15
   hover: true
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "empoigne"
   - "empoisonne"
@@ -28,17 +28,17 @@ conditionImmunities:
   - "entrave"
   - "inconscient"
   - "paralyse"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
+damageTypeResistances:
   - "acide"
   - "feu"
   - "froid"
   - "necrotique"
   - "tonnerre"
-damageTypeImmunities: 
+  - "c-p-t-non-magique"
+damageTypeImmunities:
   - "foudre"
   - "poison"
-languages: 
+languages:
   - "celles qu'il connaissait de son vivant"
 environments:
   - Collines / Vallées
@@ -59,4 +59,4 @@ _**Illumination variable**_. Le feu follet diffuse une lumière vive dans un ray
 _**Décharge**_. _Attaque de sort au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 9 (2d8) dégâts de foudre.
 
-_**Invisibilité**_. Le feu follet et la lumière qu'il diffuse deviennent _invisibles_ par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
+_**Invisibilité**_. Le feu follet et la lumière qu'il diffuse deviennent [_invisibles_](/gerer-la-sante-du-personnage/#invisible) par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).

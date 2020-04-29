@@ -130,10 +130,10 @@ Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cet
 Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la Sagesse (difficulté des jets de sauvegarde égale à 8 + bonus de maîtrise + modificateur de Sagesse).
 
 #### Né dans la nature
-Au niveau 3, vous bénéficiez d'un avantage aux tests de Sagesse (Perception) effectués en milieu naturel (+5 pour le valeur passive) et aux tests de Sagesse (Survie).
+Au niveau 3, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) effectués en milieu naturel (+5 pour le valeur passive) et aux tests de Sagesse (Survie).
 
 #### Initiation
-Également au niveau 3, à la suite d'une cérémonie, vous entrez en communion avec un esprit animal : ours, taureau (ou bison), loup, chouette, aigle, renard, lynx (ou tout autre félin), etc. L'animal qui correspond à votre alter ego spirituel ne vous est jamais hostile et vous bénéficiez d'un avantage aux tests lorsque vous essayez de le pister, de le repérer, de l'influencer ou de le dresser.
+Également au niveau 3, à la suite d'une cérémonie, vous entrez en communion avec un esprit animal : ours, taureau (ou bison), loup, chouette, aigle, renard, lynx (ou tout autre félin), etc. L'animal qui correspond à votre alter ego spirituel ne vous est jamais hostile et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests lorsque vous essayez de le pister, de le repérer, de l'influencer ou de le dresser.
 
 En dépensant un point de lien spirituel, vous pouvez utiliser sur vous-même le sort amélioration de caractéristique, mais uniquement dans la version qui correspond à l'esprit auquel vous êtes lié. Le loup permet d'améliorer la Sagesse (comme la chouette) et le lynx correspond au chat et permet d'améliorer la Dextérité. Vous pouvez bien entendu choisir d'autres animaux et la caractéristique correspondante en accord avec votre MJ. Si vous choisissez un animal associé à l'Intelligence, la Sagesse ou le Charisme (loup, chouette, aigle, renard), votre valeur de lien spirituel est augmentée de un.
 
@@ -147,7 +147,7 @@ Cet élément vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantag
 À partir du niveau 6, en dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : [_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/), [_baies nourricières_](/grimoire/baies-nourricieres/), [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/), [_druidisme_](/grimoire/druidisme/), [_grande foulée_](/grimoire/grande-foulee/), [_localiser des animaux ou des plantes_](/grimoire/localiser-des-animaux-ou-des-plantes/), [_passage sans trace_](/grimoire/passage-sans-trace/).
 
 #### Communion
-À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : Force (Athlétisme). Renard : Charisme (Supercherie). Loup : Dextérité (Discrétion). Taureau : Intelligence (Nature). Aigle : Charisme (Persuasion). Chouette : Sagesse (Perspicacité). Lynx : Dextérité (Acrobaties).
+À partir du niveau 10, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : Force (Athlétisme). Renard : Charisme (Supercherie). Loup : Dextérité (Discrétion). Taureau : Intelligence (Nature). Aigle : Charisme (Persuasion). Chouette : Sagesse (Perspicacité). Lynx : Dextérité (Acrobaties).
 
 En dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : [_compagnon animal_](/grimoire/compagnon-animal/), [_messager animal_](/grimoire/messager-animal/), [_poison naturel_](/grimoire/poison-naturel/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/), [_restauration inférieure_](/grimoire/restauration-inferieure/), [_vision dans le noir_](/grimoire/vision-dans-le-noir/).
 
@@ -172,14 +172,14 @@ Vous faites confiance à l'acier et il vous le rend bien. À partir du niveau 6,
 * Vous affectez les créatures immunisées ou résistantes aux dégâts normaux comme si votre arme était magique.
 
 #### Briseur de sort
-Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour briser la magie elle-même lorsque vous portez une attaque. Lorsque vous atteignez le niveau 10, vous pouvez utiliser une action bonus pour obtenir les effets d'un sort de [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) (portée contact, lancé au niveau 3) sur la cible que vous frappez avec une arme d'acier non enchantée. Si cette cible est un adversaire, vous devez avoir réussi votre attaque et cet effet s'ajoute aux dégâts habituels. Vous utilisez votre modificateur de Sagesse pour un éventuel test de caractéristique. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
+Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour briser la magie elle-même lorsque vous portez une attaque. Lorsque vous atteignez le niveau 10, vous pouvez utiliser une action bonus pour obtenir les effets d'un sort de [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) (portée contact, lancé au niveau 3) sur la cible que vous frappez avec une arme d'acier non enchantée. Si cette cible est un adversaire, vous devez avoir réussi votre attaque et cet effet s'ajoute aux dégâts habituels. Vous utilisez votre modificateur de Sagesse pour un éventuel [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
 #### Rage froide
-Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous bénéficiez d'un avantage à toutes les jets de sauvegarde pour résister aux sorts ou aux pouvoirs magiques des créatures, et une résistance à tous les dégâts des sorts. Vous ne devez pas porter d'armure magique pour bénéficier de cette aptitude.
+Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes les jets de sauvegarde pour résister aux sorts ou aux pouvoirs magiques des créatures, et une résistance à tous les dégâts des sorts. Vous ne devez pas porter d'armure magique pour bénéficier de cette aptitude.
 
 ### Voie du hurlement
 #### Intimidant
-Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un avantage à tous les tests de Charisme (Intimidation) ou de Force (Intimidation).
+Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme (Intimidation) ou de Force (Intimidation).
 
 #### Scarification rituelle
 Toujours au niveau 3, en vous coupant volontairement avec votre lame ou tout objet tranchant et en portant le goût de votre sang à votre bouche, par exemple en léchant la lame, vous pouvez déclencher une rage terrifiante. Le sang et votre regard fou impressionnent vos adversaires à l'exception des plus puissants ou des plus courageux.

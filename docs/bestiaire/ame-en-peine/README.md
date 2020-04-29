@@ -12,15 +12,15 @@ abilityScores:
   int: 12
   sag: 14
   cha: 15
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 0
   fly: 18
   hover: true
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "charme"
   - "empoigne"
@@ -29,17 +29,17 @@ conditionImmunities:
   - "entrave"
   - "paralyse"
   - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
+damageTypeResistances:
   - "acide"
   - "feu"
   - "foudre"
   - "froid"
   - "tonnerre"
-damageTypeImmunities: 
+  - "c-p-t-non-argent"
+damageTypeImmunities:
   - "necrotique"
   - "poison"
-languages: 
+languages:
   - "celles qu'elle connaissait de son vivant"
 environments:
   - Collines / Vallées

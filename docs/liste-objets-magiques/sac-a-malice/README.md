@@ -14,8 +14,8 @@ La créature se montre amicale envers vous et vos compagnons et agit à votre to
 
 Une fois que vous avez sorti trois objets duveteux du sac, il devient inutile jusqu'à l'aube suivante.
 
-<div  class="table-container">
 ## Sac à malice gris
+§§§ .table-container
 |D8|Créature|
 |:-:|:-|
 |**1**|[Belette](/bestiaire/belette)|
@@ -26,10 +26,10 @@ Une fois que vous avez sorti trois objets duveteux du sac, il devient inutile ju
 |**6**|[Blaireau géant](/bestiaire/blaireau-geant)|
 |**7**|[Loup sanguinaire](/bestiaire/loup-sanguinaire)|
 |**8**|[Élan géant](/bestiaire/elan-geant)|
-</div>
+§§§
 
-<div  class="table-container">
 ## Sac à malice rouille
+§§§ .table-container
 |D8|Créature|
 |:-:|:-|
 |**1**|[Rat](/bestiaire/rat)|
@@ -40,10 +40,10 @@ Une fois que vous avez sorti trois objets duveteux du sac, il devient inutile ju
 |**6**|[Sanglier géant](/bestiaire/sanglier-geant)|
 |**7**|[Lion](/bestiaire/lion)|
 |**8**|[Ours brun](/bestiaire/ours-brun)|
-</div>
+§§§
 
-<div  class="table-container">
 ## Sac à malice brun
+§§§ .table-container
 |D8|Créature|
 |:-:|:-|
 |**1**|[Chacal](/bestiaire/chacal)|
@@ -54,4 +54,4 @@ Une fois que vous avez sorti trois objets duveteux du sac, il devient inutile ju
 |**6**|[Belette géante](/bestiaire/belette-geante)|
 |**7**|[Hyène géante](/bestiaire/hyene-geante)|
 |**8**|[Tigre](/bestiaire/tigre)|
-</div>
+§§§

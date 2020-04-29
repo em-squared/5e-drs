@@ -12,8 +12,8 @@ Vous pouvez utiliser une action pour appuyer sur l'une des faces du cube et dép
 
 Si vos déplacements mettent la barrière en contact avec un objet solide qui ne peut pas traverser le cube, vous ne pouvez pas vous rapprocher de cet objet tant que la barrière est érigée.
 
-<div  class="table-container">
 ## Faces du cube de force
+§§§ .table-container
 |Face|Charges|Effet|
 |:-:|:-:|:-|
 |**1**|1|Les gaz, le vent et le brouillard ne peuvent pas franchir la barrière.|
@@ -22,10 +22,11 @@ Si vos déplacements mettent la barrière en contact avec un objet solide qui ne
 |**4**|4|Les effets de sort ne peuvent pas franchir la barrière.|
 |**5**|5|Rien ne peut traverser la barrière. Si vous le désirez, les murs, le sol et le plafond peuvent la traverser.|
 |**6**|0|La barrière se désactive.|
-</div>
+§§§
 
 Le cube perd des charges quand la barrière est la cible de certains sorts ou entre en contact avec certains effets issus de sorts ou d'objets magiques, comme indiqué dans la table suivante.
 
+§§§ .table-container
 |Sort ou objet|Charges perdues|
 |:-|:-:|
 |**[Désintégration](/grimoire/desintegration)**|1d12|
@@ -33,3 +34,4 @@ Le cube perd des charges quand la barrière est la cible de certains sorts ou en
 |**[Passe-muraille](/grimoire/passe-muraille)**|1d6|
 |**[Embruns prismatiques](/grimoire/embruns-prismatiques)**|1d20|
 |**[Mur de feu](/grimoire/mur-de-feu)**|1d4|
+§§§
