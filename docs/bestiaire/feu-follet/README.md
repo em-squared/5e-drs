@@ -59,4 +59,4 @@ _**Illumination variable**_. Le feu follet diffuse une lumière vive dans un ray
 _**Décharge**_. _Attaque de sort au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 9 (2d8) dégâts de foudre.
 
-_**Invisibilité**_. Le feu follet et la lumière qu'il diffuse deviennent _invisibles_ par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
+_**Invisibilité**_. Le feu follet et la lumière qu'il diffuse deviennent [_invisibles_](/gerer-la-sante-du-personnage/#invisible) par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).

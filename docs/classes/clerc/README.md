@@ -386,7 +386,7 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Explosion de lumière
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont _aveuglées_ à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
 §§§
 §§§
 

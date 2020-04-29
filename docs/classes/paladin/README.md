@@ -245,8 +245,8 @@ Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de 
 Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre patrie. Vous priez pendant une action pour implorer l'aide d'un ancien héros. Son aura, reconnaissable par tous vos compatriotes, apparaît autour de vous pendant 1 heure. Pendant cette durée, vous gagnez les bénéfices suivants :
 * Vous émettez une vive lumière dans un rayon de 9 mètres, et une lumière faible dans un rayon de 9 mètres supplémentaires, dont la couleur rappelle les armoiries de votre seigneur ou cité.
 * Cette lumière s'accompagne d'une aura de sérénité de 9 mètres de rayon autour de vous. Vos alliés dans cette zone ne peuvent plus être _charmés_ ou _terrorisés_.
-* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être _terrorisées_ pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est le même que pour vos sorts de paladin.
-* Les ennemis _invisibles_ redeviennent visibles tant qu'ils se trouvent à moins de 9 mètres de vous.
+* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est le même que pour vos sorts de paladin.
+* Les ennemis [_invisibles_](/gerer-la-sante-du-personnage/#invisible) redeviennent visibles tant qu'ils se trouvent à moins de 9 mètres de vous.
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 

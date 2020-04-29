@@ -40,7 +40,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir l'une des options suivantes.
 
 **Étourdissement**. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) pendant 1 minute.
 
-**Frayeur**. Chaque cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Celles qui échouent sont _terrorisées_ pendant 1 minute. Une cible [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) lâche tout ce qu'elle tient et doit s'éloigner du glyphe de 9 mètres au minimum à chacun de ses tours, dans la mesure du possible.
+**Frayeur**. Chaque cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Celles qui échouent sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une cible [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) lâche tout ce qu'elle tient et doit s'éloigner du glyphe de 9 mètres au minimum à chacun de ses tours, dans la mesure du possible.
 
 **Mort**. Chaque cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 10d10 dégâts nécrotiques, les autres la moitié seulement.
 
