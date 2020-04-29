@@ -3,7 +3,7 @@ title: "Anneau de feu d'étoile"
 type: "Anneau"
 subtype: false
 rarity: "Très rare"
-attunement: "harmonisation en plain air et de nuit exigée"
+attunement: "harmonisation en plein air et de nuit exigée"
 source: "Cadre de campagne"
 ---
 Tant que vous portez cet anneau dans des endroits faiblement éclairés ou plongés dans les ténèbres, vous pouvez lancer [_lumières dansantes_](/grimoire/lumieres-dansantes) et [_lumière_](/grimoire/lumiere) à volonté par le biais de l'anneau. L'incantation d'un de ces sorts sous cette forme nécessite une action.
