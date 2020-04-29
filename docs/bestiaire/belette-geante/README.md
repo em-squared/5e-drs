@@ -19,7 +19,7 @@ skills:
   - name: "perception"
 movement:
   walk: 12
-senses:
+senses: 
   darkvision: 18
 languages:
   - ""
