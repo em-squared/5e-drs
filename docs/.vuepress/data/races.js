@@ -189,6 +189,25 @@ export const races = [
     abilityBonuses: [
       { ability: 'for', value: 1 },
       { ability: 'con', value: 2 }
+    ],
+    variants: [
+      {
+        key: 'demi-ogre-standard',
+        label: "Demi-ogre",
+        abilityBonuses: [
+          { ability: 'for', value: 1 },
+          { ability: 'con', value: 2 }
+        ]
+      },
+      {
+        key: 'demi-ogre-sorcereux',
+        label: "Demi-ogre sorcereux",
+        abilityBonuses: [
+          { ability: 'con', value: 1 },
+          { ability: 'sag', value: 1 },
+          { ability: 'cha', value: 2 },
+        ]
+      }
     ]
   },
   {
