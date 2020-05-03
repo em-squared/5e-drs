@@ -198,7 +198,7 @@
             Capacités, Actions, Réactions et Actions légendaires
           </v-col>
           <v-col>
-            <v-textarea outlined label="Capacités, Actions, Réactions, Actions légendaires" v-model="monster.content"></v-textarea>
+            <v-textarea outlined label="Capacités, Actions, Réactions, Actions légendaires" v-model="monster.content" hint="Markdown supporté" persistent-hint></v-textarea>
           </v-col>
         </v-row>
 

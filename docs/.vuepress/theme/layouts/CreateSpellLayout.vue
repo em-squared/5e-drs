@@ -90,7 +90,7 @@
 
         <v-row>
           <v-col>
-            <v-textarea outlined label="Description" v-model="spell.content"></v-textarea>
+            <v-textarea outlined label="Description" v-model="spell.content" hint="Markdown supporté" persistent-hint></v-textarea>
           </v-col>
         </v-row>
 

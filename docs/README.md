@@ -14,5 +14,15 @@ Voici un aperçu des améliorations apportées :
 * L'interface a été soignée pour tous les formats d'écrans, de même que pour l'impression.
 
 ## Ressources utiles
-<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
-<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="_blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
+<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="primary" class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
+
+## Outils de création
+<v-row>
+  <v-col><v-btn color="primary" block large to="/creation-de-sort/"><v-icon>mdi-creation</v-icon> Création de sort</v-btn></v-col>
+  <v-col><v-btn color="primary" block large to="/creation-de-monstre-pnj/"><v-icon>mdi-emoticon-devil</v-icon> Création de monstre/PNJ</v-btn></v-col>
+</v-row>
+<v-row>
+  <v-col><v-btn color="primary" block large to="/creation-d-objet-magique/"><v-icon>mdi-ring</v-icon> Création d'objet magique</v-btn></v-col>
+  <v-col><v-btn color="primary" block large to="/calculateur-de-caracteristiques/"><v-icon>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn></v-col>
+</v-row>

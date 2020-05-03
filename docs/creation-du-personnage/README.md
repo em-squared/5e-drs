@@ -31,6 +31,8 @@ Si vous avez opté pour une classe de lanceur de sorts, vous disposez sans doute
 
 ## 4. Déterminer les caractéristiques
 
+<v-btn color="primary" class="mb-4 d-print-none" to="/calculateur-de-caracteristiques/" link><v-icon left>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn>
+
 La **Force** mesure la puissance physique du personnage : sa taille, sa musculature, sa vigueur. Elle lui permet de mieux utiliser ses armes de corps-à-corps, que ce soit en termes d'attaque ou de dégâts, de soulever de lourdes charges, d'immobiliser plus aisément un adversaire, etc.
 
 La **Dextérité** mesure à la fois la rapidité, la souplesse et l'adresse du personnage. Elle est utile afin d'agir avant l'ennemi, d'utiliser des armes en finesse ou avec précision, et dans toutes les actions qui requièrent soit de la précision et du doigté, soit le sens de l'équilibre et de l'agilité.
