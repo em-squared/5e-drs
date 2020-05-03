@@ -5,6 +5,7 @@ export default {
 
   state: {
     spells: [],
+    spellSlots: []
   },
 
   getters: {
@@ -32,6 +33,7 @@ export default {
 			if(localStorage.getItem('mySpells') && localStorage.getItem('mySpells') !== undefined) {
         let localStorageData = JSON.parse(localStorage.getItem('mySpells'))
         state.spells = localStorageData.spells
+        state.spellSlots = localStorageData.spellSlots
 			}
 		},
     setSpells: (state, payload) => {
@@ -57,6 +59,9 @@ export default {
           state.spells.splice(idx, 1)
         }
       })
+    },
+    setSpellSlots: (state, payload) => {
+      state.spellSlots = payload
     },
   }
 

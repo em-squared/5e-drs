@@ -43,7 +43,7 @@ export default {
 
   methods: {
     download () {
-      saveAs(new Blob([JSON.stringify(this.$store.state.myMonsters.monsters)], {
+      saveAs(new Blob([JSON.stringify(this.$store.state.myMonsters)], {
           type: "text/plain;charset=utf-8"
       }), "bestiaire.json")
     },
@@ -56,15 +56,15 @@ export default {
       reader.onload = function() {
         let result = JSON.parse(reader.result)
         let isValid = true
-        if (result.length >= 1) {
-          for (var s of result) {
+        if (result.monsters && result.monsters.length >= 1) {
+          for (var s of result.monsters) {
             if (s.pid !== 'monster') {
               isValid = false
             }
           }
         }
         if (isValid) {
-          self.$store.commit('myMonsters/setMonsters', result)
+          self.$store.commit('myMonsters/setMonsters', result.monsters)
         }
       }
 

@@ -43,7 +43,7 @@ export default {
 
   methods: {
     download () {
-      saveAs(new Blob([JSON.stringify(this.$store.state.myMagicItems.magicItems)], {
+      saveAs(new Blob([JSON.stringify(this.$store.state.myMagicItems)], {
           type: "text/plain;charset=utf-8"
       }), "objets-magiques.json")
     },
@@ -56,15 +56,15 @@ export default {
       reader.onload = function() {
         let result = JSON.parse(reader.result)
         let isValid = true
-        if (result.length >= 1) {
-          for (var s of result) {
+        if (result.magicItems && result.magicItems.length >= 1) {
+          for (var s of result.magicItems) {
             if (s.pid !== 'magicItem') {
               isValid = false
             }
           }
         }
         if (isValid) {
-          self.$store.commit('myMagicItems/setMagicItems', result)
+          self.$store.commit('myMagicItems/setMagicItems', result.magicItems)
         }
       }
 

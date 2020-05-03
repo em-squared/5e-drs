@@ -45,7 +45,7 @@ export default {
 
   methods: {
     download () {
-      saveAs(new Blob([JSON.stringify(this.$store.state.mySpells.spells)], {
+      saveAs(new Blob([JSON.stringify(this.$store.state.mySpells)], {
           type: "text/plain;charset=utf-8"
       }), "grimoire.json")
     },
@@ -58,15 +58,18 @@ export default {
       reader.onload = function() {
         let result = JSON.parse(reader.result)
         let isValid = true
-        if (result.length >= 1) {
-          for (var s of result) {
+        if (result.spells && result.spells.length >= 1) {
+          for (var s of result.spells) {
             if (s.pid !== 'spell') {
               isValid = false
             }
           }
         }
         if (isValid) {
-          self.$store.commit('mySpells/setSpells', result)
+          self.$store.commit('mySpells/setSpells', result.spells)
+          if (result.spellSlots) {
+            self.$store.commit('mySpells/setSpellSlots', result.spellSlots)
+          }
         }
       }
 
