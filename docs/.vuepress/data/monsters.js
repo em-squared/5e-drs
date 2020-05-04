@@ -9,7 +9,7 @@ export const MONSTERTYPES = [
   "Fées",
   "Fiélon",
   "Géant",
-  "Humanoide",
+  "Humanoïde",
   "Mort-vivant",
   "Plante",
   "Vase",

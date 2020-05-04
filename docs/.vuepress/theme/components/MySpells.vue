@@ -4,20 +4,6 @@
       <div v-if="spells.length > 0">
         <div class="d-print-none mb-12">
 
-          <v-dialog v-model="spellCard" max-width="660">
-            <v-card v-if="selectedSpell">
-              <v-card-title class="headline">
-                {{selectedSpell.title}}
-                <v-spacer></v-spacer>
-                <v-btn icon @click="spellCard = false"><v-icon>mdi-close</v-icon></v-btn>
-              </v-card-title>
-
-              <v-card-text>
-                <Spell :spell="selectedSpell" :isList="true" :hideTitle="true" />
-              </v-card-text>
-            </v-card>
-          </v-dialog>
-
           <v-data-table
             class="data-table"
             :headers="headers"
@@ -29,7 +15,14 @@
             must-sort
             :items-per-page="-1"
             hide-default-footer
+            show-expand
           >
+
+            <template v-slot:expanded-item="{ headers, item }">
+              <td :colspan="headers.length" class="pa-4">
+                <Spell :spell="item" />
+              </td>
+            </template>
 
             <template v-slot:group.header="{ group, headers, isOpen, toggle }">
               <td class="group-header" :colspan="headers.length">
@@ -55,7 +48,7 @@
             </template>
 
             <template v-slot:item.title="{ item }">
-              <span class="cursor-pointer subtitle-2" @click.stop="openSpellDetails(item)">{{ item.title }}</span>
+              <span class="subtitle-2">{{ item.title }}</span>
             </template>
 
             <template v-slot:item.frontmatter.level="{ item }">
@@ -85,7 +78,6 @@
                   <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
                   <v-icon v-else>mdi-printer</v-icon>
                 </v-btn>
-                <v-btn class="d-print-none mr-2" small depressed icon @click.stop="openSpellDetails(item)"><v-icon>mdi-eye</v-icon></v-btn>
                 <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-sort/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
                 <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('mySpells/removeSpell', item)"><v-icon>mdi-delete</v-icon></v-btn>
               </div>
@@ -122,14 +114,12 @@
 
 <script>
 import Spell from '@theme/components/Spell'
-import SpellCard from '@theme/components/SpellCard'
 
 export default {
   name: 'MySpells',
 
   components: {
-    Spell,
-    SpellCard
+    Spell
   },
 
   data () {
@@ -146,9 +136,7 @@ export default {
         { text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' },
         { text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' },
         { text: "", align: 'center', sortable: false, value: 'actions' },
-      ],
-      spellCard: false,
-      selectedSpell: null
+      ]
     }
   },
 
@@ -176,10 +164,6 @@ export default {
     },
     onInputSpellSlots () {
       this.$store.commit('mySpells/setSpellSlots', this.spellSlots)
-    },
-    openSpellDetails (spell) {
-      this.selectedSpell = spell
-      this.spellCard = true
     },
     hasSpellOfLevel (level) {
       for (let spell of this.spells) {
@@ -211,13 +195,6 @@ export default {
 
 <style lang="scss">
 @import "../styles/colors";
-.group-header {
-  background-color: $color-dragon;
-  color: #fff;
-}
-.cursor-pointer {
-  cursor: pointer;
-}
 .spell-slot {
   margin: 0;
 }

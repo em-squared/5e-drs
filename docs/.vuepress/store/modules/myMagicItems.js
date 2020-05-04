@@ -5,6 +5,7 @@ export default {
 
   state: {
     magicItems: [],
+    notPrintedMagicItems: []
   },
 
   getters: {
@@ -31,7 +32,12 @@ export default {
 			// Récupération des données utilisateurs depuis le navigateur
 			if(localStorage.getItem('myMagicItems') && localStorage.getItem('myMagicItems') !== undefined) {
         let localStorageData = JSON.parse(localStorage.getItem('myMagicItems'))
-        state.magicItems = localStorageData.magicItems
+        if (localStorageData.magicItems) {
+          state.magicItems = localStorageData.magicItems
+        }
+        if (localStorageData.notPrintedMagicItems) {
+          state.notPrintedMagicItems = localStorageData.notPrintedMagicItems
+        }
 			}
 		},
     setMagicItems: (state, payload) => {
@@ -58,6 +64,21 @@ export default {
         }
       })
     },
+    setNotPrintedMagicItems: (state, payload) => {
+      state.notPrintedMagicItems = payload
+    },
+    addNotPrintedMagicItem: (state, payload) => {
+      let magicItemIndex = state.notPrintedMagicItems.findIndex(magicItem => magicItem.key == payload.key)
+      if (!magicItemIndex >= 0) {
+        state.notPrintedMagicItems.push(payload)
+      }
+    },
+    removeNotPrintedMagicItem: (state, payload) => {
+      let magicItemIndex = state.notPrintedMagicItems.findIndex(magicItem => magicItem.key == payload.key)
+      if (magicItemIndex >= 0) {
+        state.notPrintedMagicItems.splice(magicItemIndex, 1)
+      }
+    }
   }
 
 }

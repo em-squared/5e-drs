@@ -65,6 +65,9 @@ export default {
         }
         if (isValid) {
           self.$store.commit('myMagicItems/setMagicItems', result.magicItems)
+          if (result.notPrintedMagicItems) {
+            self.$store.commit('myMagicItems/setNotPrintedMagicItems', result.notPrintedMagicItems)
+          }
         }
       }
 

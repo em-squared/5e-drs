@@ -8,6 +8,15 @@
     height: auto !important;
   }
 
+  .break-inside-avoid {
+    break-inside: avoid;
+  }
+
+  a {
+    text-decoration: none;
+    color: rgba(0,0,0,.87) !important;
+  }
+
   .d-flex {
     display: block !important;
   }
@@ -69,7 +78,7 @@
     &.v-application {
       background-color: #fff;
       color: #000;
-      
+
       h1, h2, h3, h4, h5, h6, a {
         color: $color-dragon;
       }

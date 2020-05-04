@@ -65,6 +65,9 @@ export default {
         }
         if (isValid) {
           self.$store.commit('myMonsters/setMonsters', result.monsters)
+          if (result.notPrintedMonsters) {
+            self.$store.commit('myMonsters/setNotPrintedMonsters', result.notPrintedMonsters)
+          }
         }
       }
 

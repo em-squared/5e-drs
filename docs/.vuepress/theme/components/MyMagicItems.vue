@@ -2,19 +2,61 @@
   <main class="page content">
     <div class="theme-default-content">
       <div v-if="magicItems.length > 0">
-        <masonry class="d-print-none" :cols="{'default': 2, 960: 1}" :gutter="24">
-          <MagicItemCard v-for="(magicItem, idx) in magicItems" :magicItem="magicItem" :showActions="true" :key="idx">
-          </MagicItemCard>
-        </masonry>
-        <div class="d-none d-print-block" v-for="magicItem in magicItems">
-          <div>
-            <h2 class="d-flex align-center">
-              <div class="mr-4">{{ magicItem.title }}</div>
-              <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: magicItem.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
-              <v-btn color="error" class="d-print-none" small depressed @click="$store.commit('myMagicItems/removeMagicItem', magicItem)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
-            </h2>
+
+        <div class="d-print-none mb-12">
+
+          <v-data-table
+            class="data-table"
+            :headers="headers"
+            :items="magicItems"
+            item-key="key"
+            :sort-by="sortBy"
+            :sort-desc="sortDesc"
+            must-sort
+            :items-per-page="-1"
+            hide-default-footer
+            show-expand
+          >
+
+            <template v-slot:expanded-item="{ headers, item }">
+              <td :colspan="headers.length" class="pa-4">
+                <MagicItem :magicItem="item" />
+              </td>
+            </template>
+
+            <template v-slot:item.title="{ item }">
+              <span class="subtitle-2">{{ item.title }}</span>
+            </template>
+
+            <template v-slot:item.frontmatter.attunement="{ item }">
+              <span v-if="item.frontmatter.attunement">{{ item.frontmatter.attunement }}</span>
+            </template>
+
+            <template v-slot:item.actions="{ item }">
+              <div class="text-no-wrap">
+                <v-btn class="d-print-none mr-2" small depressed icon @click.stop="toggleHidePrint(item)">
+                  <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
+                  <v-icon v-else>mdi-printer</v-icon>
+                </v-btn>
+                <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-d-objet-magique/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
+                <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('myMagicItems/removeMagicItem', item)"><v-icon>mdi-delete</v-icon></v-btn>
+              </div>
+            </template>
+
+          </v-data-table>
+        </div>
+
+        <div class="d-none d-print-block column-count-2">
+          <div v-for="magicItem in magicItems">
+            <div v-if="!isHiddenPrint(magicItem)">
+              <h2 class="d-flex align-center">
+                <div class="mr-4">{{ magicItem.title }}</div>
+                <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: magicItem.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
+                <v-btn color="error" class="d-print-none" small depressed @click="$store.commit('myMagicItems/removeMagicItem', magicItem)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
+              </h2>
+              <MagicItem :magicItem="magicItem" :isList="true" :hideTitle="true" />
+            </div>
           </div>
-          <MagicItem :magicItem="magicItem" :isList="true" :hideTitle="true" />
         </div>
       </div>
       <template v-else>
@@ -27,19 +69,25 @@
 
 <script>
 import MagicItem from '@theme/components/MagicItem'
-import MagicItemCard from '@theme/components/MagicItemCard'
 
 export default {
   name: 'MyMagicItems',
 
   components: {
-    MagicItem,
-    MagicItemCard
+    MagicItem
   },
 
   data () {
     return {
-
+      sortBy: 'title',
+      sortDesc: false,
+      headers: [
+        { text: "Nom", align: 'start', sortable: true, value: 'title' },
+        { text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' },
+        { text: "Rareté", align: 'start', sortable: false, value: 'frontmatter.rarity' },
+        { text: "Harmonisation", align: 'start', sortable: false, value: 'frontmatter.attunement' },
+        { text: "", align: 'center', sortable: false, value: 'actions' },
+      ],
     }
   },
 
@@ -50,6 +98,22 @@ export default {
   },
 
   methods: {
+    toggleHidePrint (magicItem) {
+      if (this.isHiddenPrint(magicItem)) {
+        this.$store.commit('myMagicItems/removeNotPrintedMagicItem', magicItem)
+      } else {
+        this.$store.commit('myMagicItems/addNotPrintedMagicItem', magicItem)
+      }
+    },
+    isHiddenPrint (magicItem) {
+      if (this.$store.state.myMagicItems.notPrintedMagicItems) {
+        let idx = this.$store.state.myMagicItems.notPrintedMagicItems.findIndex(item => item.key == magicItem.key)
+        if (idx >= 0) {
+          return true
+        }
+      }
+      return false
+    }
   }
 }
 </script>

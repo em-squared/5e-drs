@@ -5,6 +5,7 @@ export default {
 
   state: {
     monsters: [],
+    notPrintedMonsters: []
   },
 
   getters: {
@@ -31,7 +32,12 @@ export default {
 			// Récupération des données utilisateurs depuis le navigateur
 			if(localStorage.getItem('myMonsters') && localStorage.getItem('myMonsters') !== undefined) {
         let localStorageData = JSON.parse(localStorage.getItem('myMonsters'))
-        state.monsters = localStorageData.monsters
+        if (localStorageData.monsters) {
+          state.monsters = localStorageData.monsters
+        }
+        if (localStorageData.notPrintedMonsters) {
+          state.notPrintedMonsters = localStorageData.notPrintedMonsters
+        }
 			}
 		},
     setMonsters: (state, payload) => {
@@ -58,6 +64,21 @@ export default {
         }
       })
     },
+    setNotPrintedMonsters: (state, payload) => {
+      state.notPrintedMonsters = payload
+    },
+    addNotPrintedMonster: (state, payload) => {
+      let monsterIndex = state.notPrintedMonsters.findIndex(monster => monster.key == payload.key)
+      if (!monsterIndex >= 0) {
+        state.notPrintedMonsters.push(payload)
+      }
+    },
+    removeNotPrintedMonster: (state, payload) => {
+      let monsterIndex = state.notPrintedMonsters.findIndex(monster => monster.key == payload.key)
+      if (monsterIndex >= 0) {
+        state.notPrintedMonsters.splice(monsterIndex, 1)
+      }
+    }
   }
 
 }
