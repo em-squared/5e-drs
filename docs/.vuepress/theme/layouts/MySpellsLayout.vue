@@ -70,6 +70,9 @@ export default {
           if (result.spellSlots) {
             self.$store.commit('mySpells/setSpellSlots', result.spellSlots)
           }
+          if (result.notPrintedSpells) {
+            self.$store.commit('mySpells/setNotPrintedSpells', result.notPrintedSpells)
+          }
         }
       }
 

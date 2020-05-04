@@ -33,9 +33,15 @@ export default {
 			// Récupération des données utilisateurs depuis le navigateur
 			if(localStorage.getItem('mySpells') && localStorage.getItem('mySpells') !== undefined) {
         let localStorageData = JSON.parse(localStorage.getItem('mySpells'))
-        state.spells = localStorageData.spells
-        state.spellSlots = localStorageData.spellSlots
-        state.notPrintedSpells = localStorageData.notPrintedSpells
+        if (localStorageData.spells) {
+          state.spells = localStorageData.spells
+        }
+        if (localStorageData.spellSlots) {
+          state.spellSlots = localStorageData.spellSlots
+        }
+        if (localStorageData.notPrintedSpells) {
+          state.notPrintedSpells = localStorageData.notPrintedSpells
+        }
 			}
 		},
     setSpells: (state, payload) => {
@@ -64,6 +70,9 @@ export default {
     },
     setSpellSlots: (state, payload) => {
       state.spellSlots = payload
+    },
+    setNotPrintedSpells: (state, payload) => {
+      state.notPrintedSpells = payload
     },
     addNotPrintedSpell: (state, payload) => {
       let spellIndex = state.notPrintedSpells.findIndex(spell => spell.key == payload.key)

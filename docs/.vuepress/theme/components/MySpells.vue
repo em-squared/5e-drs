@@ -40,13 +40,13 @@
                   </div>
                   <div class="mx-md-12">
                     <div v-if="group > 0" style="width: 125px;">
-                      <v-text-field dark label="Emplacements" type="number" min="0" v-model="spellSlots[group]" @input="onInputSpellSlots"></v-text-field>
+                      <v-text-field dark hide-details outlined dense label="Emplacements" type="number" min="0" v-model="spellSlots[group]" @input="onInputSpellSlots"></v-text-field>
                     </div>
                   </div>
                   <div class="ml-md-12">
                     <div class="d-flex" v-if="spellSlots[group] > 0">
                       <div v-for="(slot, idx) in Number(spellSlots[group])" :key="idx">
-                        <v-checkbox dark></v-checkbox>
+                        <v-checkbox dark hide-details class="spell-slot"></v-checkbox>
                       </div>
                     </div>
                   </div>
@@ -197,9 +197,11 @@ export default {
       }
     },
     isHiddenPrint (spell) {
-      let idx = this.$store.state.mySpells.notPrintedSpells.findIndex(item => item.key == spell.key)
-      if (idx >= 0) {
-        return true
+      if (this.$store.state.mySpells.notPrintedSpells) {
+        let idx = this.$store.state.mySpells.notPrintedSpells.findIndex(item => item.key == spell.key)
+        if (idx >= 0) {
+          return true
+        }
       }
       return false
     }
@@ -215,5 +217,8 @@ export default {
 }
 .cursor-pointer {
   cursor: pointer;
+}
+.spell-slot {
+  margin: 0;
 }
 </style>
