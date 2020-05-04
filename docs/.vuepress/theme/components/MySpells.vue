@@ -80,9 +80,15 @@
             </template>
 
             <template v-slot:item.actions="{ item }">
-              <v-btn class="d-print-none mr-2" small depressed icon @click.stop="openSpellDetails(item)"><v-icon>mdi-eye</v-icon></v-btn>
-              <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-sort/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
-              <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('mySpells/removeSpell', item)"><v-icon>mdi-delete</v-icon></v-btn>
+              <div class="text-no-wrap">
+                <v-btn class="d-print-none mr-2" small depressed icon @click.stop="toggleHidePrint(item)">
+                  <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
+                  <v-icon v-else>mdi-printer</v-icon>
+                </v-btn>
+                <v-btn class="d-print-none mr-2" small depressed icon @click.stop="openSpellDetails(item)"><v-icon>mdi-eye</v-icon></v-btn>
+                <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-sort/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
+                <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('mySpells/removeSpell', item)"><v-icon>mdi-delete</v-icon></v-btn>
+              </div>
             </template>
 
           </v-data-table>
@@ -93,7 +99,7 @@
             <h2 v-else>Sorts de niveau {{ level }}</h2>
             <div class="column-count-2">
               <div v-for="spell in spells">
-                <template v-if="spell.frontmatter.level == level">
+                <template v-if="spell.frontmatter.level == level && !isHiddenPrint(spell)">
                   <h3 class="d-flex align-center title">
                     <div class="mr-4">{{ spell.title }}</div>
                     <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: spell.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
@@ -177,9 +183,23 @@ export default {
     },
     hasSpellOfLevel (level) {
       for (let spell of this.spells) {
-        if (spell.frontmatter.level == level) {
+        if (spell.frontmatter.level == level && !this.isHiddenPrint(spell)) {
           return true
         }
+      }
+      return false
+    },
+    toggleHidePrint (spell) {
+      if (this.isHiddenPrint(spell)) {
+        this.$store.commit('mySpells/removeNotPrintedSpell', spell)
+      } else {
+        this.$store.commit('mySpells/addNotPrintedSpell', spell)
+      }
+    },
+    isHiddenPrint (spell) {
+      let idx = this.$store.state.mySpells.notPrintedSpells.findIndex(item => item.key == spell.key)
+      if (idx >= 0) {
+        return true
       }
       return false
     }

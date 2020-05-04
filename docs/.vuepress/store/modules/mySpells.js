@@ -5,7 +5,8 @@ export default {
 
   state: {
     spells: [],
-    spellSlots: []
+    spellSlots: [],
+    notPrintedSpells: []
   },
 
   getters: {
@@ -34,6 +35,7 @@ export default {
         let localStorageData = JSON.parse(localStorage.getItem('mySpells'))
         state.spells = localStorageData.spells
         state.spellSlots = localStorageData.spellSlots
+        state.notPrintedSpells = localStorageData.notPrintedSpells
 			}
 		},
     setSpells: (state, payload) => {
@@ -63,6 +65,18 @@ export default {
     setSpellSlots: (state, payload) => {
       state.spellSlots = payload
     },
+    addNotPrintedSpell: (state, payload) => {
+      let spellIndex = state.notPrintedSpells.findIndex(spell => spell.key == payload.key)
+      if (!spellIndex >= 0) {
+        state.notPrintedSpells.push(payload)
+      }
+    },
+    removeNotPrintedSpell: (state, payload) => {
+      let spellIndex = state.notPrintedSpells.findIndex(spell => spell.key == payload.key)
+      if (spellIndex >= 0) {
+        state.notPrintedSpells.splice(spellIndex, 1)
+      }
+    }
   }
 
 }
