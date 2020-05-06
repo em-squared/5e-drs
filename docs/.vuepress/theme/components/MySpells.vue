@@ -16,6 +16,7 @@
             :items-per-page="-1"
             hide-default-footer
             show-expand
+            @click:row="onClickRow"
           >
 
             <template v-slot:expanded-item="{ headers, item }">
@@ -188,6 +189,9 @@ export default {
         }
       }
       return false
+    },
+    onClickRow (row, item) {
+      item.expand(!item.isExpanded)
     }
   },
 }

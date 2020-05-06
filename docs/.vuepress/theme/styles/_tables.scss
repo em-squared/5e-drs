@@ -74,6 +74,21 @@ table {
       }
     }
   }
+
+  .data-table {
+    table {
+      tbody {
+        tr {
+          background-color: #fff;
+          &:hover {
+            background-color: #eee !important;
+          }
+          td {
+          }
+        }
+      }
+    }
+  }
 }
 
 .theme--dark {

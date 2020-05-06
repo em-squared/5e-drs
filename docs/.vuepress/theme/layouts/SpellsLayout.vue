@@ -25,7 +25,15 @@
       :page.sync="page"
       @page-count="pageCount = $event"
       hide-default-footer
+      show-expand
+      @click:row="onClickRow"
     >
+
+      <template v-slot:expanded-item="{ headers, item }">
+        <td :colspan="headers.length" class="pa-4">
+          <Spell :spell="item" />
+        </td>
+      </template>
 
       <template v-slot:item.isInSpellBook="{ item }">
         <v-simple-checkbox off-icon="mdi-bookmark-outline" on-icon="mdi-bookmark" @input="toggleSpellInSpellBook(item)" :value="isSpellInSpellBook(item)"></v-simple-checkbox>
@@ -77,9 +85,10 @@
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
+import Spell from '@theme/components/Spell'
 
 export default {
-  components: { Breadcrumb },
+  components: { Breadcrumb, Spell },
 
   data () {
     return {
@@ -232,6 +241,10 @@ export default {
     changePage (page) {
       console.log(page)
       setUrlParams("page", [page])
+    },
+
+    onClickRow (row, item) {
+      item.expand(!item.isExpanded)
     }
   },
 
