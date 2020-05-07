@@ -23,6 +23,7 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 | **7** | Tout affront doit être réparé. Dans le sang si nécessaire. |
 | **8** | Je ne refuse jamais un défi, il en va de mon honneur. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Devoir**. Mes aînés et ma maison comptent plus que tout, et je leur dois respect et obéissance. (Loyal) |
@@ -32,6 +33,7 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 | **5** | **Honneur**. Rien n'est plus important qu'un contrat, tacite ou écrit. Je respecte mes engagements, il en va de mon honneur. (Loyal) |
 | **6** | **Sang**. Mon sang est bleu, comme celui des miens. Et le sang passe avant tout. (Tous) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Le sort de mes gens dépend de moi, et de mes décisions. |
@@ -40,6 +42,7 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 | **4** | Ma famille est mon pilier et cela m'impose un ensemble de devoirs importants. |
 | **5** | Je suis promis à une personne issue d'une autre famille, et je ne peux salir son nom, ni la mettre en danger, par mes actes. |
 | **6** | Je suis amoureux d'une personne dont la position n'est pas conciliable avec mon rang, ou mon nom. |
+
 
 | D6 | Défaut |
 |:-:|:-|

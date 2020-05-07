@@ -22,6 +22,7 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 | **7** | Mieux vaut sourire que de se laisser abattre. Je vois toujours le bon côté de la situation. |
 | **8** | Je ne comprends pas toujours les subtilités des situations compliquées, mais j'ai souvent des éclairs de génie. |
 
+
 |D6|Idéal|
 |:-:|:-|
 |**1**|**Loi**. Nul n'est au-dessus de la loi, ni seigneur, ni serf. Et nul ne peut rompre un serment. (Loyal)|
@@ -31,6 +32,7 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 |**5**|**Pouvoir**. Je m'élèverai au-dessus de mes contemporains et deviendrai à mon tour un seigneur. (Mauvais)|
 |**6**|**Vérité**. Il ne sert à rien de vouloir être ce que l'on n'est pas. (Neutre)|
 
+
 |D6|Lien|
 |:-:|:-|
 |**1**|Tout ce que je fais, je le fais par amour. Un jour je reviendrai auprès de l'être aimé en lui ayant prouvé ma valeur.|
@@ -39,6 +41,7 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 |**4**|J'ai été spolié par mon seigneur. Il m'a tout pris, mais je reprendrai ce qui était à moi.|
 |**5**|Je suis parti loin de ma famille pour la protéger. Mais elle reste constamment présente dans mon cœur et mon esprit.|
 |**6**|Le peuple a besoin d'être protégé. C'est la mission que je me suis fixée.|
+
 
 |D6|Défaut|
 |:-:|:-|

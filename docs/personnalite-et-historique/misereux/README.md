@@ -22,6 +22,7 @@ Vous avez une connaissance intime des zones urbaines, qui vous permet de dénich
 | **7** | Je ne soigne pas mon apparence, et je m'amuse des réactions à mon égard. |
 | **8** | Quand j'en ai, je cache quelques pièces dans les doublures de mes vêtements. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Revanche**. Les pauvres sont exploités et maltraités par les plus riches. Je compte bien leur retourner la pareille. (Mauvais) |
@@ -31,6 +32,7 @@ Vous avez une connaissance intime des zones urbaines, qui vous permet de dénich
 | **5** | **Autonomie**. C'est à chacun de s'élever au- dessus de sa situation, et de faire le nécessaire pour survivre. (Neutre) |
 | **6** | **Liberté**. La richesse est une prison, la pauvreté une libération. (Chaotique) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai échappé à ma vie de misère grâce à un de mes compagnons. J'ai juré de lui rendre la pareille. |
@@ -39,6 +41,7 @@ Vous avez une connaissance intime des zones urbaines, qui vous permet de dénich
 | **4** | Une bande de gamins des rues de mon ancien quartier m'a adopté comme un « grand frère ». Je tiens à leur prodiguer de bons conseils, et à les aider à s'en sortir. |
 | **5** | Alors que j'étais au plus mal, un membre du clergé m'a recueilli chez lui et m'a offert un repas chaud. J'ai juré d'apprendre et suivre les préceptes de son dieu. |
 | **6** | Avant de me retrouver dans la rue, j'avais une famille. Ceux qui la composent m'ont abandonné et n'ont pas levé le petit doigt pour m'aider. |
+
 
 | D6 | Défaut |
 |:-:|:-|

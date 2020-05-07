@@ -22,6 +22,7 @@ Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des
 | **7** | Le crime que je combats me fascine, et je veux le comprendre. |
 | **8** | Je suis un peu trop franc parfois, je devrais faire tourner sept fois ma langue dans ma bouche avant de parler. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Civilisation**. Les lois existent pour une bonne raison. Sans elles, la société s'effondre et le chaos règne en maître. (Loyal) |
@@ -31,6 +32,7 @@ Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des
 | **5** | **Esprit**. L'esprit de la loi, voilà ce qui compte. J'ai à cœur d'adapter mon verdict à la situation car rien n'est gravé dans le marbre. (Chaotique) |
 | **6** | **Bien commun**. Je suis au service de ma communauté (ou de mon organisation), ainsi que de ses membres. Je me dois de les protéger. (Bon) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Je me dois à ma communauté, elle attend de moi que je sois inébranlable. |
@@ -39,6 +41,7 @@ Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des
 | **4** | Des crapules ont assassiné mon supérieur, il faut que je les retrouve et qu'ils paient. |
 | **5** | Parfois, il faut faire des compromis. J'ai trempé dans des choses pas nettes afin de résoudre des affaires complexes. Je voudrais arriver à effacer ces méfaits. |
 | **6** | J'ai participé à une opération dont je ne veux plus parler. Mais elle reviendra me hanter, ainsi que ses victimes. |
+
 
 | D6 | Défaut |
 |:-:|:-|

@@ -35,6 +35,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 | **7** | Chaque individu est un mystère, une énigme à résoudre, et j'aime particulièrement les énigmes. |
 | **8** | La logique est mon moyen principal de communication et le filtre à travers lequel je cherche à comprendre le monde qui m'entoure. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Pouvoir**. Le savoir et la connaissance sont des outils indispensables du pouvoir. (Mauvais) |
@@ -44,6 +45,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 | **5** | **Logique**. C'est par une application pragmatique et logique des connaissances que l'homme peut s'améliorer. (Loyal) |
 | **6** | **Responsabilité**. La connaissance est un outil comme un autre, qui doit être employé avec discernement. (Neutre) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai consacré ma vie à un sujet en particulier et je me dois de réunir et consigner toutes les données qui lui sont liées. |
@@ -52,6 +54,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 | **4** | Au cours de mes études, je suis tombé sur un problème mystérieux ou un texte ancien indéchiffrable, et je me suis juré de résoudre cette énigme. |
 | **5** | Mon érudition m'a attiré les faveurs d'un prince ou d'un puissant, qui compte sur moi pour le conseiller. |
 | **6** | J'ai conclu un pacte contre nature ou je me suis laissé corrompre afin d'obtenir un savoir réputé inaccessible. Je compte bien faire le nécessaire pour effacer cela par mes actes. |
+
 
 | D6 | Défaut |
 |:-:|:-|

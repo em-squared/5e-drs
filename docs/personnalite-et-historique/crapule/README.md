@@ -22,6 +22,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'œil, vous 
 | **7** | Je parle beaucoup. Trop. Souvent pour cacher mon malaise. Certains pensent qu'il s'agit d'une forme de narcissisme. |
 | **8** | Je tente toujours d'analyser la situation le plus froidement possible. Mais quand mes émotions s'expriment, c'est une tempête sans nom. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Bien commun**. J'œuvre pour le peuple, afin de lui rendre justice face aux privilégiés. (Bon) |
@@ -31,6 +32,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'œil, vous 
 | **5** | **Famille**. Une famille se crée, et ses liens sont plus forts que le sang. Ma famille de sang ou de cœur, voilà ce qui compte. Le reste, et les autres, sont quantité négligeable. (Neutre) |
 | **6** | **Gloire**. Je ferai tout pour que mon nom soit reconnu, quel qu'en soit le prix ! (Chaotique) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai une dette que je n'ai jamais été capable de rembourser, et elle n'est pas d'ordre financier. |
@@ -39,6 +41,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'œil, vous 
 | **4** | Je dois être à la hauteur de celui ou celle qui m'a tout appris, et ne pas lui faire honte. |
 | **5** | Tout ce que je fais, je le fais pour venger un proche, floué ou tué par mon ennemi. |
 | **6** | Je reprendrai ce que l'on m'a pris et qui me revient de droit ! |
+
 
 | D6 | Défaut |
 |:-:|:-|

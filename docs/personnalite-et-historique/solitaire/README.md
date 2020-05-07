@@ -22,6 +22,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 | **7** | Parfois, je plonge dans mes pensées et m'y perds. Et cela se voit. |
 | **8** | J'ai toujours une pensée philosophique et profonde appropriée à la situation. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Bien commun**. Nous vivons des épreuves pour en tirer des enseignements que nous transmettons aux autres. J'aide ceux qui en ont besoin. (Bon) |
@@ -31,6 +32,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 | **5** | **Vengeance**. Ce que je subis, je le rends au centuple. (Mauvais) |
 | **6** | **Survivant**. La nature ne nous fait pas de cadeau. Nous devons tous savoir nous débrouiller seuls. (Neutre) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Je fuis une personne, ou un groupe, qui me pourchasse. Voilà pourquoi je reste seul. |
@@ -39,6 +41,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 | **4** | J'ai vécu un événement traumatisant. Il m'a tant marqué que je reste seul, de peur d'en infliger les conséquences aux autres. |
 | **5** | J'ai été soldat autrefois. Je ne reverrai jamais les horreurs de la guerre. |
 | **6** | Je me suis fixé comme mission de protéger les terres sauvages qui m'accueillent des déprédations des êtres dits civilisés. |
+
 
 | D6 | Défaut |
 |:-:|:-|

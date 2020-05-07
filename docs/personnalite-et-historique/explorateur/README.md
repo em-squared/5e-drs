@@ -23,6 +23,7 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 | **7** | Un étranger est un ami qui m'est encore inconnu. |
 | **8** | Je ne refuse jamais un nouveau défi. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Liberté**. L'inconnu rime avec liberté et absence de contrainte. (Chaotique) |
@@ -32,6 +33,7 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 | **5** | **Civilisation**. Explorer l'inconnu, c'est tracer un chemin pour la civilisation. (Loyal) |
 | **6** | **Nature**. Rien n'égale l'attrait d'un paysage sauvage et vierge de la civilisation. (Neutre) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai découvert une cité ou une vallée secrète, où les habitants vivent complètement coupés de la civilisation. |
@@ -40,6 +42,7 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 | **4** | Je suis tombé par hasard sur une ancienne carte qui semble indiquer l'emplacement d'un trésor. |
 | **5** | Au cours de mes voyages, j'ai été sauvé et adopté par un clan ou une tribu isolée. Après plusieurs mois passés parmi eux, j'ai appris à les considérer comme ma famille et j'ai juré de faire mon possible pour les protéger. |
 | **6** | J'ai un(e) rival(e), et je cherche par tous les moyens à prouver que je suis meilleur que lui/elle. |
+
 
 | D6 | Défaut |
 |:-:|:-|

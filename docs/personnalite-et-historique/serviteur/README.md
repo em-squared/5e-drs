@@ -35,6 +35,7 @@ Vous avez l'habitude du fonctionnement général des maisons avec domestiques. D
 | **7** | Je suis une source intarissable d'anecdotes amusantes, que je prends un malin plaisir à distiller au moment opportun. |
 | **8** | Quelle que soit la situation, je reste souriant et enjoué. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Égalité**. Quel que soit leur rang, les individus doivent être bien traités. (Bon) |
@@ -44,6 +45,7 @@ Vous avez l'habitude du fonctionnement général des maisons avec domestiques. D
 | **5** | **Pouvoir**. Le vrai pouvoir n'est pas dans la lumières et les parures. Il est dans l'ombre des alcôves. (Mauvais) |
 | **6** | **Ambition**. L'important n'est pas tant ce que l'on fait que ce que l'on ambitionne de faire. (Tous) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Mon seigneur et sa maisonnée ont été déshonorés et j'ai juré de découvrir par qui et pourquoi. |
@@ -52,6 +54,7 @@ Vous avez l'habitude du fonctionnement général des maisons avec domestiques. D
 | **4** | J'ai trahi mon seigneur et causé sa perte au profit d'un rival, et je suis prêt à tout pour le cacher. |
 | **5** | J'ai fui le service de mes maîtres et je suis pourchassé depuis. |
 | **6** | Je reste farouchement loyal à la famille de mon ancien seigneur. |
+
 
 | D6 | Défaut |
 |:-:|:-|

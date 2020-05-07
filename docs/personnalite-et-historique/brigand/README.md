@@ -38,6 +38,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 | **7** | Je protège les miens comme une mère protège ses petits. |
 | **8** | Je suis aussi impitoyable que la nature peut l'être. La survie est à ce prix. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Honneur**. La société peut penser ce qu'elle veut de vous. Ce qui vous importe avant tout, c'est votre conscience. (Loyal) |
@@ -47,6 +48,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 | **5** | **Liberté**. La vie en société est faite de chaînes et de restrictions et vous ne comptez pas vous laisser emprisonner. (Chaotique) |
 | **6** | **Autonomie**. Chacun doit pouvoir être en mesure d'assurer sa propre survie. (Neutre) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Certaines personnes dépendent de moi (famille, bande, amis) et je veux être digne de leur attachement. |
@@ -55,6 +57,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 | **4** | L'un des miens m'a été enlevé. Je suis persuadé qu'il est encore en vie quelque part, et j'ai juré de le retrouver et de le ramener chez lui. |
 | **5** | Ma région a été frappée par un désastre, et c'est à moi qu'il revient de trouver le moyen de restaurer ce qui peut l'être. |
 | **6** | J'ai déniché une information capitale (secret, carte au trésor, etc.) qui pourrait assurer définitivement la prospérité de ma communauté, et je compte bien en profiter. |
+
 
 | D6 | Défaut |
 |:-:|:-|

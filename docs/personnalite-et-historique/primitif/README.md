@@ -23,6 +23,7 @@ Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les 
 | **7** | Je ferais tout pour mon clan, quitte à en mourir. |
 | **8** | Je n'accorde aucune valeur aux pierres précieuses et aux métaux. C'est une obsession de citadin. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Honneur**. Nos ancêtres nous ont appris la puissance de la parole donnée. C'est en la respectant que l'on se respecte soi-même. (Loyal) |
@@ -32,6 +33,7 @@ Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les 
 | **5** | **Tradition**. Nos coutumes nous ont été transmises par nos ancêtres et nous devons les respecter. (Loyal) |
 | **6** | **Entraide**. C'est ensemble que nous avançons en dépit de la puissance de la nature. Je dois mon aide à ceux qui ne peuvent subvenir à leurs besoins. (Bon) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai été abandonné dans la nature à ma naissance. Élevé par des animaux, je n'aspire qu'à retrouver mes vrais parents. |
@@ -40,6 +42,7 @@ Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les 
 | **4** | Je suis en harmonie avec les puissances de la nature qui me murmurent la progression (ou l'approche) d'un mal terrifiant. Je dois le trouver et le combattre en leur nom. |
 | **5** | Ma tribu est plus importante que tout, je la protégerai à tout prix. |
 | **6** | Un être aimé a disparu, enlevé par les cavaliers d'une terre lointaine. Je le retrouverai. |
+
 
 | D6 | Défaut |
 |:-:|:-|

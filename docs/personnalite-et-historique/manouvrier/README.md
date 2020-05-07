@@ -34,6 +34,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 | **7** | Je m'emporte facilement, et je pardonne encore plus facilement. |
 | **8** | Je m'arrange toujours pour travailler moins que les autres. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Entraide**. Les patrons divisent pour mieux régner. Les travailleurs doivent se serrer les coudes et présenter un front uni pour se défendre. (Loyal) |
@@ -43,6 +44,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 | **5** | **Indépendance**. Le travail devrait être un moyen de gagner sa liberté. (Chaotique) |
 | **6** | **Ambition**. Les événements m'ont prouvé que je valais mieux que ce que je pensais. (Tous) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Un ancien collègue a subi un grave accident en me sauvant d'une mort certaine, et je fais mon possible pour subvenir à ses besoins. |
@@ -51,6 +53,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 | **4** | J'ai participé à une bagarre générale qui a causé de gros dégâts, et je dois depuis de l'argent au patron de la taverne. |
 | **5** | J'ai été déclaré hérétique par les prêtres d'un temple qui n'étaient pas satisfaits de mes services. |
 | **6** | Brièvement engagé de force dans une armée, j'ai déserté et suis depuis recherché. |
+
 
 | D6 | Défaut |
 |:-:|:-|

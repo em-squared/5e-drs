@@ -23,6 +23,7 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 | **7** | J'ai un profond respect pour l'ancienneté et l'expérience, et une déférence naturelle pour mes aînés. |
 | **8** | Je peux oublier tout ce qui me préoccupait un instant plus tôt lorsque je me trouve face à une œuvre de qualité. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Bien commun**. Mes talents et mes connaissances ne valent que s'ils sont transmis à d'autres. (Bon) |
@@ -32,6 +33,7 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 | **5** | **Pouvoir**. Les concurrents doivent être éliminés par tous les moyens afin d'assurer la primauté de la guilde. (Mauvais) |
 | **6** | **Ambition**. Il n'y a qu'un seul objectif acceptable : être le meilleur. (Tous) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | J'ai un(e) rival(e) au sein même de ma propre guilde, et je suis prêt à tout pour prouver que je vaux mieux. |
@@ -40,6 +42,7 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 | **4** | J'ai été banni d'une guilde par le passé, et je fais tout mon possible pour démontrer leur erreur à mes anciens associés. |
 | **5** | Je me suis approprié le travail d'un autre artisan sans qu'il le sache, et ce secret me ronge. |
 | **6** | Je n'ai pas d'autre foyer que le siège de ma guilde. |
+
 
 | D6 | Défaut |
 |:-:|:-|

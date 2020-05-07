@@ -34,6 +34,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous s
 | **7** | J'ai le plus grand respect pour la hiérarchie et le règlement. |
 | **8** | Je masque les blessures du passé sous un humour salace et imagé. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Devoir**. Être un soldat, c'est suivre les ordres sans poser de question. (Loyal) |
@@ -43,6 +44,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous s
 | **5** | **Changement**. Le chaos de la bataille est une source primale d'énergie et de changement. (Chaotique) |
 | **6** | **Honneur**. Servir son seigneur, sa cité ou sa patrie est la mission la plus honorable qui soit. (Loyal) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Par mes actions, j'ai causé la mort d'un individu honorable, et j'ai juré de subvenir aux besoins de sa famille pour m'acquitter de cette dette. |
@@ -51,6 +53,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous s
 | **4** | Ma compagnie n'existe plus, mais je porte encore fièrement ses couleurs, et veux faire vivre sa mémoire. |
 | **5** | Mon meilleur ami a été lâchement abattu par un soldat ennemi au cours d'une bataille. Je traquerai cet ennemi au bout du monde s'il le faut. |
 | **6** | Ma seule obligation est pour mes actuels compagnons d'armes. Ils sont mon unique famille. |
+
 
 | D6 | Défaut |
 |:-:|:-|

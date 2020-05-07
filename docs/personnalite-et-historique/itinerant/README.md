@@ -23,6 +23,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 | **7** | Je déteste qu'on ne me prête pas attention. D'aucun disent que je suis une diva. |
 | **8** | J'écoute plus que je ne parle. Mais quand je parle, ça n'est jamais pour ne rien dire. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Richesse**. Plus que la gloire, je veux mon poids en pièces sonnantes et trébuchantes. (Mauvais) |
@@ -32,6 +33,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 | **5** | **Liberté**. Ce qui compte plus que tout, c'est de voyager. Je ne permettrai à quiconque d'empêcher qui que ce soit de partir où il veut. (Chaotique) |
 | **6** | **Transmission**. Tout ce que je fais, je le fais pour voir le visage des gens s'illuminer de plaisir. Rien d'autre ne m'importe. (Bon) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Je fais partie d'un clan ou d'une famille soudée, à qui je dois tout. |
@@ -40,6 +42,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 | **4** | Tout ce que je fais, je le fais pour prouver ma valeur aux yeux d'un être aimé. |
 | **5** | J'ai un puissant protecteur (ou mécène) mais je ne peux entacher son honneur et son nom. |
 | **6** | Une personne que j'aimais est morte à cause de moi. Je dois me racheter. |
+
 
 | D6 | Défaut |
 |:-:|:-|

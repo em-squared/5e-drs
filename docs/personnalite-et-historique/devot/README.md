@@ -22,6 +22,7 @@ Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vou
 | **7** | J'ai connu des nourritures et des boissons raffinées et fréquenté la haute société parmi l'élite de mon temple. Je supporte néanmoins un mode de vie fruste. |
 | **8** | J'ai passé tellement de temps dans le temple que je n'ai pas beaucoup d'expérience quand il s'agit de traiter avec les gens de l'extérieur. |
 
+
 | D6 | Idéal |
 |:-:|:-|
 | **1** | **Tradition**. Il faut préserver et respecter les anciennes traditions religieuses et sacrificielles. (Loyal) |
@@ -31,6 +32,7 @@ Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vou
 | **5** | **Foi**. Je sais que ma déité guide mes pas. Je sais que si je suis fidèle à ses préceptes, tout ira bien. (Loyal) |
 | **6** | **Aspiration**. Je dois me prouver digne de mon dieu en agissant selon ses enseignements. (N'importe lequel) |
 
+
 | D6 | Lien |
 |:-:|:-|
 | **1** | Je suis prêt à mourir en tentant de récupérer une ancienne relique liée à ma foi et qui a été perdue il y a très longtemps. |
@@ -39,6 +41,7 @@ Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vou
 | **4** | Tout ce que je fais, je le fais pour le peuple. |
 | **5** | Je suis prêt à tout pour protéger le temple dans lequel j'ai servi. |
 | **6** | Je dois protéger un texte sacré que mes ennemis considèrent hérétique et cherchent à détruire. |
+
 
 | D6 | Défaut |
 |:-:|:-|
