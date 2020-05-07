@@ -75,15 +75,46 @@ table {
     }
   }
 
-  .data-table {
-    table {
-      tbody {
+  .v-data-table__wrapper {
+    >table {
+      >tbody {
         tr {
           background-color: #fff;
           &:hover {
             background-color: #eee !important;
+            &.v-data-table__expanded__content {
+              background-color: #fff !important;
+            }
           }
           td {
+            thead {
+
+              tr {
+                background-color: $color-table-header-bg;
+                color: #fff;
+                &:hover {
+                  background-color: $color-table-header-bg !important;
+                }
+                th {
+                  color: #fff !important;
+                  i {
+                    color: #fff !important;
+                  }
+                }
+              }
+            }
+            tbody {
+              tr {
+                &:nth-of-type(even) {
+                  background-color: $color-light-gray;
+                }
+                &:nth-of-type(odd):hover {
+                  background-color: inherit !important;
+                }
+                td {
+                }
+              }
+            }
           }
         }
       }
