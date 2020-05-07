@@ -50,7 +50,7 @@ source_page: 196
 ## Capacités
 _**Amphibie**_. Le kraken peut respirer à l'air libre et sous l'eau.
 
-_**Liberté de mouvement**_. Le kraken ignore les terrains difficiles. De plus, les effets magiques ne peuvent réduire sa vitesse ou l'_entraver_. Il peut dépenser 1,50 mètre de son déplacement pour échapper à des _entraves_ non-magiques ou pour ne pas être [_empoigné_](/gerer-la-sante-du-personnage/#empoigne).
+_**Liberté de mouvement**_. Le kraken ignore les terrains difficiles. De plus, les effets magiques ne peuvent réduire sa vitesse ou l'[_entraver_](/gerer-la-sante-du-personnage/#entrave). Il peut dépenser 1,50 mètre de son déplacement pour échapper à des entraves non-magiques ou pour ne pas être [_empoigné_](/gerer-la-sante-du-personnage/#empoigne).
 
 _**Monstre assiégeur**_. Le kraken inflige des dégâts doublés aux objets et aux structures.
 
