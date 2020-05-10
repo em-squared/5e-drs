@@ -2,15 +2,32 @@
   <div class="monster-filters pa-1">
 
     <v-text-field
-      class="mb-1"
+      class="mb-1 mx-2"
       v-model="search"
       label="Filtrer"
       single-line
       hide-details
+      clearable
       color="accent"
       ></v-text-field>
 
     <v-expansion-panels multiple flat hover v-model="panels">
+
+      <v-expansion-panel>
+        <v-expansion-panel-header>Tranche d'ID</v-expansion-panel-header>
+        <v-expansion-panel-content class="pt-4">
+          <v-range-slider
+            class="mt-6"
+            v-model="challengeRange"
+            min="0"
+            max="30"
+            thumb-size="24"
+            thumb-label="always"
+            hide-details
+            @end="onEndChallengeRange"
+          ></v-range-slider>
+        </v-expansion-panel-content>
+      </v-expansion-panel>
 
       <v-expansion-panel>
         <v-expansion-panel-header>Types</v-expansion-panel-header>
@@ -58,7 +75,7 @@ export default {
 
   data () {
     return {
-      panels: [],
+      panels: []
     }
   },
 
@@ -69,6 +86,15 @@ export default {
       },
       set (newValue) {
         this.$store.commit('monsterFilters/setSearch', newValue)
+      }
+    },
+
+    challengeRange: {
+      get () {
+        return this.$store.state.monsterFilters.challengeRange
+      },
+      set (newValue) {
+        this.$store.commit('monsterFilters/setChallengeRange', newValue)
       }
     },
 
@@ -110,6 +136,10 @@ export default {
   },
 
   methods: {
+
+    onEndChallengeRange () {
+      setUrlParams('trancheID', this.challengeRange)
+    },
 
     switchType () {
       let list = []
@@ -182,11 +212,15 @@ export default {
   mounted () {
     this.$store.dispatch('monsterFilters/reset')
 
+    let challengeRange = getUrlParameter(window.location.href, "trancheID").split(",")
     let selectedSizes = getUrlParameter(window.location.href, "tailles").split(",")
     let selectedTypes = getUrlParameter(window.location.href, "types").split(",")
     let selectedEnvironments = getUrlParameter(window.location.href, "environnements").split(",")
     let selectedDungeonTypes = getUrlParameter(window.location.href, "donjons").split(",")
 
+    if (challengeRange && challengeRange[0] != '') {
+      this.$store.commit('monsterFilters/setChallengeRange', challengeRange)
+    }
     setListMutation(selectedTypes, this.$store, 'monsterFilters/setTypesFromList')
     setListMutation(selectedSizes, this.$store, 'monsterFilters/setSizesFromList')
     setListMutation(selectedEnvironments, this.$store, 'monsterFilters/setEnvironmentsFromList')

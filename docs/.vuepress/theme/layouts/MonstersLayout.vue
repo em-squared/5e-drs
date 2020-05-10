@@ -106,6 +106,7 @@ export default {
   computed: {
     ...mapState({
       search: state => state.monsterFilters.search,
+      challengeRange: state => state.monsterFilters.challengeRange,
       types: state => state.monsterFilters.types,
       sizes: state => state.monsterFilters.sizes,
       environments: state => state.monsterFilters.environments,
@@ -114,6 +115,17 @@ export default {
 
     monsters() {
       let results = this.$pagination.pages
+
+      // Filter ID
+      let minID = this.challengeRange[0]
+      let maxID = this.challengeRange[1]
+      if (this.challengeRange[0] > this.challengeRange[1]) {
+        minID = this.challengeRange[1]
+        maxID = this.challengeRange[0]
+      }
+      results = results.filter(item => {
+        return item.frontmatter.challenge >= minID && item.frontmatter.challenge <= maxID
+      })
 
       // Filter types
       let selectedTypes = []

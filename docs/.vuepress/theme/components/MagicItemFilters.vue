@@ -7,6 +7,7 @@
       label="Filtrer"
       single-line
       hide-details
+      clearable
       color="accent"
       ></v-text-field>
 

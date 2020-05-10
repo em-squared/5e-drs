@@ -5,6 +5,7 @@ export default {
 
   state: {
     search: '',
+    challengeRange: [0, 30],
     types: [
       { label: "Aberration", value: false },
       { label: "Bête", value: false },
@@ -116,6 +117,12 @@ export default {
     },
     resetSearch: (state) => {
       state.search = ''
+    },
+    setChallengeRange: (state, payload) => {
+      state.challengeRange = payload
+    },
+    resetChallengeRange: (state, payload) => {
+      state.challengeRange = [0, 30]
     },
     setTypes: (state, payload) => {
       state.types = payload
