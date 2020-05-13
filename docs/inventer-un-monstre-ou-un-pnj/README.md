@@ -95,7 +95,7 @@ Pour certaines créatures, des aptitudes puissantes justifient à elles seules l
 
 **Nombreuses résistances (ID +1)** : Au moins quatre résistances différentes ou deux immunités à des sources courantes de dégâts (feu, foudre, acide, etc.), limitant l'efficacité des sorts à dégâts directs.
 
-**Aptitude « Résistance à la magie » (ID +1)** : La créature obtient un _avantage_ lors des jets de sauvegarde contre les sorts et autres effets magiques.
+**Aptitude « Résistance à la magie » (ID +1)** : La créature obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 **Aptitude « Résistance légendaire (3/jour) » (ID +1)** : La créature peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
 
@@ -105,8 +105,8 @@ Attention, ne vous laissez pas tromper par les sources alternatives de dégâts 
 
 Enfin, de nombreuses aptitudes ne suffisent pas à changer radicalement la dangerosité d'une créature en modifiant son ID. Par exemple :
 
-***Armes magiques***. Les attaques de la créature sont magiques.  
-***Meneur d'hommes (Recharge après un repos court ou long)***. Pendant 1 minute, le meneur d'hommes peut prononcer un ordre ou un avertissement spécial chaque fois qu'un allié situé à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La cible peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le meneur d'hommes. Une créature ne peut bénéficier que d'un seul dé de Meneur d'hommes à la fois. Cet effet prend fin si le meneur d'hommes est _neutralisé_.
+_**Armes magiques**_. Les attaques de la créature sont magiques.  
+_**Meneur d'hommes (Recharge après un repos court ou long)**_. Pendant 1 minute, le meneur d'hommes peut prononcer un ordre ou un avertissement spécial chaque fois qu'un allié situé à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La cible peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le meneur d'hommes. Une créature ne peut bénéficier que d'un seul dé de Meneur d'hommes à la fois. Cet effet prend fin si le meneur d'hommes est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 Afin d'équilibrer votre créature lorsque vous déterminerez son profil technique, vous pourrez vous permettre d'abaisser un ou deux paramètres vers l'ID inférieur (CA, PV, attaque, dégâts). C'est seulement si plusieurs aptitudes de ce type se cumulent, que vous pouvez être amené à augmenter l'ID final de +1. Enfin, à titre d'exemple, meneur d'hommes change la difficulté globale d'une rencontre, seulement si elle comprend de nombreuses créatures sous les ordres de celle qui possède l'aptitude, mais cela ne change pas son ID.
 

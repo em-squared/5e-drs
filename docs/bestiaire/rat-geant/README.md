@@ -12,13 +12,13 @@ abilityScores:
   int: 2
   sag: 10
   cha: 4
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne aménagée
@@ -34,8 +34,10 @@ _**Tactique de groupe**_. Le rat obtient un [_avantage_](/utiliser-les-caracteri
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 (1d4+2) dégâts perforants.
 
-! ## Variante : rats géants malades
-! Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsure. Un rat géant malade a un indice de dangerosité de 1/8 (25 PX) et dispose de l'action décrite ci-dessous à la place de son attaque de morsure.
-!
-! _**Morsure**_. _Attaque d'arme au corps à corps_  : +4 pour toucher, allonge 1,50  m, une cible.  
-! _Touché_ : 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD  10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
+§§§ .hero
+## Variante : rats géants malades
+Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsure. Un rat géant malade a un indice de dangerosité de 1/8 (25 PX) et dispose de l'action décrite ci-dessous à la place de son attaque de morsure.
+
+_**Morsure**_. _Attaque d'arme au corps à corps_  : +4 pour toucher, allonge 1,50  m, une cible.  
+_Touché_ : 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD  10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
+§§§

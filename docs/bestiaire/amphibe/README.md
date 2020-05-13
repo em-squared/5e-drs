@@ -53,14 +53,16 @@ _Touché_ : 7 (1d8+3) dégâts perforants.
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5 (1d4+3) dégâts tranchants.
 
-! ### VARIANTE : amphibe armé
-! _Les amphibes servant un aboleth sont parfois entraînés à se battre avec des armes à deux mains à allonge ou des armes de jets. Dans ce cas, ils ne bénéficient que d'une seule attaque._
-!
-! _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-! _Touché_ : 7 (1d8+3) dégâts perforants.
-!
-! _**Lance**_. _Attaque d'arme de jet ou au corps à corps_. +6 pour toucher, allonge 1,50 m ou portée 6 m/18 m, une cible.  
-! _Touché_ : 6 (1d6+3) dégâts perforants ou 7 (1d8+3) dégâts perforants si elle est utilisée à deux mains au corps à corps.
-!
-! _**Filet**_. _Attaque d'arme de jet_. +6 pour toucher, portée 1,5 m/4,5 m, une cible d'une catégorie de taille Grande ou inférieure.  
-! _Touché_ : la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave). Elle peut effectuer son action pour faire un test de Force (DD 10) pour tenter de se libérer ou pour libérer une autre créature à portée. Une réussite du test met fin à l'effet du filet. En infligeant 5 points de dégâts tranchants au filet (CA 10), il est possible de libérer les victimes sans les blesser, mais cela détruit le filet.
+§§§ .hero
+### VARIANTE : amphibe armé
+_Les amphibes servant un aboleth sont parfois entraînés à se battre avec des armes à deux mains à allonge ou des armes de jets. Dans ce cas, ils ne bénéficient que d'une seule attaque._
+
+_**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 7 (1d8+3) dégâts perforants.
+
+_**Lance**_. _Attaque d'arme de jet ou au corps à corps_. +6 pour toucher, allonge 1,50 m ou portée 6 m/18 m, une cible.  
+_Touché_ : 6 (1d6+3) dégâts perforants ou 7 (1d8+3) dégâts perforants si elle est utilisée à deux mains au corps à corps.
+
+_**Filet**_. _Attaque d'arme de jet_. +6 pour toucher, portée 1,5 m/4,5 m, une cible d'une catégorie de taille Grande ou inférieure.  
+_Touché_ : la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave). Elle peut effectuer son action pour faire un test de Force (DD 10) pour tenter de se libérer ou pour libérer une autre créature à portée. Une réussite du test met fin à l'effet du filet. En infligeant 5 points de dégâts tranchants au filet (CA 10), il est possible de libérer les victimes sans les blesser, mais cela détruit le filet.
+§§§

@@ -78,7 +78,7 @@ La difficulté d'une rencontre se détermine en fonction du niveau moyen des PJ.
 |**20**|370|700|900|1100|
 
 ## Groupes différents
-Si votre groupe de PJ comporte plus ou moins de 4 personnages, utilisez une simple règle de trois pour déterminer le nombre de PC de votre rencontre (5 personnages PC x 5/4, 3 personnages PC x 3⁄4). En cas de différence de niveau significative des PJ, ajoutez les points pour chaque PJ et divisez par 4.
+Si votre groupe de PJ comporte plus ou moins de 4 personnages, utilisez une simple règle de trois pour déterminer le nombre de PC de votre rencontre (5 personnages PC x 5/4, 3 personnages PC x 3/4). En cas de différence de niveau significative des PJ, ajoutez les points pour chaque PJ et divisez par 4.
 
 Si un seul PJ possède un niveau de plus ou de moins, ne vous embarrassez pas de calculs savants, au mieux arrondissez un peu au-dessus ou au-dessous le nombre de PC. Et dans tous les cas, rappelez-vous que l'équilibre d'une rencontre n'est pas une science exacte et qu'à la fin, le résultat des jets de dés et des décisions tactiques des uns et des autres pèsent également très lourd dans la balance.
 
