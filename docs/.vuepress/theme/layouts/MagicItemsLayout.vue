@@ -5,11 +5,25 @@
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
+        <MyMagicItemsButton />
       </div>
     </div>
 
     <h1>Liste des objets magiques</h1>
+
+    <div class="active-filters mb-2">
+      <div class="types-filter mb-1" v-if="selectedTypes.length > 0">
+        <strong>Types</strong> : <v-chip class="mr-1" v-for="(type, idx) in selectedTypes">{{ type }}</v-chip>
+      </div>
+      <div class="levels-filter mb-1" v-if="selectedRarities.length > 0">
+        <strong>Rareté</strong> : <v-chip class="mr-1" v-for="(rarity, idx) in selectedRarities">{{ rarity }}</v-chip>
+      </div>
+      <div class="attunement-filter mb-1" v-if="hasAttunement !== undefined">
+        <strong>Harmonisation</strong> :
+        <v-chip class="mr-1" v-if="hasAttunement === true" dark color="green">oui</v-chip>
+        <v-chip class="mr-1" v-if="hasAttunement === false" dark color="red">non</v-chip>
+      </div>
+    </div>
 
     <v-data-table
       class="data-table"
@@ -64,9 +78,10 @@ import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import MagicItem from '@theme/components/MagicItem'
+import MyMagicItemsButton from '@theme/global-components/MyMagicItemsButton'
 
 export default {
-  components: { Breadcrumb, MagicItem },
+  components: { Breadcrumb, MagicItem, MyMagicItemsButton },
 
   data () {
     return {
@@ -98,6 +113,26 @@ export default {
       rarities: state => state.magicItemFilters.rarities,
       hasAttunement: state => state.magicItemFilters.hasAttunement,
     }),
+
+    selectedTypes() {
+      let result = []
+      for (let type of this.types) {
+        if (type.value) {
+          result.push(type.label)
+        }
+      }
+      return result
+    },
+
+    selectedRarities() {
+      let result = []
+      for (let rarity of this.rarities) {
+        if (rarity.value) {
+          result.push(rarity.label)
+        }
+      }
+      return result
+    },
 
     magicitems() {
       let results = this.$pagination.pages

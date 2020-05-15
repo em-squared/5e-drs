@@ -5,7 +5,7 @@
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
         <v-btn :outlined="!isMonsterInBestiary" color="accent" class="mr-4 mb-4" depressed @click="toggleMonsterInBestiary"><v-icon>mdi-book</v-icon> {{ displayToggleMonsterButton }}</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mon-bestiaire/">Mon Bestiaire</v-btn>
+        <MyMonstersButton />
       </div>
     </div>
     <Monster :monster="$page" />
@@ -16,6 +16,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Monster from '@theme/components/Monster'
+import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 import Edit from '@theme/components/Edit'
 
 export default {
@@ -24,6 +25,7 @@ export default {
   components: {
     Breadcrumb,
     Monster,
+    MyMonstersButton,
     Edit
   },
 

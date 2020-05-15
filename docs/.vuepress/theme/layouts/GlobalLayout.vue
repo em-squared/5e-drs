@@ -1,6 +1,10 @@
 <template>
   <v-app class="srd">
 
+    <v-overlay :value="$store.state.loading">
+      <v-progress-circular indeterminate size="64"></v-progress-circular>
+    </v-overlay>
+
     <NavDrawer class="d-print-none" />
     <RightDrawer class="d-print-none" v-if="hasRightDrawer" />
 
@@ -84,6 +88,7 @@ export default {
   },
 
   mounted () {
+    this.$store.commit('setLoading', false) // Page chargée
     this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
 
     // Cookie consent
@@ -103,22 +108,17 @@ export default {
     this.$store.commit('myMonsters/initialiseStore')
     this.$store.commit('myMagicItems/initialiseStore')
 
-    // this.$vuetify.theme.dark = this.$store.state.isThemeDark
+    // Loading feedback
+    this.$router.beforeEach((to, from, next) => {
+      if (to.path !== from.path && !Vue.component(to.name)) {
+        this.$store.commit('setLoading', true)
+      }
+      next()
+    })
 
-    // let conditionLinks = document.links
-    // conditionLinks.forEach((link, idx) => {
-    //   if (link.hash == "#a-terre") {
-    //     let RTClass = Vue.extend(RuleTooltip)
-    //     let rtInstance = new RTClass({
-    //       propsData: { l: link.text, t: link.hash.substring(1, link.hash.length) },
-    //       parent: this.$root
-    //     })
-    //     rtInstance.$mount()
-    //     console.log(link)
-    //     link = rtInstance.$el
-    //     console.log(link)
-    //   }
-    // })
+    this.$router.afterEach(() => {
+      this.$store.commit('setLoading', false)
+    })
   },
 
   methods: {

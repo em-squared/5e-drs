@@ -12,6 +12,9 @@
     <v-btn class="hidden-sm-and-down" @click.stop="toggleAboutDialog" icon>
       <v-icon>mdi-information</v-icon>
     </v-btn>
+    <v-btn class="hidden-sm-and-down" @click.stop="toggleSupportDialog" icon>
+      <v-icon>mdi-glass-mug-variant</v-icon>
+    </v-btn>
     <v-btn class="ml-5" @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>
     </v-btn>
@@ -70,6 +73,9 @@ export default {
     },
     toggleAboutDialog () {
       this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
+    },
+    toggleSupportDialog () {
+      this.$store.commit('setIsOpenSupportDialog', !this.$store.state.isOpenSupportDialog)
     },
     setIsThemeDark () {
       this.$vuetify.theme.dark = !this.$vuetify.theme.dark

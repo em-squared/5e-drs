@@ -5,7 +5,7 @@
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
         <v-btn :outlined="!isSpellInSpellBook" color="accent" class="mr-4 mb-4" depressed @click="toggleSpellInSpellBook"><v-icon>mdi-book</v-icon> {{ displayToggleSpellButton }}</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mon-grimoire/">Mon Grimoire</v-btn>
+        <MySpellsButton />
       </div>
     </div>
     <Spell :spell="$page" />
@@ -16,6 +16,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Spell from '@theme/components/Spell'
+import MySpellsButton from '@theme/global-components/MySpellsButton'
 import Edit from '@theme/components/Edit'
 
 export default {
@@ -24,6 +25,7 @@ export default {
   components: {
     Breadcrumb,
     Spell,
+    MySpellsButton,
     Edit
   },
 

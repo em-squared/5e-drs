@@ -5,12 +5,44 @@
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mon-grimoire/">Mon grimoire</v-btn>
+        <MySpellsButton />
       </div>
     </div>
 
     <h1>Grimoire</h1>
 
+    <div class="active-filters mb-2">
+      <div class="classes-filter mb-1" v-if="selectedClasses.length > 0">
+        <strong>Classes</strong> : <v-chip class="mr-1" v-for="(c, idx) in selectedClasses">{{ c }}</v-chip>
+      </div>
+      <div class="levels-filter mb-1" v-if="selectedLevels.length > 0">
+        <strong>Niveaux de sorts</strong> : <v-chip class="mr-1" v-for="(level, idx) in selectedLevels" v-html="level"></v-chip>
+      </div>
+      <div class="schools-filter mb-1" v-if="selectedSchools.length > 0">
+        <strong>Écoles de magie</strong> : <v-chip class="mr-1" v-for="(school, idx) in selectedSchools">{{ school }}</v-chip>
+      </div>
+      <div class="compoments-filter mb-1" v-if="componentVerbal !== undefined || componentSomatic !== undefined || componentMaterial !== undefined">
+        <strong>Composantes d'incantation</strong> :
+        <v-chip class="mr-1" v-if="componentVerbal === true" dark color="green">verbales</v-chip>
+        <v-chip class="mr-1" v-if="componentVerbal === false" dark color="red">verbales</v-chip>
+
+        <v-chip class="mr-1" v-if="componentSomatic === true" dark color="green">somatiques</v-chip>
+        <v-chip class="mr-1" v-if="componentSomatic === false" dark color="red">somatiques</v-chip>
+
+        <v-chip class="mr-1" v-if="componentMaterial === true" dark color="green">matérielles</v-chip>
+        <v-chip class="mr-1" v-if="componentMaterial === false" dark color="red">matérielles</v-chip>
+      </div>
+      <div class="concentration-filter mb-1" v-if="mustBeConcentration !== undefined">
+        <strong>Concentration</strong> :
+        <v-chip class="mr-1" v-if="mustBeConcentration === true" dark color="green">oui</v-chip>
+        <v-chip class="mr-1" v-if="mustBeConcentration === false" dark color="red">non</v-chip>
+      </div>
+      <div class="concentration-filter mb-1" v-if="mustBeRitual !== undefined">
+        <strong>Rituel</strong> :
+        <v-chip class="mr-1" v-if="mustBeRitual === true" dark color="green">oui</v-chip>
+        <v-chip class="mr-1" v-if="mustBeRitual === false" dark color="red">non</v-chip>
+      </div>
+    </div>
 
     <v-data-table
       class="data-table"
@@ -86,9 +118,10 @@ import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import Spell from '@theme/components/Spell'
+import MySpellsButton from '@theme/global-components/MySpellsButton'
 
 export default {
-  components: { Breadcrumb, Spell },
+  components: { Breadcrumb, Spell, MySpellsButton },
 
   data () {
     return {
@@ -130,6 +163,36 @@ export default {
       componentSomatic: state => state.spellFilters.componentSomatic,
       componentMaterial: state => state.spellFilters.componentMaterial,
     }),
+
+    selectedClasses() {
+      let result = []
+      for (let c of this.classes) {
+        if (c.value) {
+          result.push(c.label)
+        }
+      }
+      return result
+    },
+
+    selectedLevels() {
+      let result = []
+      for (let level of this.levels) {
+        if (level.value) {
+          result.push(this.levelDisplay(level))
+        }
+      }
+      return result
+    },
+
+    selectedSchools() {
+      let result = []
+      for (let school of this.schools) {
+        if (school.value) {
+          result.push(school.label)
+        }
+      }
+      return result
+    },
 
     spells() {
       let results = this.$pagination.pages
@@ -245,7 +308,16 @@ export default {
 
     onClickRow (row, item) {
       item.expand(!item.isExpanded)
-    }
+    },
+
+    levelDisplay (level) {
+      if (level.level == 0) {
+        return 'Tour de magie'
+      } else if (level.level == 1) {
+        return level.level.toString() + '<sup>er</sup>'
+      }
+      return level.level.toString() + '<sup>ème</sup>'
+    },
   },
 
   mounted () {

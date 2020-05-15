@@ -24,13 +24,14 @@ export default new Vuex.Store({
   },
 
   state: {
-    loading: false,
+    loading: true,
     drawer: false,
     rightDrawer: false,
     hasRightDrawer: false,
     inRightDrawer: null,
     isThemeDark: false,
     isOpenAboutDialog: false,
+    isOpenSupportDialog: false,
   },
 
   getters: {
@@ -41,6 +42,7 @@ export default new Vuex.Store({
     inRightDrawer: state => state.inRightDrawer,
     isThemeDark: state => state.isThemeDark,
     isOpenAboutDialog: state => state.isOpenAboutDialog,
+    isOpenSupportDialog: state => state.isOpenSupportDialog,
   },
 
   actions: {
@@ -64,6 +66,9 @@ export default new Vuex.Store({
     },
     isOpenAboutDialog: ({ commit }, payload) => {
       commit('setIsOpenAboutDialog', payload)
+    },
+    isOpenSupportDialog: ({ commit }, payload) => {
+      commit('setIsOpenSupportDialog', payload)
     },
   },
 
@@ -90,6 +95,9 @@ export default new Vuex.Store({
     },
     setIsOpenAboutDialog: (state, payload) => {
       state.isOpenAboutDialog = payload
+    },
+    setIsOpenSupportDialog: (state, payload) => {
+      state.isOpenSupportDialog = payload
     },
   },
 })

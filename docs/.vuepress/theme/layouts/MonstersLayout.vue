@@ -5,11 +5,29 @@
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mon-bestiaire/">Mon bestiaire</v-btn>
+        <MyMonstersButton />
       </div>
     </div>
 
     <h1>Bestiaire</h1>
+
+    <div class="active-filters mb-2">
+      <div class="challengeRange-filter" v-if="Number(challengeRange[0]) >= 0 && Number(challengeRange[1]) <= 30">
+        <strong>Indice de dangerosité</strong> entre {{ challengeRange[0] }} et {{ challengeRange[1]}}
+      </div>
+      <div class="types-filter mb-1" v-if="selectedTypes.length > 0">
+        <strong>Types</strong> : <v-chip class="mr-1" v-for="(type, idx) in selectedTypes">{{ type }}</v-chip>
+      </div>
+      <div class="sizes-filter mb-1" v-if="selectedSizes.length > 0">
+        <strong>Tailles</strong> : <v-chip class="mr-1" v-for="(size, idx) in selectedSizes">{{ size }}</v-chip>
+      </div>
+      <div class="environments-filter mb-1" v-if="selectedEnvironments.length > 0">
+        <strong>Environnements</strong> : <v-chip class="mr-1" v-for="(env, idx) in selectedEnvironments">{{ env }}</v-chip>
+      </div>
+      <div class="dungeon-types-filter mb-1" v-if="selectedDungeonTypes.length > 0">
+        <strong>Types de donjons</strong> : <v-chip class="mr-1" v-for="(dType, idx) in selectedDungeonTypes">{{ dType }}</v-chip>
+      </div>
+    </div>
 
     <v-data-table
       class="data-table"
@@ -73,9 +91,10 @@ import Breadcrumb from '@theme/components/Breadcrumb'
 import { displayChallenge } from '@theme/util/monsterHelpers'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import Monster from '@theme/components/Monster'
+import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 
 export default {
-  components: { Breadcrumb, Monster },
+  components: { Breadcrumb, Monster, MyMonstersButton },
 
   data () {
     return {
@@ -99,7 +118,7 @@ export default {
         { text: "Sous-type", align: 'start', sortable: false, value: 'frontmatter.subtype' },
         { text: "Environnements", align: 'start', sortable: false, value: 'frontmatter.environments' },
         { text: "Type de donjons", align: 'start', sortable: false, value: 'frontmatter.dungeonTypes' },
-      ],
+      ]
     }
   },
 
@@ -112,6 +131,46 @@ export default {
       environments: state => state.monsterFilters.environments,
       dungeonTypes: state => state.monsterFilters.dungeonTypes,
     }),
+
+    selectedTypes() {
+      let result = []
+      for (let type of this.types) {
+        if (type.value) {
+          result.push(type.label)
+        }
+      }
+      return result
+    },
+
+    selectedSizes() {
+      let result = []
+      for (let size of this.sizes) {
+        if (size.value) {
+          result.push(size.label)
+        }
+      }
+      return result
+    },
+
+    selectedEnvironments() {
+      let result = []
+      for (let env of this.environments) {
+        if (env.value) {
+          result.push(env.label)
+        }
+      }
+      return result
+    },
+
+    selectedDungeonTypes() {
+      let result = []
+      for (let dType of this.dungeonTypes) {
+        if (dType.value) {
+          result.push(dType.label)
+        }
+      }
+      return result
+    },
 
     monsters() {
       let results = this.$pagination.pages

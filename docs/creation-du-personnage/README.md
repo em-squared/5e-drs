@@ -3,7 +3,7 @@ title: Création du personnage
 description: Règles de création de personnage
 ---
 # Création du personnage
-<v-btn color="primary" class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
 ## 1. Choisir une race
 
@@ -31,7 +31,7 @@ Si vous avez opté pour une classe de lanceur de sorts, vous disposez sans doute
 
 ## 4. Déterminer les caractéristiques
 
-<v-btn color="primary" class="mb-4 d-print-none" to="/calculateur-de-caracteristiques/" link><v-icon left>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4 d-print-none" to="/calculateur-de-caracteristiques/" link><v-icon left>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn>
 
 La **Force** mesure la puissance physique du personnage : sa taille, sa musculature, sa vigueur. Elle lui permet de mieux utiliser ses armes de corps-à-corps, que ce soit en termes d'attaque ou de dégâts, de soulever de lourdes charges, d'immobiliser plus aisément un adversaire, etc.
 

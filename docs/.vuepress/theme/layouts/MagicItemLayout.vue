@@ -5,7 +5,7 @@
       <div class="d-flex flex-wrap align-center">
         <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
         <v-btn :outlined="!isMagicItemInTreasureChest" color="accent" class="mr-4 mb-4" depressed @click="toggleMagicItemInTreasureChest"><v-icon>mdi-book</v-icon> {{ displayToggleMagicItemButton }}</v-btn>
-        <v-btn color="primary" class="mb-4" depressed link to="/mon-grimoire/">Mes objets magiques</v-btn>
+        <MyMagicItemsButton />
       </div>
     </div>
     <MagicItem :magicItem="$page" />
@@ -16,6 +16,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import MagicItem from '@theme/components/MagicItem'
+import MyMagicItemsButton from '@theme/global-components/MyMagicItemsButton'
 import Edit from '@theme/components/Edit'
 
 export default {
@@ -24,6 +25,7 @@ export default {
   components: {
     Breadcrumb,
     MagicItem,
+    MyMagicItemsButton,
     Edit
   },
 

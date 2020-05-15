@@ -77,6 +77,26 @@
             </v-list-item-content>
           </v-list-item>
         </template>
+        <v-list-item v-if="$site.themeConfig.forum" link :href="$site.themeConfig.forum" target="_blank">
+          <v-list-item-icon>
+            <v-icon>mdi-forum</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              Forum
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item v-if="$site.themeConfig.discord" link :href="$site.themeConfig.discord" target="_blank">
+          <v-list-item-icon>
+            <v-icon>mdi-discord</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              Discord
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
         <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
           <v-list-item-icon>
             <v-icon>mdi-github</v-icon>
@@ -87,7 +107,7 @@
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
+        <v-list-item v-if="$site.themeConfig.kofi && $site.themeConfig.patreon" @click.stop="toggleSupportDialog">
           <v-list-item-icon>
             <v-icon>mdi-glass-mug-variant</v-icon>
           </v-list-item-icon>
@@ -132,10 +152,41 @@
           <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
           <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
           <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
+          <v-row v-if="$site.themeConfig.kofi && $site.themeConfig.patreon">
+            <v-col class="text-center">
+              <v-btn depressed dark color="#f96854" link :href="$site.themeConfig.patreon" target="_blank"><v-icon class="mr-2">mdi-patreon</v-icon>Patreon</v-btn>
+            </v-col>
+            <v-col class="text-center">
+              <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
+            </v-col>
+          </v-row>
         </v-card-text>
 
         <v-card-actions>
           <v-btn color="primary" text @click="toggleAboutDialog">Fermer</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+
+    <v-dialog v-model="isOpenSupportDialog" @click:outside="toggleSupportDialog" max-width="600">
+      <v-card>
+        <v-card-title class="headline">Encouragez le développement</v-card-title>
+
+        <v-card-text>
+          <p>Vous souhaitez participer aux frais d'hébergement ? Ou vous voulez encourager le développement de la plateforme ?</p>
+          <p>Votre participation sera appréciée !</p>
+          <v-row v-if="$site.themeConfig.kofi && $site.themeConfig.patreon">
+            <v-col class="text-center">
+              <v-btn depressed dark color="#f96854" link :href="$site.themeConfig.patreon" target="_blank"><v-icon class="mr-2">mdi-patreon</v-icon>Patreon</v-btn>
+            </v-col>
+            <v-col class="text-center">
+              <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
+            </v-col>
+          </v-row>
+        </v-card-text>
+
+        <v-card-actions>
+          <v-btn color="primary" text @click="toggleSupportDialog">Fermer</v-btn>
         </v-card-actions>
       </v-card>
     </v-dialog>
@@ -163,6 +214,9 @@ export default {
     },
     isOpenAboutDialog () {
       return this.$store.state.isOpenAboutDialog
+    },
+    isOpenSupportDialog () {
+      return this.$store.state.isOpenSupportDialog
     }
   },
 
@@ -206,6 +260,9 @@ export default {
     },
     toggleAboutDialog () {
       this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
+    },
+    toggleSupportDialog () {
+      this.$store.commit('setIsOpenSupportDialog', !this.$store.state.isOpenSupportDialog)
     },
     setIsThemeDark () {
       this.$vuetify.theme.dark = !this.$vuetify.theme.dark
