@@ -191,7 +191,6 @@ module.exports = {
     domain: 'https://staging.heros-et-dragons.fr',
     repository: 'https://github.com/em-squared/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
-    patreon: 'https://www.patreon.com/em_squared',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
     primaryColor: '#563f5a', // Hero

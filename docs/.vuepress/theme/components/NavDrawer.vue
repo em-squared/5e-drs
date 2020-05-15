@@ -107,7 +107,7 @@
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item v-if="$site.themeConfig.kofi && $site.themeConfig.patreon" @click.stop="toggleSupportDialog">
+        <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
           <v-list-item-icon>
             <v-icon>mdi-glass-mug-variant</v-icon>
           </v-list-item-icon>
@@ -152,10 +152,7 @@
           <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
           <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
           <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
-          <v-row v-if="$site.themeConfig.kofi && $site.themeConfig.patreon">
-            <v-col class="text-center">
-              <v-btn depressed dark color="#f96854" link :href="$site.themeConfig.patreon" target="_blank"><v-icon class="mr-2">mdi-patreon</v-icon>Patreon</v-btn>
-            </v-col>
+          <v-row v-if="$site.themeConfig.kofi">
             <v-col class="text-center">
               <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
             </v-col>
@@ -175,10 +172,7 @@
         <v-card-text>
           <p>Vous souhaitez participer aux frais d'hébergement ? Ou vous voulez encourager le développement de la plateforme ?</p>
           <p>Votre participation sera appréciée !</p>
-          <v-row v-if="$site.themeConfig.kofi && $site.themeConfig.patreon">
-            <v-col class="text-center">
-              <v-btn depressed dark color="#f96854" link :href="$site.themeConfig.patreon" target="_blank"><v-icon class="mr-2">mdi-patreon</v-icon>Patreon</v-btn>
-            </v-col>
+          <v-row v-if="$site.themeConfig.kofi">
             <v-col class="text-center">
               <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
             </v-col>

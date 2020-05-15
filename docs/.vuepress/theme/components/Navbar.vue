@@ -12,7 +12,7 @@
     <v-btn class="hidden-sm-and-down" @click.stop="toggleAboutDialog" icon>
       <v-icon>mdi-information</v-icon>
     </v-btn>
-    <v-btn class="hidden-sm-and-down" @click.stop="toggleSupportDialog" icon>
+    <v-btn class="hidden-sm-and-down" v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank" icon>
       <v-icon>mdi-glass-mug-variant</v-icon>
     </v-btn>
     <v-btn class="ml-5" @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
