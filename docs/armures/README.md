@@ -4,15 +4,20 @@ title: Armures
 # Armures
 Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et toute autre propriété des armures couramment portées dans le jeu.
 
-**Armure lourde**. Les armures les plus lourdes interfèrent avec la capacité de leur porteur à se déplacer rapidement, discrètement et librement. Si le tableau des armures indique « _For 13_ » ou « _For 15_ » dans la colonne Force pour un type d'armure, elle réduit la vitesse de celui qui la porte de 3 mètres, à moins qu'il possède une valeur de Force supérieure ou égale au nombre indiqué.
+### Armure lourde
+Les armures les plus lourdes interfèrent avec la capacité de leur porteur à se déplacer rapidement, discrètement et librement. Si le tableau des armures indique « _For 13_ » ou « _For 15_ » dans la colonne Force pour un type d'armure, elle réduit la vitesse de celui qui la porte de 3 mètres, à moins qu'il possède une valeur de Force supérieure ou égale au nombre indiqué.
 
-**Bouclier**. Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre classe d'armure de 2. Vous ne pouvez pas bénéficier de plus d'un bouclier à la fois.
+### Bouclier
+Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre classe d'armure de 2. Vous ne pouvez pas bénéficier de plus d'un bouclier à la fois.
 
-**Classe d'armure (CA)**. Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre classe d'armure de base.
+### Classe d'armure (CA)
+Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre classe d'armure de base.
 
-**Discrétion**. Si le tableau des armures indique « [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  » dans la colonne Discrétion, le porteur de l'armure subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests de Dextérité (Discrétion).
+### Discrétion
+Si le tableau des armures indique « [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  » dans la colonne Discrétion, le porteur de l'armure subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests de Dextérité (Discrétion).
 
-**Maîtrise des armures**. Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
+### Maîtrise des armures
+Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
 ## Tableau des armures
 §§§ .table-container

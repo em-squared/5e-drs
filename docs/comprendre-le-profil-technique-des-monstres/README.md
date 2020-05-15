@@ -24,35 +24,49 @@ Le type d'un monstre définit sa nature fondamentale. Certains sorts, objets mag
 
 Voici les divers types de monstre de ce jeu, aucune règle spécifique ne leur étant rattachée.
 
+### Aberrations
 **Les aberrations** sont des êtres véritablement étranges et différents. Beaucoup possèdent des pouvoirs magiques innés nés des méandres de leur étrange esprit et non des énergies mystiques du monde. Les aboleths, les dévoreurs arcaniques sont par exemple des aberrations par excellence.
 
+### Bêtes
 **Les bêtes** sont des créatures non-humanoïdes qui font naturellement partie de l'écologie fantastique. Certaines maîtrisent des pouvoirs magiques mais la plupart sont dénuées d'intelligence, ne connaissent aucun langage et ne vivent pas en société. La catégorie des bêtes comprend toutes sortes d'animaux ordinaires et de dinosaures, ainsi que les versions géantes d'animaux.
 
+### Célestes
 **Les célestes** sont des créatures natives des plans supérieurs. La plupart sont au service de divinités et leur servent de messagers ou d'agents dans le royaume des mortels ou dans les plans. Les célestes sont bons par nature et les cas exceptionnels de célestes qui s'éloignent de cet alignement sont rares et terrifiants. Parmi les célestes, on trouve les anges, les couatls et les pégases.
 
+### Créatures artificielles
 **Les créatures artificielles** sont fabriquées et non mises au monde. Certaines sont programmées par leur créateur pour suivre plusieurs instructions simples, tandis que d'autres reçoivent une conscience et sont capables de penser par elles-mêmes. Les golems sont des créatures artificielles emblématiques. De nombreuses créatures originaires du plan extérieur sont des créatures artificielles façonnées à partir de la matière première du plan par la volonté de créatures plus puissantes.
 
+### Créatures monstrueuses
 **Les créatures monstrueuses** sont des monstres au sens le plus strict du terme : des créatures effrayantes qui sortent de l'ordinaire, qui ne sont pas vraiment naturelles et presque jamais bienveillantes. Certaines sont le fruit d'expérimentations magiques ayant mal tourné (comme les hibours) et d'autres le produit d'horribles malédictions (les minotaures et les yuan-tis, par exemple). Elles défient tout classement et forment une catégorie fourre-tout pour les créatures qui ne correspondent à aucun autre type.
 
+### Dragons
 **Les dragons** sont de grandes créatures reptiliennes aux origines anciennes, dotées d'immenses pouvoirs. Les véritables dragons, notamment les dragons métalliques bienveillants et les dragons chromatiques maléfiques, sont très intelligents et maîtrisent la magie de manière innée. Dans cette catégorie, on trouve également les créatures vaguement associées aux véritables dragons, telles que les vouivres et les pseudodragons, mais celles-ci sont moins puissantes, moins intelligentes et disposent de moins de magie.
 
+### Élémentaires
 **Les élémentaires** sont des créatures natives des plans élémentaires. Certaines créatures de ce type ne sont guère plus que des amas animés d'une matière élémentaire particulière, notamment les créatures simplement appelées élémentaires. D'autres ont des formes biologiques investies d'énergie élémentaire. Les diverses races de génies, dont les djinns et les éfrits, sont à l'origine des civilisations les plus importantes sur les plans élémentaires.
 
+### Fées
 **Les fées** sont des créatures magiques étroitement liées aux forces de la nature. Elles vivent dans des bosquets plongés dans la pénombre et des forêts embrumées. Sur certains mondes, elles sont étroitement liées à la Féerie sauvage, aussi appelée plan Féerique. On en trouve d'autres sur les plans extérieurs. Les dryades, les pixies et les satyres sont des exemples de fées.
 
+### Fiélons
 **Les fiélons** sont des créatures cruelles natives des plans inférieurs. Quelques-uns servent des divinités mais beaucoup travaillent dur sous le commandement d'archidiables et de princes démons. Les clercs et les mages maléfiques convoquent parfois des fiélons qui exécutent leurs ordres sur le plan Matériel. Si un céleste maléfique est rare, un fiélon bienveillant est presque inconcevable. Les démons, les diables, les rakshasas sont des exemples de fiélons.
 
+### Géants
 **Les géants** se dressent au-dessus des humains et de leurs semblables. Ils ressemblent aux humains mais peuvent avoir plusieurs têtes (ettins) ou des difformités (fomoriens). Les géants des collines, les géants des pierres, les géants du givre, les géants du feu, les géants des nuages et les géants des tempêtes forment les six variantes raciales de géants véritables, mais les créatures telles que les ogres et les trolls sont également considérées comme des géants.
 
+### Humanoïdes
 **Les humanoïdes** forment les principales peuplades, civilisées ou sauvages, des mondes de Héros & Dragons. Ils rassemblent les humains et une très grande variété d'autres espèces. Ils sont bipèdes, possèdent une langue, une culture et peu de pouvoirs magiques, voire aucun (même si la plupart des humanoïdes peuvent apprendre à lancer des sorts). Les races d'humanoïdes les plus courantes, les humains, les nains, les elfes et les halfelins, sont les plus adaptées pour devenir des personnages-joueurs. Les races gobelinoïdes (gobelins, hobgobelins et gobelours), les orcs, les gnolls, les hommes-lézards et les kobolds sont presque aussi nombreux, mais bien plus sauvages et brutaux, et la plupart sont uniformément maléfiques.
 
+### Morts-vivants
 **Les morts-vivants** sont des créatures autrefois vivantes qui ont été ramenées à l'effroyable état de non-vie par la magie nécromantique ou quelque malédiction impie. Parmi les morts-vivants, on trouve les cadavres animés, tels que les vampires et les zombis, et les esprits désincarnés, tels que les fantômes et les spectres.
 
+### Plantes
 **Les plantes**, dans le contexte du jeu, sont des créatures végétales et non des plantes ordinaires. La plupart sont mobiles et certaines carnivores. Le tertre errant et le sylvanien sont des plantes emblématiques. Les créatures fongiques telles que les spores gazeuses et les myconides font également partie de cette catégorie.
 
+### Vases
 **Les vases** sont des créatures gélatineuses dont la forme est rarement fixe. La plupart vivent sous terre, dans des grottes et des donjons, et se nourrissent de déchets, de charognes ou des créatures assez malchanceuses pour les rencontrer. Les poudings noirs et les cubes gélatineux sont deux des vases les plus reconnaissables.
 
-### Sous-types
+## Sous-types
 Un ou plusieurs sous-types apparaissent parfois, entre parenthèses, après le type d'un monstre. Par exemple, un orc est de type humanoïde (orc). Les sous-types indiqués entre parenthèses permettent une classification plus précise pour certaines créatures. Aucune règle spécifique ne leur est rattachée mais des éléments du jeu, comme les objets magiques, peuvent s'y référer. Par exemple, une lance particulièrement efficace pour combattre les démons sera tout aussi efficace contre tous les monstres de sous-type démon.
 
 ## Alignement

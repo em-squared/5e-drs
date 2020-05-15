@@ -12,29 +12,40 @@ Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au [jet d'att
 ## Propriétés des armes
 De nombreuses armes ont des propriétés spéciales liées à leur utilisation, ainsi que vous pourrez le voir dans le tableau des armes.
 
-**À deux mains**. Vous devez manier cette arme à deux mains pour effectuer une attaque.
+### À deux mains
+Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
-**Allonge**. Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand vous l'utilisez et quand vous déterminez votre allonge pour effectuer une attaque d'opportunité.
+### Allonge
+Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand vous l'utilisez et quand vous déterminez votre allonge pour effectuer une attaque d'opportunité.
 
-**Chargement**. Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
+### Chargement
+Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
 
-**Finesse**. Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
+### Finesse
+Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
 
-**Lancer**. Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le [jet d'attaque](/combattre/#jets-d-attaque) et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
+### Lancer
+Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le [jet d'attaque](/combattre/#jets-d-attaque) et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
 
-**Légère**. Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
+### Légère
+Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
 
-**Lourde**. Les créatures de petite taille subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque quand elles manient des armes lourdes. La taille et le poids de celles-ci les leur rendent en effet difficiles à manier.
+### Lourde
+Les créatures de petite taille subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque quand elles manient des armes lourdes. La taille et le poids de celles-ci les leur rendent en effet difficiles à manier.
 
-**Munitions**. Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
+### Munitions
+Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
 
 Si vous utilisez une arme qui a la propriété munitions pour faire une attaque de corps-à-corps, cette arme est considérée comme une arme improvisée (voir la section [Armes improvisées](#armes-improvisees) plus loin dans ce chapitre). Cela dit, une arme comme une fronde doit quand même être chargée pour faire des dégâts si vous l'utilisez comme arme improvisée.
 
-**Polyvalente**. Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
+### Polyvalente
+Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
 
-**Portée**. Une arme qui peut être utilisée pour faire des attaques à distance affiche une portée indiquée entre parenthèses après la propriété munitions ou lancer. La portée consiste en deux nombres. Le premier indique la portée normale de l'arme en mètres et le second indique sa portée longue. Quand vous attaquez une cible qui se trouve hors de la portée normale de votre arme, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque). Vous ne pouvez pas attaquer une cible qui se trouve au-delà de la portée longue de votre arme.
+### Portée
+Une arme qui peut être utilisée pour faire des attaques à distance affiche une portée indiquée entre parenthèses après la propriété munitions ou lancer. La portée consiste en deux nombres. Le premier indique la portée normale de l'arme en mètres et le second indique sa portée longue. Quand vous attaquez une cible qui se trouve hors de la portée normale de votre arme, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque). Vous ne pouvez pas attaquer une cible qui se trouve au-delà de la portée longue de votre arme.
 
-**Spéciale**. Une arme qui possède la propriété spéciale utilise des règles de fonctionnement spécifiques qui sont expliquées dans la description de l'arme (voir la section [Armes spéciales](#armes-speciales) plus loin dans ce chapitre).
+### Spéciale
+Une arme qui possède la propriété spéciale utilise des règles de fonctionnement spécifiques qui sont expliquées dans la description de l'arme (voir la section [Armes spéciales](#armes-speciales) plus loin dans ce chapitre).
 
 ### Armes improvisées
 Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent se contenter de ce qu'ils ont sous la main. Une arme improvisée peut être n'importe quel objet que vous pouvez tenir à une ou deux mains, comme un éclat de verre, un pied de table, une poêle, une roue de chariot ou un cadavre de gobelin.
@@ -49,11 +60,13 @@ Certains monstres qui possèdent une immunité ou une résistance aux armes non-
 ### Armes spéciales
 Vous trouverez ci-dessous la description d'armes fonctionnant selon des règles spécifiques.
 
-**Filet**. Une créature de taille G ou moins contre qui vous réussissez une attaque avec un filet se retrouve [_entravée_](/gerer-la-sante-du-personnage/#entrave) jusqu'à ce qu'elle soit libérée. Un filet n'a aucun effet sur les créatures sans forme ou les créatures de taille TG ou supérieure. Une créature peut utiliser son action pour faire un test de Force DD 10 afin de tenter de se libérer ou de libérer une autre créature qui se trouve à sa portée. Il est aussi possible de libérer une créature sans la blesser en infligeant 5 dégâts tranchants au filet. Le filet est détruit et son effet prend alors fin.
+#### Filet
+Une créature de taille G ou moins contre qui vous réussissez une attaque avec un filet se retrouve [_entravée_](/gerer-la-sante-du-personnage/#entrave) jusqu'à ce qu'elle soit libérée. Un filet n'a aucun effet sur les créatures sans forme ou les créatures de taille TG ou supérieure. Une créature peut utiliser son action pour faire un test de Force DD 10 afin de tenter de se libérer ou de libérer une autre créature qui se trouve à sa portée. Il est aussi possible de libérer une créature sans la blesser en infligeant 5 dégâts tranchants au filet. Le filet est détruit et son effet prend alors fin.
 
 Quand vous utilisez une action, une action bonus ou une réaction pour attaquer à l'aide d'un filet, vous ne pouvez faire qu'une seule attaque, peu importe le nombre d'attaques que vous pouvez normalement faire.
 
-**Lance d'arçon**. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
+#### Lance d'arçon
+Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
 ## Tableau des armes
 §§§ .table-container

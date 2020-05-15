@@ -3,15 +3,20 @@ title: "Les trésors"
 ---
 # Les trésors
 ## Les différents types de trésor
-**Argent**. Le nerf de la guerre. La monnaie sonnante et trébuchante est le type de trésor le plus commun. Les aventuriers peuvent découvrir des pièces de cuivre (pc), des pièces d'argent (pa), des pièces d'électrum (pe), des pièces d'or (po) et des pièces de platine (pp).
+### Argent
+Le nerf de la guerre. La monnaie sonnante et trébuchante est le type de trésor le plus commun. Les aventuriers peuvent découvrir des pièces de cuivre (pc), des pièces d'argent (pa), des pièces d'électrum (pe), des pièces d'or (po) et des pièces de platine (pp).
 
-**Gemmes**. Une gemme est une pierre précieuse, généralement taillée, dont la valeur dépend de la rareté et de la pureté. Elles ont l'avantage d'être bien moins encombrantes que les sacs de pièces puisqu'une gemme tient généralement dans le creux de la main.
+### Gemmes
+Une gemme est une pierre précieuse, généralement taillée, dont la valeur dépend de la rareté et de la pureté. Elles ont l'avantage d'être bien moins encombrantes que les sacs de pièces puisqu'une gemme tient généralement dans le creux de la main.
 
-**Objets d'art**. Statuettes, tapisseries brodées d'or, toiles de maîtres, les objets d'arts peuvent avoir des dizaines de formes différentes. Leur valeur dépend de la qualité du travail effectué et des matériaux utilisés. Il est parfois compliqué pour des aventuriers d'emporter des objets volumineux.
+### Objets d'art
+Statuettes, tapisseries brodées d'or, toiles de maîtres, les objets d'arts peuvent avoir des dizaines de formes différentes. Leur valeur dépend de la qualité du travail effectué et des matériaux utilisés. Il est parfois compliqué pour des aventuriers d'emporter des objets volumineux.
 
-**Objets rares**. Ces objets ne sont pas magiques mais peuvent se révéler utiles ou précieux pour des aventuriers. On peut les trouver aux alentours de l'habitat des monstres, dans l'équipement de leurs ennemis vaincus ou dans le stock de matériel pillé par une horde. Ils peuvent pimenter une rencontre, lui donner une certaine saveur, sans en changer la difficulté.
+### Objets rares
+Ces objets ne sont pas magiques mais peuvent se révéler utiles ou précieux pour des aventuriers. On peut les trouver aux alentours de l'habitat des monstres, dans l'équipement de leurs ennemis vaincus ou dans le stock de matériel pillé par une horde. Ils peuvent pimenter une rencontre, lui donner une certaine saveur, sans en changer la difficulté.
 
-**Objets magiques**. Trésor le plus prisé par les aventuriers, les objets magiques, au-delà de leur valeur monétaire, sont extrêmement utiles puisqu'ils augmentent considérablement les capacités des PJ. Les objets magiques sont parfois cachés dans l'antre d'une créature et parfois utilisés par des adversaires intelligents.
+### Objets magiques
+Trésor le plus prisé par les aventuriers, les objets magiques, au-delà de leur valeur monétaire, sont extrêmement utiles puisqu'ils augmentent considérablement les capacités des PJ. Les objets magiques sont parfois cachés dans l'antre d'une créature et parfois utilisés par des adversaires intelligents.
 
 ## Déterminer un trésor
 Les tableaux qui suivent vous aideront à déterminer les trésors découverts par les aventuriers. Avant d'utiliser les tableaux, il faut distinguer l'argent transporté par des monstres individuels ou de petits groupes et le véritable trésor d'un groupe composé de nombreuses créatures (une horde d'orcs ou un clan de géants) ou de créatures légendaires (un dragon). Le tableau [_A – trésor individuel_](#table-a) représente la somme possédée par chaque monstre individuellement. Les tableaux [_B – objets rares_](#table-b), [_C – trésor, gemmes et objets d'art_](#table-c) et [_D – objets magiques_](#table-d) permettent de déterminer le trésor d'un grand groupe, d'une créature puissante ou, pourquoi pas, la somme offerte par le commanditaire des PJ. Vous effectuerez donc un tirage par monstre sur la table A et un seul tirage par rencontre dans les tables B, C et/ou D si le tirage sur la table de base vous l'indique.
