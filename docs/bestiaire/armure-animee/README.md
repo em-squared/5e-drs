@@ -42,7 +42,7 @@ source_page: 233
 ## Capacités
 _**Faux semblant**_. Tant que l'armure reste immobile, il est impossible de la distinguer d'une armure ordinaire.
 
-_**Vulnérabilité à l'antimagie**_. L'armure est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une [_dissipation de la magie_](/grimoire/dissipation-de-la-magie), l'armure doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) du sort du lanceur, sans quoi elle tombe [_inconsciente_](/gerer-la-sante-du-personnage#inconscient) pendant 1 minute.
+_**Vulnérabilité à l'antimagie**_. L'armure est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), l'armure doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) du sort du lanceur, sans quoi elle tombe [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) pendant 1 minute.
 
 ## Actions
 _**Attaques multiples**_. L'armure effectue deux attaques au corps à corps.

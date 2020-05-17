@@ -48,6 +48,6 @@ _**Vue du diable**_. Les ténèbres magiques ne bloquent pas la vision dans le n
 
 ## Actions
 _**Dard (Morsure sous forme de bête)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5 (1d4+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 11 ; elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté, ou la moitié de ces dégâts seulement en cas de réussite.
+_Touché_ : 5 (1d4+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11 ; elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté, ou la moitié de ces dégâts seulement en cas de réussite.
 
-_**Invisibilité**_. Le diablotin devient [_invisible_](/gerer-la-sante-du-personnage#invisible) par magie. Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également _invisibles_.
+_**Invisibilité**_. Le diablotin devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) par magie. Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également _invisibles_.

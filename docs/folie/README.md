@@ -14,7 +14,7 @@ Un personnage victime d'une **folie persistante** est sujet à un effet tiré de
 Un personnage victime d'une **folie à durée illimitée** acquiert un défaut tiré de la table de la [Folie à durée illimitée](#folie-a-duree-illimitee) qu'il conserve jusqu'à ce que quelqu'un le soigne.
 
 ## Soigner la folie
-Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions) peut supprimer les effets de la folie, tandis qu'une [_restauration inférieure_](/grimoire/restauration-inferieure) peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_dissipation du mal_](/grimoire/dissipation-du-mal-et-du-bien) fonctionne parfois. En revanche, il faut recourir à une [_restauration supérieure_](/grimoire/restauration-superieure) ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
+Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) peut supprimer les effets de la folie, tandis qu'une [_restauration inférieure_](/grimoire/restauration-inferieure/) peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_dissipation du mal_](/grimoire/dissipation-du-mal-et-du-bien/) fonctionne parfois. En revanche, il faut recourir à une [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
 
 §§§ .table-container
 ## Folie passagère

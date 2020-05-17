@@ -34,7 +34,7 @@ source: "Créatures & Oppositions"
 source_page: 210
 ---
 ## Capacités
-_**Bond agressif (forme hybride ou de tigre uniquement)**_. Si le tigre-garou se déplace en ligne droite sur une distance minimale de 4,50 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée à terre. Si la cible est à terre, le tigre-garou peut effectuer une attaque de morsure contre elle par une action bonus.
+_**Bond agressif (forme hybride ou de tigre uniquement)**_. Si le tigre-garou se déplace en ligne droite sur une distance minimale de 4,50 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée à terre. Si la cible est à terre, le tigre-garou peut effectuer une attaque de morsure contre elle par une action bonus.
 
 _**Métamorphe**_. Le tigre-garou peut utiliser son action pour se métamorphoser en hybride d'humanoïde et de tigre, en tigre, ou pour reprendre sa véritable forme d'humanoïde. Ses statistiques, à l'exception de sa taille, restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le tigre-garou reprend sa forme véritable s'il meurt.
 
@@ -53,4 +53,4 @@ _**Griffe (forme hybride ou de tigre uniquement)**_. _Attaque d'arme au corps à
 _Touché_ : 7 (1d8+3) dégâts tranchants.
 
 _**Morsure (forme hybride ou de tigre uniquement)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 13 pour ne pas contracter la malédiction de la lycanthropie du tigre-garou.
+_Touché_ : 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 pour ne pas contracter la malédiction de la lycanthropie du tigre-garou.

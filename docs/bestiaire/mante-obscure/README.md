@@ -29,7 +29,7 @@ source: "Créatures & Oppositions"
 source_page: 214
 ---
 ## Capacités
-_**Écholocalisation**_. La mante obscure ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage#assourdi).
+_**Écholocalisation**_. La mante obscure ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Faux-semblant**_. Aussi longtemps que la mante obscure reste immobile, il est impossible de la distinguer d'une formation rocheuse, telle qu'une stalactite ou une stalagmite.
 

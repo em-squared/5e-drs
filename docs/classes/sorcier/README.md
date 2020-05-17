@@ -96,7 +96,7 @@ Vous apprenez le sort [_appel de familier_](/grimoire/appel-de-familier/), que p
 
 Quand vous lancez ce sort, vous pouvez choisir une forme classique pour votre familier ou l'une des formes spéciales suivantes : diablotin, quasit, stirge ou serpent volant.
 
-De plus, quand vous choisissez l'action [_attaquer_](/combattre#attaquer), vous pouvez renoncer à l'une de vos attaques pour permettre à votre familier d'utiliser sa réaction pour faire une attaque.
+De plus, quand vous choisissez l'action [_attaquer_](/combattre/#attaquer), vous pouvez renoncer à l'une de vos attaques pour permettre à votre familier d'utiliser sa réaction pour faire une attaque.
 
 #### Pacte de la lame
 Vous pouvez utiliser votre action pour créer une arme de pacte dans votre main vide. Vous pouvez choisir la forme que prend cette arme de corps-à-corps à chaque fois que vous la créez. Tant que vous la maniez, vous avez la maîtrise de cette arme et elle est considérée comme magique si vous êtes confronté à une créature ayant une résistance ou une immunité aux attaques et aux dégâts non magiques.
@@ -214,7 +214,7 @@ Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela a
 À partir du niveau 6, votre protecteur et les créatures des profondeurs vous inspirent une magie qui vous permet de résister aux pressions insoutenables et aux choses qui tentent de vous agripper. Vous obtenez la résistance aux dégâts contondants infligés par des effets de constriction, d'écrasement ou de compression, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests d'empoignade ainsi que pour résister aux états [_empoigné_](/gerer-la-sante-du-personnage/#empoigne) ou [_entravé_](/gerer-la-sante-du-personnage/#entrave), ou pour échapper à des liens.
 
 #### Maître des cauchemars
-Vous pouvez partager les visions cauchemardesques issues du sommeil de votre protecteur. Au niveau 10, vous apprenez le sort de [_rêve_](/grimoire/reve), et ce sort ne compte pas dans le nombre maximum de sorts que vous connaissez. Lorsque vous lancez ce sort, vous êtes capable d'affecter les elfes pendant la phase de méditation quotidienne qui leur permet de remplacer le sommeil. Contre les autres créatures, vous doublez les dégâts du sort.
+Vous pouvez partager les visions cauchemardesques issues du sommeil de votre protecteur. Au niveau 10, vous apprenez le sort de [_rêve_](/grimoire/reve/), et ce sort ne compte pas dans le nombre maximum de sorts que vous connaissez. Lorsque vous lancez ce sort, vous êtes capable d'affecter les elfes pendant la phase de méditation quotidienne qui leur permet de remplacer le sommeil. Contre les autres créatures, vous doublez les dégâts du sort.
 
 #### Ensevelissement
 Au niveau 14, lorsque vous réussissez une attaque en mêlée contre une créature, vous pouvez utiliser cette aptitude pour ouvrir le sol sous les pieds de votre adversaire et l'envoyer dans les profondeurs abyssales de la terre. Vous devez être au niveau du sol pour que cela fonctionne et il ne se passe rien si votre cible se trouve à l'étage d'un bâtiment.

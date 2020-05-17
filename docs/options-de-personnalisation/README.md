@@ -41,7 +41,7 @@ Votre classe vous permet de gagner des points de vie ainsi que cela est décrit 
 Afin de former votre réserve de dés de vie, regroupez tous les dés de vie accordés par vos classes. Si les dés de vie sont tous du même type, vous pouvez simplement les regrouper de manière indifférenciée. Par exemple, le guerrier et le paladin utilisent tous les deux un d10, donc si vous êtes un paladin 5/guerrier 5, vous utilisez 10d10 pour vos dés de vie. Si vos classes vous indiquent des dés de vie de types différents, vous devez les comptabiliser séparément. Par exemple, si vous êtes un paladin 5/ clerc 5, vous aurez 5d10 + 5d8 pour vos dés de vie.
 
 ### Bonus de maîtrise
-Votre bonus de maîtrise se base toujours sur le niveau de votre personnage, comme vous pouvez le voir dans le [tableau d'évolution des personnages](/au-dela-du-niveau-1#evolution-des-personnages) dans le chapitre [Création du personnage - Au-delà du niveau 1](/au-dela-du-niveau-1) et non sur le niveau d'une classe donnée. Par exemple, si vous êtes un guerrier 3/roublard 2, vous avez le niveau de maîtrise d'un personnage de niveau 5, qui est de +3.
+Votre bonus de maîtrise se base toujours sur le niveau de votre personnage, comme vous pouvez le voir dans le [tableau d'évolution des personnages](/au-dela-du-niveau-1/#evolution-des-personnages) dans le chapitre [Création du personnage - Au-delà du niveau 1](/au-dela-du-niveau-1/) et non sur le niveau d'une classe donnée. Par exemple, si vous êtes un guerrier 3/roublard 2, vous avez le niveau de maîtrise d'un personnage de niveau 5, qui est de +3.
 
 ### Maîtrises
 Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre classe initiale, vous ne gagnez qu'une partie des maîtrises de départ de cette nouvelle classe, ainsi que vous pouvez le voir dans le [tableau des maîtrises multiclasses](#tableau-des-maitrises-multiclasses).
@@ -87,7 +87,7 @@ Chaque sort que vous connaissez et préparez est associé à l'une de vos classe
 
 **Emplacements de sorts**. Pour déterminer le nombre d'emplacements de sorts que vous pouvez utiliser, additionnez tous les niveaux que votre personnage possède dans les classes barde, clerc, ensorceleur et magicien, et la moitié de ses niveaux (arrondis à l'entier inférieur) dans les classes paladin et rôdeur. Utilisez ce total et reportez-vous au tableau des incantations multiclasses pour voir à combien d'emplacement de sorts vous avez accès.
 
-Si vous avez plus d'une classe capable de lancer des sorts, ce tableau peut vous indiquer que vous avez accès à des emplacements de sorts d'un niveau supérieur aux sorts que vous connaissez ou pouvez préparer. Vous pouvez néanmoins utiliser ces emplacements de sorts, mais pour lancer vos sorts d'un niveau inférieur. Si un sort d'un niveau inférieur, comme [_mains brûlantes_](/grimoire/mains-brulantes), a un effet amélioré quand vous le lancez en utilisant un emplacement de sort d'un niveau supérieur, vous pouvez utiliser l'effet amélioré même si vous n'avez aucun sort de niveau équivalent à cet emplacement de sort.
+Si vous avez plus d'une classe capable de lancer des sorts, ce tableau peut vous indiquer que vous avez accès à des emplacements de sorts d'un niveau supérieur aux sorts que vous connaissez ou pouvez préparer. Vous pouvez néanmoins utiliser ces emplacements de sorts, mais pour lancer vos sorts d'un niveau inférieur. Si un sort d'un niveau inférieur, comme [_mains brûlantes_](/grimoire/mains-brulantes/), a un effet amélioré quand vous le lancez en utilisant un emplacement de sort d'un niveau supérieur, vous pouvez utiliser l'effet amélioré même si vous n'avez aucun sort de niveau équivalent à cet emplacement de sort.
 
 Par exemple, si vous êtes toujours ce rôdeur 4/magicien  3, vous êtes considéré comme un personnage de niveau 5 pour déterminer vos emplacements de sorts : vous avez quatre emplacements de niveau 1, trois emplacements de niveau 2 et deux emplacements de niveau 3. Or vous ne connaissez pas de sort de niveau 3, ni de sort de rôdeur de niveau 2. Vous pouvez néanmoins utiliser les emplacements de sorts de ces niveaux pour lancer les sorts que vous connaissez et potentiellement en améliorer les effets.
 
@@ -203,7 +203,7 @@ Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices diffé
 Au cours de longues années de pratique, vous avez appris à transformer votre arbalète en instrument de mort, même en combat rapproché.
 * Vous pouvez ignorer le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous attaquez avec une arbalète à moins de 1,50 mètre d'un adversaire.
 * Au premier round de combat, si votre arbalète est chargée et que vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous pouvez utiliser votre réaction pour tirer sur un adversaire avant votre propre tour, jusqu'à la portée normale.
-* Lorsque vous utilisez l'action [_attaquer_](/combattre#attaquer) avec une arbalète, si cette action vous permet habituellement de faire plusieurs attaques, vous lancez autant de fois les dés de dégât que vous avez d'attaques pour déterminer les dégâts de votre arbalète.
+* Lorsque vous utilisez l'action [_attaquer_](/combattre/#attaquer) avec une arbalète, si cette action vous permet habituellement de faire plusieurs attaques, vous lancez autant de fois les dés de dégât que vous avez d'attaques pour déterminer les dégâts de votre arbalète.
 * Vous pouvez utiliser une action bonus pour viser et obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque.
 
 #### Archer
@@ -304,7 +304,7 @@ Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous ête
 * Vous doublez la portée normale des armes dotées de la propriété « lancer », sans toutefois accroître leur portée maximale.
 
 #### Expert en armes doubles
-Vous êtes capable d'utiliser les deux extrémités d'un bâton ou d'une arme longue. Lorsque vous choisissez l'action [_attaquer_](/combattre#attaquer) avec un bâton, une lance, un trident, une pique, une hallebarde ou une coutille que vous utilisez à deux mains, vous obtenez les bénéfices suivants :
+Vous êtes capable d'utiliser les deux extrémités d'un bâton ou d'une arme longue. Lorsque vous choisissez l'action [_attaquer_](/combattre/#attaquer) avec un bâton, une lance, un trident, une pique, une hallebarde ou une coutille que vous utilisez à deux mains, vous obtenez les bénéfices suivants :
 * Vous pouvez utiliser une action bonus pour obtenir une attaque supplémentaire, infligeant 1d4 dégâts contondants, auquel vous ajoutez votre modificateur de Force.
 * Vous pouvez utiliser une réaction pour effectuer une parade avec le manche et ajouter +2 à votre CA sur une attaque. Vous pouvez annoncer votre parade après que le dé soit lancé, mais avant de connaître le résultat de l'attaque.
 
@@ -377,7 +377,7 @@ Lorsque vous blessez un lanceur de sort qui maintient sa concentration, la diffi
 
 #### Furtif
 Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser.
-* Lorsque vous utilisez l'action [_se cacher_](/combattre#se-cacher), vous obtenez 3 mètres supplémentaires de déplacement.
+* Lorsque vous utilisez l'action [_se cacher_](/combattre/#se-cacher), vous obtenez 3 mètres supplémentaires de déplacement.
 * Vous pouvez tenter de vous dissimuler même lorsque vous êtes seulement dans une zone de visibilité réduite pour votre adversaire, qu'il s'agisse d'une forêt ou d'une foule.
 * Si vous ne vous faites pas particulièrement remarquer, les gens sont incapables de se rappeler de vous, de vous décrire ou de donner des détails sur votre apparence.
 * Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests destinés à vous faire passer pour quelqu'un d'autre.
@@ -398,7 +398,7 @@ Vous avez étudié pendant quelques temps auprès d'un magicien ou bien vous ave
 * Vous augmentez votre valeur d'Intelligence de 1 point sans dépasser 20.
 * Vous apprenez un tour de magie de magicien.
 * Vous apprenez un sort de magicien de niveau 1. Vous pouvez lancer ce sort une fois entre deux repos longs. Vous pouvez choisir ce bénéfice deux fois. vous apprenez alors un second sort, ou obtenez la capacité de lancer le même sort deux fois entre deux repos longs.
-* Vous devenez capable d'utiliser les rituels de magicien. Vous apprenez un rituel de premier niveau que vous inscrivez dans un grimoire. Vous devez lire ce grimoire pour lancer le sort. Vous pouvez apprendre d'autres rituels lorsque vous trouvez des parchemins, mais leur niveau ne doit pas dépasser la moitié de votre niveau. Vous les inscrivez dans votre grimoire en utilisant les règles présentées dans le chapitre [_Magicien - Votre grimoire_](/classes/magicien#votre-grimoire).
+* Vous devenez capable d'utiliser les rituels de magicien. Vous apprenez un rituel de premier niveau que vous inscrivez dans un grimoire. Vous devez lire ce grimoire pour lancer le sort. Vous pouvez apprendre d'autres rituels lorsque vous trouvez des parchemins, mais leur niveau ne doit pas dépasser la moitié de votre niveau. Vous les inscrivez dans votre grimoire en utilisant les règles présentées dans le chapitre [_Magicien - Votre grimoire_](/classes/magicien/#votre-grimoire).
 
 Votre caractéristique d'incantation pour les sorts appris par ce biais est l'Intelligence.
 
@@ -421,13 +421,13 @@ Vous avez développé des compétences qui vous permettent de bien vous débroui
 #### Mage combattant
 Vous êtes une exception, votre talent est le fruit d'un entraînement très particulier qui vous permet d'allier la puissance des armes à celle de la magie.
 * Vous pouvez exécuter une composante somatique avec la main qui tient une arme.
-* Lorsque vous utilisez l'action [_attaquer_](/combattre#attaquer), vous pouvez utiliser une action bonus pour lancer un tour de magie.
+* Lorsque vous utilisez l'action [_attaquer_](/combattre/#attaquer), vous pouvez utiliser une action bonus pour lancer un tour de magie.
 * Vous pouvez augmenter le niveau d'emplacement d'un sort que vous lancez en sacrifiant 1d6 points de vie par niveau supplémentaire. Vous ne pouvez pas utiliser cette aptitude pour obtenir des emplacements de sorts supérieurs à votre niveau de sort maximum ou pour des sorts dont l'effet inclut la restauration de points de vie.
 
 #### Mains de guérisseur
 Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un guérisseur ou d'un rebouteux, vous disposez d'une compréhension intuitive et intime des mécanismes de la vie.
 * Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous tentez de stabiliser une créature.
-* Vous pouvez tenter de stabiliser une créature, lancer le tour de magie [_épargner les mourants_](/grimoire/epargner-les-mourants) ou utiliser une trousse de soins en dépensant une action bonus.
+* Vous pouvez tenter de stabiliser une créature, lancer le tour de magie [_épargner les mourants_](/grimoire/epargner-les-mourants/) ou utiliser une trousse de soins en dépensant une action bonus.
 * Vous pouvez utiliser du matériel d'herboriste pendant 10 minutes sur un patient pour le soigner. Il regagne [son dé de vie + votre bonus de maîtrise] points de vie sans jamais pouvoir dépasser son nombre de points de vie maximum. Une créature ne peut bénéficier de cette aptitude plus d'une fois par repos court ou long.
 
 #### Maître empoisonneur

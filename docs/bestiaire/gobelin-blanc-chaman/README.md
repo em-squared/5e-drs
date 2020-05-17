@@ -49,9 +49,9 @@ _**Protection oculaire**_. Le gobelin blanc est immunisé contre l'ophtalmie des
 
 _**Faveur mortelle**_. Par une action bonus, le chaman peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 3 (1d6) dégâts nécrotiques supplémentaires à une cible qu'il parvient à toucher. Cet effet dure jusqu'à la fin du tour. Si le chaman dépense un emplacement de sort de niveau 2, les dégâts augmentent de 1d6.
 
-_**Incantation**_. Le chaman est un lanceur de sorts de niveau 3. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 13, +5 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
-* _**Tours de magie (à volonté)**_ : [_bouffée de poison_](/grimoire/bouffee-de-poison), [_contact glacial_](/grimoire/contact-glacial), [_explosion occulte_](/grimoire/explosion-occulte)
-* _**1er niveau (4 emplacements)**_ : [_flamboiement funeste_](/grimoire/flamboiement-funeste), [_manteau de givre_](/grimoire/manteau-de-givre)
+_**Incantation**_. Le chaman est un lanceur de sorts de niveau 3. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13, +5 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
+* _**Tours de magie (à volonté)**_ : [_bouffée de poison_](/grimoire/bouffee-de-poison/), [_contact glacial_](/grimoire/contact-glacial/), [_explosion occulte_](/grimoire/explosion-occulte/)
+* _**1er niveau (4 emplacements)**_ : [_flamboiement funeste_](/grimoire/flamboiement-funeste/), [_manteau de givre_](/grimoire/manteau-de-givre/)
 
 ## Actions
 _**Attaques multiples**_. Le chaman gobelin blanc effectue deux attaques avec la massue.

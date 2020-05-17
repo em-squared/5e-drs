@@ -33,7 +33,7 @@ source_page: 194
 ## Capacités
 _**Attaque sournoise**_. Une fois par tour, le kobold fourbe inflige 3 (1d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque).
 
-_**Évasion**_. Si le kobold est la victime d'un effet qui l'autorise à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts, le kobold ne subit, lui, aucun dégât en cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) réussi et la moitié seulement en cas d'échec.
+_**Évasion**_. Si le kobold est la victime d'un effet qui l'autorise à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts, le kobold ne subit, lui, aucun dégât en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi et la moitié seulement en cas d'échec.
 
 _**Sensibilité à la lumière du soleil**_. Le kobold subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 

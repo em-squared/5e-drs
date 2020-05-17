@@ -41,7 +41,7 @@ _**Brutal**_. Une arme de corps à corps inflige un dé supplémentaire de ses d
 _**Attaques multiples**_. Le gladiateur effectue trois attaques au corps à corps ou deux attaques à distance.
 
 _**Coup de bouclier**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 15 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_Touché_ : 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 15 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 _**Lance**_. _Attaque d'arme au corps à corps ou à distance_ : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 _Touché_ : 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.

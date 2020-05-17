@@ -31,7 +31,7 @@ source: "Créatures & Oppositions"
 source_page: 211
 ---
 ## Capacités
-_**Explosion finale**_. Quand le magmatique meurt, il explose en une gerbe de feu et de magma. Les créatures situées à 3 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite. Les objets inflammables que personne ne porte ou transporte dans cette zone prennent feu.
+_**Explosion finale**_. Quand le magmatique meurt, il explose en une gerbe de feu et de magma. Les créatures situées à 3 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite. Les objets inflammables que personne ne porte ou transporte dans cette zone prennent feu.
 
 _**Illumination embrasée**_. Par une action bonus, le magmatique peut s'embraser ou étouffer ses flammes. Tant qu'il est en feu, le magmatique diffuse une lumière vive sur un rayon de 3 mètres et une lumière faible sur un rayon de 3 mètres supplémentaires.
 

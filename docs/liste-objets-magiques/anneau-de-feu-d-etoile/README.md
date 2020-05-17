@@ -6,11 +6,11 @@ rarity: "Très rare"
 attunement: "harmonisation en plein air et de nuit exigée"
 source: "Cadre de campagne"
 ---
-Tant que vous portez cet anneau dans des endroits faiblement éclairés ou plongés dans les ténèbres, vous pouvez lancer [_lumières dansantes_](/grimoire/lumieres-dansantes) et [_lumière_](/grimoire/lumiere) à volonté par le biais de l'anneau. L'incantation d'un de ces sorts sous cette forme nécessite une action.
+Tant que vous portez cet anneau dans des endroits faiblement éclairés ou plongés dans les ténèbres, vous pouvez lancer [_lumières dansantes_](/grimoire/lumieres-dansantes/) et [_lumière_](/grimoire/lumiere/) à volonté par le biais de l'anneau. L'incantation d'un de ces sorts sous cette forme nécessite une action.
 
 L'anneau contient 6 charges dans le cadre des autres propriétés suivantes. Il récupère 1d6 charges dépensées chaque jour, à l'aube.
 
-_**Lueurs féeriques**_. Vous pouvez dépenser 1 charge par une action pour lancer [_lueurs féeriques_](/grimoire/lueurs-feeriques) par le biais de l'anneau.
+_**Lueurs féeriques**_. Vous pouvez dépenser 1 charge par une action pour lancer [_lueurs féeriques_](/grimoire/lueurs-feeriques/) par le biais de l'anneau.
 
 _**Boules de foudre**_. Vous pouvez dépenser 2 charges par une action pour créer une à quatre sphères de foudre de 1 mètre de diamètre chacune. Plus les sphères créées sont nombreuses, moins chacune d'elles est puissante.
 

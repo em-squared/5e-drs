@@ -11,9 +11,9 @@ Ce livre présente des informations et des incantations nécessaires à la fabri
 |D20|Golem|Durée|Prix|
 |:-:|:-:|:-:|:-:|
 |**1-5**|[Argile](/bestiaire/golem-d-argile/)|30 jours|65000 po|
-|**6-17**|[Chair](/bestiaire/golem-de-chair)|60 jours|50000 po|
-|**18**|[Fer](/bestiaire/golem-de-fer)|120 jours|100000 po|
-|**19-20**|[Pierre](/bestiaire/golem-de-pierre)|90 jours|80000 po|
+|**6-17**|[Chair](/bestiaire/golem-de-chair/)|60 jours|50000 po|
+|**18**|[Fer](/bestiaire/golem-de-fer/)|120 jours|100000 po|
+|**19-20**|[Pierre](/bestiaire/golem-de-pierre/)|90 jours|80000 po|
 
 Pour créer un golem, vous devez passer le temps indiqué dans la table à travailler sans interruption en vous aidant du manuel, sans vous reposer plus de 8 heures par jour. Vous devez également payer le prix indiqué pour acheter vos fournitures.
 

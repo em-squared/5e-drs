@@ -13,13 +13,13 @@ abilityScores:
   int: 13
   sag: 16
   cha: 17
-savingThrows: 
+savingThrows:
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "cuirasse"
-skills: 
+skills:
   - name: "discretion"
     invalid: true
     value: 6
@@ -31,15 +31,15 @@ skills:
     value: 7
   - name: "religion"
     isExpert: true
-movement: 
+movement:
   walk: 9
-senses: 
+senses:
   darkvision: 36
-conditionImmunities: 
+conditionImmunities:
   - "empoisonne"
-damageTypeResistances: 
+damageTypeResistances:
   - "poison"
-languages: 
+languages:
   - "commun des profondeurs"
   - "elfe"
 dungeonTypes:
@@ -55,17 +55,17 @@ _**Marque du matriarcat**_. Par une action bonus, la prêtresse drow peut dépen
 
 _**Équipement des profondeurs**_. Les prêtresses drows ont accès à un équipement magique béni par la déesse. Toutefois, si cet équipement est remonté à la surface, il perd ses propriétés en 24 heures.
 
-_**Incantation**_. La prêtresse drow est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
-* _**Tours de magie (à volonté)**_ : [_bouffée de poison_](/grimoire/bouffee-de-poison), [_aspersion acide_](/grimoire/aspersion-acide), [_contact glacial_](/grimoire/contact-glacial)
-* _**1er niveau (4 emplacements)**_ : [_fléau_](/grimoire/fleau), [_injonction_](/grimoire/injonction), [_poison naturel_](/grimoire/poison-naturel), [_strangulation_](/grimoire/strangulation)
-* _**2e niveau (3 emplacements)**_ : [_silence_](/grimoire/silence), [_ténèbres_](/grimoire/tenebres), [_toile d'araignée_](/grimoire/toile-d-araignee/)
-* _**3e niveau (3 emplacements)**_ : [_jeter une malédiction_](/grimoire/jeter-une-malediction), [_invoquer des animaux (araignées)_](/grimoire/invoquer-des-animaux)
-* _**4e niveau (3 emplacements)**_ : [_insecte géant_](/grimoire/insecte-geant), [_liberté de mouvement_](/grimoire/liberte-de-mouvement)
+_**Incantation**_. La prêtresse drow est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
+* _**Tours de magie (à volonté)**_ : [_bouffée de poison_](/grimoire/bouffee-de-poison/), [_aspersion acide_](/grimoire/aspersion-acide/), [_contact glacial_](/grimoire/contact-glacial/)
+* _**1er niveau (4 emplacements)**_ : [_fléau_](/grimoire/fleau/), [_injonction_](/grimoire/injonction/), [_poison naturel_](/grimoire/poison-naturel/), [_strangulation_](/grimoire/strangulation/)
+* _**2e niveau (3 emplacements)**_ : [_silence_](/grimoire/silence/), [_ténèbres_](/grimoire/tenebres/), [_toile d'araignée_](/grimoire/toile-d-araignee/)
+* _**3e niveau (3 emplacements)**_ : [_jeter une malédiction_](/grimoire/jeter-une-malediction/), [_invoquer des animaux (araignées)_](/grimoire/invoquer-des-animaux/)
+* _**4e niveau (3 emplacements)**_ : [_insecte géant_](/grimoire/insecte-geant/), [_liberté de mouvement_](/grimoire/liberte-de-mouvement/)
 * _**5e niveau (1 emplacements)**_ : [_fléau d'insectes_](/grimoire/fleau-d-insectes/)
 
-_**Incantation innée**_. La caractéristique d'incantation est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 15). La prêtresse peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes)
-* _**1/jour chacun**_ : [_lueurs féeriques_](/grimoire/lueurs-feeriques), [_ténèbres_](/grimoire/tenebres)
+_**Incantation innée**_. La caractéristique d'incantation est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). La prêtresse peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes/)
+* _**1/jour chacun**_ : [_lueurs féeriques_](/grimoire/lueurs-feeriques/), [_ténèbres_](/grimoire/tenebres/)
 
 _**Sensibilité à la lumière du soleil**_. La prêtresse subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
 

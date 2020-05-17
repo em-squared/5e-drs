@@ -38,7 +38,7 @@ _**Attaques multiples**_. Le chevalier effectue deux attaques au corps à corps.
 _**Épée à deux mains**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 10 (2d6+3) dégâts tranchants.
 
-_**Meneur d'hommes (Recharge après un repos court ou long)**_. Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde). La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
+_**Meneur d'hommes (Recharge après un repos court ou long)**_. Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 ## Réactions
 _**Parade**_. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.

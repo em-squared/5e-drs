@@ -53,4 +53,4 @@ _**Sensibilité à la lumière du soleil**_. Le spectre subit un [_désavantage_
 
 ## Actions
 _**Absorption de vie**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
+_Touché_ : 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.

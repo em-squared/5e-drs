@@ -34,8 +34,8 @@ source: "Créatures & Oppositions"
 source_page: 141
 ---
 ## Capacités
-_**Bicéphale**_. L'ettin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux [_assourdi_](/gerer-la-sante-du-personnage#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise),
-[_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage#inconscient).
+_**Bicéphale**_. L'ettin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise),
+[_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 
 _**Petit dormeur**_. Quand une des têtes de l'ettin dort, l'autre est éveillée.
 

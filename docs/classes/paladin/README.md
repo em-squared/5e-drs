@@ -129,7 +129,7 @@ Certains effets de la canalisation d'énergie divine impliquent des jets de sauv
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
 ### Attaque supplémentaire
-À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre#attaquer) pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour.
 
 ### Aura de protection
 À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour que ce bonus soit pris en compte.
@@ -231,7 +231,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 #### Canalisation d'énergie divine
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de canalisation d'énergie divine suivantes.
 
-**Porte-étendard**. Au prix d'une action, vous provoquez tous les ennemis qui se trouvent dans un rayon de 9 mètres autour de vous. Ceux qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse doivent à leur prochain tour choisir l'action [_attaquer_](/combattre#attaquer) et vous choisir comme cible si vous êtes à une distance inférieure à leur allonge, ou l'action [_se précipiter_](/combattre/#se-precipiter) et se rapprocher de vous dans le cas contraire. À votre prochain tour, vous pouvez au prix d'une action attaquer tous les ennemis à votre portée. Si vous n'avez pas subi de dégât pendant le round précédent, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ces attaques.
+**Porte-étendard**. Au prix d'une action, vous provoquez tous les ennemis qui se trouvent dans un rayon de 9 mètres autour de vous. Ceux qui ratent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse doivent à leur prochain tour choisir l'action [_attaquer_](/combattre/#attaquer) et vous choisir comme cible si vous êtes à une distance inférieure à leur allonge, ou l'action [_se précipiter_](/combattre/#se-precipiter) et se rapprocher de vous dans le cas contraire. À votre prochain tour, vous pouvez au prix d'une action attaquer tous les ennemis à votre portée. Si vous n'avez pas subi de dégât pendant le round précédent, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ces attaques.
 
 **Tacticien**. Au prix d'une action bonus, vous procurez à tous vos alliés situés dans un rayon de 9 mètres autour de vous ainsi qu'à vous-même, un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur la prochaine attaque réalisée avant le début de votre prochain tour. Toutes les attaques réussies bénéficient d'un bonus aux dégâts égal à votre modificateur de Charisme.
 

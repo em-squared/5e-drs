@@ -12,9 +12,9 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 
 |D20|Grain de...|Sort|
 |:-:|:-|:-|
-|**1-6**|Bénédiction|[_Bénédiction_](/grimoire/benediction)|
-|**7-12**|Guérison|[_Soin des blessures_](/grimoire/soin-des-blessures) (niveau 2) ou [_restauration inférieure_](/grimoire/restauration-inferieure)|
-|**13-16**|Faveur|[_Restauration supérieure_](/grimoire/restauration-superieure)|
-|**17-18**|Châtiment|[_Frappe lumineuse_](/grimoire/frappe-lumineuse)|
-|**19**|Convocations|[_Allié planaire_](/grimoire/allie-planaire)|
-|**20**|Vent|[_Marche sur le vent_](/grimoire/marche-sur-le-vent)|
+|**1-6**|Bénédiction|[_Bénédiction_](/grimoire/benediction/)|
+|**7-12**|Guérison|[_Soin des blessures_](/grimoire/soin-des-blessures/) (niveau 2) ou [_restauration inférieure_](/grimoire/restauration-inferieure/)|
+|**13-16**|Faveur|[_Restauration supérieure_](/grimoire/restauration-superieure/)|
+|**17-18**|Châtiment|[_Frappe lumineuse_](/grimoire/frappe-lumineuse/)|
+|**19**|Convocations|[_Allié planaire_](/grimoire/allie-planaire/)|
+|**20**|Vent|[_Marche sur le vent_](/grimoire/marche-sur-le-vent/)|

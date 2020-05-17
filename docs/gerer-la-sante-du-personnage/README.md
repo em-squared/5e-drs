@@ -13,11 +13,11 @@ Les points de vie actuels d'une créature (généralement appelés simplement «
 Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel de points de vie. Perdre des points de vie n'a pas d'effet sur les capacités d'une créature tant que ses points de vie n'atteignent pas 0.
 
 ### Soins
-Les dégâts ne sont pas permanents, à moins bien sûr qu'ils ne provoquent la mort d'une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points de vie d'une créature, et des méthodes magiques –  comme le sort [soin des blessures](/grimoire/soin-des-blessures) ou une potion de soins – peuvent soigner les dégâts en un instant.
+Les dégâts ne sont pas permanents, à moins bien sûr qu'ils ne provoquent la mort d'une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points de vie d'une créature, et des méthodes magiques –  comme le sort [soin des blessures](/grimoire/soin-des-blessures/) ou une potion de soins – peuvent soigner les dégâts en un instant.
 
 Quand une créature reçoit des soins de quelque sorte qu'ils soient, les points de vie qu'elle regagne viennent s'ajouter à ses points de vie actuels. Le nombre de points de vie d'une créature ne peut pas dépasser son maximum de points de vie. Si elle gagne un nombre de points de vie qui lui permettrait théoriquement de dépasser ce maximum, les points de vie surnuméraires sont perdus. Par exemple, un paladin permet à un rôdeur de regagner 8 points de vie en le soignant. Le rôdeur a actuellement 14 points de vie et possède un maximum de 20 points de vie. Il ne regagne donc que 6 points de vie, ce qui porte son total à 20, son maximum. 2 des 8 points offerts par les soins du paladin sont donc perdus.
 
-Une créature morte ne peut pas regagner de point de vie avant d'avoir été ramenée à la vie, par exemple avec un sort comme [revigorer](/grimoire/revigorer).
+Une créature morte ne peut pas regagner de point de vie avant d'avoir été ramenée à la vie, par exemple avec un sort comme [revigorer](/grimoire/revigorer/).
 
 ### Tomber à 0 point de vie
 Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
@@ -47,9 +47,9 @@ Vous pouvez utiliser une action pour administrer les premiers soins à une créa
 Une créature **stabilisée** n'a pas besoin de faire de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort, même si elle est à 0 point de vie. Cependant, elle reste [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Si la créature subit de nouveaux dégâts, elle n'est plus considérée comme stabilisée et doit recommencer à faire des jets de sauvegarde contre la mort. Si elle n'est pas soignée, une créature stabilisée regagne 1 point de vie au bout de 1d4 heures.
 
 #### Les monstres et la mort
-La plupart des MJ font mourir les monstres dès qu'ils atteignent 0 point de vie plutôt que de les considérer comme _inconscients_ et de faire pour eux des jets de sauvegarde contre la mort.
+La plupart des MJ font mourir les monstres dès qu'ils atteignent 0 point de vie plutôt que de les considérer comme [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et de faire pour eux des jets de sauvegarde contre la mort.
 
-Les principaux adversaires et personnages non-joueurs spéciaux constituent une exception courante. Le MJ peut les considérer _inconscients_ et suivre les mêmes règles que pour les personnages des joueurs.
+Les principaux adversaires et personnages non-joueurs spéciaux constituent une exception courante. Le MJ peut les considérer [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et suivre les mêmes règles que pour les personnages des joueurs.
 
 ### Points de vie temporaires
 Certains sorts et capacités spéciales confèrent des points de vie temporaires à une créature. Ces points de vie temporaires ne sont pas réellement des points de vie, mais plutôt une protection contre les dégâts, une réserve de points de vie qui évite à un personnage de subir véritablement des dégâts.
@@ -148,7 +148,7 @@ Les états suivants pourraient aussi affecter votre personnage. Tout comme les �
 * Une créature _repoussée_ ne peut pas volontairement s'approcher à moins de 9 mètres de la créature (ou toute autre source) à l'origine de l'effet.
 * La créature ne peut plus utiliser de réaction.
 * Ses seules actions disponibles sont [_se précipiter_](/combattre/#se-precipiter) et toute action permettant d'échapper à un effet qui l'empêche de se déplacer.
-* Si la créature n'a nulle part où s'enfuir, elle peut utiliser l'action [_esquiver_](/combattre#esquiver).
+* Si la créature n'a nulle part où s'enfuir, elle peut utiliser l'action [_esquiver_](/combattre/#esquiver).
 
 #### Surpris
 * Une créature [_surprise_](/gerer-la-sante-du-personnage/#surpris) est incapable de se déplacer.
@@ -181,7 +181,7 @@ Une fois terminé, un repos long réduit le niveau d'épuisement d'une créature
 ## Repos
 Même si les aventuriers sont des héros, il est impossible de passer ses journées entières à explorer des cavernes, à interagir avec d'autres individus ou à se battre sans jamais se reposer. Vos personnages doivent dormir, manger, soigner leurs blessures, reposer leur esprit afin de lancer à nouveau des sorts, et se préparer à repartir à l'aventure.
 
-Au cours d'une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d'une journée, on parle d'une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir [_Entre les aventures_](/partir-a-l-aventure#recuperer)).
+Au cours d'une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d'une journée, on parle d'une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir [_Entre les aventures_](/partir-a-l-aventure/#recuperer)).
 
 ### Repos court
 Un repos court est une période de repos d'au moins 1 heure pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.

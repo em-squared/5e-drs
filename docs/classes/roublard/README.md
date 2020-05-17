@@ -68,7 +68,7 @@ Pendant votre entraînement de roublard, vous avez appris l'argot des voleurs, u
 De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d'une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
 ### Ruse
-À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre#se-cacher).
+À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 
 ### Archétype de roublard
 Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion) ou [ombrelame](#ombrelame). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
@@ -128,7 +128,7 @@ De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Cha
 Également au niveau 3, vous ajoutez votre modificateur de Force en plus de celui de Constitution aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de Force augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
 
 #### Coup bas
-À partir du niveau 9, lorsque vous utilisez l'action [_attaquer_](/combattre#attaquer), vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l'aide d'une arme improvisée (coup de tête, coup de genou ou du pommeau de l'arme, chope de bière, etc.) qui inflige 1d4  + votre modificateur de Force points de dégâts contondants (ou du type approprié dans le cas d'une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
+À partir du niveau 9, lorsque vous utilisez l'action [_attaquer_](/combattre/#attaquer), vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l'aide d'une arme improvisée (coup de tête, coup de genou ou du pommeau de l'arme, chope de bière, etc.) qui inflige 1d4  + votre modificateur de Force points de dégâts contondants (ou du type approprié dans le cas d'une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
 
 Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée normale, vous utilisez le même dé que pour cette aptitude pour déterminer vos dégâts.
 
@@ -154,7 +154,7 @@ Au niveau 3, vous obtenez la maîtrise des accessoires de déguisement et des ac
 Également au niveau 9, nul n'est insensible au charme envoûtant que vous dégagez. Lorsque vous faites preuve de charme ou d'entregents, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme effectués contre des humanoïdes attirés par les individus de votre sexe.
 
 #### Esprit obscur
-Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie de divination, ni être aperçu ou détecté à travers des sens magiques. Cette aptitude est équivalente à un sort de [_non-détection_](/grimoire/non-detection) permanent.
+Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie de divination, ni être aperçu ou détecté à travers des sens magiques. Cette aptitude est équivalente à un sort de [_non-détection_](/grimoire/non-detection/) permanent.
 
 #### Agent très spécial
 À partir du niveau 17, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'Intelligence (Investigation), de Sagesse (Perception) et de Charisme (Supercherie).

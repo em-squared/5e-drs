@@ -10,4 +10,4 @@ Une _figurine merveilleuse_ est une statuette représentant un animal et assez p
 
 La créature issue de la figurine existe pendant une durée dépendant de sa statuette. Ensuite, elle se change de nouveau en bibelot. Elle reprend sa forme de figurine avant cela si elle tombe à 0 point de vie ou si vous utilisez une action pour prononcer de nouveau le mot de commande en la touchant. Une fois la créature redevenue bibelot, il faut attendre un certain temps avant qu'elle puisse se transformer de nouveau, comme indiqué dans sa description.
 
-Cette statuette de marbre fait une dizaine de centimètres de long comme de large. Elle peut se changer en [éléphant](/bestiaire/elephant) pendant 24 heures. Une fois qu'elle a été utilisée, il faut attendre 7 jours avant de s'en servir de nouveau.
+Cette statuette de marbre fait une dizaine de centimètres de long comme de large. Elle peut se changer en [éléphant](/bestiaire/elephant/) pendant 24 heures. Une fois qu'elle a été utilisée, il faut attendre 7 jours avant de s'en servir de nouveau.

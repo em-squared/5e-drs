@@ -15,6 +15,6 @@ Faite d'acajou serti d'or, cette lyre à onze cordes était l'instrument de la r
 * Vous gagnez la maîtrise des lyres.
 * Vous êtes immunisé à l'effet [_charmé_](/gerer-la-sante-du-personnage/#charme).
 
-***Sorts divins***. En jouant de la lyre, vous pouvez lancer un des sorts suivants : [_guérison de groupe_](/grimoire/guerison-de-groupe), [_régénération_](/grimoire/regeneration), [_résurrection_](/grimoire/resurrection). La musique de la lyre remplace toutes les composantes des sorts. Une fois que vous avez lancé un sort grâce à la lyre, vous devez terminer un repos long avant de réutiliser cette capacité.
+***Sorts divins***. En jouant de la lyre, vous pouvez lancer un des sorts suivants : [_guérison de groupe_](/grimoire/guerison-de-groupe/), [_régénération_](/grimoire/regeneration/), [_résurrection_](/grimoire/resurrection/). La musique de la lyre remplace toutes les composantes des sorts. Une fois que vous avez lancé un sort grâce à la lyre, vous devez terminer un repos long avant de réutiliser cette capacité.
 
 ***Détruire la lyre***. Seule la joie véritable de la reine sylvestre pourrait détruire la lyre. Une véritable quête épique attend celui qui voudrait retrouver le nom de cette reine, la ramener à la vie et lui ramener son époux décédé à l'aube des temps. La lyre perdrait tout pouvoir si la reine, enfin heureuse, y jouait quelques notes.

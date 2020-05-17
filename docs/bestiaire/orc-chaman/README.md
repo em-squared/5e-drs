@@ -35,10 +35,10 @@ source_page: 241
 ## Capacités
 _**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
 
-_**Incantation**_. Le chaman est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le chaman :
-* _**Tours de magie (à volonté)**_ : [_flamme sacrée_](/grimoire/flamme-sacree), [_résistance_](/grimoire/resistance), [_thaumaturgie_](/grimoire/thaumaturgie)
-* _**1er niveau (4 emplacements)**_ : [_blessure_](/grimoire/blessure), [_bouclier de la foi_](/grimoire/bouclier-de-la-foi), [_injonction_](/grimoire/injonction)
-* _**2e niveau (3 emplacements)**_ : [_arme spirituelle_](/grimoire/arme-spirituelle), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide)
+_**Incantation**_. Le chaman est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le chaman :
+* _**Tours de magie (à volonté)**_ : [_flamme sacrée_](/grimoire/flamme-sacree/), [_résistance_](/grimoire/resistance/), [_thaumaturgie_](/grimoire/thaumaturgie/)
+* _**1er niveau (4 emplacements)**_ : [_blessure_](/grimoire/blessure/), [_bouclier de la foi_](/grimoire/bouclier-de-la-foi/), [_injonction_](/grimoire/injonction/)
+* _**2e niveau (3 emplacements)**_ : [_arme spirituelle_](/grimoire/arme-spirituelle/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)
 
 ## Actions
 _**Attaques multiples**_. Le chaman effectue deux attaques au corps à corps.

@@ -44,7 +44,7 @@ source: "Créatures & Oppositions"
 source_page: 313
 ---
 ## Capacités
-_**Écholocalisation**_. La nuée ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage#assourdi).
+_**Écholocalisation**_. La nuée ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour une chauve-souris de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 

@@ -3,7 +3,7 @@ title: "Lancer des sorts"
 ---
 # Lancer des sorts
 ## Niveau de sort
-Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) [_projectile magique_](/grimoire/projectile-magique) est de niveau 1 tandis que le [_souhait_](/grimoire/souhait), capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
+Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) [_projectile magique_](/grimoire/projectile-magique/) est de niveau 1 tandis que le [_souhait_](/grimoire/souhait/), capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
 
 Les niveaux du sort ne correspondent pas directement au niveau du personnage : bien souvent, un personnage doit avoir atteint le niveau 17 et non le niveau 9 pour lancer un sort de niveau 9.
 
@@ -15,16 +15,16 @@ Dans tous les cas, le nombre de sorts qu'un personnage peut garder à l'esprit �
 ## Emplacements de sorts
 Quel que soit le nombre de sorts que le lanceur de sorts connaît ou qu'il a préparé, il ne peut en lancer qu'un nombre limité avant d'être contraint de se reposer. La manipulation du tissu magique et la canalisation de son énergie, même dans un sort simple, est un processus fatiguant aussi bien sur le plan mental que physique, et plus le niveau du sort est élevé, plus il est épuisant à lancer. C'est pourquoi la description de chaque classe de lanceur de sorts –  à l'exception du sorcier  – comprend une table indiquant le nombre de sorts de chaque niveau que le personnage est capable de lancer. Par exemple, Umare la magicienne de niveau 3 dispose de quatre emplacements de sorts de niveau 1 et de deux emplacements de sort de niveau 2.
 
-Quand un personnage lance un sort, il dépense un emplacement du même niveau que le sort ou d'un niveau supérieur, « _remplissant_ » l'emplacement avec le sort. Vous pouvez considérer l'emplacement de sort comme une cavité : petite pour un sort de niveau 1, plus grande pour un sort de niveau supérieur. Un sort de niveau 1 tient dans tous les emplacements de sort tandis qu'un sort de niveau 9 rentre seulement dans un emplacement de niveau 9. Ainsi, quand Umare lance le sort de niveau 1 [_projectile magique_](/grimoire/projectile-magique), elle dépense l'un de ses quatre emplacements de niveau 1. Il lui en reste donc trois.
+Quand un personnage lance un sort, il dépense un emplacement du même niveau que le sort ou d'un niveau supérieur, « _remplissant_ » l'emplacement avec le sort. Vous pouvez considérer l'emplacement de sort comme une cavité : petite pour un sort de niveau 1, plus grande pour un sort de niveau supérieur. Un sort de niveau 1 tient dans tous les emplacements de sort tandis qu'un sort de niveau 9 rentre seulement dans un emplacement de niveau 9. Ainsi, quand Umare lance le sort de niveau 1 [_projectile magique_](/grimoire/projectile-magique/), elle dépense l'un de ses quatre emplacements de niveau 1. Il lui en reste donc trois.
 
 Un repos long restaure tous les emplacements de sort dépensés.
 
 Certains monstres et personnages disposent de pouvoirs spéciaux qui leur permettent de lancer des sorts sans utiliser d'emplacement. C'est le cas d'un sorcier qui opte pour certaines invocations occultes et d'un diantrefosse des neuf enfers, par exemple.
 
 ### Lancer un sort via un emplacement de niveau supérieur
-Quand un lanceur de sorts utilise un emplacement d'un niveau supérieur à celui du sort, ce dernier adopte le niveau de l'emplacement lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique) en dépensant un emplacement de niveau 2, ce [_projectile magique_](/grimoire/projectile-magique) devient un sort de niveau 2. En pratique, le sort se « _dilate_ » pour occuper tout l'emplacement disponible.
+Quand un lanceur de sorts utilise un emplacement d'un niveau supérieur à celui du sort, ce dernier adopte le niveau de l'emplacement lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique/) en dépensant un emplacement de niveau 2, ce [_projectile magique_](/grimoire/projectile-magique/) devient un sort de niveau 2. En pratique, le sort se « _dilate_ » pour occuper tout l'emplacement disponible.
 
-Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique) et [_soin des blessures_](/grimoire/soin-des-blessures), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description.
+Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [_soin des blessures_](/grimoire/soin-des-blessures/), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description.
 
 ## Les tours de magie
 Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer à l'avance ni dépenser d'emplacement de sort. Des exercices répétés ont fini par fixer le sort dans l'esprit du lanceur de sorts et l'ont imprégné de la magie nécessaire pour générer ses effets, encore et encore. Un tour de magie est un sort de niveau 0.
@@ -52,9 +52,9 @@ Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de
 Certains sorts (dont les rituels) exigent une période d'incantation supérieure, allant de quelques minutes à quelques heures. Quand un sort avec un temps d'incantation supérieur à une seule action ou une réaction est lancé, il impose au lanceur de consacrer à chaque tour son action à l'incantation et, pendant tout ce temps, à maintenir sa concentration (voir [_Concentration_](#concentration), plus bas). Si elle vole en éclats, le sort échoue mais il ne perd pas l'emplacement de sort concerné. S'il veut recommencer l'incantation, il doit la reprendre à zéro.
 
 ### Portée
-La cible d'un sort doit être à portée de ce sort. Pour un sort comme [_projectile magique_](/grimoire/projectile-magique), la cible est une créature, pour un sort comme [_boule de feu_](/grimoire/boule-de-feu), c'est le point où la boule explose.
+La cible d'un sort doit être à portée de ce sort. Pour un sort comme [_projectile magique_](/grimoire/projectile-magique/), la cible est une créature, pour un sort comme [_boule de feu_](/grimoire/boule-de-feu/), c'est le point où la boule explose.
 
-La plupart des sorts ont une portée indiquée en mètres. Certains affectent uniquement les créatures (y compris le lanceur de sorts lui-même) avec lesquelles le lanceur établit un contact physique. D'autres, comme [_bouclier_](/grimoire/bouclier), affectent uniquement le lanceur de sorts. Pour ceux-là, la portée est dite « _personnelle_ ».
+La plupart des sorts ont une portée indiquée en mètres. Certains affectent uniquement les créatures (y compris le lanceur de sorts lui-même) avec lesquelles le lanceur établit un contact physique. D'autres, comme [_bouclier_](/grimoire/bouclier/), affectent uniquement le lanceur de sorts. Pour ceux-là, la portée est dite « _personnelle_ ».
 
 Les sorts qui génèrent un cône ou une ligne comme effet et prennent leur origine au niveau du lanceur de sorts ont aussi une portée personnelle pour indiquer que le point d'origine de l'effet est obligatoirement le lanceur du sort (voir [_Zones d'effet_](#zone-d-effet), plus loin dans ce chapitre).
 
@@ -64,7 +64,7 @@ Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moin
 Les composantes du sort représentent les éléments physiques indispensables à l'incantation. La description du sort indique s'il nécessite des composantes verbales (V), somatiques (S) ou matérielles (M). Si le lanceur de sorts est incapable de fournir une ou plusieurs de ces composantes, il ne peut pas lancer le sort.
 
 #### Verbales (V)
-Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mots ne constituent pas la source de puissance du sort, ce sont plutôt des combinaisons de sons, prononcées avec un timbre et une résonance spécifiques, qui animent des filaments de magie. Ainsi, un personnage bâillonné ou englobé dans une zone de silence comme celle résultant du sort [_silence_](/grimoire/silence) ne peut pas lancer de sort à composante verbale.
+Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mots ne constituent pas la source de puissance du sort, ce sont plutôt des combinaisons de sons, prononcées avec un timbre et une résonance spécifiques, qui animent des filaments de magie. Ainsi, un personnage bâillonné ou englobé dans une zone de silence comme celle résultant du sort [_silence_](/grimoire/silence/) ne peut pas lancer de sort à composante verbale.
 
 #### Somatiques (S)
 Les gestes à exécuter lors de l'incantation se traduisent par force gesticulations ou par un ensemble de mouvements complexes. Si un sort exige une composante somatique, le lanceur doit avoir au moins une main libre pour accomplir les mouvements nécessaires.
@@ -75,7 +75,7 @@ Pour incanter, il faut se concentrer intensément et exécuter des gestes préci
 §§§
 
 #### Matérielles (M)
-L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre [_Équipement - Équipement d'aventurier_](/equipement-d-aventurier)) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
+L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre [_Équipement - Équipement d'aventurier_](/equipement-d-aventurier/)) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
 
 S'il est noté que le sort consomme la composante matérielle utilisée, le lanceur de sorts doit en fournir une nouvelle à chaque incantation.
 
@@ -116,7 +116,7 @@ Si le lanceur de sorts positionne une zone d'effet en un point qu'il ne voit pas
 Si le sort vise une cible au choix du lanceur de sorts, ce dernier peut se prendre pour cible, sauf si la cible doit impérativement être hostile ou qu'il est spécifié que ce ne peut pas être le lanceur. S'il se trouve dans la zone d'effet d'un sort qu'il lance, il peut se prendre pour cible.
 
 ### Zone d'effet
-Les sorts tels que [_mains brûlantes_](/grimoire/mains-brulantes) et [_cône de froid_](/grimoire/cone-de-froid) couvrent une zone, ce qui leur permet d'affecter plusieurs créatures à la fois.
+Les sorts tels que [_mains brûlantes_](/grimoire/mains-brulantes/) et [_cône de froid_](/grimoire/cone-de-froid/) couvrent une zone, ce qui leur permet d'affecter plusieurs créatures à la fois.
 
 L'aspect de la zone d'effet figure dans la description du sort et se présente généralement sous l'une des cinq formes suivantes : cône, cube, cylindre, ligne ou sphère. Chaque zone d'effet a un point d'origine, un endroit à partir duquel l'énergie du sort se répand. Les règles associées à chaque forme expliquent comment positionner le point d'origine. En général, le point d'origine est un point de l'espace, mais ce peut être parfois une créature ou un objet.
 
@@ -160,7 +160,7 @@ La plupart des sorts s'accompagnant d'un [jet d'attaque](/combattre/#jets-d-atta
 ### Combiner les effets magiques
 Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.
 
-Par exemple, si deux clerc lancent [_bénédiction_](/grimoire/benediction) sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
+Par exemple, si deux clerc lancent [_bénédiction_](/grimoire/benediction/) sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
 
 §§§ .hero
 ## Les écoles de magie

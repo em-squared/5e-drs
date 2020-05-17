@@ -49,4 +49,4 @@ _**Lance (forme humanoïde uniquement)**_. _Attaque d'arme au corps à corps ou 
 _Touché_ : 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 _**Morsure (forme hybride ou de loup uniquement)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.
+_Touché_ : 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.

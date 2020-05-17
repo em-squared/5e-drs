@@ -12,14 +12,14 @@ abilityScores:
   int: 2
   sag: 8
   cha: 7
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 6
-movement: 
+movement:
   walk: 6
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "—"
 environments:
   - Collines / Vallées
@@ -31,7 +31,7 @@ source: "Créatures & Oppositions"
 source_page: 34
 ---
 ## Capacités
-_**Regard pétrifiant**_. Si une créature commence son tour à 9 mètres ou moins du basilic et que les deux peuvent se voir, le basilic, s'il n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), peut forcer la créature à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 12. En cas d'échec, la créature commence à se transformer en pierre par magie et devient [_entravée_](/gerer-la-sante-du-personnage/#entrave). Elle doit retenter le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) tant qu'elle n'est pas libérée par un sort de [_restauration supérieure_](/grimoire/restauration-superieure) ou une magie similaire. Une créature qui n'est pas [_surprise_](/gerer-la-sante-du-personnage#surpris) peut détourner le regard au début de son tour pour ne pas avoir à faire le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde). Si elle agit de la sorte, elle ne peut pas voir le basilic jusqu'au début de son prochain tour, moment où elle peut détourner le regard à nouveau. Elle doit effectuer le [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) immédiatement si elle regarde le basilic entre-temps.  
+_**Regard pétrifiant**_. Si une créature commence son tour à 9 mètres ou moins du basilic et que les deux peuvent se voir, le basilic, s'il n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), peut forcer la créature à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12. En cas d'échec, la créature commence à se transformer en pierre par magie et devient [_entravée_](/gerer-la-sante-du-personnage/#entrave). Elle doit retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) tant qu'elle n'est pas libérée par un sort de [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie similaire. Une créature qui n'est pas [_surprise_](/gerer-la-sante-du-personnage/#surpris) peut détourner le regard au début de son tour pour ne pas avoir à faire le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Si elle agit de la sorte, elle ne peut pas voir le basilic jusqu'au début de son prochain tour, moment où elle peut détourner le regard à nouveau. Elle doit effectuer le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) immédiatement si elle regarde le basilic entre-temps.  
 Si le basilic voit son reflet sous une lumière vive à une distance maximale de 9 mètres, il le prend pour un rival et s'attaque lui-même avec son regard.
 
 ## Actions

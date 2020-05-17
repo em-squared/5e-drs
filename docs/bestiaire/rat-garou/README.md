@@ -46,4 +46,4 @@ _**Épée courte (forme humanoïde ou hybride uniquement)**_. _Attaque d'arme au
 _Touché_ : 5 (1d6+2) dégâts perforants.
 
 _**Morsure (forme hybride ou de rat uniquement)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 11 pour ne pas contracter la malédiction de la lycanthropie du rat-garou.
+_Touché_ : 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11 pour ne pas contracter la malédiction de la lycanthropie du rat-garou.

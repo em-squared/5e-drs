@@ -65,7 +65,7 @@ Le tableau d'[évolution du druide](#evolution-du-druide) vous indique combien d
 
 Choisissez des sorts que vous pouvez lancer dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link> afin de les préparer. Vous pouvez choisir un nombre de sorts de druide égal à votre modificateur de Sagesse + votre niveau de druide (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un druide de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 [soin des blessures](/grimoire/soin-des-blessures), vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un druide de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 [soin des blessures](/grimoire/soin-des-blessures/), vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de druide vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
@@ -80,7 +80,7 @@ La caractéristique d'incantation qui vous permet de lancer les sorts de druide 
 Vous pouvez lancer un sort de druide que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un focaliseur druidique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts de druide.
+Vous pouvez utiliser un focaliseur druidique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier/)) comme focaliseur d'incantation pour vos sorts de druide.
 
 ### Forme sauvage
 À partir du niveau 2, vous pouvez utiliser une action pour vous métamorphoser en un animal que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.
@@ -373,10 +373,10 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 |  | Mante obscure (ID 1/2) | Mimique (ID 2) | Minotaure (ID 3)* |  |
 §§§
 
-*_Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre._
+\*_Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre._
 
 #### Pouvoir des profondeurs
-À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir _pattes d’araignées_ pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau _pattes d’araignées_.
+À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir [_pattes d’araignée_](/grimoire/pattes-d-araignee/) pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau [_pattes d’araignée_](/grimoire/pattes-d-araignee/).
 
 #### Magie des profondeurs
 Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d’une attaque que vous venez de porter. Les dégâts de l’attaque sont considérés comme magiques et du même type que l’attaque initiale.

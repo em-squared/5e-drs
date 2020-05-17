@@ -28,7 +28,7 @@ source: "Créatures & Oppositions"
 source_page: 322
 ---
 ## Capacités
-_**Charge**_. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_**Charge**_. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 _**Implacable (Recharge après un repos court ou long)**_. Si le sanglier subit 10 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 

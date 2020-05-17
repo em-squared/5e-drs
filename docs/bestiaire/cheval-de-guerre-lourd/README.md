@@ -24,7 +24,7 @@ source: "Créatures & Oppositions"
 source_page: 300
 ---
 ## Capacités
-_**Charge écrasante**_. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 14 pour ne pas être [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+_**Charge écrasante**_. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 _**Monture d'élite**_. Le cheval de guerre lourd est réservé à une élite parmi les [paladins](/classes/paladin) : les chevaliers du [serment de perfection](/classes/paladin#serment-de-perfection). Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
 

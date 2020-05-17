@@ -22,7 +22,7 @@ Les actions les plus courantes que vous pouvez accomplir sont décrites dans la 
 
 La section [_Déplacement et position_](#deplacement-et-position) vous explique les règles de déplacement.
 
-Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions [[_esquiver_](/combattre#esquiver)](#esquiver) ou [_se tenir prêt_](#se-tenir-pret), décrites dans la section [_Actions en combat_](#actions-en-combat).
+Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions [[_esquiver_](/combattre/#esquiver)](#esquiver) ou [_se tenir prêt_](#se-tenir-pret), décrites dans la section [_Actions en combat_](#actions-en-combat).
 
 ### Action bonus
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.
@@ -91,7 +91,7 @@ Si vous utilisez une action qui vous permet de porter plusieurs attaques avec un
 ### Utiliser différentes vitesses
 Si vous avez la capacité de vous déplacer à plusieurs vitesses, comme une vitesse au sol et une vitesse en vol, par exemple, vous pouvez alterner les deux lors de votre déplacement. À chaque fois que vous passez d'un type de vitesse à l'autre, vous devez soustraire la distance que vous avez déjà parcourue de la nouvelle jauge de vitesse. Le résultat indique quelle distance vous pouvez encore parcourir. Si ce résultat est de 0 ou moins, vous ne pouvez plus vous déplacer pendant ce tour.
 
-Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé un sort de vol qui vous permet d'avoir une vitesse en [_vol_](/grimoire/vol) de 18 mètres, vous pouvez voler sur une distance de 6 mètres, marcher 3 mètres, puis bondir dans les airs pour voler sur 9 mètres supplémentaires.
+Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé un sort de vol qui vous permet d'avoir une vitesse en [_vol_](/grimoire/vol/) de 18 mètres, vous pouvez voler sur une distance de 6 mètres, marcher 3 mètres, puis bondir dans les airs pour voler sur 9 mètres supplémentaires.
 
 ### Terrain difficile
 Un combat se déroule rarement sur le sol d'une pièce vide ou dans une plaine bien dégagée. Que ce soit sur le sol irrégulier d'une caverne, au milieu d'une forêt envahie de bruyères, ou dans un escalier glissant, un champ de bataille est généralement un terrain difficile.
@@ -150,12 +150,12 @@ Quand vous accomplissez une action lors de votre tour, vous avez le choix entre 
 Quand vous décrivez une action qui n'est pas présentée dans les règles, c'est au MJ de décider si vous pouvez accomplir cette action et si vous devez faire un jet de dés spécifique pour déterminer votre succès ou votre échec.
 
 ### Aider
-Vous pouvez apporter votre aide à une autre créature pour réaliser une tâche. Quand vous choisissez l'action [_aider_](/combattre#aider), la créature que vous aidez obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le prochain [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) qu'elle fait dans le but d'accomplir la tâche pour laquelle vous coopérez, mais seulement si elle fait ce test avant le début de votre prochain tour.
+Vous pouvez apporter votre aide à une autre créature pour réaliser une tâche. Quand vous choisissez l'action [_aider_](/combattre/#aider), la créature que vous aidez obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le prochain [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) qu'elle fait dans le but d'accomplir la tâche pour laquelle vous coopérez, mais seulement si elle fait ce test avant le début de votre prochain tour.
 
-Vous pouvez aussi [_aider_](/combattre#aider) une créature amicale qui veut [_attaquer_](/combattre#attaquer) une autre créature qui se trouve dans un rayon de 1,50 mètre de vous. Vous faites une feinte, tentez de distraire la cible ou participez d'une manière ou d'une autre afin de rendre l'attaque de votre allié plus efficace. Si votre allié attaque la cible avant le début de votre prochain tour, il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur son premier [jet d'attaque](/combattre/#jets-d-attaque).
+Vous pouvez aussi [_aider_](/combattre/#aider) une créature amicale qui veut [_attaquer_](/combattre/#attaquer) une autre créature qui se trouve dans un rayon de 1,50 mètre de vous. Vous faites une feinte, tentez de distraire la cible ou participez d'une manière ou d'une autre afin de rendre l'attaque de votre allié plus efficace. Si votre allié attaque la cible avant le début de votre prochain tour, il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur son premier [jet d'attaque](/combattre/#jets-d-attaque).
 
 ### Attaquer
-L'action de combat la plus courante est [_attaquer_](/combattre#attaquer), que ce soit en frappant avec une épée, en tirant une flèche avec un arc ou en combattant à mains nues.
+L'action de combat la plus courante est [_attaquer_](/combattre/#attaquer), que ce soit en frappant avec une épée, en tirant une flèche avec un arc ou en combattant à mains nues.
 
 Cette action vous permet de réaliser une attaque de corps-à-corps ou à distance. Reportez-vous à la section [_Porter une attaque_](#porter-une-attaque) pour découvrir les règles qui s'appliquent à l'attaque.
 
@@ -165,13 +165,13 @@ Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à 
 Quand vous choisissez l'action _chercher_, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
 
 ### Esquiver
-Quand vous choisissez l'action [_esquiver_](/combattre#esquiver), votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout [jet d'attaque](/combattre/#jets-d-attaque) qui vous prend pour cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous pouvez voir l'attaquant, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tout [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Vous perdez les bénéfices de cette action si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou si votre vitesse est réduite à 0.
+Quand vous choisissez l'action [_esquiver_](/combattre/#esquiver), votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout [jet d'attaque](/combattre/#jets-d-attaque) qui vous prend pour cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous pouvez voir l'attaquant, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tout [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Vous perdez les bénéfices de cette action si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou si votre vitesse est réduite à 0.
 
 ### Lancer un sort
 Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux monstres, ont accès à des sorts qu'ils peuvent utiliser avec une redoutable efficacité en combat. À chaque sort correspond un temps d'incantation : le descriptif du sort indique si le lancement du sort nécessite d'utiliser une action ou une réaction, ou doit être préparé pendant plusieurs minutes ou heures. _Lancer un sort_ n'est donc pas nécessairement une action. La plupart des sorts ont un temps d'incantation d'une action, un lanceur de sort utilisera à ce moment une action de combat pour lancer un tel sort.
 
 ### Se cacher
-Quand vous choisissez l'action [_se cacher_](/combattre#se-cacher), vous devez faire un test de Dextérité (Discrétion) pour tenter de vous cacher en suivant les règles appropriées. Si vous réussissez, vous gagnez certains des bénéfices associés à cet état, tels qu'ils sont décrits dans la section [_Attaquants et cibles invisibles_](#attaquants-et-cibles-invisibles).
+Quand vous choisissez l'action [_se cacher_](/combattre/#se-cacher), vous devez faire un test de Dextérité (Discrétion) pour tenter de vous cacher en suivant les règles appropriées. Si vous réussissez, vous gagnez certains des bénéfices associés à cet état, tels qu'ils sont décrits dans la section [_Attaquants et cibles invisibles_](#attaquants-et-cibles-invisibles).
 
 ### Se désengager
 Si vous choisissez l'action [_se désengager_](/combattre/#se-desengager), vous pouvez vous déplacer sans risquer de créer des attaques d'opportunités jusqu'à la fin du tour.
@@ -191,7 +191,7 @@ Quand l'événement déclencheur se produit, vous pouvez choisir entre réagir i
 De la même manière, quand vous choisissez l'action _se tenir prêt_ avec un sort, vous le lancez normalement mais vous contenez son énergie, que vous ne relâcherez grâce à votre réaction qu'après que le déclencheur se soit produit. Pour pouvoir être lancé de la sorte, un sort doit avoir un temps d'incantation d'une action et il est impératif de rester concentré pour en contenir l'énergie magique jusqu'au moment où il est finalement lancé. Si votre état de concentration est interrompu, le sort se dissipe et n'a aucun effet. Par exemple, si vous vous concentrez pour contenir le sort [_toile d'araignée_](/grimoire/toile-d-araignee) et que vous préparez ensuite le sort [_projectile magique_](/grimoire/projectile-magique), le sort [_toile d'araignée_](/grimoire/toile-d-araignee) se dissipe. Et si vous subissez des dégâts avant d'avoir lancé [_projectile magique_](/grimoire/projectile-magique) avec votre réaction, cela risque de briser votre concentration.
 
 ### Utiliser un objet
-Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action [_attaquer_](/combattre#attaquer). Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action _utiliser un objet_. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
+Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action [_attaquer_](/combattre/#attaquer). Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action _utiliser un objet_. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
 
 ### Autre chose ?
 Dans ***Héros & Dragons***, la seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
@@ -227,7 +227,7 @@ Si le d20 lancé pour un [jet d'attaque](/combattre/#jets-d-attaque) donne un r�
 Si le d20 lancé pour un [jet d'attaque](/combattre/#jets-d-attaque) donne un résultat de 1, l'attaque échoue automatiquement, peu importent les modificateurs ou la CA de la cible.
 
 ### Attaquants et cibles invisibles
-Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'[_invisibilité_](/grimoire/invisibilite) ou en se fondant dans les ténèbres.
+Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'[_invisibilité_](/grimoire/invisibilite/) ou en se fondant dans les ténèbres.
 
 Quand vous attaquez une cible que vous ne pouvez pas voir, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le [jet d'attaque](/combattre/#jets-d-attaque). Cette règle s'applique même si vous devinez la position de votre cible ou que vous prenez pour cible une créature que vous pouvez entendre mais que vous ne voyez pas. Si la cible n'est pas à l'endroit que vous avez ciblé, vous ratez automatiquement votre attaque. Cela dit, le MJ vous informe uniquement de l'échec de votre attaque, il ne vous dit pas si vous avez effectivement deviné où se trouvait votre cible ou non.
 
@@ -269,7 +269,7 @@ Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez l
 Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
 
 #### Empoignade
-Quand vous tentez d'empoigner une créature ou de lutter avec elle, vous utilisez l'action [_attaquer_](/combattre#attaquer) pour faire une attaque de corps-à-corps spéciale appelée _empoignade_. Si vous avez la possibilité de faire plusieurs attaques pendant votre action [_attaquer_](/combattre#attaquer), l'_empoignade_ remplace l'une d'entre elle.
+Quand vous tentez d'empoigner une créature ou de lutter avec elle, vous utilisez l'action [_attaquer_](/combattre/#attaquer) pour faire une attaque de corps-à-corps spéciale appelée _empoignade_. Si vous avez la possibilité de faire plusieurs attaques pendant votre action [_attaquer_](/combattre/#attaquer), l'_empoignade_ remplace l'une d'entre elle.
 
 La cible de votre empoignade ne doit pas faire plus d'une taille de plus que vous et doit se trouver à portée de votre allonge à mains nues. Vous devez avoir au moins une main de libre pour tenter d'empoigner la cible. Pour cela, vous faites un test d'empoignade à la place d'un [jet d'attaque](/combattre/#jets-d-attaque). Il s'agit d'un test de Force (Athlétisme) opposé à un test de Force (Athlétisme) ou de Dextérité (Acrobaties) de la cible (celle-ci choisit la caractéristique qu'elle préfère utiliser). Si vous réussissez, votre cible se trouve soumise à l'état [_empoigné_](/gerer-la-sante-du-personnage/#empoigne). La description de cet état indique les conditions qui y mettent fin. En ce qui vous concerne, vous pouvez relâcher votre cible quand vous le voulez et gratuitement (aucune action requise).
 
@@ -278,7 +278,7 @@ La cible de votre empoignade ne doit pas faire plus d'une taille de plus que vou
 **Déplacer une créature empoignée**. Quand vous vous déplacez, vous pouvez traîner ou porter la créature que vous avez empoignée, mais votre vitesse est divisée par deux, sauf si la créature fait au moins deux tailles de moins que vous.
 
 #### Bousculer une créature
-Vous pouvez utiliser l'action [_attaquer_](/combattre#attaquer) pour porter une attaque de corps-à-corps spéciale consistant à bousculer une créature, soit pour la faire tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre), soit pour la repousser loin de vous. Si vous pouvez accomplir plusieurs attaques pendant votre action attaquer, cette attaque spéciale remplace l'une d'entre elles.
+Vous pouvez utiliser l'action [_attaquer_](/combattre/#attaquer) pour porter une attaque de corps-à-corps spéciale consistant à bousculer une créature, soit pour la faire tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre), soit pour la repousser loin de vous. Si vous pouvez accomplir plusieurs attaques pendant votre action attaquer, cette attaque spéciale remplace l'une d'entre elles.
 
 La cible ne doit pas faire plus d'une taille de plus que vous et doit se trouver à portée de votre allonge. Au lieu de faire un [jet d'attaque](/combattre/#jets-d-attaque), vous faites un test de Force (Athlétisme) opposé à un test de Force (Athlétisme) ou à un test de Dextérité (Acrobaties) de la cible (celle-ci choisit la caractéristique qu'elle préfère utiliser). Si vous remportez la confrontation, vous avez le choix entre faire tomber votre cible [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ou la repousser d'1,50 mètre loin de vous.
 
@@ -301,7 +301,7 @@ Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés
 
 Quand vous utilisez une **arme** pour attaquer, vous ajoutez votre modificateur de caractéristique (le même modificateur que vous avez utilisé pour votre jet d'attaque) aux dégâts. Le descriptif d'un **sort** vous indique quel dé lancer pour calculer les dégâts et si vous devez y ajouter ou non un modificateur.
 
-Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, quand un magicien lance une [_boule de feu_](/grimoire/boule-de-feu) ou qu'un clerc lance [_colonne de flamme_](/grimoire/colonne-de-flamme), les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.
+Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, quand un magicien lance une [_boule de feu_](/grimoire/boule-de-feu/) ou qu'un clerc lance [_colonne de flamme_](/grimoire/colonne-de-flamme/), les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.
 
 #### Coups critiques
 Si vous réussissez un coup critique contre une cible, vous pouvez lancer des dés de dégâts supplémentaires. Lancez l'ensemble des dés de dégâts deux fois et additionnez-les, puis ajoutez à ce total les modificateurs. Pour simplifier les choses, vous pouvez lancer tous les dés de dégâts à la fois.
@@ -319,13 +319,13 @@ Voilà ci-dessous la liste des différents types de dégâts, avec des exemples 
 
 **Feu**. Les dragons rouges crachent du feu et de nombreux sorts permettent d'invoquer des flammes et d'infliger des dégâts de feu.
 
-**Force**. La force est le résultat de l'énergie magique pure, concentrée pour infliger des dégâts. La plupart des effets qui infligent des dégâts de force sont des sorts, notamment [_projectile magique_](/grimoire/projectile-magique) et [_arme spirituelle_](/grimoire/arme-spirituelle).
+**Force**. La force est le résultat de l'énergie magique pure, concentrée pour infliger des dégâts. La plupart des effets qui infligent des dégâts de force sont des sorts, notamment [_projectile magique_](/grimoire/projectile-magique/) et [_arme spirituelle_](/grimoire/arme-spirituelle/).
 
 **Foudre**. Un sort d'éclair inflige des dégâts de foudre, tout comme le souffle d'un dragon bleu.
 
 **Froid**. Le froid infernal qui irradie de la lance d'un diable gelé et le souffle glacé d'un dragon blanc infligent des dégâts de froid.
 
-**Nécrotique**. Les dégâts nécrotiques infligés par certains morts-vivants et des sorts comme [_contact glacial_](/grimoire/contact-glacial) font se flétrir la matière et même l'âme.
+**Nécrotique**. Les dégâts nécrotiques infligés par certains morts-vivants et des sorts comme [_contact glacial_](/grimoire/contact-glacial/) font se flétrir la matière et même l'âme.
 
 **Perforant**. Les attaques portées dans le but de percer ou d'empaler, notamment celles portées avec des lances ou par des morsures de monstres, infligent des dégâts perforants.
 
@@ -333,9 +333,9 @@ Voilà ci-dessous la liste des différents types de dégâts, avec des exemples 
 
 **Psychique**. Les capacités mentales de certains monstres infligent des dégâts psychiques.
 
-**Radiant**. Les dégâts radiants infligés par le sort [_colonne de flamme_](/grimoire/colonne-de-flamme) d'un clerc ou les armes brandies par les anges brûlent les chairs comme le feu et submergent l'esprit de pouvoir.
+**Radiant**. Les dégâts radiants infligés par le sort [_colonne de flamme_](/grimoire/colonne-de-flamme/) d'un clerc ou les armes brandies par les anges brûlent les chairs comme le feu et submergent l'esprit de pouvoir.
 
-**Tonnerre**. Un bruit commotionnant, comme l'effet du sort [_vague tonnante_](/grimoire/vague-tonnante), inflige des dégâts de tonnerre.
+**Tonnerre**. Un bruit commotionnant, comme l'effet du sort [_vague tonnante_](/grimoire/vague-tonnante/), inflige des dégâts de tonnerre.
 
 **Tranchant**. Les épées, les haches et les griffes des monstres infligent des dégâts tranchants.
 
@@ -366,7 +366,7 @@ Si votre monture est jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre)
 ### Contrôler sa monture
 Tant que vous êtes sur le dos de votre monture, vous avez deux options : soit vous pouvez contrôler vous-même votre monture, soit vous la laissez agir à sa guise. Les créatures intelligentes, comme les dragons, restent toujours libres de leurs actions.
 
-Vous ne pouvez contrôler une monture que si elle a été entraînée à accepter un cavalier. On considère que les chevaux domestiqués, les ânes et les créatures similaires ont déjà été dressés quand votre personnage les monte. L'initiative d'une monture que vous contrôlez se calque sur la vôtre, à partir du moment où vous montez sur son dos. Elle se déplace en fonction de vos indications et a le choix entre trois actions possibles en combat : [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) et [_esquiver_](/combattre#esquiver). Une monture contrôlée peut bouger et agir même durant le tour où vous montez dessus.
+Vous ne pouvez contrôler une monture que si elle a été entraînée à accepter un cavalier. On considère que les chevaux domestiqués, les ânes et les créatures similaires ont déjà été dressés quand votre personnage les monte. L'initiative d'une monture que vous contrôlez se calque sur la vôtre, à partir du moment où vous montez sur son dos. Elle se déplace en fonction de vos indications et a le choix entre trois actions possibles en combat : [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) et [_esquiver_](/combattre/#esquiver). Une monture contrôlée peut bouger et agir même durant le tour où vous montez dessus.
 
 Une monture indépendante conserve une place propre dans l'ordre d'initiative. Le fait qu'elle porte un cavalier ne limite pas ses actions. Elle se déplace et agit à son gré. Une telle monture peut éventuellement fuir un combat, se jeter dans le cœur de la mêlée, dévorer un ennemi gravement blessé, ou tout simplement agir à l'encontre de vos souhaits.
 

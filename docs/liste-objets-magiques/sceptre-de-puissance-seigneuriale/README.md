@@ -10,7 +10,7 @@ Ce sceptre à la tête en collerette fonctionne comme une masse d'armes magique 
 
 ***Six boutons***. Vous pouvez appuyer sur l'un des six boutons du sceptre par une action bonus. L'effet d'un bouton dure jusqu'au moment où vous appuyez sur un bouton différent ou sur le même bouton à nouveau, auquel cas le sceptre retrouve sa forme normale.
 
-Si vous appuyez sur le **bouton 1**, le sceptre devient une [épée ardente](/liste-objets-magiques/epee-ardente), tandis qu'une lame enflammée s'étend depuis l'extrémité opposée à la tête en collerette du sceptre.
+Si vous appuyez sur le **bouton 1**, le sceptre devient une [épée ardente](/liste-objets-magiques/epee-ardente/), tandis qu'une lame enflammée s'étend depuis l'extrémité opposée à la tête en collerette du sceptre.
 
 Si vous appuyez sur le **bouton 2**, la tête en collerette du sceptre se replie pour laisser apparaître deux lames en forme de croissant, ce qui transforme le sceptre en hache d'armes magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle.
 

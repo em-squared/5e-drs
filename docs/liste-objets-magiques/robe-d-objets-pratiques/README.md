@@ -30,6 +30,6 @@ En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou
 |**60-68**|4 potions de soins|
 |**69-75**|Barque (3,60 mètres de long)|
 |**76-83**|Parchemin magique contenant un sort de niveau 1 à 3|
-|**84-90**|2 [molosses](/bestiaire/mastiff)|
+|**84-90**|2 [molosses](/bestiaire/mastiff/)|
 |**91-96**|Fenêtre (60 centimètres sur 1,20 mètre et jusqu'à 60 centimètres d'épaisseur) que vous pouvez placer sur une surface verticale à votre portée|
 |**97-00**|Bélier portable|

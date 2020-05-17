@@ -12,21 +12,21 @@ abilityScores:
   int: 16
   sag: 15
   cha: 16
-savingThrows: 
+savingThrows:
   - "int"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 6
-movement: 
+movement:
   walk: 12
   fly: 18
-senses: 
+senses:
   darkvision: 36
-damageTypeImmunities: 
+damageTypeImmunities:
   - "feu"
-languages: 
+languages:
   - "ignée"
 environments:
   - Désert chaud
@@ -35,10 +35,10 @@ source: "Créatures & Oppositions"
 source_page: 160
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation de l'éfrit est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie)
-* _**3/jour chacun**_ : [_agrandir/rétrécir_](/grimoire/agrandir-retrecir), [_langues_](/grimoire/langues)
-* _**1/jour chacun**_ : [_changement de plan_](/grimoire/changement-de-plan), [_forme gazeuse_](/grimoire/forme-gazeuse), [_invisibilité_](/grimoire/invisibilite), [_image majeure_](/grimoire/image-majeure), [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire) (élémentaire du feu seulement), [_mur de feu_](/grimoire/mur-de-feu)
+_**Incantation innée**_. La caractéristique d'incantation de l'éfrit est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)
+* _**3/jour chacun**_ : [_agrandir/rétrécir_](/grimoire/agrandir-retrecir/), [_langues_](/grimoire/langues/)
+* _**1/jour chacun**_ : [_changement de plan_](/grimoire/changement-de-plan/), [_forme gazeuse_](/grimoire/forme-gazeuse/), [_invisibilité_](/grimoire/invisibilite/), [_image majeure_](/grimoire/image-majeure/), [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) (élémentaire du feu seulement), [_mur de feu_](/grimoire/mur-de-feu/)
 
 _**Trépas élémentaire**_. Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
 

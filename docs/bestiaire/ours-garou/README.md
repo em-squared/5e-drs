@@ -48,4 +48,4 @@ _**Hache à deux mains (forme humanoïde ou hybride uniquement)**_. _Attaque d'a
 _Touché_ : 10 (1d12+4) dégâts tranchants.
 
 _**Morsure (forme d'ours ou hybride uniquement)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 14 pour ne pas contracter la malédiction de la lycanthropie de l'ours-garou.
+_Touché_ : 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas contracter la malédiction de la lycanthropie de l'ours-garou.

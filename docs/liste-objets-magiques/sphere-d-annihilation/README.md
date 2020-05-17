@@ -14,7 +14,7 @@ La sphère reste immobile à moins que quelqu'un ne la contrôle. Si vous vous s
 
 Si vous tentez de contrôler une sphère déjà sous le contrôle d'une autre créature, vous devez effectuer un test d'Intelligence (Arcanes) opposé au test d'Intelligence (Arcanes) de cette créature. Celui qui l'emporte obtient ou garde le contrôle de la sphère et peut la faire léviter normalement.
 
-Si la sphère entre en contact avec un portail planaire, tel que ceux créés par le sort de [_portail_](/grimoire/portail), ou un espace extradimensionnel, tel que ceux contenus dans un [_puits portatif_](/liste-objets-magiques/puits-portatif), le MJ détermine au hasard ce qu'il se passe en utilisant la table ci-dessous.
+Si la sphère entre en contact avec un portail planaire, tel que ceux créés par le sort de [_portail_](/grimoire/portail/), ou un espace extradimensionnel, tel que ceux contenus dans un [_puits portatif_](/liste-objets-magiques/puits-portatif/), le MJ détermine au hasard ce qu'il se passe en utilisant la table ci-dessous.
 
 |D100|Résultat|
 |:-:|:-|

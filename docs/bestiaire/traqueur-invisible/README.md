@@ -45,7 +45,7 @@ source: "Créatures & Oppositions"
 source_page: 275
 ---
 ## Capacités
-_**Invisibilité**_. Le traqueur est [_invisible_](/gerer-la-sante-du-personnage#invisible).
+_**Invisibilité**_. Le traqueur est [_invisible_](/gerer-la-sante-du-personnage/#invisible).
 
 _**Traqueur parfait**_. Le traqueur se voit désigner une proie par son invocateur. Le traqueur connaît la direction et la distance qui le sépare de sa proie aussi longtemps que les deux se trouvent sur le même plan d'existence. Le traqueur sait également où se trouve son invocateur.
 

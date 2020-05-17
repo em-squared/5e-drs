@@ -34,7 +34,7 @@ source: "Créatures & Oppositions"
 source_page: 334
 ---
 ## Capacités
-_**Action fourbe**_. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre#se-cacher).
+_**Action fourbe**_. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 
 _**Attaque sournoise (1/tour)**_. L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque), ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et que l'espion ne subit pas de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque).
 

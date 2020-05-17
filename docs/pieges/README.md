@@ -3,14 +3,14 @@ title: "Les pièges"
 ---
 # Les pièges
 ## Déclencher un piège
-La plupart des pièges se déclenchent quand une créature se rend dans un endroit ou touche à quelque chose que le créateur du piège veut protéger. Parmi les déclencheurs les plus courants, on trouve les plaques de pression et les sections de faux-plancher sur lesquels il ne faut pas marcher, les fils tendus en travers d'un chemin dans lesquels il ne faut pas se prendre les pieds, les poignées de porte à ne pas tourner, les serrures exigeant la bonne clef... Les pièges magiques se déclenchent souvent quand une créature entre dans un lieu ou touche quelque chose. Certains, comme le [_glyphe de protection_](/grimoire/glyphe-de-protection), sont dotés de conditions de déclenchement plus complexes, comprenant un mot de commande les empêchant de se déclencher.
+La plupart des pièges se déclenchent quand une créature se rend dans un endroit ou touche à quelque chose que le créateur du piège veut protéger. Parmi les déclencheurs les plus courants, on trouve les plaques de pression et les sections de faux-plancher sur lesquels il ne faut pas marcher, les fils tendus en travers d'un chemin dans lesquels il ne faut pas se prendre les pieds, les poignées de porte à ne pas tourner, les serrures exigeant la bonne clef... Les pièges magiques se déclenchent souvent quand une créature entre dans un lieu ou touche quelque chose. Certains, comme le [_glyphe de protection_](/grimoire/glyphe-de-protection/), sont dotés de conditions de déclenchement plus complexes, comprenant un mot de commande les empêchant de se déclencher.
 
 ## Repérer et neutraliser un piège
 En général, un piège possède un élément visible après un examen détaillé des lieux. Un personnage peut repérer une pierre descellée qui cache une plaque de pression, remarquer la lumière qui se reflète sur un fil tendu en travers du chemin, déceler de petits trous dans le mur d'où sortiront des jets de flammes ou détecter n'importe quel élément trahissant la présence d'un piège.
 
 La description du piège précise quels tests, accompagnés de quels DD, permettent de détecter un piège, de le désamorcer ou les deux. Un personnage qui cherche activement un piège a droit à un test de Sagesse (Perception) contre le DD du piège. Vous pouvez également comparer le DD à atteindre pour repérer le piège avec la valeur de Sagesse (Perception) passive de chaque personnage, afin de savoir si l'un d'eux le remarque au passage. Si les aventuriers repèrent le piège avant de le déclencher, ils ont une chance de le désamorcer, soit définitivement, soit juste le temps de passer. Pour cela, vous pouvez demander à un personnage de faire un test d'Intelligence (Investigation) pour comprendre comment désactiver le piège, suivi d'un test de Dextérité effectué à l'aide d'outils de voleur pour accomplir l'acte de sabotage.
 
-N'importe quel personnage peut tenter un test d'Intelligence (Arcanes) pour détecter ou désamorcer un piège magique, en plus des autres tests indiqués dans la description du piège. Les DD sont les mêmes, quel que soit le type de test. De plus, la [_dissipation de la magie_](/grimoire/dissipation-de-la-magie) a une chance de désactiver la plupart des pièges magiques. Le DD du [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) à effectuer lors de la dissipation de la magie est indiqué dans la description du piège.
+N'importe quel personnage peut tenter un test d'Intelligence (Arcanes) pour détecter ou désamorcer un piège magique, en plus des autres tests indiqués dans la description du piège. Les DD sont les mêmes, quel que soit le type de test. De plus, la [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) a une chance de désactiver la plupart des pièges magiques. Le DD du [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) à effectuer lors de la dissipation de la magie est indiqué dans la description du piège.
 
 En général, la description du piège est assez claire pour que vous sachiez si les actions d'un personnage lui permettent de le localiser ou le déjouer. Comme souvent, ne laissez pas les jets de dé l'emporter sur une façon de jouer intelligente et une bonne préparation. Utilisez votre bon sens en vous appuyant sur la description du piège pour décider de ce qui se produit. Aucun piège ne peut, par sa conception, anticiper toutes les actions des personnages.
 
@@ -120,7 +120,7 @@ Un test de Sagesse (Perception) DD 15 révèle une absence d'empreintes indiquan
 
 Quand une créature s'avance sur le matériau de couverture, il s'ouvre comme une trappe et envoie l'intrus dans les profondeurs de la fosse, qui mesure généralement entre 3 et 6 mètres de profondeur, mais parfois plus.
 
-Une fois la fosse détectée, il faut glisser une pointe de fer ou un objet similaire entre le matériau de couverture et le sol normal afin d'empêcher le matériau de s'ouvrir comme une trappe, ce qui permet de passer sans risque. On peut également maintenir le matériau en position fermée par magie, avec un [_verrou magique_](/grimoire/verrou-magique) ou un sort similaire.
+Une fois la fosse détectée, il faut glisser une pointe de fer ou un objet similaire entre le matériau de couverture et le sol normal afin d'empêcher le matériau de s'ouvrir comme une trappe, ce qui permet de passer sans risque. On peut également maintenir le matériau en position fermée par magie, avec un [_verrou magique_](/grimoire/verrou-magique/) ou un sort similaire.
 
 **Fosse verrouillée**. Cette fosse est identique à la fosse dissimulée, à une exception près et de taille : la trappe est montée sur ressorts et se referme une fois une créature tombée dans la fosse, la piégeant à l'intérieur.
 
@@ -146,7 +146,7 @@ Des ténèbres magiques et impénétrables emplissent la bouche béante d'un vis
 
 Un test d'Intelligence (Arcanes) DD 20 révèle que la bouche contient une _sphère d'annihilation_ que l'on ne peut ni contrôler, ni déplacer. En dehors de cela, elle fonctionne comme une _sphère d'annihilation_ ordinaire.
 
-Certaines versions du piège comportent en plus un enchantement qui affecte la surface de pierre et pousse les créatures spécifiées à s'approcher et essayer de grimper dans la bouche. En dehors de cela, cet effet fonctionne comme l'effet d'_attirance_ du sort [_répulsion/attirance_](/grimoire/repulsion-attirance). Une [_dissipation de la magie_](/grimoire/dissipation-de-la-magie) (DD 18) réussie dissipe cet enchantement.
+Certaines versions du piège comportent en plus un enchantement qui affecte la surface de pierre et pousse les créatures spécifiées à s'approcher et essayer de grimper dans la bouche. En dehors de cela, cet effet fonctionne comme l'effet d'_attirance_ du sort [_répulsion/attirance_](/grimoire/repulsion-attirance/). Une [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) (DD 18) réussie dissipe cet enchantement.
 
 ### Sphère roulante
 _Piège mécanique_
@@ -166,11 +166,11 @@ _Piège magique_
 
 Ce piège s'active quand un intrus marche sur une plaque de pression. Il libère alors un jet de flammes qui jaillit d'une statue voisine. La statue peut représenter n'importe quoi, y compris un dragon ou un magicien en pleine incantation.
 
-Le DD est de 15 pour repérer la plaque de pression et de légères traces de brûlure sur les murs et le sol. Un sort ou un autre effet capable de percevoir la magie, comme [_détection de la magie_](/grimoire/detection-de-la-magie), révèle une aura magique d'évocation autour de la statue.
+Le DD est de 15 pour repérer la plaque de pression et de légères traces de brûlure sur les murs et le sol. Un sort ou un autre effet capable de percevoir la magie, comme [_détection de la magie_](/grimoire/detection-de-la-magie/), révèle une aura magique d'évocation autour de la statue.
 
 Le piège s'active quand un poids de 10 kilos ou plus appuie sur la plaque de pression. La statue crache alors un cône de feu de 9 mètres. Chaque créature située dans le cône doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13. Celles qui échouent subissent 22 (4d10) dégâts de feu, les autres la moitié seulement.
 
-Il suffit de glisser une pointe de fer ou un autre objet sous la plaque de pression pour empêcher le piège de s'activer. Si quelqu'un lance [_dissipation de la magie_](/grimoire/dissipation-de-la-magie) (DD 13) avec succès sur la statue, il détruit le piège.
+Il suffit de glisser une pointe de fer ou un autre objet sous la plaque de pression pour empêcher le piège de s'activer. Si quelqu'un lance [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) (DD 13) avec succès sur la statue, il détruit le piège.
 
 ### Zone de gravité inversée
 _Piège magique_

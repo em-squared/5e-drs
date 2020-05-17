@@ -12,19 +12,19 @@ abilityScores:
   int: 13
   sag: 14
   cha: 12
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 6
-skills: 
+skills:
   - name: "discretion"
     isExpert: true
   - name: "perception"
-movement: 
+movement:
   walk: 9
   climb: 9
-senses: 
+senses:
   darkvision: 36
-languages: 
+languages:
   - "commun des profondeurs"
   - "elfe"
 dungeonTypes:
@@ -36,9 +36,9 @@ source_page: 128
 ## Capacités
 _**Ascendance féerique**_. Le drider obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
 
-_**Incantation innée**_. La caractéristique d'incantation du drider est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 13). Le drider peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes)
-* _**1/jour chacun**_ : [_lueurs féeriques_](/grimoire/lueurs-feeriques), [_ténèbres_](/grimoire/tenebres)
+_**Incantation innée**_. La caractéristique d'incantation du drider est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Le drider peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes/)
+* _**1/jour chacun**_ : [_lueurs féeriques_](/grimoire/lueurs-feeriques/), [_ténèbres_](/grimoire/tenebres/)
 
 _**Marche dans les toiles**_. Le drider ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

@@ -49,7 +49,7 @@ source_page: 144
 ## Capacités
 _**Déplacement intangible**_. Le feu follet peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 
-_**Dévorer la vie**_. Par une action bonus, le feu follet peut cibler une créature toujours vivante avec 0 point de vie et située à 1,50 mètre ou moins de lui dans son champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 10 contre cette magie pour ne pas mourir. Si la cible meurt, le feu follet récupère 10 (3d6) points de vie.
+_**Dévorer la vie**_. Par une action bonus, le feu follet peut cibler une créature toujours vivante avec 0 point de vie et située à 1,50 mètre ou moins de lui dans son champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 contre cette magie pour ne pas mourir. Si la cible meurt, le feu follet récupère 10 (3d6) points de vie.
 
 _**Fugace**_. Le feu follet ne peut rien porter ou équiper.
 

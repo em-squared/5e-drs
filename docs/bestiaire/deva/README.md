@@ -43,9 +43,9 @@ source_page: 27
 ## Capacités
 _**Armes angéliques**_. Les attaques d'arme du déva sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 4d8 dégâts radiants supplémentaires (inclus dans l'attaque).
 
-_**Incantation innée**_. La caractéristique d'incantation du déva est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 17). Le déva peut lancer les sorts suivants de manière innée avec des composantes verbales uniquement :  
-* _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien)  
-* _**1/jour chacun**_ : [_communion_](/grimoire/communion), [_rappel à la vie_](/grimoire/rappel-a-la-vie)
+_**Incantation innée**_. La caractéristique d'incantation du déva est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17). Le déva peut lancer les sorts suivants de manière innée avec des composantes verbales uniquement :  
+* _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/)  
+* _**1/jour chacun**_ : [_communion_](/grimoire/communion/), [_rappel à la vie_](/grimoire/rappel-a-la-vie/)
 
 _**Résistance à la magie**_. Le déva obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

@@ -10,7 +10,7 @@ Cet anneau en pierre grisâtre, d'apparence très banale, fut forgé à partir d
 
 ***L'appel du sang***. L'anneau attire irrémédiablement les humanoïdes qui le voient. Ces derniers doivent réussir un jet de sauvegarde de Sagesse (DD 18) ou tout faire pour passer l'anneau, même tuer si cela s'avère nécessaire.
 
-***Lycanthrope***. Si vous portez l'anneau sans y être harmonisé, vous vous transformez chaque nuit de pleine lune en créature hybride entre un loup et un humanoïde de votre race. Votre équipement ne se transforme pas avec vous. Vous reprenez votre forme naturelle à l'aube, ou si vous êtes tué. La malédiction persiste même si vous ôtez l'anneau. Seuls les sorts [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_restauration supérieure_](/grimoire/restauration-superieure) peuvent vous guérir. Sous forme hybride, vos caractéristiques et aptitudes restent inchangées, sauf celles qui suivent :
+***Lycanthrope***. Si vous portez l'anneau sans y être harmonisé, vous vous transformez chaque nuit de pleine lune en créature hybride entre un loup et un humanoïde de votre race. Votre équipement ne se transforme pas avec vous. Vous reprenez votre forme naturelle à l'aube, ou si vous êtes tué. La malédiction persiste même si vous ôtez l'anneau. Seuls les sorts [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_restauration supérieure_](/grimoire/restauration-superieure/) peuvent vous guérir. Sous forme hybride, vos caractéristiques et aptitudes restent inchangées, sauf celles qui suivent :
 * Votre alignement devient chaotique mauvais.
 * Votre classe d'armure naturelle augmente de 1.
 * Vous obtenez la vision dans le noir à 18 mètres.

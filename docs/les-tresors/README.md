@@ -853,7 +853,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |3-6|1d4 (2) [sorts de 6<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-6/)|
 |7-8|1d4 (2) [sorts de 7<sup>e</sup> niveau](/liste-objets-magiques/parchemin-magique-7/)|
 |**41-60**|**Armes (lancer 1d20)**|
-|1-6|[Arme +3](/liste-objets-magiques/arme-3)|
+|1-6|[Arme +3](/liste-objets-magiques/arme-3/)|
 |7-11|3d6 (10) [Munitions +3](/liste-objets-magiques/munition-3/)|
 |12|[Arc du serment](/liste-objets-magiques/arc-du-serment/)|
 |13|[Cimeterre de célérité](/liste-objets-magiques/cimeterre-de-celerite/)|

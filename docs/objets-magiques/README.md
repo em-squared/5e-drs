@@ -7,14 +7,14 @@ Les objets magiques sont classés selon leur rareté : courant, peu courant, rar
 
 |Rareté|Valeur indicative|
 |:-:|:-:|
-|**[Courant](/liste-objets-magiques?raretes=Courant)**|2d6 (7) × 10 po|
-|**[Peu courant](/liste-objets-magiques?raretes=Peu%20courant)**|2d6 (7) × 50 po|
-|**[Rare](/liste-objets-magiques?raretes=Rare)**|2d10 (11) × 250 po|
-|**[Très rare](/liste-objets-magiques?raretes=Très%20rare)**|2d10 (11) × 2 500 po|
-|**[Légendaire](/liste-objets-magiques?raretes=Légendaire)**|2d6 (7) × 10 000 po|
+|**[Courant](/liste-objets-magiques/?raretes=Courant)**|2d6 (7) × 10 po|
+|**[Peu courant](/liste-objets-magiques/?raretes=Peu%20courant)**|2d6 (7) × 50 po|
+|**[Rare](/liste-objets-magiques/?raretes=Rare)**|2d10 (11) × 250 po|
+|**[Très rare](/liste-objets-magiques/?raretes=Très%20rare)**|2d10 (11) × 2 500 po|
+|**[Légendaire](/liste-objets-magiques/?raretes=Légendaire)**|2d6 (7) × 10 000 po|
 
 ## Identifier un objet magique
-Le sort [_identification_](/grimoire/identification) est le meilleur moyen d'obtenir des informations sur un objet magique. Le coût élevé des composantes nécessaires pousse cependant nombre d'aventuriers à découvrir les secrets de leurs objets magiques par d'autres moyens. Le premier est l'observation. Beaucoup d'objets portent des inscriptions qui peuvent être un mot de commande ou une sorte de notice d'utilisation. D'autres sont créés de manière à donner des indices, comme un anneau de nage qui serait gravé de motifs aquatiques. Le second moyen est l'expérimentation. Passez le même anneau de nage et jetez-vous à l'eau, par exemple. Les potions sont les objets les plus expérimentés : y tremper les lèvres un instant peut suffire, avec de l'expérience, à en découvrir les propriétés. Mais attention aux pièges et aux erreurs qui peuvent coûter très cher !
+Le sort [_identification_](/grimoire/identification/) est le meilleur moyen d'obtenir des informations sur un objet magique. Le coût élevé des composantes nécessaires pousse cependant nombre d'aventuriers à découvrir les secrets de leurs objets magiques par d'autres moyens. Le premier est l'observation. Beaucoup d'objets portent des inscriptions qui peuvent être un mot de commande ou une sorte de notice d'utilisation. D'autres sont créés de manière à donner des indices, comme un anneau de nage qui serait gravé de motifs aquatiques. Le second moyen est l'expérimentation. Passez le même anneau de nage et jetez-vous à l'eau, par exemple. Les potions sont les objets les plus expérimentés : y tremper les lèvres un instant peut suffire, avec de l'expérience, à en découvrir les propriétés. Mais attention aux pièges et aux erreurs qui peuvent coûter très cher !
 
 ## Harmonisation
 Une créature doit parfois sceller un pacte avec certains objets magiques avant de pouvoir utiliser leurs propriétés magiques. Ce pacte est appelé harmonisation et il faut parfois remplir certaines conditions pour plusieurs d'entre eux. Si la condition est une classe, une créature doit appartenir à cette classe pour qu'elle et lui puissent s'harmoniser (si la classe est celle d'un lanceur de sorts, un monstre remplit la condition s'il possède des emplacements de sort et utilise la liste de sorts de cette classe).
@@ -28,7 +28,7 @@ Un objet s'harmonise avec une seule créature à la fois, tandis qu'une même cr
 L'harmonisation entre une créature et un objet se dissipe si cette créature ne remplit plus les prérequis d'harmonisation, si elle est séparée de l'objet de plus de 30 mètres pendant au moins 24 heures, si elle meurt ou encore si une autre créature s'harmonise avec l'objet. Une créature peut mettre volontairement un terme à son harmonisation en passant une période de court repos concentrée sur l'objet, à moins que celui-ci ne soit maudit.
 
 ## Objets maudits
-Certains objets magiques infligent une malédiction à leur utilisateur. Généralement, une fois qu'un personnage l'a utilisé ou s'y est harmonisé, la malédiction ne peut être enlevée que par les sorts [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_restauration supérieure_](/grimoire/restauration-superieure). Les moyens habituels d'identification d'un objet magique ne révèlent pas la malédiction. Cette dernière est donc une mauvaise surprise qui frappe l'utilisateur de l'objet.
+Certains objets magiques infligent une malédiction à leur utilisateur. Généralement, une fois qu'un personnage l'a utilisé ou s'y est harmonisé, la malédiction ne peut être enlevée que par les sorts [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_restauration supérieure_](/grimoire/restauration-superieure/). Les moyens habituels d'identification d'un objet magique ne révèlent pas la malédiction. Cette dernière est donc une mauvaise surprise qui frappe l'utilisateur de l'objet.
 
 ## Les différents types d'objets magiques
 Il existe neuf types d'objets magiques : anneaux, armes, armures, baguettes, bâtons, objets merveilleux, parchemins, potions et sceptres.
@@ -68,7 +68,7 @@ Les objets appariés, comme les bottes, les brassards, les gantelets d'armes et 
 L'activation de certains objets magiques nécessite de l'utilisateur une action spéciale, comme tenir simplement l'objet en main ou murmurer un mot de commande. La description des catégories d'objets ou de certains objets particuliers précise comment les activer. Certains objets appliquent une ou plusieurs des règles suivantes en ce qui concerne leur activation.
 
 ### Mot de commande
-Un mot de commande est un mot ou une phrase qui doit être prononcé pour que l'objet fonctionne. Un objet magique qui nécessite la prononciation d'un mot de commande précis ne peut pas être activé dans une zone où les sons sont étouffés, comme dans la zone créée par un sort de [_silence_](/grimoire/silence).
+Un mot de commande est un mot ou une phrase qui doit être prononcé pour que l'objet fonctionne. Un objet magique qui nécessite la prononciation d'un mot de commande précis ne peut pas être activé dans une zone où les sons sont étouffés, comme dans la zone créée par un sort de [_silence_](/grimoire/silence/).
 
 ### Objets à utilisation unique
 Certains objets ne peuvent s'utiliser qu'une seule fois et sont dépensés une fois activés. Une potion ou un élixir doit être avalé et une huile appliquée sur le corps. Les inscriptions sur un parchemin disparaissent une fois lues. La magie d'un objet à utilisation unique disparaît une fois utilisée.
@@ -79,7 +79,7 @@ Certains objets magiques permettent à leurs utilisateurs de lancer des sorts pa
 Avec certains objets magiques, comme les bâtons, l'utilisateur doit appliquer sa caractéristique d'incantation quand il lance un sort par le biais de l'objet. S'il possède plusieurs caractéristiques d'incantation, il choisit celle utilisée avec l'objet. S'il ne possède aucune caractéristique d'incantation (un roublard avec l'aptitude utilisation d'objets magiques, par exemple), on considère que son modificateur de caractéristique d'incantation est égal à +0 lorsqu'il utilise l'objet et qu'il applique son bonus de maîtrise.
 
 ### Charges
-Certains objets magiques possèdent des charges qu'il faut dépenser pour activer leurs propriétés. Le nombre de charges restantes que contient un objet est révélé quand on lui lance un sort d'[_identification_](/grimoire/identification) ou quand une créature s'harmonise avec lui. De plus, quand un objet récupère des charges, la créature harmonisée sait combien de charges celui-ci récupère.
+Certains objets magiques possèdent des charges qu'il faut dépenser pour activer leurs propriétés. Le nombre de charges restantes que contient un objet est révélé quand on lui lance un sort d'[_identification_](/grimoire/identification/) ou quand une créature s'harmonise avec lui. De plus, quand un objet récupère des charges, la créature harmonisée sait combien de charges celui-ci récupère.
 
 ## Détruire un objet magique
 La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.

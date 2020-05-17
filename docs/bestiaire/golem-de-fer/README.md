@@ -56,4 +56,4 @@ _Touché_ : 20 (3d8+7) dégâts contondants.
 _**Épée**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 23 (3d10+7) dégâts tranchants.
 
-_**Souffle empoisonné (Recharge 6)**_. Le golem souffle du gaz empoisonné dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
+_**Souffle empoisonné (Recharge 6)**_. Le golem souffle du gaz empoisonné dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.

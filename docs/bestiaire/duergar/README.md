@@ -39,7 +39,7 @@ _**Sensibilité à la lumière du soleil**_. Le duergar subit un [_désavantage_
 ## Actions
 _**Agrandir (Recharge après un repos court ou long)**_. Pendant 1 minute, le duergar augmente par magie sa taille, ainsi que tous ses objets équipés ou transportés. Le duergar est alors de taille G, il double les dés de dégâts de ses attaques d'arme basés sur la Force (inclus dans les attaques) et il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et des jets de sauvegarde de Force. Si le duergar n'a pas assez de place pour adopter une Grande taille, sa taille augmente tout de même du maximum possible en fonction de l'espace disponible.
 
-_**Invisibilité (Recharge après un repos court ou long)**_. Le duergar devient [_invisible_](/gerer-la-sante-du-personnage#invisible) par magie. Il redevient visible s'il attaque, lance un sort, utilise _Agrandir_, si sa concentration est interrompue (comme s'il se concentrait sur un sort) ou au bout d'une heure. Ses objets équipés ou transportés deviennent également _invisibles_.
+_**Invisibilité (Recharge après un repos court ou long)**_. Le duergar devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) par magie. Il redevient visible s'il attaque, lance un sort, utilise _Agrandir_, si sa concentration est interrompue (comme s'il se concentrait sur un sort) ou au bout d'une heure. Ses objets équipés ou transportés deviennent également _invisibles_.
 
 _**Javeline**_. _Attaque d'arme à distance ou au corps à corps_ : +4 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
 _Touché_ : 5 (1d6+2) dégâts perforants ou 9 (2d6+2) dégâts perforants s'il s'est agrandi.

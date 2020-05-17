@@ -122,7 +122,7 @@ Au niveau 3, vous choisissez un [archétype](#archetypes-de-rodeur) auquel vous 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
 ### Attaque supplémentaire
-À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.
 
 ### Traversée des terrains
 À partir du niveau 8, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle a des aiguilles, ou présente un quelconque risque de ce type.
@@ -135,7 +135,7 @@ En plus de cela, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#av
 Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de Dextérité (Discrétion) tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
 
 ### Disparition
-À partir du niveau 14, vous pouvez utiliser l'action [_se cacher_](/combattre#se-cacher) comme action bonus lors de votre tour. Vous arrivez aussi à échapper aux tentatives de pistage par tout moyen non magique, sauf si vous choisissez de laisser des traces de votre passage.
+À partir du niveau 14, vous pouvez utiliser l'action [_se cacher_](/combattre/#se-cacher) comme action bonus lors de votre tour. Vous arrivez aussi à échapper aux tentatives de pistage par tout moyen non magique, sauf si vous choisissez de laisser des traces de votre passage.
 
 ### Sens sauvages
 Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les créatures que vous ne pouvez pas voir. Quand vous attaquez une créature que vous ne pouvez pas voir, le fait de ne pas la voir ne vous impose pas de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos jets d'attaque contre cette créature.
@@ -177,7 +177,7 @@ Au niveau 11, vous pouvez choisir l'une des deux aptitudes suivantes.
 #### Défense de chasseur supérieure
 Au niveau 15, vous pouvez choisir l'une des trois aptitudes suivantes.
 
-**Dérobade**. Si vous subissez un effet, comme le souffle enflammé d'un dragon rouge ou un sort d'[_éclair_](/grimoire/eclair), qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+**Dérobade**. Si vous subissez un effet, comme le souffle enflammé d'un dragon rouge ou un sort d'[_éclair_](/grimoire/eclair/), qui vous permet de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 **Retour de bâton**. Quand une créature hostile vous cible et rate son attaque de corps-à-corps, vous pouvez utiliser votre réaction pour contraindre cette créature à répéter la même attaque contre une autre créature de votre choix, à l'exception d'elle-même.
 
@@ -259,4 +259,4 @@ Par exemple, au niveau 15 (bonus de maîtrise de +5), vous utilisez la magie com
 Au niveau 13, vous pouvez choisir un deuxième style de combat.
 
 #### Attaque supplémentaire
-À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
+À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.

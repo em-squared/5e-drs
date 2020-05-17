@@ -86,7 +86,7 @@ Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techn
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
 ### Attaque supplémentaire
-À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.
 
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
 
@@ -140,13 +140,13 @@ De plus, à chaque fois que vous utilisez votre aptitude de frappe chirurgicale,
 Au niveau 7, lorsqu'une créature attaque un allié situé à moins de 1,50 mètre de vous, vous pouvez utiliser votre réaction pour devenir la cible de l'attaque à sa place. Cette aptitude fonctionne pour tout type d'attaque qui nécessite un [jet d'attaque](/combattre/#jets-d-attaque) (au corps-à-corps, à distance ou par sort). Vous devez annoncer votre intention avant que le résultat de l'attaque soit connu. Si l'attaque vous inflige des dégâts, vous obtenez la résistance à ces dégâts.
 
 #### Posture défensive
-Même lorsque vous adoptez une attitude défensive, vous restez dangereux. Également au niveau 7, lorsque vous utilisez l'action [_esquiver_](/combattre#esquiver), vous pouvez faire une attaque au corps-à-corps en action bonus.
+Même lorsque vous adoptez une attitude défensive, vous restez dangereux. Également au niveau 7, lorsque vous utilisez l'action [_esquiver_](/combattre/#esquiver), vous pouvez faire une attaque au corps-à-corps en action bonus.
 
 #### Style de combat supplémentaire
 Au niveau 10, vous pouvez choisir un deuxième style de combat parmi défense ou protection. De plus, vos réflexes incroyables vous permettent d'utiliser une de vos aptitudes parmi bloquer un adversaire et garde du corps au moment de votre choix dans le round, sans utiliser de réaction. Vous pouvez normalement utiliser votre réaction pour tout autre usage légal au même round, cela vous permet éventuellement une seconde utilisation d'une de ces aptitudes.
 
 #### Tête de fer
-À partir du niveau 15, lorsque vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une [_boule de feu_](/grimoire/boule-de-feu) ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
+À partir du niveau 15, lorsque vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une [_boule de feu_](/grimoire/boule-de-feu/) ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
 
 Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de l'un de vos adversaires.
 

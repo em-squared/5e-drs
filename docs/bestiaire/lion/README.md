@@ -29,7 +29,7 @@ source: "Créatures & Oppositions"
 source_page: 310
 ---
 ## Capacités
-_**Bond agressif**_. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+_**Bond agressif**_. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le lion peut effectuer une attaque de morsure contre elle par une action bonus.
 
 _**Odorat aiguisé**_. Le lion obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

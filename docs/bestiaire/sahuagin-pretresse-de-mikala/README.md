@@ -44,11 +44,11 @@ _**Amphibie limitée**_. Le sahuagin peut respirer à l'air libre et sous l'eau,
 
 _**Morsure de Mikala**_. Par une action bonus, la prêtresse peut dépenser un emplacement de sort pour que ses attaques au corps à corps infligent par magie 7 (2d6) dégâts radiants supplémentaires à une cible qu'elle parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si la prêtresse dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
 
-_**Incantation**_. La prêtresse est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
-* _**Tours de magie (à volonté)**_ : [_aspersion acide_](/grimoire/aspersion-acide), [_explosion occulte_](/grimoire/explosion-occulte), [_thaumaturgie_](/grimoire/thaumaturgie)
-* _**1er niveau (4 emplacements)**_ : [_strangulation_](/grimoire/strangulation), [_sanctuaire_](/grimoire/sanctuaire), [_soin des blessures_](/grimoire/soin-des-blessures)
-* _**2e niveau (3 emplacements)**_ : [_dessiccation_](/grimoire/dessiccation/), [_restauration inférieure_](/grimoire/restauration-inferieure)
-* _**3e niveau (2 emplacements)**_ : [_invoquer des animaux_](/grimoire/invoquer-des-animaux) (requin chasseur), [_esprits gardiens_](/grimoire/esprits-gardiens)
+_**Incantation**_. La prêtresse est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
+* _**Tours de magie (à volonté)**_ : [_aspersion acide_](/grimoire/aspersion-acide/), [_explosion occulte_](/grimoire/explosion-occulte/), [_thaumaturgie_](/grimoire/thaumaturgie/)
+* _**1er niveau (4 emplacements)**_ : [_strangulation_](/grimoire/strangulation/), [_sanctuaire_](/grimoire/sanctuaire/), [_soin des blessures_](/grimoire/soin-des-blessures/)
+* _**2e niveau (3 emplacements)**_ : [_dessiccation_](/grimoire/dessiccation/), [_restauration inférieure_](/grimoire/restauration-inferieure/)
+* _**3e niveau (2 emplacements)**_ : [_invoquer des animaux_](/grimoire/invoquer-des-animaux/) (requin chasseur), [_esprits gardiens_](/grimoire/esprits-gardiens/)
 
 _**Frénésie sanguinaire**_. Le sahuagin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 

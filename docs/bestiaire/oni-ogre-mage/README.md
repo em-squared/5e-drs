@@ -12,24 +12,24 @@ abilityScores:
   int: 14
   sag: 12
   cha: 15
-savingThrows: 
+savingThrows:
   - "dex"
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "cotte de mailles"
-skills: 
+skills:
   - name: "arcanes"
   - name: "perception"
   - name: "supercherie"
     isExpert: true
-movement: 
+movement:
   walk: 9
   fly: 9
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - "commun"
   - "géant"
 source: "Créatures & Oppositions"
@@ -38,9 +38,9 @@ source_page: 238
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de l'oni sont magiques.
 
-_**Incantation innée**_. La caractéristique d'incantation de l'oni est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 13). L'oni peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_invisibilité_](/grimoire/invisibilite), [_ténèbres_](/grimoire/tenebres)
-* _**1/jour chacun**_ : [_charme-personne_](/grimoire/charme-personne), [_cône de froid_](/grimoire/cone-de-froid), [_forme gazeuse_](/grimoire/forme-gazeuse), [_sommeil_](/grimoire/sommeil)
+_**Incantation innée**_. La caractéristique d'incantation de l'oni est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). L'oni peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_invisibilité_](/grimoire/invisibilite/), [_ténèbres_](/grimoire/tenebres/)
+* _**1/jour chacun**_ : [_charme-personne_](/grimoire/charme-personne/), [_cône de froid_](/grimoire/cone-de-froid/), [_forme gazeuse_](/grimoire/forme-gazeuse/), [_sommeil_](/grimoire/sommeil/)
 
 _**Régénération**_. L'oni récupère 10 points de vie au début de son tour s'il lui reste 1 point de vie au moins.
 

@@ -41,9 +41,9 @@ source: "Créatures & Oppositions"
 source_page: 52
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation du glabrezu est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie), [_ténèbres_](/grimoire/tenebres)
-* _**1/jour chacun**_ : [_confusion_](/grimoire/confusion), [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant), [_vol_](/grimoire/vol)
+_**Incantation innée**_. La caractéristique d'incantation du glabrezu est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_ténèbres_](/grimoire/tenebres/)
+* _**1/jour chacun**_ : [_confusion_](/grimoire/confusion/), [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/), [_vol_](/grimoire/vol/)
 
 _**Résistance à la magie**_. Le glabrezu obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

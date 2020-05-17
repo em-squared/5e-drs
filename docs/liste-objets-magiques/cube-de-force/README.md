@@ -29,9 +29,9 @@ Le cube perd des charges quand la barrière est la cible de certains sorts ou en
 §§§ .table-container
 |Sort ou objet|Charges perdues|
 |:-|:-:|
-|**[Désintégration](/grimoire/desintegration)**|1d12|
-|**[Cor de destruction](/liste-objets-magiques/cor-de-destruction)**|1d10|
-|**[Passe-muraille](/grimoire/passe-muraille)**|1d6|
-|**[Embruns prismatiques](/grimoire/embruns-prismatiques)**|1d20|
-|**[Mur de feu](/grimoire/mur-de-feu)**|1d4|
+|**[Désintégration](/grimoire/desintegration/)**|1d12|
+|**[Cor de destruction](/liste-objets-magiques/cor-de-destruction/)**|1d10|
+|**[Passe-muraille](/grimoire/passe-muraille/)**|1d6|
+|**[Embruns prismatiques](/grimoire/embruns-prismatiques/)**|1d20|
+|**[Mur de feu](/grimoire/mur-de-feu/)**|1d4|
 §§§

@@ -1,5 +1,6 @@
 ---
 title: Licence OGL
+toc: false
 ---
 # Licence OGL
 ## OPEN GAME LICENSE Version 1.0a

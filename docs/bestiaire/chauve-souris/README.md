@@ -30,7 +30,7 @@ source: "Créatures & Oppositions"
 source_page: 299
 ---
 ## Capacités
-_**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage#assourdi).
+_**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Ouïe aiguisée**_. La chauve-souris obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe.
 

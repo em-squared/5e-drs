@@ -80,7 +80,7 @@ Au troisième niveau, vous choisissez une voie qui détermine la nature de votre
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
 ### Attaque supplémentaire
-À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.
 
 ### Déplacement rapide
 À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde.

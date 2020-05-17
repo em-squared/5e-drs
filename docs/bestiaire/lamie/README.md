@@ -33,10 +33,10 @@ source: "Créatures & Oppositions"
 source_page: 198
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation de la lamie est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 13). La lamie peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_déguisement_](/grimoire/deguisement) (n'importe quelle forme humanoïde), [_image majeure_](/grimoire/image-majeure)
-* _**3/jour chacun**_ : [_charme-personne_](/grimoire/charme-personne), [_image miroir_](/grimoire/image-miroir), [_scrutation_](/grimoire/scrutation), [_suggestion_](/grimoire/suggestion)
-* _**1/jour**_ : [_coercition mystique_](/grimoire/coercition-mystique)
+_**Incantation innée**_. La caractéristique d'incantation de la lamie est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). La lamie peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+* _**À volonté**_ : [_déguisement_](/grimoire/deguisement/) (n'importe quelle forme humanoïde), [_image majeure_](/grimoire/image-majeure/)
+* _**3/jour chacun**_ : [_charme-personne_](/grimoire/charme-personne/), [_image miroir_](/grimoire/image-miroir/), [_scrutation_](/grimoire/scrutation/), [_suggestion_](/grimoire/suggestion/)
+* _**1/jour**_ : [_coercition mystique_](/grimoire/coercition-mystique/)
 
 ## Actions
 _**Attaques multiples**_. La lamie effectue deux attaques : une avec ses griffes et une avec sa dague ou son _Contact enivrant_.

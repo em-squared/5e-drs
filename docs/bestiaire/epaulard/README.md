@@ -32,7 +32,7 @@ source: "Créatures & Oppositions"
 source_page: 306
 ---
 ## Capacités
-_**Écholocalisation**_. L'épaulard ne peut plus utiliser sa vision aveugle s'il est [_assourdi_](/gerer-la-sante-du-personnage#assourdi).
+_**Écholocalisation**_. L'épaulard ne peut plus utiliser sa vision aveugle s'il est [_assourdi_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Ouïe aiguisée**_. L'épaulard obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe.
 

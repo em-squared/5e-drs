@@ -74,10 +74,10 @@ Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [j
 **DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de Sagesse.**
 
 ### Déluge de coups
-Immédiatement après avoir choisi l'action [_attaquer_](/combattre#attaquer) lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
+Immédiatement après avoir choisi l'action [_attaquer_](/combattre/#attaquer) lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
 ### Défense patiente
-Vous pouvez dépenser 1 point de ki pour utiliser l'action [_esquiver_](/combattre#esquiver) en action bonus lors de votre tour.
+Vous pouvez dépenser 1 point de ki pour utiliser l'action [_esquiver_](/combattre/#esquiver) en action bonus lors de votre tour.
 
 ### Déplacement aérien
 Vous pouvez dépenser 1 point de ki pour utiliser l'action [_se désengager_](/combattre/#se-desengager) ou [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
@@ -102,7 +102,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 À partir du niveau 4, quand vous êtes en train de chuter, vous pouvez utiliser votre réaction afin de réduire les dégâts de chute que vous subissez d'un montant égal à cinq fois votre niveau de moine.
 
 ### Attaque supplémentaire
-À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre#attaquer) lors de votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.
 
 ### Frappe étourdissante
 À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou elle sera [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de votre prochain tour.

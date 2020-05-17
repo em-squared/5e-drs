@@ -5,18 +5,18 @@ title: Comprendre le profil technique des monstres
 Les statistiques des monstres, parfois appelées **profils**, livrent les informations essentielles et nécessaires pour les jouer.
 
 ## Taille
-Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très grand (TG) ou gigantesque (Gig). La table des catégories de taille indique l'espace que contrôlent les créatures en fonction de leur taille lors d'un combat. Voir le chapitre [_Combattre - Taille des créatures_](/combattre#taille-des-creatures) pour plus d'informations sur la taille des créatures et l'emplacement qu'elles occupent.
+Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très grand (TG) ou gigantesque (Gig). La table des catégories de taille indique l'espace que contrôlent les créatures en fonction de leur taille lors d'un combat. Voir le chapitre [_Combattre - Taille des créatures_](/combattre/#taille-des-creatures) pour plus d'informations sur la taille des créatures et l'emplacement qu'elles occupent.
 
 ### Catégories de taille
 §§§ .table-container
 | Taille | Surface occupée | Exemples |
 |:-|:-|:-|
-| **Très petit** | 75 cm de côté | [Diablotin](/bestiaire/diablotin), [esprit follet](/bestiaire/esprit-follet) |
-| **Petit** | 1,50 m de côté | [Gobelin](/bestiaire/gobelin), [rat géant](/bestiaire/rat-geant) |
-| **Moyen** | 1,50 m de côté | [Loup-garou](/bestiaire/loup-garou), [orc](/bestiaire/orc) |
-| **Grand** | 3 m de côté | [Hippogriffe](/bestiaire/hippogriffe), [ogre](/bestiaire/ogre) |
-| **Très grand** | 4,50 m de côté | [Géant du feu](/bestiaire/geant-du-feu), [sylvanien](/bestiaire/sylvanien) |
-| **Gigantesque** | 6 m de côté ou + | [Kraken](/bestiaire/kraken), [ver pourpre](/bestiaire/ver-pourpre) |
+| **Très petit** | 75 cm de côté | [Diablotin](/bestiaire/diablotin/), [esprit follet](/bestiaire/esprit-follet/) |
+| **Petit** | 1,50 m de côté | [Gobelin](/bestiaire/gobelin/), [rat géant](/bestiaire/rat-geant/) |
+| **Moyen** | 1,50 m de côté | [Loup-garou](/bestiaire/loup-garou/), [orc](/bestiaire/orc/) |
+| **Grand** | 3 m de côté | [Hippogriffe](/bestiaire/hippogriffe/), [ogre](/bestiaire/ogre/) |
+| **Très grand** | 4,50 m de côté | [Géant du feu](/bestiaire/geant-du-feu/), [sylvanien](/bestiaire/sylvanien/) |
+| **Gigantesque** | 6 m de côté ou + | [Kraken](/bestiaire/kraken/), [ver pourpre](/bestiaire/ver-pourpre/) |
 §§§
 
 ## Type
@@ -82,7 +82,7 @@ Nombre de créatures dotées d'une intelligence réduite ne comprennent pas les 
 Un monstre qui porte une armure ou manie un bouclier possède une **classe d'armure** (CA) qui prend en compte son armure, son bouclier et sa Dextérité. Sinon, la CA d'un monstre dépend de son modificateur de Dextérité et de son armure naturelle, le cas échéant. Si un monstre possède une armure naturelle, porte une armure ou manie un bouclier, ceci est indiqué entre parenthèses après sa valeur de CA.
 
 ## Points de vie
-Un monstre meurt ou est détruit quand ses points de vie tombent à 0. Voir le chapitre [_Gérer la santé du personnage - Points de vie_](/gerer-la-sante-du-personnage#points-de-vie) pour plus d'informations sur les points de vie.
+Un monstre meurt ou est détruit quand ses points de vie tombent à 0. Voir le chapitre [_Gérer la santé du personnage - Points de vie_](/gerer-la-sante-du-personnage/#points-de-vie) pour plus d'informations sur les points de vie.
 
 Les points de vie d'un monstre sont représentés à la fois par un dé et par une valeur moyenne. Par exemple, un monstre avec 2d8 points de vie possède une moyenne de 9 points de vie (2 × 4,5).
 
@@ -103,7 +103,7 @@ La taille d'un monstre détermine le dé utilisé pour calculer ses points de vi
 Le modificateur de Constitution d'un monstre affecte également son nombre de points de vie. On le multiplie par le nombre de dés de vie et le résultat est ajouté aux points de vie du monstre. Par exemple, un monstre avec une Constitution de 12 (modificateur de +1) et 2d8 dés de vie possède 2d8+2 points de vie (moyenne de 11).
 
 ## Vitesse
-La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre#deplacement-et-position) pour plus d'informations sur la vitesse de déplacement.
+La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre/#deplacement-et-position) pour plus d'informations sur la vitesse de déplacement.
 
 Toutes les créatures ont une vitesse au sol, simplement appelée vitesse. Les créatures incapables de se déplacer au sol ont une vitesse de 0 mètre.
 
@@ -119,7 +119,7 @@ Un monstre avec une vitesse de fouissement peut se déplacer à travers le sable
 Un monstre avec une vitesse de nage n'a pas besoin de dépenser plus de déplacement pour nager.
 
 ### Vol
-Un monstre avec une vitesse de vol peut utiliser la totalité ou une partie de son déplacement pour voler. Certains monstres peuvent rester en vol stationnaire, ce qui complique les tentatives pour les déstabiliser en vol (comme expliqué dans les règles sur le vol du chapitre [_Combattre - Déplacement en vol_](/combattre#deplacement-en-vol)). Un tel monstre arrête de voler en mode stationnaire au moment où il meurt.
+Un monstre avec une vitesse de vol peut utiliser la totalité ou une partie de son déplacement pour voler. Certains monstres peuvent rester en vol stationnaire, ce qui complique les tentatives pour les déstabiliser en vol (comme expliqué dans les règles sur le vol du chapitre [_Combattre - Déplacement en vol_](/combattre/#deplacement-en-vol)). Un tel monstre arrête de voler en mode stationnaire au moment où il meurt.
 
 ## Valeurs de caractéristique
 Chaque monstre possède six valeurs de caractéristique (Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme) dont chacune est associée à un modificateur. Voir le chapitre [_Utiliser les caractéristiques_](/utiliser-les-caracteristiques) pour plus d'informations sur les valeurs de caractéristique et leurs fonctions en jeu.
@@ -236,14 +236,14 @@ Un monstre avec l'aptitude de classe « _incantation_ » possède un niveau de l
 
 Le monstre dispose d'une liste de sorts connus ou préparés issus d'une classe en particulier. La liste peut également comporter des sorts provenant d'une aptitude de cette classe, telle que l'aptitude « _domaine divin_ » du clerc ou « _cercle druidique_ » du druide. Le monstre est considéré comme un membre de cette classe lorsqu'il s'harmonise avec un objet magique ou utilise un objet magique nécessitant l'appartenance à cette classe ou l'accès à sa liste de sorts.
 
-Un monstre peut lancer un sort de sa liste à un niveau plus élevé s'il dispose de l'emplacement de sort correspondant. Par exemple, un mage drow avec le sort [_éclair_](/grimoire/eclair) de niveau 3 peut le lancer comme un sort de niveau 5 en dépensant un de ses emplacements de sort de niveau 5.
+Un monstre peut lancer un sort de sa liste à un niveau plus élevé s'il dispose de l'emplacement de sort correspondant. Par exemple, un mage drow avec le sort [_éclair_](/grimoire/eclair/) de niveau 3 peut le lancer comme un sort de niveau 5 en dépensant un de ses emplacements de sort de niveau 5.
 
 Vous pouvez changer les sorts connus ou préparés d'un monstre en remplaçant chaque sort par un autre de même niveau et issu de la liste associée à la même classe. Si vous changez des sorts de cette façon, le monstre peut représenter une menace plus ou moins dangereuse que celle suggérée par son indice de dangerosité.
 
 ### Incantation innée
 Un monstre capable de lancer des sorts de manière innée possède le trait spécial « _incantation innée_ ». Sauf indication contraire, un sort inné de niveau 1 ou plus est toujours lancé au niveau le plus bas possible et jamais à un niveau plus élevé. Si un monstre connaît un tour de magie pour lequel son niveau de lanceur de sorts importe mais qu'aucun niveau n'est précisé, prenez l'indice de dangerosité du monstre comme niveau.
 
-Des règles ou des restrictions spéciales peuvent modifier l'utilisation d'un sort inné. Par exemple, un mage drow peut lancer de manière innée le sort de [_lévitation_](/grimoire/levitation), mais ce sort impose une restriction « _soi-même_ », ce qui signifie qu'il affecte le mage drow seulement.
+Des règles ou des restrictions spéciales peuvent modifier l'utilisation d'un sort inné. Par exemple, un mage drow peut lancer de manière innée le sort de [_lévitation_](/grimoire/levitation/), mais ce sort impose une restriction « _soi-même_ », ce qui signifie qu'il affecte le mage drow seulement.
 
 Les sorts innés d'un monstre ne peuvent pas être remplacés par d'autres sorts. Si les sorts innés d'un monstre ne nécessitent aucun [jet d'attaque](/combattre/#jets-d-attaque), aucun bonus d'attaque n'est indiqué en complément.
 
@@ -251,10 +251,10 @@ Les sorts innés d'un monstre ne peuvent pas être remplacés par d'autres sorts
 Un monstre capable de lancer des sorts en utilisant la seule force de son esprit possède le sous-type psionique ajouté à son trait spécial « _incantation_ » ou « _incantation innée_ ». Aucune règle spéciale n'est spécifiquement associée à ce sous-type mais d'autres éléments du jeu peuvent s'y référer. Un monstre avec ce sous-type n'a généralement besoin d'aucune composante pour lancer ses sorts.
 
 ## Actions
-Quand un monstre effectue son action, il peut choisir parmi les options décrites dans la section « _Actions_ » de son profil ou effectuer l'une des actions communes à toutes les créatures, telles que l'action « [_se précipiter_](/combattre/#se-precipiter) » ou « [_se cacher_](/combattre#se-cacher) », décrites dans le chapitre [_Combattre - Actions en combat_](/combattre#actions-en-combat).
+Quand un monstre effectue son action, il peut choisir parmi les options décrites dans la section « _Actions_ » de son profil ou effectuer l'une des actions communes à toutes les créatures, telles que l'action « [_se précipiter_](/combattre/#se-precipiter) » ou « [_se cacher_](/combattre/#se-cacher) », décrites dans le chapitre [_Combattre - Actions en combat_](/combattre/#actions-en-combat).
 
 ### Attaques au corps à corps et à distance
-Les actions les plus courantes qu'un monstre effectuera lors d'un combat sont des attaques au corps à corps et à distance. Ces attaques se réalisent avec des sorts ou des armes, l'arme employée pouvant être un objet manufacturé ou une arme naturelle, telle qu'une griffe ou une queue acérée. Voir le chapitre [_Combattre - Porter une attaque_](/combattre#porter-une-attaque) pour plus d'informations sur les différents types d'attaques.
+Les actions les plus courantes qu'un monstre effectuera lors d'un combat sont des attaques au corps à corps et à distance. Ces attaques se réalisent avec des sorts ou des armes, l'arme employée pouvant être un objet manufacturé ou une arme naturelle, telle qu'une griffe ou une queue acérée. Voir le chapitre [_Combattre - Porter une attaque_](/combattre/#porter-une-attaque) pour plus d'informations sur les différents types d'attaques.
 
 **Créature et cible**. La cible d'une attaque au corps à corps ou à distance est généralement une créature ou une cible. À la différence d'une « _créature_ », une « _cible_ » peut être une créature ou un objet.
 

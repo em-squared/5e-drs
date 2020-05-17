@@ -12,20 +12,20 @@ abilityScores:
   int: 12
   sag: 16
   cha: 16
-savingThrows: 
+savingThrows:
   - "con"
   - "sag"
   - "cha"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 4
-skills: 
+skills:
   - name: "perception"
   - name: "perspicacite"
-movement: 
+movement:
   walk: 12
-senses: 
-languages: 
+senses:
+languages:
   - "commun"
   - "géant"
 environments:
@@ -35,9 +35,9 @@ source_page: 149
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation du géant est le Charisme. Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
-* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie), [_lumière_](/grimoire/lumiere), [_nappe de brouillard_](/grimoire/nappe-de-brouillard)
-* _**3/jour chacun**_ : [_léger comme une plume_](/grimoire/leger-comme-une-plume), [_pas brumeux_](/grimoire/pas-brumeux), [_télékinésie_](/grimoire/telekinesie), [_vol_](/grimoire/vol)
-* _**1/jour chacun**_ : [_contrôle du climat_](/grimoire/controle-du-climat), [_forme gazeuse_](/grimoire/forme-gazeuse)
+* _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_lumière_](/grimoire/lumiere/), [_nappe de brouillard_](/grimoire/nappe-de-brouillard/)
+* _**3/jour chacun**_ : [_léger comme une plume_](/grimoire/leger-comme-une-plume/), [_pas brumeux_](/grimoire/pas-brumeux/), [_télékinésie_](/grimoire/telekinesie/), [_vol_](/grimoire/vol/)
+* _**1/jour chacun**_ : [_contrôle du climat_](/grimoire/controle-du-climat/), [_forme gazeuse_](/grimoire/forme-gazeuse/)
 
 _**Odorat aiguisé**_. Le géant obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

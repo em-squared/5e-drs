@@ -48,7 +48,7 @@ _**Résistance à la magie**_. L'érinye obtient un [_avantage_](/utiliser-les-c
 _**Attaques multiples**_. L'érinye effectue trois attaques.
 
 _**Arc long**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 45/180 m, une cible.  
-_Touché_ : 7 (1d8+3) dégâts perforants plus 13 (3d8) dégâts de poison et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
+_Touché_ : 7 (1d8+3) dégâts perforants plus 13 (3d8) dégâts de poison et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
 
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si l'épée est maniée à deux mains, plus 13 (3d8) dégâts de poison.

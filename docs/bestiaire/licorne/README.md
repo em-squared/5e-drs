@@ -12,19 +12,19 @@ abilityScores:
   int: 11
   sag: 17
   cha: 16
-ac: 
+ac:
   armorType: null
-movement: 
+movement:
   walk: 15
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "empoisonne"
   - "paralyse"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "poison"
-languages: 
+languages:
   - "céleste"
   - "elfe"
   - "sylvestre"
@@ -37,11 +37,11 @@ source_page: 204
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de la licorne sont magiques.
 
-_**Charge**_. Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 15 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_**Charge**_. Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 15 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
-_**Incantation innée**_. La caractéristique d'incantation de la licorne est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
-* _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien), [_druidisme_](/grimoire/druidisme), [_passage sans trace_](/grimoire/passage-sans-trace)
-* _**1/jour chacun**_ : [_apaisement des émotions_](/grimoire/apaisement-des-emotions), [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien), [_enchevêtrement_](/grimoire/enchevetrement)
+_**Incantation innée**_. La caractéristique d'incantation de la licorne est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
+* _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_druidisme_](/grimoire/druidisme/), [_passage sans trace_](/grimoire/passage-sans-trace/)
+* _**1/jour chacun**_ : [_apaisement des émotions_](/grimoire/apaisement-des-emotions/), [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/), [_enchevêtrement_](/grimoire/enchevetrement/)
 
 _**Résistance à la magie**_. La licorne obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

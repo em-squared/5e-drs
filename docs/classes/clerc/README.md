@@ -142,50 +142,6 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 
 #### Liste des domaines
 
-<!-- <v-expansion-panels focusable>
-<v-expansion-panel>
-<v-expansion-panel-header>Air</v-expansion-panel-header>
-<v-expansion-panel-content>
-<v-row>
-<v-col cols="12" md="6">
-| Niveau de clerc | Sorts |
-|:-:|:-|
-| **1** | [_léger comme une plume_](/grimoire/leger-comme-une-plume/) |
-| **3** | [_bourrasque_](/grimoire/bourrasque/) |
-| **5** | [_vol_](/grimoire/vol/) |
-| **7** | [_forme gazeuse_](/grimoire/forme-gazeuse/) |
-| **9** | [_invoquer un élémentaire (Air)_](/grimoire/invoquer-un-elementaire/) |
-</v-col>
-<v-col cols="12" md="6" markdown="1">
-<p><strong>Canalisation d'énergie divine : Asphyxie</strong></p>
-<p>Cette aptitude a exactement les mêmes effets que si vous lanciez le sort <a href="/grimoire/dessication/"><em>dessiccation</em></a>, mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).</p>
-</v-col>
-</v-row>
-</v-expansion-panel-content>
-</v-expansion-panel>
-
-<v-expansion-panel>
-<v-expansion-panel-header>Arts</v-expansion-panel-header>
-<v-expansion-panel-content>
-<v-row>
-<v-col cols="12" md="6">
-| Niveau de clerc | Sorts |
-|:-:|:-|
-| **1** | [_illusion mineure_](/grimoire/illusion-mineure/) |
-| **3** | [_instrument fantomatique_](/grimoire/instrument-fantomatique/) |
-| **5** | [_motif hypnotique_](/grimoire/motif-hypnotique/) |
-| **7** | [_façonnage de la pierre_](/grimoire/faconnage-de-la-pierre/) |
-| **9** | [_apparence trompeuse_](/grimoire/apparence-trompeuse/) |
-</v-col>
-<v-col cols="12" md="6" markdown="1">
-<p><strong>Canalisation d'énergie divine : Inspiration divine</strong></p>
-<p>Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix ([test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.</p>
-</v-col>
-</v-row>
-</v-expansion-panel-content>
-</v-expansion-panel>
-</v-expansion-panels> -->
-
 ##### Air
 §§§ .d-md-flex
 §§§ .table-container .flex-shrink-0
@@ -606,29 +562,29 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |:-:|:-|
 |**1**|[_protection contre la loi et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)|
 |**3**|[_augure_](/grimoire/augure/)|
-|**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts)|
+|**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts/)|
 |**7**|[_divination_](/grimoire/divination/)|
 |**9**|[_coercition mystique_](/grimoire/coercition-mystique/)|
 §§§
 
 #### Canalisation d'énergie divine : Pouvoir des anciens
-À partir du niveau 2, vous pouvez utiliser une canalisation d'énergie divine pour lancer le sort de [_bénédiction_](/grimoire/benediction) ou le sort de [_fléau_](/grimoire/fleau) en dépensant une action bonus. Lorsque vous lancez [_bénédiction_](/grimoire/benediction) ou [_fléau_](/grimoire/fleau) de cette façon, votre concentration ne peut pas être involontairement interrompue et les cibles ajoutent ou retranchent 1d6 à leurs tests au lieu de 1d4 tel que prévu par ces sorts. À partir du niveau 8, vous utilisez un d8 et, à partir du niveau 14, un d10.
+À partir du niveau 2, vous pouvez utiliser une canalisation d'énergie divine pour lancer le sort de [_bénédiction_](/grimoire/benediction/) ou le sort de [_fléau_](/grimoire/fleau/) en dépensant une action bonus. Lorsque vous lancez [_bénédiction_](/grimoire/benediction/) ou [_fléau_](/grimoire/fleau/) de cette façon, votre concentration ne peut pas être involontairement interrompue et les cibles ajoutent ou retranchent 1d6 à leurs tests au lieu de 1d4 tel que prévu par ces sorts. À partir du niveau 8, vous utilisez un d8 et, à partir du niveau 14, un d10.
 
 #### Magie ancestrale
-À partir du niveau 6, votre contact privilégié avec vos ancêtres et l'au-delà vous permet d'apprendre et de lancer les tours de magie suivants comme s'il s'agissait de sorts de clerc : [_contact glacial_](/grimoire/contact-glacial) et [_message_](/grimoire/message).
+À partir du niveau 6, votre contact privilégié avec vos ancêtres et l'au-delà vous permet d'apprendre et de lancer les tours de magie suivants comme s'il s'agissait de sorts de clerc : [_contact glacial_](/grimoire/contact-glacial/) et [_message_](/grimoire/message/).
 De plus, vous pouvez utiliser une canalisation d'énergie divine pour lancer l'un de vos sorts de domaine.
 
 #### Guérisseur
-À partir du niveau 8, vous êtes capable de lancer le sort [_soin des blessures_](/grimoire/soin-des-blessures) en utilisant une action bonus et [_mot de guérison_](/grimoire/mot-de-guerison) en utilisant une réaction (donc en dehors de votre propre tour).
+À partir du niveau 8, vous êtes capable de lancer le sort [_soin des blessures_](/grimoire/soin-des-blessures/) en utilisant une action bonus et [_mot de guérison_](/grimoire/mot-de-guerison/) en utilisant une réaction (donc en dehors de votre propre tour).
 
 #### Esprits protecteurs
-Également au niveau 8, les esprits des anciens vous protègent. Désormais, vous n'avez pas besoin de maintenir de concentration lorsque vous lancez le sort [_esprits gardiens_](/grimoire/esprits-gardiens) et vous pouvez lancer ce sort sans dépenser d'emplacement de sort une fois par repos long. À partir du niveau 14, vous pouvez le lancer une fois après chaque repos court.
-Vous pouvez également passer dans le monde des esprits sans effort ; en utilisant une canalisation d'énergie divine et une action bonus au lieu d'une action, vous lancez le sort [_forme éthérée_](/grimoire/forme-etheree).
+Également au niveau 8, les esprits des anciens vous protègent. Désormais, vous n'avez pas besoin de maintenir de concentration lorsque vous lancez le sort [_esprits gardiens_](/grimoire/esprits-gardiens/) et vous pouvez lancer ce sort sans dépenser d'emplacement de sort une fois par repos long. À partir du niveau 14, vous pouvez le lancer une fois après chaque repos court.
+Vous pouvez également passer dans le monde des esprits sans effort ; en utilisant une canalisation d'énergie divine et une action bonus au lieu d'une action, vous lancez le sort [_forme éthérée_](/grimoire/forme-etheree/).
 
 #### Maître des traditions
 Au niveau 17, vous obtenez deux points de caractéristiques supplémentaires que vous pouvez ajouter au choix en Sagesse ou en Charisme. Vous pouvez choisir de répartir un point en Sagesse et l'autre en Charisme. Votre maximum pour ces deux valeurs est à présent de 22.
 
-Désormais, vous êtes capable de lancer le sort [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe) en utilisant une action bonus et [_mot de guérison de groupe_](/grimoire/mot-de-guerison-de-groupe) en utilisant une réaction (donc en dehors de votre propre tour).
+Désormais, vous êtes capable de lancer le sort [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) en utilisant une action bonus et [_mot de guérison de groupe_](/grimoire/mot-de-guerison-de-groupe/) en utilisant une réaction (donc en dehors de votre propre tour).
 
 ### Guide spirituel
 
@@ -654,7 +610,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence Persuasion. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
 
 #### Soutien rapide
-Également au niveau 1, vous n'avez besoin que d'une action bonus pour lancer les tours de magie [_assistance_](/grimoire/assistance), [_épargner les mourants_](/grimoire/epargner-les-mourants) et [_résistance_](/grimoire/resistance).
+Également au niveau 1, vous n'avez besoin que d'une action bonus pour lancer les tours de magie [_assistance_](/grimoire/assistance/), [_épargner les mourants_](/grimoire/epargner-les-mourants/) et [_résistance_](/grimoire/resistance/).
 
 #### Canalisation d'énergie divine : Marque de dévotion
 À partir du niveau 2, à la suite d'une cérémonie durant laquelle tous les bénéficiaires sont tenus de prier en votre compagnie et de réciter les préceptes de votre religion pendant 1 minute, vous pouvez dépenser votre canalisation d'énergie divine pour apposer une marque de dévotion sur tous vos alliés et vous-même dans un rayon de 3 mètres. Lancez un d20 et notez le résultat obtenu.
@@ -662,7 +618,7 @@ Nul n'est votre égal pour utiliser les mots et pour convaincre les individus co
 À tout moment pendant les prochaines 24 heures, le bénéficiaire peut dépenser sa marque de dévotion en utilisant une réaction pour remplacer le résultat d'un d20 qu'il vient de lancer par le résultat que vous avez obtenu. Alternativement, il peut dépenser sa marque de dévotion pour remplacer le résultat de son adversaire : par exemple, pour le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort ou pour le jet d'une attaque dirigée contre lui. Aucun bénéficiaire ne peut obtenir plus d'une marque de dévotion à la fois.
 
 #### Soutien étendu
-Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assistance), la cible du sort peut appliquer l'effet à un [jet d'attaque](/combattre/#jets-d-attaque), et lorsque vous lancez le tour de magie [_résistance_](/grimoire/resistance), elle peut appliquer l'effet à sa CA contre une attaque.
+Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assistance/), la cible du sort peut appliquer l'effet à un [jet d'attaque](/combattre/#jets-d-attaque), et lorsque vous lancez le tour de magie [_résistance_](/grimoire/resistance/), elle peut appliquer l'effet à sa CA contre une attaque.
 
 #### Analyse des faiblesses
 Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. En cas d'échec, pendant 1 heure, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme effectués contre cette cible et elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses jets de sauvegarde de Sagesse contre les sorts que vous lancez. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
@@ -670,7 +626,7 @@ Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assis
 Si vous conversez pendant 1 heure complète avec votre cible, vous imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la sauvegarde et vous bénéficiez des effets de l'analyse des faiblesses pendant 24 heures. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
 
 #### Soutien puissant
-Au niveau 8, si vous utilisez une action pour lancer [_assistance_](/grimoire/assistance) ou [_résistance_](/grimoire/resistance), votre cible obtient un bonus d'1d6 au lieu d'1d4. Le bonus passe à 1d8 au niveau 14 et 1d10 au niveau 17. Désormais, lorsque vous maintenez votre concentration sur l'un de ces sorts, vous ne pouvez plus être involontairement déconcentré.
+Au niveau 8, si vous utilisez une action pour lancer [_assistance_](/grimoire/assistance/) ou [_résistance_](/grimoire/resistance/), votre cible obtient un bonus d'1d6 au lieu d'1d4. Le bonus passe à 1d8 au niveau 14 et 1d10 au niveau 17. Désormais, lorsque vous maintenez votre concentration sur l'un de ces sorts, vous ne pouvez plus être involontairement déconcentré.
 
 #### Mentor
 Également, au niveau 8, vous pouvez établir une relation particulière avec un disciple. Vous devez vous entretenir avec le sujet volontaire pendant une journée complète. Votre disciple bénéficie d'effets équivalents au sort [_lueur d'espoir_](/grimoire/lueur-d-espoir/) lorsque vous êtes à moins de 9 mètres l'un de l'autre pendant la semaine qui suit. Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres sorts. Le lien est prolongé de semaine en semaine tant que vous prenez le temps d'un entretien hebdomadaire d'au moins 1 heure, mais il est brisé si votre disciple vous manque de respect, ne fait pas de son mieux pour vous aider ou vous protéger ou s'il agit de façon clairement opposée à vos préceptes moraux. Vous ne pouvez être lié qu'à un seul disciple à la fois.

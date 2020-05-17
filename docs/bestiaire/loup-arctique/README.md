@@ -42,6 +42,6 @@ _**Tactique de groupe**_. Le loup obtient un [_avantage_](/utiliser-les-caracter
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_Touché_ : 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
-_**Souffle glacial (Recharge 5-6)**_. Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) de Dextérité DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde](/utiliser-les-caracteristiques#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
+_**Souffle glacial (Recharge 5-6)**_. Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
