@@ -1,5 +1,5 @@
 <template>
-  <v-btn color="primary" class="mb-4" depressed link to="/mes-objets-magiques/">Mes objets magiques<v-chip v-if="$store.state.myMagicItems.magicItems.length > 0" class="ml-2" color="#fff" small label>{{ $store.state.myMagicItems.magicItems.length }}</v-chip></v-btn>
+  <v-btn color="primary" class="mb-4" depressed link to="/mes-objets-magiques/">Mes objets magiques<v-chip v-show="$store.state.myMagicItems.magicItems.length > 0" class="ml-2" color="#fff" small label>{{ $store.state.myMagicItems.magicItems.length }}</v-chip></v-btn>
 </template>
 
 <script>

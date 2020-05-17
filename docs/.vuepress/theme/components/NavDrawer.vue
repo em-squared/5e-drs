@@ -2,7 +2,6 @@
   <div class="">
     <v-navigation-drawer class="main-drawer" v-model="drawer" :clipped="$vuetify.breakpoint.lgAndUp" width="300" app>
       <v-list dense nav>
-        <!-- <v-btn class="hidden-md-and-up site-title" text link block :to="{ path: '/' }"><img src="/dragon_pourpre.svg" />&nbsp;{{ $site.title }}</v-btn> -->
         <v-list-item class="hidden-md-and-up site-title" link :to="{path: '/'}">
           <v-list-item-avatar>
             <img :src="$vuetify.theme.dark ? '/dragon_blanc.svg' : '/dragon_pourpre.svg'">
