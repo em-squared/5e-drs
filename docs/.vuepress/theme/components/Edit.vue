@@ -1,7 +1,7 @@
 <template>
-  <div class="d-print-none">
+  <div class="d-print-none" v-if="reposity && !$page.frontmatter.notEditable">
     <v-divider class="my-4"/>
-    <v-btn v-if="reposity && !$page.frontmatter.notEditable" link depressed :href="source" target="_blank" color="accent" outlined><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
+    <v-btn link depressed :href="source" target="_blank" color="accent" outlined><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
   </div>
 </template>
 

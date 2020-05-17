@@ -564,7 +564,7 @@ module.exports = {
         ]
       },
       {
-        title: 'Outils de création',
+        title: 'Aides de jeu',
         icon: 'mdi-tools',
         children: [
           {
