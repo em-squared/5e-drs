@@ -13,7 +13,7 @@ Les sources de ce site sont disponibles sur [GitHub](https://github.com/em-squar
 
 Vous souhaitez participer aux frais d'hébergement ou m'encourager ?
 
-<v-btn class="mb-2" depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="\_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jettez un sou au développeur</v-btn>
+<v-btn class="mb-2" depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="\_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jetez un sou au développeur</v-btn>
 
 ## Les contributeurs
 Cette nouvelle version a pu voir le jour grâce à la contribution de bénévoles qui ont apporté leur soutien à la relecture des contenus, la recherche de bugs et les suggestions d'améliorations ou d'ajout de fonctionnalités.
