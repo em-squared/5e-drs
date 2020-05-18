@@ -20,12 +20,16 @@
             class="mt-6"
             v-model="challengeRange"
             min="0"
-            max="30"
+            :max="challenges.length-1"
             thumb-size="24"
             thumb-label="always"
             hide-details
             @end="onEndChallengeRange"
-          ></v-range-slider>
+            >
+            <template v-slot:thumb-label="{ value }">
+              {{ challenges[value].label }}
+            </template>
+          </v-range-slider>
         </v-expansion-panel-content>
       </v-expansion-panel>
 
@@ -69,13 +73,15 @@
 <script>
 // import { mapMutations } from 'vuex'
 import { setUrlParams, getUrlParameter, setBooleanMutation, setListMutation } from '@theme/util/filterHelpers'
+import { CHALLENGES } from '../../data/monsters'
 
 export default {
   name: 'MonsterFilters',
 
   data () {
     return {
-      panels: []
+      panels: [],
+      challenges: CHALLENGES
     }
   },
 
@@ -138,7 +144,14 @@ export default {
   methods: {
 
     onEndChallengeRange () {
-      setUrlParams('trancheID', this.challengeRange)
+      if (this.challengeRange[0] > this.challengeRange[1]) {
+        let min = range[1]
+        let max = range[0]
+        this.challengeRange[0] = min
+        this.challengeRange[1] = max
+      }
+      let range = [Number(CHALLENGES[this.challengeRange[0]].value), Number(CHALLENGES[this.challengeRange[1]].value)]
+      setUrlParams('trancheID', range)
     },
 
     switchType () {
@@ -218,8 +231,21 @@ export default {
     let selectedEnvironments = getUrlParameter(window.location.href, "environnements").split(",")
     let selectedDungeonTypes = getUrlParameter(window.location.href, "donjons").split(",")
 
-    if (challengeRange && challengeRange[0] != '') {
-      this.$store.commit('monsterFilters/setChallengeRange', challengeRange)
+    if (challengeRange && challengeRange[0] != '' && challengeRange[1] != '') {
+      let convertedChallengeRange = []
+      let min = CHALLENGES.findIndex(e => e.value == challengeRange[0])
+      if (min !== -1) {
+        convertedChallengeRange[0] = Number(min)
+      } else {
+        convertedChallengeRange[0] = Number(0)
+      }
+      let max = CHALLENGES.findIndex(e => e.value == challengeRange[1])
+      if (max !== -1) {
+        convertedChallengeRange[1] = Number(max)
+      } else {
+        convertedChallengeRange[1] = Number(CHALLENGES.length - 1)
+      }
+      this.$store.commit('monsterFilters/setChallengeRange', convertedChallengeRange)
     }
     setListMutation(selectedTypes, this.$store, 'monsterFilters/setTypesFromList')
     setListMutation(selectedSizes, this.$store, 'monsterFilters/setSizesFromList')

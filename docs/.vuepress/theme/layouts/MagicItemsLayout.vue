@@ -203,7 +203,7 @@ export default {
     },
 
     changePage (page) {
-      console.log(page)
+      // console.log(page)
       setUrlParams("page", [page])
     },
 

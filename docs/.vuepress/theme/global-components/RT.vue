@@ -46,7 +46,7 @@ export default {
 
   mounted () {
     this.tooltipObject = this.tooltips[this.t]
-    console.log(this.tooltipObject)
+    // console.log(this.tooltipObject)
   }
 }
 </script>

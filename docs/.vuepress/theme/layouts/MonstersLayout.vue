@@ -12,8 +12,8 @@
     <h1>Bestiaire</h1>
 
     <div class="active-filters mb-2">
-      <div class="challengeRange-filter" v-if="Number(challengeRange[0]) >= 0 && Number(challengeRange[1]) <= 30">
-        <strong>Indice de dangerosité</strong> entre {{ challengeRange[0] }} et {{ challengeRange[1]}}
+      <div class="challengeRange-filter" v-if="Number(challengeRange[0]) >= 0 && Number(challengeRange[1]) <= challenges.length-1">
+        <strong>Indice de dangerosité</strong> entre {{ challenges[challengeRange[0]].label }} et {{ challenges[challengeRange[1]].label }}
       </div>
       <div class="types-filter mb-1" v-if="selectedTypes.length > 0">
         <strong>Types</strong> : <v-chip class="mr-1" v-for="(type, idx) in selectedTypes">{{ type }}</v-chip>
@@ -92,6 +92,7 @@ import { displayChallenge } from '@theme/util/monsterHelpers'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import Monster from '@theme/components/Monster'
 import MyMonstersButton from '@theme/global-components/MyMonstersButton'
+import { CHALLENGES } from '../../data/monsters'
 
 export default {
   components: { Breadcrumb, Monster, MyMonstersButton },
@@ -118,7 +119,8 @@ export default {
         { text: "Sous-type", align: 'start', sortable: false, value: 'frontmatter.subtype' },
         { text: "Environnements", align: 'start', sortable: false, value: 'frontmatter.environments' },
         { text: "Type de donjons", align: 'start', sortable: false, value: 'frontmatter.dungeonTypes' },
-      ]
+      ],
+      challenges: CHALLENGES
     }
   },
 
@@ -183,7 +185,7 @@ export default {
         maxID = this.challengeRange[0]
       }
       results = results.filter(item => {
-        return item.frontmatter.challenge >= minID && item.frontmatter.challenge <= maxID
+        return item.frontmatter.challenge >= Number(CHALLENGES[minID].value) && item.frontmatter.challenge <= Number(CHALLENGES[maxID].value)
       })
 
       // Filter types
@@ -287,7 +289,7 @@ export default {
     },
 
     changePage (page) {
-      console.log(page)
+      // console.log(page)
       setUrlParams("page", [page])
     },
 

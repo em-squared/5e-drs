@@ -9,11 +9,11 @@
     <v-btn class="hidden-sm-and-down" @click.stop="setIsThemeDark" icon>
       <v-icon v-html="$vuetify.theme.dark ? 'mdi-brightness-4' : 'mdi-brightness-7'"></v-icon>
     </v-btn>
-    <v-btn class="hidden-sm-and-down" @click.stop="toggleAboutDialog" icon>
+    <v-btn class="hidden-sm-and-down" link :to="{path: '/a-propos/'}" icon>
       <v-icon>mdi-information</v-icon>
     </v-btn>
-    <v-btn class="hidden-sm-and-down" v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank" icon>
-      <v-icon>mdi-glass-mug-variant</v-icon>
+    <v-btn class="hidden-sm-and-down" v-if="$site.themeConfig.kofi" @click.stop="toggleSupportDialog" icon>
+      <v-icon color="#BDB76B">mdi-glass-mug-variant</v-icon>
     </v-btn>
     <v-btn class="ml-5" @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>

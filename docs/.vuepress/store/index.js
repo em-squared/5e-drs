@@ -90,7 +90,7 @@ export default new Vuex.Store({
     },
     setIsThemeDark: (state, payload) => {
       state.isThemeDark = payload
-      console.log(payload)
+      // console.log(payload)
       Cookies.set('heros-et-dragons-is-dark', state.isThemeDark)
     },
     setIsOpenAboutDialog: (state, payload) => {

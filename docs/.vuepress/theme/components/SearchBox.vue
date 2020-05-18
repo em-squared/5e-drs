@@ -55,7 +55,7 @@ export default {
       }
     })
     const { pages } = this.$site
-    console.log(pages)
+    // console.log(pages)
     this.index.add(pages)
   },
 
@@ -71,7 +71,7 @@ export default {
           encode: 'extra'
         },
         (result) => {
-          console.log(result)
+          // console.log(result)
           this.items = result
           this.loading = false
         })

@@ -60,10 +60,10 @@ _**Em-squared**_
 <v-col cols="12" md="6">
 
 ## Ressources utiles
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://discord.gg/mp6ECCs" link target="blank"><v-icon left>mdi-discord</v-icon> Discord H&D DRS</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://github.com/em-squared/heros-et-dragons-drs" link target="blank"><v-icon left>mdi-github</v-icon> Source Github</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="\_blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://discord.gg/mp6ECCs" link target="\_blank"><v-icon left>mdi-discord</v-icon> Discord H&D DRS</v-btn>
+<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://github.com/em-squared/heros-et-dragons-drs" link target="\_blank"><v-icon left>mdi-github</v-icon> Source Github</v-btn>
 
 ## Bibliothèques
 <MySpellsButton />

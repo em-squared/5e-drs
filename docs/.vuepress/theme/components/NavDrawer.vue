@@ -106,17 +106,17 @@
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item v-if="$site.themeConfig.kofi" link :href="$site.themeConfig.kofi" target="_blank">
+        <v-list-item v-if="$site.themeConfig.kofi" @click.stop="toggleSupportDialog">
           <v-list-item-icon>
-            <v-icon>mdi-glass-mug-variant</v-icon>
+            <v-icon color="#BDB76B">mdi-glass-mug-variant</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>
-              Encouragez le développement
+              Jettez un sou au développeur
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item @click.stop="toggleAboutDialog">
+        <v-list-item link :to="{path: '/a-propos/'}" color="accent">
           <v-list-item-icon>
             <v-icon>mdi-information</v-icon>
           </v-list-item-icon>
@@ -146,16 +146,19 @@
         <v-card-title class="headline">À propos de H&D DRS</v-card-title>
 
         <v-card-text>
-          <p>Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.</p>
-          <p>Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE" target="_blank">GPLv3</a>.</p>
+          <p class="title-2">
+            <strong>La personne derrière ce site</strong><br>
+            Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.<br>
+            Développeur web passionné de jeux de rôle, j'aime mettre l'un au service de l'autre.<br>
+            Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE" target="_blank">GPLv3</a>.
+          </p>
+          <p>Vous souhaitez participer aux frais d'hébergement ou m'encourager ?</p>
+          <p class="text-center">
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jettez un sou au développeur</v-btn>
+          </p>
           <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
           <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
           <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
-          <v-row v-if="$site.themeConfig.kofi">
-            <v-col class="text-center">
-              <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
-            </v-col>
-          </v-row>
         </v-card-text>
 
         <v-card-actions>
@@ -166,21 +169,22 @@
 
     <v-dialog v-model="isOpenSupportDialog" @click:outside="toggleSupportDialog" max-width="600">
       <v-card>
-        <v-card-title class="headline">Encouragez le développement</v-card-title>
+        <v-card-title class="headline">
+          <span>Jettez un sou au développeur</span>
+          <v-spacer></v-spacer>
+          <v-btn color="primary" icon @click="toggleSupportDialog"><v-icon>mdi-close</v-icon></v-btn>
+        </v-card-title>
 
         <v-card-text>
-          <p>Vous souhaitez participer aux frais d'hébergement ? Ou vous voulez encourager le développement de la plateforme ?</p>
-          <p>Votre participation sera appréciée !</p>
-          <v-row v-if="$site.themeConfig.kofi">
-            <v-col class="text-center">
-              <v-btn depressed dark color="#29abe0" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-coffee</v-icon>Ko-fi</v-btn>
-            </v-col>
-          </v-row>
+          <p><strong>Pourquoi donner ?</strong></p>
+          <p>Soyons clairs : l'accès au site est <strong>gratuit</strong>. Pour <strong>tout le monde</strong>. Pour <strong>toujours</strong>. Et <strong>sans publicité</strong>. Aucun revenu n'est donc généré par son biais. En revanche, la mise en ligne d'un site web a un coût.</p>
+          <p>L'objectif est donc de couvrir ce coût.</p>
+          <p>Vous pouvez participer aux frais d'hébergement et permettre à tout le monde et à vous-même d'en profiter ou m'encourager au développement parce que vous pensez que mon travail le mérite.</p>
+          <p>C'est <strong>vous</strong> qui décidez.</p>
+          <p class="text-center">
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jettez un sou au développeur</v-btn>
+          </p>
         </v-card-text>
-
-        <v-card-actions>
-          <v-btn color="primary" text @click="toggleSupportDialog">Fermer</v-btn>
-        </v-card-actions>
       </v-card>
     </v-dialog>
   </div>
