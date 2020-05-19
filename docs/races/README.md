@@ -35,29 +35,29 @@ Les valeurs indiquées ne sont pas absolues et ne constituent pas des minimums e
 
 |Race|Taille basse|Taille moyenne|Taille haute|Poids bas|Poids moyen|Poids haut|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**[Demi-elfe](/races/demi-elfe)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|
-|**[Demi-orc](/races/demi-orc)**|1,60 m|1,80 m|2,05 m|70 kg|110 kg|180 kg|
-|**[Elfe d'aether](/races/elfe)**|1,40 m|1,65 m|1,85 m|45 kg|60 kg|85 kg|
-|**[Elfe de fer](/races/elfe)**|1,40 m|1,65 m|1,85 m|45 kg|60 kg|85 kg|
-|**[Elfe des sylves](/races/elfe)**|1,40 m|1,65 m|1,85 m|50 kg|65 kg|85 kg|
-|**[Gnome des fées](/races/gnome)**|0,90 m|1,00 m|1,10 m|15 kg|18 kg|23 kg|
-|**[Gnome des lacs](/races/gnome)**|0,95 m|1,05 m|1,20 m|17 kg|20 kg|25 kg|
-|**[Gnome des roches](/races/gnome)**|0,95 m|1,05 m|1,20 m|17 kg|20 kg|25 kg|
-|**[Halfelin (grand sabot)](/races/halfelin)**|0,95 m|1,00 m|1,10 m|18 kg|22 kg|30 kg|
-|**[Halfelin (pied-léger)](/races/halfelin)**|0,85 m|0,90 m|1,00 m|17 kg|20 kg|25 kg|
-|**[Humain](/races/humain)**|1,50 m|1,70 m|1,95 m|50 kg|75 kg|130 kg|
-|**[Nain des laves](/races/nain)**|1,10 m|1,20 m|1,30 m|55 kg|70 kg|95 kg|
-|**[Nain des pierres](/races/nain)**|1,25 m|1,35 m|1,45 m|65 kg|85 kg|115 kg|
-|**[Nain des tertres](/races/nain)**|1,15 m|1,25 m|1,35 m|60 kg|75 kg|105 kg|
+|**[Demi-elfe](/races/demi-elfe/)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|
+|**[Demi-orc](/races/demi-orc/)**|1,60 m|1,80 m|2,05 m|70 kg|110 kg|180 kg|
+|**[Elfe d'aether](/races/elfe/)**|1,40 m|1,65 m|1,85 m|45 kg|60 kg|85 kg|
+|**[Elfe de fer](/races/elfe/)**|1,40 m|1,65 m|1,85 m|45 kg|60 kg|85 kg|
+|**[Elfe des sylves](/races/elfe/)**|1,40 m|1,65 m|1,85 m|50 kg|65 kg|85 kg|
+|**[Gnome des fées](/races/gnome/)**|0,90 m|1,00 m|1,10 m|15 kg|18 kg|23 kg|
+|**[Gnome des lacs](/races/gnome/)**|0,95 m|1,05 m|1,20 m|17 kg|20 kg|25 kg|
+|**[Gnome des roches](/races/gnome/)**|0,95 m|1,05 m|1,20 m|17 kg|20 kg|25 kg|
+|**[Halfelin (grand sabot)](/races/halfelin/)**|0,95 m|1,00 m|1,10 m|18 kg|22 kg|30 kg|
+|**[Halfelin (pied-léger)](/races/halfelin/)**|0,85 m|0,90 m|1,00 m|17 kg|20 kg|25 kg|
+|**[Humain](/races/humain/)**|1,50 m|1,70 m|1,95 m|50 kg|75 kg|130 kg|
+|**[Nain des laves](/races/nain/)**|1,10 m|1,20 m|1,30 m|55 kg|70 kg|95 kg|
+|**[Nain des pierres](/races/nain/)**|1,25 m|1,35 m|1,45 m|65 kg|85 kg|115 kg|
+|**[Nain des tertres](/races/nain/)**|1,15 m|1,25 m|1,35 m|60 kg|75 kg|105 kg|
 
 
 ### Races exceptionnelles
 
 |Race|Taille basse|Taille moyenne|Taille haute|Poids bas|Poids moyen|Poids haut|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**[Aasimar](/races/aasimar)**|1,55 m|1,75 m|2,00 m|55 kg|80 kg|130 kg|
-|**[Demi-ogre](/races/demi-ogre)**|1,80 m|2,00 m|2,30 m|100 kg|150 kg|250 kg|
-|**[Félys](/races/felys)**|1,40 m|1,55 m|1,70 m|25 kg|35 kg|50 kg|
-|**[Homme serpent](/races/homme-serpent)**|1,70 m|1,80 m|2,00 m|75 kg|95 kg|120 kg|
-|**[Sangdragon](/races/sangdragon)**|1,70 m|1,90 m|2,10 m|90 kg|125 kg|190 kg|
-|**[Tieffelin](/races/tieffelin)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|
+|**[Aasimar](/races/aasimar/)**|1,55 m|1,75 m|2,00 m|55 kg|80 kg|130 kg|
+|**[Demi-ogre](/races/demi-ogre/)**|1,80 m|2,00 m|2,30 m|100 kg|150 kg|250 kg|
+|**[Félys](/races/felys/)**|1,40 m|1,55 m|1,70 m|25 kg|35 kg|50 kg|
+|**[Homme serpent](/races/homme-serpent/)**|1,70 m|1,80 m|2,00 m|75 kg|95 kg|120 kg|
+|**[Sangdragon](/races/sangdragon/)**|1,70 m|1,90 m|2,10 m|90 kg|125 kg|190 kg|
+|**[Tieffelin](/races/tieffelin/)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|

@@ -3,7 +3,7 @@ title: Dépenses courantes
 ---
 # Dépenses courantes
 ## Manger, boire et se loger
-Le [tableau de nourriture, boisson et logement](#nourriture-boisson-et-logement) vous indique le prix de chaque aliment ou boisson et d'un logement pour une nuit. Ces prix sont déjà compris dans ce que vous coûte votre train de vie (voir à ce propos le chapitre [Partir à l'aventure](/partir-a-l-aventure)).
+Le [tableau de nourriture, boisson et logement](#nourriture-boisson-et-logement) vous indique le prix de chaque aliment ou boisson et d'un logement pour une nuit. Ces prix sont déjà compris dans ce que vous coûte votre train de vie (voir à ce propos le chapitre [Partir à l'aventure](/partir-a-l-aventure/)).
 
 ## Services courants
 Vous trouverez dans le [tableau des services](#services) certains des services les plus courants. Vous pouvez engager quelqu'un pour accomplir des services plus spécifiques parmi la multitude de personnes pouvant être engagées dans une ville classique. Par exemple, un magicien peut payer un menuisier pour qu'il lui fabrique un coffre élaboré (et sa réplique miniature) qu'il pourra ensuite utiliser pour lancer le sort <ST s="coffre-secret"/>. Un guerrier peut demander à un forgeron de lui forger une épée spéciale. Un barde peut engager un tailleur pour qu'il lui prépare des atours exquis en prévision d'une performance devant le duc.

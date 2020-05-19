@@ -102,7 +102,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 ## Archétypes de roublard
 ### Voleur
 #### Mains lestes
-À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de Dextérité (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action _utiliser un objet_.
+À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de Dextérité (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action [_utiliser un objet_](/combattre/#utiliser-un-objet).
 
 #### Monte-en-l'air
 Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d'escalader plus vite que la normale. Escalader ne vous coûte plus de déplacement supplémentaire.
@@ -145,7 +145,7 @@ Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras
 Au niveau 3, vous obtenez la maîtrise des accessoires de déguisement et des accessoires de faussaire. De plus, au niveau 6, vous ajoutez ces deux ensembles d'outils à la liste des compétences auxquelles vous pouvez choisir d'appliquer votre aptitude d'expertise.
 
 #### Don pour les langues
-Également au niveau 3 et par la suite, vous apprenez une langue supplémentaire issue de la liste des langues standards ou exotiques (voir le chapitre [_Personnalité et historique - Langues_](/personnalite-et-historique#langues-exotiques)) par point de bonus de maîtrise. Vous apprenez de nouvelles langues lorsque votre bonus de maîtrise augmente.
+Également au niveau 3 et par la suite, vous apprenez une langue supplémentaire issue de la liste des langues standards ou exotiques (voir le chapitre [_Personnalité et historique - Langues_](/personnalite-et-historique/#langues-exotiques)) par point de bonus de maîtrise. Vous apprenez de nouvelles langues lorsque votre bonus de maîtrise augmente.
 
 #### Lire sur les lèvres
 À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de Sagesse (Perception) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si votre cible est dans une zone de lumière faible.

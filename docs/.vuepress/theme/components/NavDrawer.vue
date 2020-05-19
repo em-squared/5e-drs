@@ -170,7 +170,7 @@
     <v-dialog v-model="isOpenSupportDialog" @click:outside="toggleSupportDialog" max-width="600">
       <v-card>
         <v-card-title class="headline d-flex justify-space-between">
-          <span>Jeter un sou<span class="d-none d-md-inline"> au développeur</span></span>
+          <span>Jeter un sou<span class="d-none d-md-inline">&nbsp;au développeur</span></span>
           <v-btn color="primary" icon @click="toggleSupportDialog"><v-icon>mdi-close</v-icon></v-btn>
         </v-card-title>
 
@@ -181,7 +181,7 @@
           <p>Vous pouvez participer aux frais d'hébergement et permettre à tout le monde et à vous-même d'en profiter ou m'encourager au développement parce que vous pensez que mon travail le mérite.</p>
           <p>C'est <strong>vous</strong> qui décidez.</p>
           <p class="text-center">
-            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline"> au développeur</span></v-btn>
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline">&nbsp;au développeur</span></v-btn>
           </p>
         </v-card-text>
       </v-card>

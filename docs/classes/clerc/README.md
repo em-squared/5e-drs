@@ -63,7 +63,7 @@ Le tableau d'[évolution du clerc](#evolution-du-clerc) vous indique combien d'e
 
 Dans la liste de sorts de clerc, choisissez les sorts que vous êtes capable de lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de clerc égal à votre modificateur de Sagesse + votre niveau de clerc (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire ceux pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures), vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures/), vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de clerc vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
@@ -78,7 +78,7 @@ La caractéristique d'incantation qui vous permet de lancer les sorts de clerc e
 Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez préparé sous la forme d'un rituel dans la mesure où il possède le sous-type rituel.
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un symbole sacré (voir le chapitre [Équipement](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts de clerc.
+Vous pouvez utiliser un symbole sacré (voir le chapitre [Équipement](/equipement-d-aventurier/)) comme focaliseur d'incantation pour vos sorts de clerc.
 
 ### Domaine divin
 Choisissez un domaine divin parmi [gardien des traditions](#gardien-des-traditions), [guide spirituel](#guide-spirituel), [prêtre](#pretre), [théurge](#theurge) et le [domaine de la vie](#domaine-de-la-vie). Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
@@ -342,7 +342,7 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Explosion de lumière
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas _aveuglées_.
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle).
 §§§
 §§§
 

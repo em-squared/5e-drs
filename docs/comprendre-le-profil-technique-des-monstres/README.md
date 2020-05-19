@@ -70,7 +70,7 @@ Voici les divers types de monstre de ce jeu, aucune règle spécifique ne leur �
 Un ou plusieurs sous-types apparaissent parfois, entre parenthèses, après le type d'un monstre. Par exemple, un orc est de type humanoïde (orc). Les sous-types indiqués entre parenthèses permettent une classification plus précise pour certaines créatures. Aucune règle spécifique ne leur est rattachée mais des éléments du jeu, comme les objets magiques, peuvent s'y référer. Par exemple, une lance particulièrement efficace pour combattre les démons sera tout aussi efficace contre tous les monstres de sous-type démon.
 
 ## Alignement
-L'alignement d'un monstre donne des indications sur son tempérament et son comportement lors d'un combat ou d'une situation de _roleplay_. Par exemple, il peut s'avérer difficile de raisonner un monstre Chaotique Mauvais. Ce monstre pourrait même attaquer les personnages à vue, là où un monstre Neutre serait prêt à négocier. Voir le chapitre [_Personnalité & Historique - Alignement_](/personnalite-et-historique#alignement) pour plus d'informations sur les différents alignements.
+L'alignement d'un monstre donne des indications sur son tempérament et son comportement lors d'un combat ou d'une situation de _roleplay_. Par exemple, il peut s'avérer difficile de raisonner un monstre Chaotique Mauvais. Ce monstre pourrait même attaquer les personnages à vue, là où un monstre Neutre serait prêt à négocier. Voir le chapitre [_Personnalité & Historique - Alignement_](/personnalite-et-historique/#alignement) pour plus d'informations sur les différents alignements.
 
 L'alignement dans le profil des monstres est une indication par défaut. N'hésitez pas à vous en écarter et à le changer pour l'adapter aux besoins de votre campagne. Rien ne vous empêche de créer un dragon vert avec un alignement bon ou un géant des tempêtes mauvais.
 
@@ -122,7 +122,7 @@ Un monstre avec une vitesse de nage n'a pas besoin de dépenser plus de déplace
 Un monstre avec une vitesse de vol peut utiliser la totalité ou une partie de son déplacement pour voler. Certains monstres peuvent rester en vol stationnaire, ce qui complique les tentatives pour les déstabiliser en vol (comme expliqué dans les règles sur le vol du chapitre [_Combattre - Déplacement en vol_](/combattre/#deplacement-en-vol)). Un tel monstre arrête de voler en mode stationnaire au moment où il meurt.
 
 ## Valeurs de caractéristique
-Chaque monstre possède six valeurs de caractéristique (Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme) dont chacune est associée à un modificateur. Voir le chapitre [_Utiliser les caractéristiques_](/utiliser-les-caracteristiques) pour plus d'informations sur les valeurs de caractéristique et leurs fonctions en jeu.
+Chaque monstre possède six valeurs de caractéristique (Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme) dont chacune est associée à un modificateur. Voir le chapitre [_Utiliser les caractéristiques_](/utiliser-les-caracteristiques/) pour plus d'informations sur les valeurs de caractéristique et leurs fonctions en jeu.
 
 ## Jets de sauvegarde
 La ligne « _Jets de sauvegarde_ » apparaît seulement chez les créatures particulièrement douées pour résister à certains types d'effets. Par exemple, une créature difficile à charmer ou à terroriser peut bénéficier d'un bonus aux jets de sauvegarde de Sagesse. La plupart des créatures ne possèdent aucun bonus spécial aux jets de sauvegarde et, dans ce cas, cette ligne est omise.
@@ -203,7 +203,7 @@ Le nombre de points d'expérience (PX) que vaut un monstre dépend de son indice
 
 Sauf indication contraire, un monstre convoqué par un sort ou un autre pouvoir magique vaut le montant de PX indiqué dans son profil.
 
-Le chapitre [Construire une rencontre](/construire-une-rencontre) explique comment créer des rencontres en fonction d'un budget en PX et comment ajuster la difficulté d'une rencontre.
+Le chapitre [Construire une rencontre](/construire-une-rencontre/) explique comment créer des rencontres en fonction d'un budget en PX et comment ajuster la difficulté d'une rencontre.
 
 #### Points d'expérience en fonction de l'indice de dangerosité
 §§§ .table-container
@@ -232,7 +232,7 @@ Le chapitre [Construire une rencontre](/construire-une-rencontre) explique comme
 Les traits spéciaux (qui apparaissent après l'indice de dangerosité d'un monstre mais avant ses éventuelles actions ou réactions) sont des particularités qui peuvent s'avérer utiles lors d'une rencontre de combat et qui nécessitent quelques explications.
 
 ### Incantation
-Un monstre avec l'aptitude de classe « _incantation_ » possède un niveau de lanceur de sorts et des emplacements de sort qu'il utilise pour lancer ses sorts de niveau 1 ou plus (comme expliqué dans le chapitre [_Lancer des sorts_](/lancer-des-sorts)). Le niveau de lanceur de sorts est également utilisé pour les éventuels tours de magie indiqués dans cette section.
+Un monstre avec l'aptitude de classe « _incantation_ » possède un niveau de lanceur de sorts et des emplacements de sort qu'il utilise pour lancer ses sorts de niveau 1 ou plus (comme expliqué dans le chapitre [_Lancer des sorts_](/lancer-des-sorts/)). Le niveau de lanceur de sorts est également utilisé pour les éventuels tours de magie indiqués dans cette section.
 
 Le monstre dispose d'une liste de sorts connus ou préparés issus d'une classe en particulier. La liste peut également comporter des sorts provenant d'une aptitude de cette classe, telle que l'aptitude « _domaine divin_ » du clerc ou « _cercle druidique_ » du druide. Le monstre est considéré comme un membre de cette classe lorsqu'il s'harmonise avec un objet magique ou utilise un objet magique nécessitant l'appartenance à cette classe ou l'accès à sa liste de sorts.
 

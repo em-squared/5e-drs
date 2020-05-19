@@ -60,7 +60,7 @@ Vous connaissez deux tours de magie de votre choix parmi la liste de <router-lin
 ### Emplacements de sorts
 Vous trouverez dans le tableau d'[évolution du barde](#evolution-du-barde) le nombre d'emplacements de sorts que vous avez et qui vous permettent de lancer des sorts de niveau 1 ou supérieur. Pour lancer l'un de ces sorts, vous devez utiliser un emplacement de sort d'un niveau équivalent ou supérieur au sort que vous voulez lancer. Vous regagnez tous les emplacements de sort que vous avez utilisés après un repos long.
 
-Par exemple, si vous connaissez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures) et que vous avez un emplacement de sort de niveau 1 et un emplacement de sort de niveau 2 disponibles, vous pouvez utiliser au choix l'un de ces deux emplacements pour lancer ce sort.
+Par exemple, si vous connaissez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures/) et que vous avez un emplacement de sort de niveau 1 et un emplacement de sort de niveau 2 disponibles, vous pouvez utiliser au choix l'un de ces deux emplacements pour lancer ce sort.
 
 ### Sorts connus de niveau 1 et supérieur
 Vous connaissez quatre sorts de niveau 1 choisis dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Barde' }}">sorts de barde</router-link>.
@@ -181,7 +181,7 @@ Au niveau 3, vous choisissez une spécialité emblématique des troupes de spect
 * **Voyante** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les jets de sauvegardes de Sagesse.
 
 #### Main dans la main
-D'où vous venez, la solidarité n'est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section [Travailler ensemble](/utiliser-les-caracteristiques/#travailler-ensemble) du chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques)), en cas de succès de votre test, vous comptabilisez deux succès.
+D'où vous venez, la solidarité n'est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section [Travailler ensemble](/utiliser-les-caracteristiques/#travailler-ensemble) du chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques/)), en cas de succès de votre test, vous comptabilisez deux succès.
 
 #### Instinct de survie
 Vous n'êtes pas un guerrier mais, sur la route, vous avez vécu votre lot d'attaques de brigands et de traquenards. La troupe a du apprendre à se défendre et les saltimbanques ont acquis la réputation de ne pas être des proies faciles. Au niveau 6, vous obtenez une aptitude selon votre spécialité :

@@ -220,7 +220,7 @@ En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant 
 ##### Air
 Vous gagnez le pouvoir surnaturel zéphyr ou arc électrique.
 
-**Zéphyr**. En utilisant une action, vous générez un tourbillon d'air tonitruant autour de vous jusqu'au début de votre prochain tour. Toute créature de taille M ou inférieure située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts de tonnerre et elle est _repoussée_ de 1,50 mètre de vous. La détonation se fait entendre jusqu'à 30 mètres.
+**Zéphyr**. En utilisant une action, vous générez un tourbillon d'air tonitruant autour de vous jusqu'au début de votre prochain tour. Toute créature de taille M ou inférieure située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts de tonnerre et elle est [_repoussée_](/gerer-la-sante-du-personnage/#repousse) de 1,50 mètre de vous. La détonation se fait entendre jusqu'à 30 mètres.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
@@ -231,7 +231,7 @@ Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le nive
 ##### Eau
 Vous gagnez le pouvoir surnaturel déluge ou décharge glaciale.
 
-**Déluge**. En utilisant une action, vous invoquez une masse d'eau du plan élémentaire qui s'abat autour de vous. Chaque créature située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts contondant et est _repoussée_ de 1,50 mètre de vous.
+**Déluge**. En utilisant une action, vous invoquez une masse d'eau du plan élémentaire qui s'abat autour de vous. Chaque créature située à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas d'échec, elle subit 1d6 dégâts contondant et est [_repoussée_](/gerer-la-sante-du-personnage/#repousse) de 1,50 mètre de vous.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 

@@ -104,32 +104,32 @@ Par exemple, un test de Dextérité peut refléter la tentative d'un personnage 
 Les compétences liées à chaque valeur de caractéristique sont présentées dans la liste ci-dessous. Aucune compétence n'est associée à la Constitution. Plus loin dans ce chapitre, vous pourrez trouver un descriptif de chaque caractéristique avec des exemples de l'utilisation des compétences associées.
 
 #### Force
-Athlétisme
+[Athlétisme](#athletisme)
 
 #### Dextérité
-Acrobaties  
-Discrétion  
-Escamotage
+[Acrobaties](#acrobaties)  
+[Discrétion](#discretion)  
+[Escamotage](#escamotage)
 
 #### Intelligence
-Arcanes  
-Histoire  
-Investigation  
-Nature  
-Religion
+[Arcanes](#arcanes)  
+[Histoire](#histoire)  
+[Investigation](#investigation)  
+[Nature](#nature)  
+[Religion](#religion)
 
 #### Sagesse
-Dressage  
-Médecine  
-Perception  
-Perspicacité  
-Survie
+[Dressage](#dressage)  
+[Médecine](#medecine)  
+[Perception](#perception)  
+[Perspicacité](#perspicacite)  
+[Survie](#survie)
 
 #### Charisme
-Intimidation  
-Persuasion  
-Représentation  
-Supercherie
+[Intimidation](#intimidation)  
+[Persuasion](#persuasion)  
+[Représentation](#representation)  
+[Supercherie](#supercherie)
 
 Il peut arriver que le MJ demande un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) lié à une compétence spécifique. Par exemple, un test de Sagesse (Perception). Un joueur peut aussi demander au MJ si sa maîtrise d'une compétence donnée s'applique à un test. Dans les deux cas, la maîtrise d'une compétence permet à un personnage d'ajouter son bonus de maîtrise au [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) lié à cette compétence. S'il ne maîtrise pas la compétence, le personnage fait un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) normal.
 
@@ -260,7 +260,7 @@ Pendant un combat, la plupart des créatures restent attentives aux signes de da
 Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de Sagesse (Perception) de cette créature, qui est égale à 10 + le modificateur de Sagesse de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), ajoutez 5 à sa valeur passive. Si au contraire elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une Sagesse de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 14.
 
 ##### Que pouvez-vous voir ?
-L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre [_Partir à l'aventure - Vision et lumière_](/partir-a-l-aventure#vision-et-lumiere).
+L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre [_Partir à l'aventure - Vision et lumière_](/partir-a-l-aventure/#vision-et-lumiere).
 §§§
 
 ### Constitution

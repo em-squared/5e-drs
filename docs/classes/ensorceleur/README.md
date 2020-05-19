@@ -76,7 +76,7 @@ La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur
 **Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Charisme**
 
 ### Focaliseur d'incantation
-Vous pouvez utiliser un focaliseur arcanique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier)) comme focaliseur d'incantation pour vos sorts d'ensorceleur.
+Vous pouvez utiliser un focaliseur arcanique (voir le chapitre [Équipement - Équipement d'aventurier](/equipement-d-aventurier/)) comme focaliseur d'incantation pour vos sorts d'ensorceleur.
 
 ### Origine magique
 Choisissez une origine qui explique la source de vos pouvoirs magiques innés : [lignée draconique](#lignee-draconique), [lignée céleste](#lignee-celeste), [lignée féerique](#lignee-feerique) ou [lignée infernale](#lignee-infernale). Ces origines sont détaillées à la fin de la section consacrée à cette classe.
@@ -211,7 +211,7 @@ Enfin, lorsque vous lancez un sort dont le type de dégâts correspond à feu ou
 Au niveau 14, en dépensant 3 points de sorcellerie, vous pouvez lancer le sort [_prière de soins_](/grimoire/priere-de-soins/) au niveau 2. Vous pouvez dépenser davantage de points de sorcellerie pour le lancer avec un emplacement de sort supérieur : vous utilisez pour cela le tableau de création d'emplacements de sort de l'ensorceleur (voir [Source de magie](#source-de-magie)). Vous devez terminer un repos court ou long avant de pouvoir utiliser de nouveau cette aptitude.
 
 #### Présence angélique
-À partir du niveau 18, vous pouvez invoquer la présence apaisante de votre ancêtre céleste, redonnant courage et moral aux alliés qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de paix dans un rayon de 18 mètres. Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être _charmés_, _terrorisés_ ou _empoisonnés_ jusqu'à ce que l'aura se dissipe. De plus, tant que vous êtes sous l'effet de cette aura, vous pouvez lancer le tour de magie [_flamme sacrée_](/grimoire/flamme-sacree/) en action bonus en dépensant 1 point de sorcellerie.
+À partir du niveau 18, vous pouvez invoquer la présence apaisante de votre ancêtre céleste, redonnant courage et moral aux alliés qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de paix dans un rayon de 18 mètres. Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être [_charmés_](/gerer-la-sante-du-personnage/#charme), [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) ou [_empoisonnés_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'à ce que l'aura se dissipe. De plus, tant que vous êtes sous l'effet de cette aura, vous pouvez lancer le tour de magie [_flamme sacrée_](/grimoire/flamme-sacree/) en action bonus en dépensant 1 point de sorcellerie.
 
 ### Lignée féerique
 #### Ancêtre féerique

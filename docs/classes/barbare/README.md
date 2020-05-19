@@ -113,7 +113,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 ### Voie du berserker
 
 #### Frénésie
-Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de devenir frénétique pendant que vous êtes sous le coup de la rage. Si vous devenez frénétique, pendant la durée de votre rage, vous pouvez porter une unique attaque supplémentaire avec une arme de corps-à-corps en action bonus à la fin de chacun des tours suivant celui pendant lequel vous êtes devenu frénétique. Quand votre rage prend fin, vous gagnez un niveau d'épuisement. Voir le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage) pour plus d'information sur les règles de fatigue.
+Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de devenir frénétique pendant que vous êtes sous le coup de la rage. Si vous devenez frénétique, pendant la durée de votre rage, vous pouvez porter une unique attaque supplémentaire avec une arme de corps-à-corps en action bonus à la fin de chacun des tours suivant celui pendant lequel vous êtes devenu frénétique. Quand votre rage prend fin, vous gagnez un niveau d'épuisement. Voir le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage/) pour plus d'information sur les règles de fatigue.
 
 #### Rage aveugle
 À partir du niveau 6, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) pendant que vous êtes enragé. Si vous êtes déjà [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) au moment où vous vous mettez en rage, l'effet est suspendu le temps de la rage.

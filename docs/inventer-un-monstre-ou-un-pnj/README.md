@@ -3,7 +3,7 @@ title: Inventer un monstre ou un PNJ
 ---
 # Inventer un monstre ou un PNJ
 ## Attribuer un indice de dangerosité
-Déterminez l'ID de votre créature en fonction du niveau de votre groupe de PJ ainsi que de la difficulté que vous souhaitez choisir pour la rencontre (voir [Construire une rencontre](/construire-une-rencontre)). Vous pouvez aussi attribuer cet ID en fonction de la réputation de la créature  : faible (moins de 1), ordinaire (1), coriace (2-4), puissante (5-10), extraordinaire (11-15), légendaire (16+). Une telle créature peut avoir un ID beaucoup plus élevé que le niveau moyen de votre groupe. Elle n'est pas obligatoirement destinée à combattre vos PJ, ou du moins, pas dans l'immédiat.
+Déterminez l'ID de votre créature en fonction du niveau de votre groupe de PJ ainsi que de la difficulté que vous souhaitez choisir pour la rencontre (voir [Construire une rencontre](/construire-une-rencontre/)). Vous pouvez aussi attribuer cet ID en fonction de la réputation de la créature  : faible (moins de 1), ordinaire (1), coriace (2-4), puissante (5-10), extraordinaire (11-15), légendaire (16+). Une telle créature peut avoir un ID beaucoup plus élevé que le niveau moyen de votre groupe. Elle n'est pas obligatoirement destinée à combattre vos PJ, ou du moins, pas dans l'immédiat.
 
 Pour les créatures les plus simples, celles qui n'ont pas d'aptitude particulière comme l'utilisation d'une puissante magie ou le bénéfice de résistances particulières, l'ID suffit à déterminer le profil technique de la créature à l'aide de la table nommée [_profils techniques selon l'ID_](#table-des-profils-techniques-selon-l-id). Vous pouvez passer directement à l'étape suivante.
 

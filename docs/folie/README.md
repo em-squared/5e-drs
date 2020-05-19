@@ -14,7 +14,7 @@ Un personnage victime d'une **folie persistante** est sujet à un effet tiré de
 Un personnage victime d'une **folie à durée illimitée** acquiert un défaut tiré de la table de la [Folie à durée illimitée](#folie-a-duree-illimitee) qu'il conserve jusqu'à ce que quelqu'un le soigne.
 
 ## Soigner la folie
-Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) peut supprimer les effets de la folie, tandis qu'une [_restauration inférieure_](/grimoire/restauration-inferieure/) peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [_lever une malédiction_](/grimoire/lever-une-malediction) ou [_dissipation du mal_](/grimoire/dissipation-du-mal-et-du-bien/) fonctionne parfois. En revanche, il faut recourir à une [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
+Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) peut supprimer les effets de la folie, tandis qu'une [_restauration inférieure_](/grimoire/restauration-inferieure/) peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_dissipation du mal_](/grimoire/dissipation-du-mal-et-du-bien/) fonctionne parfois. En revanche, il faut recourir à une [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
 
 §§§ .table-container
 ## Folie passagère
@@ -37,7 +37,7 @@ Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) peut su
 | **01-10** | Le personnage se sent obligé de répéter une activité, encore et encore, comme de se laver les mains, de toucher quelque chose, de prier ou de compter son argent. |
 | **11-20** | Le personnage est victime d'hallucinations très réalistes et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). |
 | **21-30** | Le personnage souffre d'une paranoïa aiguë. Il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse et de Charisme. |
-| **31-40** | Le personnage éprouve un profond sentiment de révulsion vis-à-vis de quelque chose (généralement la cause de sa démence), comme s'il souffrait de la version répulsion du sort [_répulsion/attirance_](/grimoire/repulsion-attirance). |
+| **31-40** | Le personnage éprouve un profond sentiment de révulsion vis-à-vis de quelque chose (généralement la cause de sa démence), comme s'il souffrait de la version répulsion du sort [_répulsion/attirance_](/grimoire/repulsion-attirance/). |
 | **41-45** | Le personnage souffre d'une puissante illusion. Choisissez une potion : il est persuadé qu'il est sous son effet. |
 | **46-55** | Le personnage s'attache à un « porte-bonheur » , qu'il s'agisse d'une personne ou d'un objet. Il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et de sauvegarde et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) dès qu'il se trouve à plus de 9 mètres de lui. |
 | **56-65** | Le personnage est aveugle (25 %) ou sourd (75 %). |
