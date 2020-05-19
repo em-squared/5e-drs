@@ -10,4 +10,4 @@ Ce petit paquet contient 1d6+4 pincées de poussière. Vous pouvez dépenser une
 
 Quelqu'un peut utiliser une action pour briser la boulette contre une surface solide : elle éclate alors et libère l'eau absorbée. La magie de la boulette disparaît alors.
 
-Un élémentaire majoritairement composé d'eau exposé à la poussière doit faire un jet de sauvegarde de Constitution. S'il échoue, il subit 10d6 dégâts nécrotiques, la moitié seulement sinon.
+Un élémentaire majoritairement composé d'eau exposé à la poussière doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. S'il échoue, il subit 10d6 dégâts nécrotiques, la moitié seulement sinon.

@@ -12,7 +12,7 @@ Si le sort est présent dans la liste de sorts de votre classe de personnage mai
 
 Une fois le sort lancé, la formule disparaît de la surface du parchemin qui tombe ensuite en poussière.
 
-**DD du jet de sauvegarde** : 17  
+**DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde)** : 17  
 **Bonus à l'attaque** : +9
 
 Un sort de magicien inscrit sur un _parchemin magique_ peut être recopié, tout comme on recopie les sorts dans un grimoire. Quand un sort est recopié depuis un _parchemin magique_, celui qui s'y adonne doit réussir un test d'Intelligence (Arcanes) contre un DD égal à 10 + le niveau du sort. En cas de réussite sur ce test, le sort est recopié avec succès. Le _parchemin magique_ est détruit quel que la soit le résultat du test.

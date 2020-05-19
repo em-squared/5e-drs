@@ -112,7 +112,7 @@
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>
-              Jetez un sou au développeur
+              Jeter un sou au développeur
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
@@ -154,7 +154,7 @@
           </p>
           <p>Vous souhaitez participer aux frais d'hébergement ou m'encourager ?</p>
           <p class="text-center">
-            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jetez un sou au développeur</v-btn>
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou au développeur</v-btn>
           </p>
           <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l’<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
           <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
@@ -169,9 +169,8 @@
 
     <v-dialog v-model="isOpenSupportDialog" @click:outside="toggleSupportDialog" max-width="600">
       <v-card>
-        <v-card-title class="headline">
-          <span>Jetez un sou au développeur</span>
-          <v-spacer></v-spacer>
+        <v-card-title class="headline d-flex justify-space-between">
+          <span>Jeter un sou<span class="d-none d-md-inline"> au développeur</span></span>
           <v-btn color="primary" icon @click="toggleSupportDialog"><v-icon>mdi-close</v-icon></v-btn>
         </v-card-title>
 
@@ -182,7 +181,7 @@
           <p>Vous pouvez participer aux frais d'hébergement et permettre à tout le monde et à vous-même d'en profiter ou m'encourager au développement parce que vous pensez que mon travail le mérite.</p>
           <p>C'est <strong>vous</strong> qui décidez.</p>
           <p class="text-center">
-            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jetez un sou au développeur</v-btn>
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline"> au développeur</span></v-btn>
           </p>
         </v-card-text>
       </v-card>

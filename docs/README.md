@@ -77,7 +77,7 @@ _**Em-squared**_
 </v-row>
 <v-row>
   <v-col><v-btn color="#9b1c47" dark depressed block large to="/creation-d-objet-magique/"><v-icon>mdi-ring</v-icon> Création d'objet magique</v-btn></v-col>
-  <v-col><v-btn color="#9b1c47" dark depressed block large to="/calculateur-de-caracteristiques/"><v-icon>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn></v-col>
+  <v-col><v-btn color="#9b1c47" dark depressed block large to="/calculateur-de-caracteristiques/"><v-icon>mdi-calculator</v-icon> Calculateur de carac<span class="d-none d-md-inline">téristiques</span></v-btn></v-col>
 </v-row>
 </v-col>
 </v-row>
