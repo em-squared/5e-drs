@@ -3,7 +3,7 @@
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/mon-bestiaire/">Mon Bestiaire</v-btn>
+        <MyMonstersButton class="mr-4" />
         <v-btn color="primary" class="mb-4" depressed link to="/bestiaire/">Bestiaire</v-btn>
       </div>
     </div>
@@ -223,6 +223,8 @@ import { DAMAGETYPES } from '../../data/damageTypes'
 import { LANGUAGES } from '../../data/languages'
 import { getUrlParameter } from '@theme/util/filterHelpers'
 import { getProficiencyBonus, displayBonus } from '@theme/util/monsterHelpers'
+import slugify from 'slugify'
+slugify.extend({"'": '-'})
 
 export default {
   name: 'CreateMonsterLayout',
@@ -334,9 +336,13 @@ export default {
 
   methods: {
     download () {
+      let filename = "monstre.json"
+      if (this.monster.title !== '') {
+        filename = slugify(this.monster.title, {lower: true, strict: true}) + '.json'
+      }
       saveAs(new Blob([JSON.stringify(this.monster)], {
           type: "text/plain;charset=utf-8"
-      }), "monstre.json")
+      }), filename)
     },
 
     upload (e) {

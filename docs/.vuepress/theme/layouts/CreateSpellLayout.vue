@@ -3,7 +3,7 @@
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/mon-grimoire/">Mon Grimoire</v-btn>
+        <MySpellsButton class="mr-4" />
         <v-btn color="primary" class="mb-4" depressed link to="/grimoire/">Grimoire</v-btn>
       </div>
     </div>
@@ -110,6 +110,8 @@ import { saveAs } from 'file-saver'
 import { CLASSES } from '../../data/classes'
 import { SPELLSCHOOLS, SPELLLEVELS } from '../../data/spells'
 import { getUrlParameter } from '@theme/util/filterHelpers'
+import slugify from 'slugify'
+slugify.extend({"'": '-'})
 
 export default {
   name: 'CreateSpellLayout',
@@ -174,9 +176,13 @@ export default {
 
   methods: {
     download () {
+      let filename = "sort.json"
+      if (this.spell.title !== '') {
+        filename = slugify(this.spell.title, {lower: true, strict: true}) + '.json'
+      }
       saveAs(new Blob([JSON.stringify(this.spell)], {
           type: "text/plain;charset=utf-8"
-      }), "sort.json")
+      }), filename)
     },
 
     upload (e) {

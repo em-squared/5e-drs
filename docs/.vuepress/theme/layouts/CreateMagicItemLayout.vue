@@ -3,7 +3,7 @@
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
       <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/mes-objets-magiques/">Mes objets magiques</v-btn>
+        <MyMagicItemsButton class="mr-4" />
         <v-btn color="primary" class="mb-4" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
       </div>
     </div>
@@ -70,6 +70,8 @@ import MagicItem from '@theme/components/MagicItem'
 import { saveAs } from 'file-saver'
 import { MAGICITEMTYPES, RARITIES } from '../../data/magicItems'
 import { getUrlParameter } from '@theme/util/filterHelpers'
+import slugify from 'slugify'
+slugify.extend({"'": '-'})
 
 export default {
   name: 'CreateMagicItemLayout',
@@ -131,9 +133,13 @@ export default {
 
   methods: {
     download () {
+      let filename = "objet-magique.json"
+      if (this.magicItem.title !== '') {
+        filename = slugify(this.magicItem.title, {lower: true, strict: true}) + '.json'
+      }
       saveAs(new Blob([JSON.stringify(this.magicItem)], {
           type: "text/plain;charset=utf-8"
-      }), "objet-magique.json")
+      }), filename)
     },
 
     upload (e) {
