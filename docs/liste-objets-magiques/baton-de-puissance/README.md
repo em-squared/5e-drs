@@ -20,6 +20,6 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 |Distance du point d'origine|Dégâts|
 |:-:|:-:|
-|** ou = 3m**|8 × nombre de charges restantes du bâton|
-|**&gt; à 3m et  ou = à 6m**|6 × nombre de charges restantes du bâton|
-|**&gt; à 6m et  ou = à 9m**|4 × nombre de charges restantes du bâton|
+|**&lt; ou = 3m**|8 × nombre de charges restantes du bâton|
+|**&gt; à 3m et &lt; ou = à 6m**|6 × nombre de charges restantes du bâton|
+|**&gt; à 6m et &lt; ou = à 9m**|4 × nombre de charges restantes du bâton|
