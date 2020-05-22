@@ -188,7 +188,7 @@ module.exports = {
     }
   ],
   themeConfig: {
-    domain: 'https://staging.heros-et-dragons.fr',
+    domain: 'https://heros-et-dragons.fr',
     repository: 'https://github.com/em-squared/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',

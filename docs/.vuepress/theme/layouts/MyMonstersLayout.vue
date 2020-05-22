@@ -9,14 +9,39 @@
     <h1>Mon bestiaire</h1>
 
     <div class="my-4 d-flex flex-wrap d-print-none">
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
       <v-btn outlined color="accent" class="mr-1 mb-1" depressed :loading="isUploading" @click="onUploadClick">
         <v-icon left>mdi-file-upload</v-icon> Charger
       </v-btn>
       <input ref="uploader" class="d-none" type="file" @change="upload">
-      <v-btn outlined color="error" class="mb-1" depressed @click="$store.commit('myMonsters/resetMonsters')"><v-icon>mdi-delete</v-icon> Effacer le bestiaire</v-btn>
+      <v-btn outlined color="error" class="mb-1" depressed @click.stop="confirmDeleteDialog = true" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-delete</v-icon> Effacer le bestiaire</v-btn>
     </div>
+
+    <v-dialog v-model="confirmDeleteDialog" max-width="290">
+      <v-card>
+        <v-card-title class="headline">Supprimer le bestiaire</v-card-title>
+
+        <v-card-text>
+          Cette action supprimera tous les monstres ajoutés à votre bestiaire, y compris les monstres que vous avez créés. Souhaitez vous les supprimer ?
+        </v-card-text>
+
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn depressed @click="confirmDeleteDialog = false">
+            Annuler
+          </v-btn>
+
+          <v-btn color="error darken-1" depressed @click="confirmDeletion">
+            Supprimer
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
+
+    <v-alert v-model="alertOpen" :type="alertType" dismissible transition="fade-transition">
+      {{ alertText }}
+    </v-alert>
 
     <MyMonsters />
   </div>
@@ -37,7 +62,11 @@ export default {
 
   data () {
     return {
-      isUploading: false
+      isUploading: false,
+      confirmDeleteDialog: false,
+      alertOpen: false,
+      alertText: null,
+      alertType: "info"
     }
   },
 
@@ -50,6 +79,9 @@ export default {
 
     upload (e) {
       let file = e.target.files[0]
+      if (!file) {
+        return
+      }
       let reader = new FileReader()
       let self = this
 
@@ -62,16 +94,26 @@ export default {
               isValid = false
             }
           }
+        } else {
+          isValid = false
         }
         if (isValid) {
           self.$store.commit('myMonsters/setMonsters', result.monsters)
           if (result.notPrintedMonsters) {
             self.$store.commit('myMonsters/setNotPrintedMonsters', result.notPrintedMonsters)
           }
+          self.alertText = self.$store.state.myMonsters.monsters.length + " monstres inscrits dans le bestiaire."
+          self.alertType = "success"
+          self.alertOpen = true
+        } else {
+          self.alertText = "Le fichier est invalide."
+          self.alertType = "error"
+          self.alertOpen = true
         }
       }
 
       reader.readAsText(file)
+      this.$refs.uploader.value = ''
     },
 
     onUploadClick () {
@@ -85,6 +127,11 @@ export default {
 
     print () {
       window.print()
+    },
+
+    confirmDeletion () {
+      this.$store.commit('myMonsters/resetMonsters')
+      this.confirmDeleteDialog = false
     }
   },
 

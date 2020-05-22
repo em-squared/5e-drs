@@ -114,7 +114,7 @@ export default {
       customAttunement: '',
       magicItem: {
         custom: true,
-        pid: 'magicItem',
+        pid: 'magicitem',
         key: null,
         title: '',
         content: '',
