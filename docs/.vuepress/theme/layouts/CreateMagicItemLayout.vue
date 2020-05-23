@@ -181,6 +181,8 @@ export default {
     updateMagicItemInTreasureChest () {
       if (this.isMagicItemInTreasureChest) {
         this.$store.commit('myMagicItems/updateMagicItem', this.magicItem)
+        this.$store.commit('setSnackbarText', "L'objet a été mis à jour dans la bibliothèque")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 

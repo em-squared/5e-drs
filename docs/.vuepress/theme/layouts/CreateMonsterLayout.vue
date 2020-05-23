@@ -384,6 +384,8 @@ export default {
     updateMonsterInBestiary () {
       if (this.isMonsterInBestiary) {
         this.$store.commit('myMonsters/updateMonster', this.monster)
+        this.$store.commit('setSnackbarText', "Le monstre a été mis à jour dans votre bestiaire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 

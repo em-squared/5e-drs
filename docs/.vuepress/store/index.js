@@ -32,6 +32,8 @@ export default new Vuex.Store({
     isThemeDark: false,
     isOpenAboutDialog: false,
     isOpenSupportDialog: false,
+    isOpenSnackbar: false,
+    snackbarText: ''
   },
 
   getters: {
@@ -43,6 +45,7 @@ export default new Vuex.Store({
     isThemeDark: state => state.isThemeDark,
     isOpenAboutDialog: state => state.isOpenAboutDialog,
     isOpenSupportDialog: state => state.isOpenSupportDialog,
+    isOpenSnackbar: state => state.isOpenSnackbar,
   },
 
   actions: {
@@ -69,6 +72,12 @@ export default new Vuex.Store({
     },
     isOpenSupportDialog: ({ commit }, payload) => {
       commit('setIsOpenSupportDialog', payload)
+    },
+    isOpenSnackbar: ({ commit }, payload) => {
+      commit('setIsOpenSnackbar', payload)
+    },
+    snackbarText: ({ commit }, payload) => {
+      commit('setSnackbarText', payload)
     },
   },
 
@@ -98,6 +107,17 @@ export default new Vuex.Store({
     },
     setIsOpenSupportDialog: (state, payload) => {
       state.isOpenSupportDialog = payload
+    },
+    setIsOpenSnackbar: (state, payload) => {
+      state.isOpenSnackbar = payload
+      if (payload === true) {
+        setTimeout(function () {
+          state.isOpenSnackbar = false
+        }, 5000)
+      }
+    },
+    setSnackbarText: (state, payload) => {
+      state.snackbarText = payload
     },
   },
 })

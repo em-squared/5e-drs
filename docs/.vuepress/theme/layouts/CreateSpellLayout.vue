@@ -224,6 +224,8 @@ export default {
     updateSpellInSpellBook () {
       if (this.isSpellInSpellBook) {
         this.$store.commit('mySpells/updateSpell', this.spell)
+        this.$store.commit('setSnackbarText', "Le sort a été mis à jour dans votre grimoire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 
