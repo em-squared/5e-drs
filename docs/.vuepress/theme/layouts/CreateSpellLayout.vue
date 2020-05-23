@@ -187,6 +187,9 @@ export default {
 
     upload (e) {
       let file = e.target.files[0]
+      if (!file) {
+        return
+      }
       let reader = new FileReader()
       let self = this
 
@@ -194,10 +197,16 @@ export default {
         let result = JSON.parse(reader.result)
         if (result.pid == 'spell') {
           self.spell = result
+          self.$store.commit('setSnackbarText', "Le sort " + self.spell.title + " a été chargé")
+          self.$store.commit('setIsOpenSnackbar', true)
+        } else {
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
       reader.readAsText(file)
+      this.$refs.uploader.value = ''
     },
 
     onUploadClick () {
@@ -216,8 +225,12 @@ export default {
     toggleSpellInSpellBook () {
       if (this.isSpellInSpellBook) {
         this.$store.commit('mySpells/removeSpell', this.spell)
+        this.$store.commit('setSnackbarText', "Le sort " + this.spell.title + " a été supprimé de votre grimoire")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('mySpells/addSpell', this.spell)
+        this.$store.commit('setSnackbarText', "Le sort " + this.spell.title + " a été ajouté à votre grimoire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 

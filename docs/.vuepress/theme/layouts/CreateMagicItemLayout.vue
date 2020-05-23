@@ -144,17 +144,26 @@ export default {
 
     upload (e) {
       let file = e.target.files[0]
+      if (!file) {
+        return
+      }
       let reader = new FileReader()
       let self = this
 
       reader.onload = function() {
         let result = JSON.parse(reader.result)
-        if (result.pid == 'magicItem') {
+        if (result.pid == 'magicitem') {
           self.magicItem = result
+          self.$store.commit('setSnackbarText', "L'objet magique " + self.magicItem.title + " a été chargé")
+          self.$store.commit('setIsOpenSnackbar', true)
+        } else {
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
       reader.readAsText(file)
+      this.$refs.uploader.value = ''
     },
 
     onUploadClick () {
@@ -173,15 +182,19 @@ export default {
     toggleMagicItemInTreasureChest () {
       if (this.isMagicItemInTreasureChest) {
         this.$store.commit('myMagicItems/removeMagicItem', this.magicItem)
+        this.$store.commit('setSnackbarText', "L'objet magique " + this.magicItem.title + " a été supprimé de votre bibliothèque")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('myMagicItems/addMagicItem', this.magicItem)
+        this.$store.commit('setSnackbarText', "L'objet magique " + this.magicItem.title + " a été ajouté à votre bibliothèque")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 
     updateMagicItemInTreasureChest () {
       if (this.isMagicItemInTreasureChest) {
         this.$store.commit('myMagicItems/updateMagicItem', this.magicItem)
-        this.$store.commit('setSnackbarText', "L'objet a été mis à jour dans la bibliothèque")
+        this.$store.commit('setSnackbarText', "L'objet magique a été mis à jour dans votre bibliothèque")
         this.$store.commit('setIsOpenSnackbar', true)
       }
     },

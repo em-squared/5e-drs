@@ -103,13 +103,11 @@ export default {
           if (result.notPrintedMagicItems) {
             self.$store.commit('myMagicItems/setNotPrintedMagicItems', result.notPrintedMagicItems)
           }
-          self.alertText = self.$store.state.myMagicItems.magicItems.length + " objets magiques inscrits dans la bibliothèque."
-          self.alertType = "success"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', self.$store.state.myMagicItems.magicItems.length + " objets magiques inscrits dans votre bibliothèque")
+          self.$store.commit('setIsOpenSnackbar', true)
         } else {
-          self.alertText = "Le fichier est invalide."
-          self.alertType = "error"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
@@ -133,6 +131,8 @@ export default {
     confirmDeletion () {
       this.$store.commit('myMagicItems/resetMagicItems')
       this.confirmDeleteDialog = false
+      this.$store.commit('setSnackbarText', "Votre bibliothèque d'objets magiques a été effacée")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   },
 

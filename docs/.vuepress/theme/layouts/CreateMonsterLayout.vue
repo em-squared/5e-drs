@@ -347,6 +347,9 @@ export default {
 
     upload (e) {
       let file = e.target.files[0]
+      if (!file) {
+        return
+      }
       let reader = new FileReader()
       let self = this
 
@@ -354,10 +357,16 @@ export default {
         let result = JSON.parse(reader.result)
         if (result.pid == 'monster') {
           self.monster = result
+          self.$store.commit('setSnackbarText', "Le monstre " + self.monster.title + " a été chargé")
+          self.$store.commit('setIsOpenSnackbar', true)
+        } else {
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
       reader.readAsText(file)
+      this.$refs.uploader.value = ''
     },
 
     onUploadClick () {
@@ -376,8 +385,12 @@ export default {
     toggleMonsterInBestiary () {
       if (this.isMonsterInBestiary) {
         this.$store.commit('myMonsters/removeMonster', this.monster)
+        this.$store.commit('setSnackbarText', "Le monstre " + this.monster.title + " a été supprimé de votre bestiaire")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('myMonsters/addMonster', this.monster)
+        this.$store.commit('setSnackbarText', "Le monstre " + this.monster.title + " a été ajouté à votre bestiaire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 

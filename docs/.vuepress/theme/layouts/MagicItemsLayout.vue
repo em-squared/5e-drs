@@ -193,8 +193,12 @@ export default {
     toggleItemInTreasureChest (magicItem) {
       if (this.isItemInTreasureChest(magicItem)) {
         this.$store.commit('myMagicItems/removeMagicItem', magicItem)
+        this.$store.commit('setSnackbarText', "L'objet magique " + magicItem.title + " a été supprimé de votre bibliothèque")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('myMagicItems/addMagicItem', magicItem)
+        this.$store.commit('setSnackbarText', "L'objet magique " + magicItem.title + " a été ajouté à votre bibliothèque")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 

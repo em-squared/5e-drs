@@ -40,7 +40,7 @@
                   <v-icon v-else>mdi-printer</v-icon>
                 </v-btn>
                 <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-d-objet-magique/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
-                <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('myMagicItems/removeMagicItem', item)"><v-icon>mdi-delete</v-icon></v-btn>
+                <v-btn color="error" class="d-print-none" small depressed icon @click="removeMagicItem(item)"><v-icon>mdi-delete</v-icon></v-btn>
               </div>
             </template>
 
@@ -53,7 +53,7 @@
               <h2 class="d-flex align-center">
                 <div class="mr-4">{{ magicItem.title }}</div>
                 <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: magicItem.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
-                <v-btn color="error" class="d-print-none" small depressed @click="$store.commit('myMagicItems/removeMagicItem', magicItem)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
+                <v-btn color="error" class="d-print-none" small depressed @click="removeMagicItem(magicItem)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
               </h2>
               <MagicItem :magicItem="magicItem" :isList="true" :hideTitle="true" />
             </div>
@@ -117,6 +117,11 @@ export default {
     },
     onClickRow (row, item) {
       item.expand(!item.isExpanded)
+    },
+    removeMagicItem (magicItem) {
+      this.$store.commit('myMagicItems/removeMagicItem', magicItem)
+      this.$store.commit('setSnackbarText', "L'objet magique " + magicItem.title + " a été supprimé de votre bibliothèque")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   }
 }

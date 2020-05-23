@@ -41,7 +41,7 @@
 
     <v-snackbar v-model="$store.state.isOpenSnackbar">
       {{ $store.state.snackbarText }}
-      <v-btn color="red" text @click="$store.commit('setIsOpenSnackbar', true)">
+      <v-btn color="red" text @click="$store.commit('setIsOpenSnackbar', false)">
         Fermer
       </v-btn>
     </v-snackbar>

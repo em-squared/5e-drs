@@ -52,8 +52,12 @@ export default {
     toggleSpellInSpellBook () {
       if (this.isSpellInSpellBook) {
         this.$store.commit('mySpells/removeSpell', this.$page)
+        this.$store.commit('setSnackbarText', "Le sort " + this.$page.title + " a été supprimé de votre grimoire")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('mySpells/addSpell', this.$page)
+        this.$store.commit('setSnackbarText', "Le sort " + this.$page.title + " a été ajouté à votre grimoire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     }
   },

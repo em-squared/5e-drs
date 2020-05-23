@@ -48,7 +48,7 @@
                   <v-icon v-else>mdi-printer</v-icon>
                 </v-btn>
                 <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-monstre-pnj/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
-                <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('myMonsters/removeMonster', item)"><v-icon>mdi-delete</v-icon></v-btn>
+                <v-btn color="error" class="d-print-none" small depressed icon @click="removeMonster(item)"><v-icon>mdi-delete</v-icon></v-btn>
               </div>
             </template>
 
@@ -61,7 +61,7 @@
               <h1 class="d-flex align-center">
                 <div class="mr-4">{{ monster.title }}</div>
                 <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-monstre-pnj/', query: { key: monster.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
-                <v-btn color="error" class="d-print-none" small depressed @click="$store.commit('myMonsters/removeMonster', monster)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
+                <v-btn color="error" class="d-print-none" small depressed @click="removeMonster(monster)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
               </h1>
               <Monster :monster="monster" :isList="true" :hideTitle="true" />
             </div>
@@ -131,6 +131,11 @@ export default {
     },
     onClickRow (row, item) {
       item.expand(!item.isExpanded)
+    },
+    removeMonster (monster) {
+      this.$store.commit('myMonsters/removeMonster', monster)
+      this.$store.commit('setSnackbarText', "Le monstre " + monster.title + " a été supprimé de votre bestiaire")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   }
 }

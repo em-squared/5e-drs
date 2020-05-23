@@ -102,13 +102,11 @@ export default {
           if (result.notPrintedMonsters) {
             self.$store.commit('myMonsters/setNotPrintedMonsters', result.notPrintedMonsters)
           }
-          self.alertText = self.$store.state.myMonsters.monsters.length + " monstres inscrits dans le bestiaire."
-          self.alertType = "success"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', self.$store.state.myMonsters.monsters.length + " monstres inscrits dans votre bestiaire")
+          self.$store.commit('setIsOpenSnackbar', true)
         } else {
-          self.alertText = "Le fichier est invalide."
-          self.alertType = "error"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
@@ -132,6 +130,8 @@ export default {
     confirmDeletion () {
       this.$store.commit('myMonsters/resetMonsters')
       this.confirmDeleteDialog = false
+      this.$store.commit('setSnackbarText', "Votre bestiaire a été effacé")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   },
 

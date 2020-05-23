@@ -107,13 +107,11 @@ export default {
           if (result.notPrintedSpells) {
             self.$store.commit('mySpells/setNotPrintedSpells', result.notPrintedSpells)
           }
-          self.alertText = self.$store.state.mySpells.spells.length + " sorts inscrits dans le grimoire."
-          self.alertType = "success"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', self.$store.state.mySpells.spells.length + " sorts inscrits dans votre grimoire")
+          self.$store.commit('setIsOpenSnackbar', true)
         } else {
-          self.alertText = "Le fichier est invalide."
-          self.alertType = "error"
-          self.alertOpen = true
+          self.$store.commit('setSnackbarText', "Le fichier est invalide")
+          self.$store.commit('setIsOpenSnackbar', true)
         }
       }
 
@@ -137,6 +135,8 @@ export default {
     confirmDeletion () {
       this.$store.commit('mySpells/resetSpells')
       this.confirmDeleteDialog = false
+      this.$store.commit('setSnackbarText', "Votre grimoire a été effacé")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   },
 

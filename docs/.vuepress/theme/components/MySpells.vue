@@ -80,7 +80,7 @@
                   <v-icon v-else>mdi-printer</v-icon>
                 </v-btn>
                 <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-sort/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
-                <v-btn color="error" class="d-print-none" small depressed icon @click="$store.commit('mySpells/removeSpell', item)"><v-icon>mdi-delete</v-icon></v-btn>
+                <v-btn color="error" class="d-print-none" small depressed icon @click="removeSpell(item)"><v-icon>mdi-delete</v-icon></v-btn>
               </div>
             </template>
 
@@ -96,7 +96,7 @@
                   <h3 class="d-flex align-center title">
                     <div class="mr-4">{{ spell.title }}</div>
                     <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: spell.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
-                    <v-btn color="error" class="d-print-none" small depressed @click="$store.commit('mySpells/removeSpell', spell)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
+                    <v-btn color="error" class="d-print-none" small depressed @click="removeSpell(spell)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
                   </h3>
                   <Spell :spell="spell" :isList="true" :hideTitle="true" />
                 </template>
@@ -192,6 +192,11 @@ export default {
     },
     onClickRow (row, item) {
       item.expand(!item.isExpanded)
+    },
+    removeSpell (spell) {
+      this.$store.commit('mySpells/removeSpell', spell)
+      this.$store.commit('setSnackbarText', "Le sort " + spell.title + " a été supprimé de votre grimoire")
+      this.$store.commit('setIsOpenSnackbar', true)
     }
   },
 }

@@ -279,8 +279,12 @@ export default {
     toggleMonsterInBestiary (monster) {
       if (this.isMonsterInBestiary(monster)) {
         this.$store.commit('myMonsters/removeMonster', monster)
+        this.$store.commit('setSnackbarText', "Le monstre " + monster.title + " a été supprimé de votre bestiaire")
+        this.$store.commit('setIsOpenSnackbar', true)
       } else {
         this.$store.commit('myMonsters/addMonster', monster)
+        this.$store.commit('setSnackbarText', "Le monstre " + monster.title + " a été ajouté à votre bestiaire")
+        this.$store.commit('setIsOpenSnackbar', true)
       }
     },
 
