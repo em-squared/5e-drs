@@ -1,7 +1,7 @@
 <template>
   <div class="ability-scores-calculator">
     <v-row>
-      <v-col :cols="12" :md="8" :lg="6">
+      <v-col :cols="12">
         <v-row>
           <v-col>
             <v-btn color="primary" @click.stop="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
@@ -50,9 +50,14 @@
                     <td class="text-center"><span class="subtitle-2">{{ ability.label }}</span></td>
                     <td class="text-center ability-field">
                       <div v-if="generationMethod == 'pointBuy'" class="d-flex align-center">
-                        <v-btn icon dense color="accent" :disabled="ability.value <= powerTier.min" @click.stop="ability.value--"><v-icon>mdi-minus-circle</v-icon></v-btn>
-                        <v-text-field class="text-center" readonly outlined hide-details dense :value="ability.value"></v-text-field>
-                        <v-btn icon dense color="accent" :disabled="ability.value >= powerTier.max" @click.stop="ability.value++"><v-icon>mdi-plus-circle</v-icon></v-btn>
+                        <v-text-field class="text-center" readonly outlined hide-details dense :value="ability.value">
+                          <template v-slot:prepend>
+                            <v-btn icon dense color="accent" :disabled="ability.value <= powerTier.min" @click.stop="ability.value--"><v-icon>mdi-minus-circle</v-icon></v-btn>
+                          </template>
+                          <template v-slot:append-outer>
+                            <v-btn icon dense color="accent" :disabled="ability.value >= powerTier.max" @click.stop="ability.value++"><v-icon>mdi-plus-circle</v-icon></v-btn>
+                          </template>
+                        </v-text-field>
                       </div>
                       <template v-else-if="generationMethod == 'standardArray'">
                         <v-select v-if="!ability.value" dense :items="standardArrayValues" v-model="ability.value" outlined hide-details clearable @change="selectAbilityValue(ability)"></v-select>
@@ -275,8 +280,10 @@ export default {
   }
 }
 .ability-field {
-  .v-input__slot {
-    width: 80px;
+  width: 180px;
+  .v-input__prepend-outer, .v-input__append-outer {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 }
 </style>
