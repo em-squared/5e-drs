@@ -238,3 +238,27 @@ function resolveItem (item, pages, base, groupDepth = 1) {
     }
   }
 }
+
+/*
+** Returns index of resource in library
+*/
+export function getResourceIndexInLibrary (resource, library) {
+  let idx = -1
+  if (resource.custom) {
+    idx = library.findIndex(item => item.key == resource.key)
+  } else {
+    idx = library.findIndex(item => item.path == resource.path)
+  }
+  return idx
+}
+
+/*
+** Returns presence of resource in library
+*/
+export function isResourceInLibrary (resource, library) {
+  let idx = getResourceIndexInLibrary(resource, library)
+  if (idx >= 0) {
+    return true
+  }
+  return false
+}

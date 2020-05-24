@@ -20,7 +20,6 @@ skills:
   - name: "religion"
 movement:
   walk: 9
-senses:
 languages:
   - "une langue au choix (commun le plus souvent)"
 source: "Créatures & Oppositions"

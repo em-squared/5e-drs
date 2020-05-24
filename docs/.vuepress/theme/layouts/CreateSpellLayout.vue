@@ -110,6 +110,7 @@ import { saveAs } from 'file-saver'
 import { CLASSES } from '../../data/classes'
 import { SPELLSCHOOLS, SPELLLEVELS } from '../../data/spells'
 import { getUrlParameter } from '@theme/util/filterHelpers'
+import { isResourceInLibrary } from '@theme/util'
 import slugify from 'slugify'
 slugify.extend({"'": '-'})
 
@@ -123,13 +124,7 @@ export default {
 
   computed: {
     isSpellInSpellBook () {
-      let isInSpellBook = false
-      for (let s of this.$store.state.mySpells.spells) {
-        if (s.key == this.spell.key) {
-          isInSpellBook = true
-        }
-      }
-      return isInSpellBook
+      return isResourceInLibrary(this.spell, this.$store.state.mySpells.spells)
     },
 
     displayToggleSpellButton () {

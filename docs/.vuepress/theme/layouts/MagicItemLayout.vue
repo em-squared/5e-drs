@@ -18,6 +18,7 @@ import Breadcrumb from '@theme/components/Breadcrumb'
 import MagicItem from '@theme/components/MagicItem'
 import MyMagicItemsButton from '@theme/global-components/MyMagicItemsButton'
 import Edit from '@theme/components/Edit'
+import { isResourceInLibrary } from '@theme/util'
 
 export default {
   name: 'MagicItemLayout',
@@ -31,13 +32,7 @@ export default {
 
   computed: {
     isMagicItemInTreasureChest () {
-      let isInTreasureChest = false
-      for (let s of this.$store.state.myMagicItems.magicItems) {
-        if (s.key == this.$page.key) {
-          isInTreasureChest = true
-        }
-      }
-      return isInTreasureChest
+      return isResourceInLibrary(this.$page, this.$store.state.myMagicItems.magicItems)
     },
 
     displayToggleMagicItemButton () {

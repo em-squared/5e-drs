@@ -18,6 +18,7 @@ import Breadcrumb from '@theme/components/Breadcrumb'
 import Spell from '@theme/components/Spell'
 import MySpellsButton from '@theme/global-components/MySpellsButton'
 import Edit from '@theme/components/Edit'
+import { isResourceInLibrary } from '@theme/util'
 
 export default {
   name: 'SpellLayout',
@@ -31,13 +32,7 @@ export default {
 
   computed: {
     isSpellInSpellBook () {
-      let isInSpellBook = false
-      for (let s of this.$store.state.mySpells.spells) {
-        if (s.key == this.$page.key) {
-          isInSpellBook = true
-        }
-      }
-      return isInSpellBook
+      return isResourceInLibrary(this.$page, this.$store.state.mySpells.spells)
     },
 
     displayToggleSpellButton () {

@@ -1,4 +1,5 @@
 import {sortByString} from '@theme/util/filterHelpers'
+import { getResourceIndexInLibrary } from '@theme/util'
 
 export default {
   namespaced: true,
@@ -51,30 +52,28 @@ export default {
       state.magicItems.sort((a, b) => { return sortByString(a.title, b.title) })
     },
     updateMagicItem: (state, payload) => {
-      state.magicItems.forEach((magicItem, idx) => {
-        if (magicItem.key == payload.key) {
-          state.magicItems[idx] = payload
-        }
-      })
+      let magicItemIndex = getResourceIndexInLibrary(payload, state.magicItems)
+      if (magicItemIndex >= 0) {
+        state.magicItems[magicItemIndex] = payload
+      }
     },
     removeMagicItem: (state, payload) => {
-      state.magicItems.forEach((magicItem, idx) => {
-        if (magicItem.key == payload.key) {
-          state.magicItems.splice(idx, 1)
-        }
-      })
+      let magicItemIndex = getResourceIndexInLibrary(payload, state.magicItems)
+      if (magicItemIndex >= 0) {
+        state.magicItems.splice(magicItemIndex, 1)
+      }
     },
     setNotPrintedMagicItems: (state, payload) => {
       state.notPrintedMagicItems = payload
     },
     addNotPrintedMagicItem: (state, payload) => {
-      let magicItemIndex = state.notPrintedMagicItems.findIndex(magicItem => magicItem.key == payload.key)
+      let magicItemIndex = getResourceIndexInLibrary(payload, state.notPrintedMagicItems)
       if (!magicItemIndex >= 0) {
         state.notPrintedMagicItems.push(payload)
       }
     },
     removeNotPrintedMagicItem: (state, payload) => {
-      let magicItemIndex = state.notPrintedMagicItems.findIndex(magicItem => magicItem.key == payload.key)
+      let magicItemIndex = getResourceIndexInLibrary(payload, state.notPrintedMagicItems)
       if (magicItemIndex >= 0) {
         state.notPrintedMagicItems.splice(magicItemIndex, 1)
       }

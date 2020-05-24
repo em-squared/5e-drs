@@ -47,7 +47,7 @@
                   <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
                   <v-icon v-else>mdi-printer</v-icon>
                 </v-btn>
-                <v-btn class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-monstre-pnj/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
+                <v-btn v-if="item.custom" class="d-print-none mr-2" small depressed link icon :to="{ path: '/creation-de-monstre-pnj/', query: { key: item.key } }"><v-icon>mdi-pencil</v-icon></v-btn>
                 <v-btn color="error" class="d-print-none" small depressed icon @click="removeMonster(item)"><v-icon>mdi-delete</v-icon></v-btn>
               </div>
             </template>

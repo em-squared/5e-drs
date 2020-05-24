@@ -1,4 +1,5 @@
 import {sortByString} from '@theme/util/filterHelpers'
+import { getResourceIndexInLibrary } from '@theme/util'
 
 export default {
   namespaced: true,
@@ -51,30 +52,28 @@ export default {
       state.monsters.sort((a, b) => { return sortByString(a.title, b.title) })
     },
     updateMonster: (state, payload) => {
-      state.monsters.forEach((monster, idx) => {
-        if (monster.key == payload.key) {
-          state.monsters[idx] = payload
-        }
-      })
+      let monsterIndex = getResourceIndexInLibrary(payload, state.monsters)
+      if (monsterIndex >= 0) {
+        state.monsters[monsterIndex] = payload
+      }
     },
     removeMonster: (state, payload) => {
-      state.monsters.forEach((monster, idx) => {
-        if (monster.key == payload.key) {
-          state.monsters.splice(idx, 1)
-        }
-      })
+      let monsterIndex = getResourceIndexInLibrary(payload, state.monsters)
+      if (monsterIndex >= 0) {
+        state.monsters.splice(monsterIndex, 1)
+      }
     },
     setNotPrintedMonsters: (state, payload) => {
       state.notPrintedMonsters = payload
     },
     addNotPrintedMonster: (state, payload) => {
-      let monsterIndex = state.notPrintedMonsters.findIndex(monster => monster.key == payload.key)
+      let monsterIndex = getResourceIndexInLibrary(payload, state.notPrintedMonsters)
       if (!monsterIndex >= 0) {
         state.notPrintedMonsters.push(payload)
       }
     },
     removeNotPrintedMonster: (state, payload) => {
-      let monsterIndex = state.notPrintedMonsters.findIndex(monster => monster.key == payload.key)
+      let monsterIndex = getResourceIndexInLibrary(payload, state.notPrintedMonsters)
       if (monsterIndex >= 0) {
         state.notPrintedMonsters.splice(monsterIndex, 1)
       }

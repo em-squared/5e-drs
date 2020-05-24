@@ -222,6 +222,7 @@ import { CONDITIONS } from '../../data/conditions'
 import { DAMAGETYPES } from '../../data/damageTypes'
 import { LANGUAGES } from '../../data/languages'
 import { getUrlParameter } from '@theme/util/filterHelpers'
+import { isResourceInLibrary } from '@theme/util'
 import { getProficiencyBonus, displayBonus } from '@theme/util/monsterHelpers'
 import slugify from 'slugify'
 slugify.extend({"'": '-'})
@@ -236,13 +237,7 @@ export default {
 
   computed: {
     isMonsterInBestiary () {
-      let isInBestiary = false
-      for (let s of this.$store.state.myMonsters.monsters) {
-        if (s.key == this.monster.key) {
-          isInBestiary = true
-        }
-      }
-      return isInBestiary
+      return isResourceInLibrary(this.monster, this.$store.state.myMonsters.monsters)
     },
 
     displayToggleMonsterButton () {
@@ -514,9 +509,65 @@ export default {
       for (let monster of this.$store.state.myMonsters.monsters) {
         if (monster.key == monsterKey) {
           this.monster = monster
+          // this.monster = {
+          //   custom: monster.custom,
+          //   pid: 'monster',
+          //   key: monster.key,
+          //   title: monster.title,
+          //   content: '',
+          //   frontmatter: {
+          //     type: monster.frontmatter.type ? monster.frontmatter.type : '',
+          //     subtype: monster.frontmatter.subtype ? monster.frontmatter.subtype : '',
+          //     size: monster.frontmatter.size ? monster.frontmatter.size : '',
+          //     challenge: monster.frontmatter.challenge ? monster.frontmatter.challenge : '0',
+          //     alignment: monster.frontmatter.alignment ? monster.frontmatter.alignment : '',
+          //     isSwarm: monster.frontmatter.isSwarm,
+          //     swarmSize: monster.frontmatter.swarmSize ? monster.frontmatter.swarmSize : '',
+          //     hitDiceCount: monster.frontmatter.hitDiceCount,
+          //     hitDieSize: monster.frontmatter.hitDieSize,
+          //     abilityScores: {
+          //       for: monster.frontmatter.abilityScores.for,
+          //       dex: monster.frontmatter.abilityScores.dex,
+          //       con: monster.frontmatter.abilityScores.con,
+          //       int: monster.frontmatter.abilityScores.int,
+          //       sag: monster.frontmatter.abilityScores.sag,
+          //       cha: monster.frontmatter.abilityScores.cha,
+          //     },
+          //     ac: {
+          //       armorType: monster.frontmatter.ac ? monster.frontmatter.ac.armorType : null,
+          //       value: monster.frontmatter.ac ? monster.frontmatter.ac.value : null,
+          //       hasShield: monster.frontmatter.ac ? monster.frontmatter.ac.hasShield : false,
+          //     },
+          //     savingThrow: monster.frontmatter.savingThrow ? monster.frontmatter.savingThrow : null,
+          //     skills: monster.frontmatter.skills ? monster.frontmatter.skills : null,
+          //     movement: {
+          //       walk: monster.frontmatter.movement ? monster.frontmatter.movement.walk : null,
+          //       climb: monster.frontmatter.movement ? monster.frontmatter.movement.climb : null,
+          //       burrow: monster.frontmatter.movement ? monster.frontmatter.movement.burrow : null,
+          //       swim: monster.frontmatter.movement ? monster.frontmatter.movement.swim : null,
+          //       fly: monster.frontmatter.movement ? monster.frontmatter.movement.fly : null,
+          //       hover: monster.frontmatter.movement ? monster.frontmatter.movement.hover : null,
+          //     },
+          //     senses: {
+          //       tremorsense: monster.frontmatter.senses ? monster.frontmatter.senses.tremorsense : null,
+          //       blindsight: monster.frontmatter.senses ? monster.frontmatter.senses.blindsight : null,
+          //       darkvision: monster.frontmatter.senses ? monster.frontmatter.senses.darkvision : null,
+          //       truesight: monster.frontmatter.senses ? monster.frontmatter.senses.truesight : null,
+          //     },
+          //     conditionImmunities: monster.frontmatter.conditionImmunities,
+          //     damageTypeVulnerabilities: monster.frontmatter.damageTypeVulnerabilities,
+          //     damageTypeResistances: monster.frontmatter.damageTypeResistances,
+          //     damageTypeImmunities: monster.frontmatter.damageTypeImmunities,
+          //     languages: monster.frontmatter.languages,
+          //     customLanguage: monster.frontmatter.customLanguage,
+          //     telepathy: monster.frontmatter.telepathy
+          //   }
+          // }
           if (!this.monster.custom) {
             this.monster.content = monster.rawContent
             this.monster.custom = true
+          } else {
+            this.monster.content = monster.content
           }
           if (this.monster.frontmatter.skills) {
             this.monster.frontmatter.skills.forEach((mskill, idx) => {

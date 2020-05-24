@@ -90,6 +90,7 @@ import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { displayChallenge } from '@theme/util/monsterHelpers'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
+import { isResourceInLibrary } from '@theme/util'
 import Monster from '@theme/components/Monster'
 import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 import { CHALLENGES } from '../../data/monsters'
@@ -268,13 +269,7 @@ export default {
     displayList (list) { return list.join(', ') },
     displayChallenge (challenge) { return displayChallenge(challenge) },
     isMonsterInBestiary (monster) {
-      let isInBestiary = false
-      for (let m of this.$store.state.myMonsters.monsters) {
-        if (m.key == monster.key) {
-          isInBestiary = true
-        }
-      }
-      return isInBestiary
+      return isResourceInLibrary(monster, this.$store.state.myMonsters.monsters)
     },
     toggleMonsterInBestiary (monster) {
       if (this.isMonsterInBestiary(monster)) {

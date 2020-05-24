@@ -1,4 +1,5 @@
 import {sortByString} from '@theme/util/filterHelpers'
+import { getResourceIndexInLibrary } from '@theme/util'
 
 export default {
   namespaced: true,
@@ -55,18 +56,16 @@ export default {
       state.spells.sort((a, b) => { return sortByString(a.title, b.title) })
     },
     updateSpell: (state, payload) => {
-      state.spells.forEach((spell, idx) => {
-        if (spell.key == payload.key) {
-          state.spells[idx] = payload
-        }
-      })
+      let spellIndex = getResourceIndexInLibrary(payload, state.spells)
+      if (spellIndex >= 0) {
+        state.spells[spellIndex] = payload
+      }
     },
     removeSpell: (state, payload) => {
-      state.spells.forEach((spell, idx) => {
-        if (spell.key == payload.key) {
-          state.spells.splice(idx, 1)
-        }
-      })
+      let spellIndex = getResourceIndexInLibrary(payload, state.spells)
+      if (spellIndex >= 0) {
+        state.spells.splice(spellIndex, 1)
+      }
     },
     setSpellSlots: (state, payload) => {
       state.spellSlots = payload
@@ -75,13 +74,13 @@ export default {
       state.notPrintedSpells = payload
     },
     addNotPrintedSpell: (state, payload) => {
-      let spellIndex = state.notPrintedSpells.findIndex(spell => spell.key == payload.key)
+      let spellIndex = getResourceIndexInLibrary(payload, state.notPrintedSpells)
       if (!spellIndex >= 0) {
         state.notPrintedSpells.push(payload)
       }
     },
     removeNotPrintedSpell: (state, payload) => {
-      let spellIndex = state.notPrintedSpells.findIndex(spell => spell.key == payload.key)
+      let spellIndex = getResourceIndexInLibrary(payload, state.notPrintedSpells)
       if (spellIndex >= 0) {
         state.notPrintedSpells.splice(spellIndex, 1)
       }

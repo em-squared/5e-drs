@@ -77,6 +77,7 @@
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
+import { isResourceInLibrary } from '@theme/util'
 import MagicItem from '@theme/components/MagicItem'
 import MyMagicItemsButton from '@theme/global-components/MyMagicItemsButton'
 
@@ -182,13 +183,7 @@ export default {
 
   methods: {
     isItemInTreasureChest (magicItem) {
-      let isInTreasureChest = false
-      for (let mi of this.$store.state.myMagicItems.magicItems) {
-        if (mi.key == magicItem.key) {
-          isInTreasureChest = true
-        }
-      }
-      return isInTreasureChest
+      return isResourceInLibrary(magicItem, this.$store.state.myMagicItems.magicItems)
     },
     toggleItemInTreasureChest (magicItem) {
       if (this.isItemInTreasureChest(magicItem)) {

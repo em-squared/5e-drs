@@ -18,6 +18,7 @@ import Breadcrumb from '@theme/components/Breadcrumb'
 import Monster from '@theme/components/Monster'
 import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 import Edit from '@theme/components/Edit'
+import { isResourceInLibrary } from '@theme/util'
 
 export default {
   name: 'MonsterLayout',
@@ -31,13 +32,7 @@ export default {
 
   computed: {
     isMonsterInBestiary () {
-      let isInBestiary = false
-      for (let s of this.$store.state.myMonsters.monsters) {
-        if (s.key == this.$page.key) {
-          isInBestiary = true
-        }
-      }
-      return isInBestiary
+      return isResourceInLibrary(this.$page, this.$store.state.myMonsters.monsters)
     },
 
     displayToggleMonsterButton () {

@@ -117,6 +117,7 @@
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
+import { isResourceInLibrary } from '@theme/util'
 import Spell from '@theme/components/Spell'
 import MySpellsButton from '@theme/global-components/MySpellsButton'
 
@@ -281,13 +282,7 @@ export default {
 
   methods: {
     isSpellInSpellBook (spell) {
-      let isInSpellBook = false
-      for (let s of this.$store.state.mySpells.spells) {
-        if (s.key == spell.key) {
-          isInSpellBook = true
-        }
-      }
-      return isInSpellBook
+      return isResourceInLibrary(spell, this.$store.state.mySpells.spells)
     },
     toggleSpellInSpellBook (spell) {
       if (this.isSpellInSpellBook(spell)) {
