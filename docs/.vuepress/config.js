@@ -117,12 +117,12 @@ module.exports = {
         // modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       }
     ],
-    // [
-    //   '@vuepress/google-analytics',
-    //   {
-    //     'ga': '' // UA-00000000-0
-    //   }
-    // ]
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-122478510-1' // UA-00000000-0
+      }
+    ]
   ],
   dest: process.env.VUEPRESS_DEST,
   extendPageData ($page) {
