@@ -3,7 +3,7 @@ title: "Gérer la santé du personnage"
 ---
 # Gérer la santé du personnage
 ## Dégâts et guérison
-Dans l'univers fantastique de ***Héros & Dragons***, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d'un dragon, les griffes d'un troll, le poison d'un ennemi, un carreau d'arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
+Dans l'univers fantastique de _**Héros & Dragons**_, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d'un dragon, les griffes d'un troll, le poison d'un ennemi, un carreau d'arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
 
 ### Points de vie
 Les points de vie représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points de vie, plus elle est difficile à tuer. Les créatures avec peu de points de vie sont plus fragiles.

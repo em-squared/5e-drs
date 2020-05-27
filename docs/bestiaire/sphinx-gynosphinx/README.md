@@ -73,4 +73,4 @@ _**Attaque de griffe**_. Le sphinx effectue une attaque de griffe.
 
 _**Lancer un sort (coûte 3 actions)**_. Le sphinx lance un sort choisi parmi ceux de sa liste de sorts préparés, en utilisant un emplacement de sort comme à l'accoutumée.
 
-***Téléportation (coûte 2 actions)*** . Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+_**Téléportation (coûte 2 actions)**_. Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.

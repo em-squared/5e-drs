@@ -253,7 +253,7 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 |**Panier**|60 L/20 kg d'équipement|
 |**Pot en fer**|3,5 L de liquide|
 |**Sac**|30 L/15 kg d'équipement|
-|**Sac à dos***|30 L / 15 kg d'équipement|
+|**Sac à dos**\*|30 L / 15 kg d'équipement|
 |**Sacoche**|6 L/3 kg d'équipement|
 |**Seau**|10 L de liquide, 15 L de solide|
 |**Tonneau**|140 L de liquide, 120 L de solide|

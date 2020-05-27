@@ -59,7 +59,7 @@ _**Nuage empoisonné**_. L'abothid est constamment entouré d'un nuage de gaz to
 ## Actions
 _**Attaques multiples**_. L'abothid effectue deux attaques de tentacules. S'il empoigne une créature, l'abothid peut également utiliser une fois le dard de sa langue.
 
-***Tentacule*** . _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Tentacule**_ . _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 11 (2d8+3) dégâts contondants (constriction). Si la cible est une créature de taille M ou plus petite, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
 
 _**Dard de langue**_. _Attaque d'arme au corps à corps_ (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible.  

@@ -108,7 +108,7 @@ Vous voudrez peut-être adapter certains détails d'un historique pour qu'il cor
 
 ### Les historiques de Héros & Dragons
 
-Voici la liste des historiques proposés dans ***Héros & Dragons***.
+Voici la liste des historiques proposés dans _**Héros & Dragons**_.
 §§§ .column-count-3
 * [Brigand](/personnalite-et-historique/brigand/)
  * [Bandit de grand chemin](/personnalite-et-historique/brigand/#variante-bandit-de-grand-chemin)

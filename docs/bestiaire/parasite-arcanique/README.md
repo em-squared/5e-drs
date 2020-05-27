@@ -43,14 +43,14 @@ _**Perception des lanceurs de sorts**_. Le parasite arcanique détecte automatiq
 _**Résistance à la magie**_. Le parasite arcanique a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets de sauvegarde contre les sorts et autres effets magiques.
 
 _**Agonie explosive**_. Lorsque le parasite arcanique meurt, il explose en libérant une décharge magique. Chaque créature située à 3 mètres ou moins subit 3d8 points de dégâts dont la nature dépend de la couleur du parasite et seulement la moitié en cas de réussite d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité (DD 11). Couleur du parasites et type de dégâts :  
-***1. Rouge*** – feu  
-***2. Orange*** – acide  
-***3. Jaune*** – foudre  
-***4. Vert*** – poison  
-***5. Bleu*** – froid  
-***6. Violet*** – tonnerre  
-***7. Blanc*** – radiant  
-***8. Noir*** - nécrotique
+_**1. Rouge**_ – feu  
+_**2. Orange**_ – acide  
+_**3. Jaune**_ – foudre  
+_**4. Vert**_ – poison  
+_**5. Bleu**_ – froid  
+_**6. Violet**_ – tonnerre  
+_**7. Blanc**_ – radiant  
+_**8. Noir**_ - nécrotique
 
 ## Actions
 _**Absorption de la magie**_. _Attaque de corps à corps_ : +4 au touché, allonge 1,50 mètres, une cible.  
