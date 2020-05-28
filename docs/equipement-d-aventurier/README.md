@@ -220,7 +220,8 @@ Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduir
 ## Potion de soins
 Un personnage qui boit le liquide magique rouge qui se trouve dans cette fiole regagne 2d4+2 points de vie. Une action est nécessaire pour boire ou administrer la potion.
 
-## RationsLes rations sont des aliments séchés (viande séchée, biscuits, noix...) utilisés pour de longs voyages.
+## Rations
+Les rations sont des aliments séchés (viande séchée, biscuits, noix...) utilisés pour de longs voyages.
 
 ## Sacoche
 Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de fronde ou cinquante dards de sarbacane. Une sacoche à compartiments qui est utilisée pour stocker les composantes de sorts s'appelle une sacoche à composantes (voir ci-dessous).
