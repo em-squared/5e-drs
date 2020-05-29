@@ -68,6 +68,8 @@ Par exemple, si vous connaissez le sort de niveau 1 [_mains brûlantes_](/grimoi
 
 La colonne sorts connus du tableau d'[évolution de l'ensorceleur](#evolution-de-l-ensorceleur) vous indique à quels niveaux vous pouvez apprendre de nouveaux sorts d'ensorceleur de votre choix et combien. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 3 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
 
+De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort d'ensorceleur que vous connaissez et le remplacer par un autre sort de la liste de sorts d'ensorceleur. Il doit aussi s'agir d'un sort que vous êtes en mesure de lancer.
+
 ### Caractéristique d'incantation
 La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le Charisme, car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
 

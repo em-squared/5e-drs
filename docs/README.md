@@ -19,7 +19,7 @@ La nouvelle version du site va chambouler de nombreuses choses tout en restant r
 
 ### Refonte fondamentale
 
-Même si ça ne se verra pas au premier coup d’œil, le site a subit une refonte dans toute son architecture. Le socle technique a complètement été modifié. On peut dire que le site a été refait à partir de zéro.
+Même si ça ne se verra pas au premier coup d'œil, le site a subit une refonte dans toute son architecture. Le socle technique a complètement été modifié. On peut dire que le site a été refait à partir de zéro.
 
 ### Une interface plus réactive
 
