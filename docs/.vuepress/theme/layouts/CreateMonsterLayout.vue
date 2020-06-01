@@ -276,7 +276,7 @@ export default {
         pid: 'monster',
         key: null,
         title: '',
-        content: '',
+        content: `## Capacités\n_**Capacité**_. Description de la capacité.\n\n## Actions\n_**Action**_. Description de l'action.`,
         frontmatter: {
           type: '',
           subtype: '',
@@ -403,7 +403,7 @@ export default {
         pid: 'monster',
         key: Math.random().toString(36).substr(2, 9),
         title: '',
-        content: '',
+        content: `## Capacités\n_**Capacité**_. Description de la capacité.\n\n## Actions\n_**Action**_. Description de l'action.`,
         frontmatter: {
           type: '',
           subtype: '',

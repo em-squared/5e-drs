@@ -4,8 +4,6 @@ import 'vuetify/dist/vuetify.min.css'
 import '@mdi/font/css/materialdesignicons.css'
 import Vuetify from 'vuetify'
 import fr from 'vuetify/es5/locale/fr'
-import VueMasonry from 'vue-masonry-css'
-
 import colors from 'vuetify/es5/util/colors'
 
 // Stockage des donneés utilisateur dans le navigateur
@@ -27,7 +25,6 @@ export default ({
 }) => {
   require('./styles/main.scss')
   Vue.use(Vuex)
-  Vue.use(VueMasonry)
   Vue.mixin({
     store: store
   })
