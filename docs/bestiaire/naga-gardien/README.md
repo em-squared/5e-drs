@@ -48,6 +48,8 @@ _**Incantation**_. Le naga est un lanceur de sorts de niveau 11. Sa caractérist
 * _**5e niveau (2 emplacements)**_ : [_coercition mystique_](/grimoire/coercition-mystique/), [_colonne de flamme_](/grimoire/colonne-de-flamme/)
 * _**6e niveau (1 emplacement)**_ : [_vision suprême_](/grimoire/vision-supreme/)
 
+_**Reconstitution**_. S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de [_souhait_](/grimoire/souhait/) peut empêcher le fonctionnement de ce trait.
+
 ## Actions
 _**Cracher du poison**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 4,50/9 m, une créature.  
 _Touché_ : la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ; elle subit 45 (10d8) dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  

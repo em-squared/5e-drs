@@ -47,7 +47,7 @@ _**Incantation**_. Le naga est un lanceur de sorts de niveau 10. Sa caractérist
 * _**4e niveau (3 emplacements)**_ : [_flétrissement_](/grimoire/fletrissement/), [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/)
 * _**5e niveau (2 emplacements)**_ : [_dominer un humanoïde_](/grimoire/dominer-un-humanoide/)
 
-_**Reconstitution**_. S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait.
+_**Reconstitution**_. S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de [_souhait_](/grimoire/souhait/) peut empêcher le fonctionnement de ce trait.
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une créature.  
