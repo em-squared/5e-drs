@@ -541,6 +541,45 @@ module.exports = {
           }
         ]
       },
+      {
+        title: 'Les cinq royaumes',
+        icon: 'mdi-compass-rose',
+        children: [
+          {
+            title: 'Règles spécifiques',
+            path: '/les-cinq-royaumes/'
+          },
+          {
+            title: 'Humain',
+            path: '/les-cinq-royaumes/humain/'
+          },
+          {
+            title: 'Classes',
+            children: [
+              {
+                title: 'Barde',
+                path: '/les-cinq-royaumes/barde/'
+              },
+              {
+                title: 'Druide',
+                path: '/les-cinq-royaumes/druide/'
+              },
+              {
+                title: 'Rôdeur',
+                path: '/les-cinq-royaumes/rodeur/'
+              },
+              {
+                title: 'Savant',
+                path: '/les-cinq-royaumes/savant/'
+              }
+            ],
+          },
+          {
+            title: 'Rituels magiques',
+            path: '/les-cinq-royaumes/les-rituels-magiques/'
+          }
+        ]
+      },
       {type: 'divider'},
       {
         title: 'Bibliothèques',
