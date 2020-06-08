@@ -1,5 +1,6 @@
 
 import get from 'lodash/get'
+import slugify from 'slugify'
 
 export default (query, page, additionalStr = null) => {
   let domain = get(page, 'title', '')
@@ -11,6 +12,8 @@ export default (query, page, additionalStr = null) => {
   if (additionalStr) {
     domain += ` ${additionalStr}`
   }
+  query = slugify(query, {lower: true, strict: true})
+  domain = slugify(domain, {lower: true, strict: true})
 
   return matchTest(query, domain)
 }
@@ -39,4 +42,3 @@ const matchTest = (query, domain) => {
   )
   return searchRegex.test(domain)
 }
-
