@@ -16,6 +16,7 @@
     append-icon="mdi-magnify"
     solo-inverted
     return-object
+    :filter="searchFilter"
   >
 
     <template v-slot:item="data">
@@ -32,6 +33,7 @@
 
 <script>
 import matchQuery from './match-query'
+import slugify from 'slugify'
 import { displaySchoolLevel } from '@theme/util/spellHelpers'
 import { displayItemMeta } from '@theme/util/magicItemHelpers'
 import { displayMonsterTypeSizeAlignment } from '@theme/util/monsterHelpers'
@@ -81,6 +83,14 @@ export default {
   },
 
   methods: {
+    searchFilter (item, queryText, itemText) {
+      if (slugify(itemText, {lower: true, strict: true}).includes(slugify(queryText, {lower: true, strict: true}))) {
+        return true
+      }
+      return false
+    },
+
+
     suggestions (query) {
       this.loading = true
       query = query.trim().toLowerCase()

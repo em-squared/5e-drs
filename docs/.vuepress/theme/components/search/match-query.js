@@ -12,6 +12,7 @@ export default (query, page, additionalStr = null) => {
   if (additionalStr) {
     domain += ` ${additionalStr}`
   }
+
   query = slugify(query, {lower: true, strict: true})
   domain = slugify(domain, {lower: true, strict: true})
 
@@ -19,6 +20,7 @@ export default (query, page, additionalStr = null) => {
 }
 
 const matchTest = (query, domain) => {
+
   const escapeRegExp = str => str.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')
 
   const words = query

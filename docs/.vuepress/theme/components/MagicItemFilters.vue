@@ -42,7 +42,7 @@
               </v-btn>
             </v-btn-toggle>
 
-            <p class="mt-0 mb-0 ml-2">Verbales</p>
+            <p class="mt-0 mb-0 ml-2">Harmonisation</p>
           </div>
         </v-expansion-panel-content>
       </v-expansion-panel>
