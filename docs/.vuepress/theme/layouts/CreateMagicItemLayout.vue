@@ -19,7 +19,8 @@
       <input ref="uploader" class="d-none" type="file" @change="upload">
       <v-btn :outlined="!isMagicItemInTreasureChest" color="accent" class="mr-1 mb-1" depressed @click="toggleMagicItemInTreasureChest"><v-icon>mdi-book</v-icon> {{ displayToggleMagicItemButton }}</v-btn>
       <v-btn :disabled="!isMagicItemInTreasureChest" outlined color="accent" class="mr-1 mb-1" depressed @click="updateMagicItemInTreasureChest"><v-icon>mdi-update</v-icon> MàJ dans le grimoire</v-btn>
-      <v-btn outlined color="error" class="mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn outlined color="error" class="mr-1 mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn outlined class="mb-1" depressed @click="share"><v-icon left>mdi-share-variant</v-icon> Partager</v-btn>
     </div>
 
     <v-row>
@@ -55,6 +56,12 @@
           </v-col>
         </v-row>
 
+        <v-row>
+          <v-col>
+            <v-text-field outlined label="Auteur" v-model="magicItem.author"></v-text-field>
+          </v-col>
+        </v-row>
+
       </v-col>
 
       <v-col :col="6">
@@ -70,6 +77,7 @@ import MagicItem from '@theme/components/MagicItem'
 import { saveAs } from 'file-saver'
 import { MAGICITEMTYPES, RARITIES } from '../../data/magicItems'
 import { getUrlParameter } from '@theme/util/filterHelpers'
+import { encode } from '@theme/util/homebrew'
 import slugify from 'slugify'
 slugify.extend({"'": '-'})
 
@@ -118,6 +126,7 @@ export default {
         custom: true,
         pid: 'magicitem',
         key: null,
+        author: '',
         title: '',
         content: '',
         hasAttunement: false,
@@ -223,6 +232,11 @@ export default {
           attunement: '',
         }
       }
+    },
+
+    share () {
+      this.$store.commit('setShareURI', encode(this.magicItem))
+      this.$store.commit('setIsOpenShareHomebrewDialog', true)
     }
   },
 

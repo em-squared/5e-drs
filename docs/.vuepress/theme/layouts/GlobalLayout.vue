@@ -46,6 +46,22 @@
       </v-btn>
     </v-snackbar>
 
+    <v-dialog v-model="$store.state.isOpenShareHomebrewDialog" @click:outside="$store.commit('setIsOpenShareHomebrewDialog', !$store.state.isOpenShareHomebrewDialog)" max-width="600">
+      <v-card>
+        <v-card-title class="headline d-flex justify-space-between">
+          <span>Partage</span></span>
+          <v-btn color="primary" icon @click="$store.commit('setIsOpenShareHomebrewDialog', !$store.state.isOpenShareHomebrewDialog)"><v-icon>mdi-close</v-icon></v-btn>
+        </v-card-title>
+
+        <v-card-text>
+          <v-text-field id="copy-uri" outlined readonly label="Copiez le lien pour partager" :hint="hintCopied" :value="$site.themeConfig.domain + '/homebrew/?brew=' + $store.state.shareURI" append-outer-icon="mdi-content-copy" @click:append-outer="copyURI('copy-uri')"></v-text-field>
+          <div class="text-center">
+            <v-btn color="accent" depressed link :to="{ path: '/homebrew/', query: { brew: $store.state.shareURI }}" @click="$store.commit('setIsOpenShareHomebrewDialog', !$store.state.isOpenShareHomebrewDialog)">Voir la page</v-btn>
+          </div>
+        </v-card-text>
+      </v-card>
+    </v-dialog>
+
   </v-app>
 </template>
 
@@ -74,7 +90,8 @@ export default {
   data () {
     return {
       cookieConsentDialog: true,
-      toTopButton: false
+      toTopButton: false,
+      hintCopied: ''
     }
   },
 
@@ -158,6 +175,17 @@ export default {
     setRightDrawer () {
       this.$store.commit('setRightDrawer', !this.$store.state.rightDrawer)
     },
+
+    copyURI(id) {
+      let toCopy = document.getElementById(id)
+      toCopy.select()
+      document.execCommand( 'copy' )
+      this.hintCopied = "L'adresse a été copiée dans le presse-papier"
+      let self = this
+      setTimeout(function () {
+        self.hintCopied = ''
+      }, 2000)
+    }
   }
 }
 </script>

@@ -20,7 +20,8 @@
       <input ref="uploader" class="d-none" type="file" @change="upload">
       <v-btn :outlined="!isMonsterInBestiary" color="accent" class="mr-1 mb-1" depressed @click="toggleMonsterInBestiary"><v-icon>mdi-book</v-icon> {{ displayToggleMonsterButton }}</v-btn>
       <v-btn :disabled="!isMonsterInBestiary" outlined color="accent" class="mr-1 mb-1" depressed @click="updateMonsterInBestiary"><v-icon>mdi-update</v-icon> MàJ dans le bestiaire</v-btn>
-      <v-btn outlined color="error" class="mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn outlined color="error" class="mr-1 mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn outlined class="mb-1" depressed @click="share"><v-icon left>mdi-share-variant</v-icon> Partager</v-btn>
     </div>
 
     <v-row>
@@ -203,6 +204,12 @@
           </v-col>
         </v-row>
 
+        <v-row>
+          <v-col>
+            <v-text-field outlined label="Auteur" v-model="monster.author"></v-text-field>
+          </v-col>
+        </v-row>
+
       </v-col>
 
       <v-col :cols="12" :md="6">
@@ -224,6 +231,7 @@ import { DAMAGETYPES } from '../../data/damageTypes'
 import { LANGUAGES } from '../../data/languages'
 import { getUrlParameter } from '@theme/util/filterHelpers'
 import { isResourceInLibrary } from '@theme/util'
+import { encode } from '@theme/util/homebrew'
 import { getProficiencyBonus, displayBonus } from '@theme/util/monsterHelpers'
 import slugify from 'slugify'
 slugify.extend({"'": '-'})
@@ -276,6 +284,7 @@ export default {
         custom: true,
         pid: 'monster',
         key: null,
+        author: '',
         title: '',
         content: `## Capacités\n_**Capacité**_. Description de la capacité.\n\n## Actions\n_**Action**_. Description de l'action.`,
         frontmatter: {
@@ -495,6 +504,11 @@ export default {
         this.monster.frontmatter.skills[idx].isExpert = this.selectedSkillsExpert.indexOf(mskill.name) >= 0
       })
     },
+
+    share () {
+      this.$store.commit('setShareURI', encode(this.monster))
+      this.$store.commit('setIsOpenShareHomebrewDialog', true)
+    }
   },
 
   mounted () {

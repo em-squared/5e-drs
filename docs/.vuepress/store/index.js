@@ -32,6 +32,8 @@ export default new Vuex.Store({
     isThemeDark: false,
     isOpenAboutDialog: false,
     isOpenSupportDialog: false,
+    isOpenShareHomebrewDialog: false,
+    shareURI: '',
     isOpenSnackbar: false,
     snackbarText: '',
     l5r: false
@@ -46,6 +48,8 @@ export default new Vuex.Store({
     isThemeDark: state => state.isThemeDark,
     isOpenAboutDialog: state => state.isOpenAboutDialog,
     isOpenSupportDialog: state => state.isOpenSupportDialog,
+    isOpenShareHomebrewDialog: state => state.isOpenShareHomebrewDialog,
+    shareURI: state => state.shareURI,
     isOpenSnackbar: state => state.isOpenSnackbar,
     l5r: state => state.l5r,
   },
@@ -112,6 +116,12 @@ export default new Vuex.Store({
     },
     setIsOpenSupportDialog: (state, payload) => {
       state.isOpenSupportDialog = payload
+    },
+    setIsOpenShareHomebrewDialog: (state, payload) => {
+      state.isOpenShareHomebrewDialog = payload
+    },
+    setShareURI: (state, payload) => {
+      state.shareURI = payload
     },
     setIsOpenSnackbar: (state, payload) => {
       state.isOpenSnackbar = payload

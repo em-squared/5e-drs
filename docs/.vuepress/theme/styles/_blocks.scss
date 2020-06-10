@@ -21,3 +21,17 @@
     color: #fff;
   }
 }
+
+blockquote {
+  background-color: #eee;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  margin-bottom: 16px;
+  border-left: 3px solid #ccc;
+  font-style: italic;
+
+  p {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

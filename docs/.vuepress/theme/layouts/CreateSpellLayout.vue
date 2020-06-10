@@ -11,15 +11,16 @@
     <h1 class="d-print-none">Création de sort</h1>
 
     <div class="my-4 d-flex flex-wrap d-print-none">
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print"><v-icon left>mdi-printer</v-icon> Imprimer</v-btn>
+      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download"><v-icon left>mdi-file-download</v-icon> Sauvegarder</v-btn>
       <v-btn outlined color="accent" class="mr-1 mb-1" depressed :loading="isUploading" @click="onUploadClick">
         <v-icon left>mdi-file-upload</v-icon> Charger
       </v-btn>
       <input ref="uploader" class="d-none" type="file" @change="upload">
-      <v-btn :outlined="!isSpellInSpellBook" color="accent" class="mr-1 mb-1" depressed @click="toggleSpellInSpellBook"><v-icon>mdi-book</v-icon> {{ displayToggleSpellButton }}</v-btn>
-      <v-btn :disabled="!isSpellInSpellBook" outlined color="accent" class="mr-1 mb-1" depressed @click="updateSpellInSpellBook"><v-icon>mdi-update</v-icon> MàJ dans le grimoire</v-btn>
-      <v-btn outlined color="error" class="mb-1" depressed @click="reset"><v-icon>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn :outlined="!isSpellInSpellBook" color="accent" class="mr-1 mb-1" depressed @click="toggleSpellInSpellBook"><v-icon left>mdi-book</v-icon> {{ displayToggleSpellButton }}</v-btn>
+      <v-btn :disabled="!isSpellInSpellBook" outlined color="accent" class="mr-1 mb-1" depressed @click="updateSpellInSpellBook"><v-icon left>mdi-update</v-icon> MàJ dans le grimoire</v-btn>
+      <v-btn outlined color="error" class="mr-1 mb-1" depressed @click="reset"><v-icon left>mdi-eraser</v-icon> Réinitialiser</v-btn>
+      <v-btn outlined class="mb-1" depressed @click="share"><v-icon left>mdi-share-variant</v-icon> Partager</v-btn>
     </div>
 
     <v-row>
@@ -94,6 +95,12 @@
           </v-col>
         </v-row>
 
+        <v-row>
+          <v-col>
+            <v-text-field outlined label="Auteur" v-model="spell.author"></v-text-field>
+          </v-col>
+        </v-row>
+
       </v-col>
 
       <v-col :cols="12" :md="6">
@@ -111,6 +118,7 @@ import { CLASSES } from '../../data/classes'
 import { SPELLSCHOOLS, SPELLLEVELS } from '../../data/spells'
 import { getUrlParameter } from '@theme/util/filterHelpers'
 import { isResourceInLibrary } from '@theme/util'
+import { encode } from '@theme/util/homebrew'
 import slugify from 'slugify'
 slugify.extend({"'": '-'})
 
@@ -132,7 +140,7 @@ export default {
         return 'Supprimer de mon grimoire'
       }
       return 'Ajouter à mon grimoire'
-    }
+    },
   },
 
   data () {
@@ -145,6 +153,7 @@ export default {
         custom: true,
         pid: 'spell',
         key: null,
+        author: '',
         title: '',
         content: '',
         frontmatter: {
@@ -263,6 +272,11 @@ export default {
           }
         }
       }
+    },
+
+    share () {
+      this.$store.commit('setShareURI', encode(this.spell))
+      this.$store.commit('setIsOpenShareHomebrewDialog', true)
     }
   },
 

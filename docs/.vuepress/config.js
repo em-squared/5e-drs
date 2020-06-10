@@ -185,6 +185,12 @@ module.exports = {
        frontmatter: {
           layout: 'AbilityCalculatorLayout'
        }
+    },
+    {
+       path: '/homebrew/',
+       frontmatter: {
+          layout: 'HomebrewLayout'
+       }
     }
   ],
   themeConfig: {
