@@ -1,7 +1,7 @@
 ---
 title: Barde des cinq royaumes
 ---
-# Barde des cinq royaumes
+# <span class="orn">8</span> Barde des cinq royaumes
 
 §§§ .table-container
 ## Évolution du barde des cinq royaumes

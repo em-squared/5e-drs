@@ -104,11 +104,15 @@ export default {
       this.cookieConsentDialog = false
     }
 
-    // Cookie consent
+    // Dark theme
     const THEMEISDARK = Cookies.get('heros-et-dragons-is-dark')
     if (THEMEISDARK === 'true') {
       this.$vuetify.theme.dark = true
     }
+
+    // Variante 5 royaumes pour les monstres
+    const L5R = Cookies.get('heros-et-dragons-l5r')
+    this.$store.state.l5r = L5R
 
     // Chargement des donées utilisateur depuis le navigateur
     this.$store.commit('mySpells/initialiseStore')

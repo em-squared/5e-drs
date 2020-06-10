@@ -17,8 +17,13 @@
             <span>{{ displayAC() }}</span>
           </div>
           <div class="monster-hit-points">
-            <strong>Points de vie</strong>
+            <strong v-if="$store.state.l5r">Points de combativité</strong>
+            <strong v-else>Points de vie</strong>
             <span>{{ hp }}</span>
+          </div>
+          <div v-if="$store.state.l5r" class="monster-vitality-points">
+            <strong>Points de vitalité</strong>
+            <span>{{ vp }}</span>
           </div>
           <div class="monster-movement">
             <strong>Vitesse</strong>
@@ -222,6 +227,10 @@ export default {
         return averageHP + ' (' + this.monsterStats.hitDiceCount + "d" + hitDieSize + conMod + ')'
       }
       return ""
+    },
+
+    vp () {
+      return Number(this.monsterStats.abilityScores.con) + 4 + Math.floor(this.monsterStats.challenge)
     },
 
     languages () {

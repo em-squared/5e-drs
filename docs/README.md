@@ -12,6 +12,26 @@ toc: false
 
 Bienvenue sur la nouvelle version du site Document de Référence Système pour _**Héros & Dragons**_ !
 
+## Ajout des règles spécifiques aux Cinq Royaumes
+Voilà une chose qui m'est réclamée depuis un certain temps. Et bien c'est chose faite.
+
+H&D DRS propose maintenant les règles spécifiques pour le fabuleux cadre de campagne de sang et d'acier de Julien Dutel : [Les cinq royaumes](/les-cinq-royaumes/).
+
+Ça comprend les variantes des [humains](/les-cinq-royaumes/humain/) avec toutes les origines, les classes modifiées de [barde](/les-cinq-royaumes/barde/), [druide](/les-cinq-royaumes/druide/), [rôdeur](/les-cinq-royaumes/rodeur/) et la nouvelle classe de [savant](/les-cinq-royaumes/savant/), le chasseur de monstre idéal pour jouer un traqueur carmin (s'il survit au [rituel](/les-cinq-royaumes/les-rituels-magiques/) de [la confrontation](/les-cinq-royaumes/les-rituels-magiques/#la-confrontation)).
+
+Dans cet univers sombre, la magie n'est pas anodine, et certainement pas sans conséquences. Les [règles des rituels magiques](/les-cinq-royaumes/les-rituels-magiques/) vous expliqueront comment faire appel à des forces qui vous dépassent.
+
+En plus de ça, toutes les pages du [bestiaire](/bestiaire/) disposent à présent d'un bouton pour convertir les créatures dans leur version des cinq royaumes. Les points de vie (PV) sont remplacés par leur variante de points de combativité (PC) et points de vitalité (PVit) de façon transparente.
+
+Ça se voit que j'aime beaucoup ce cadre de campagne ?
+
+Bon jeu à tout le monde !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 10 juin 2020_
+§§§
+
 ## Nouvelle version pour H&D DRS
 Vous avez été de plus en plus nombreux à témoigner votre intérêt pour le site H&D DRS depuis sa mise en ligne publique en juillet 2019.
 
@@ -52,18 +72,13 @@ J'ai donc fait d'une pierre deux coups avec cette refonte. Et tout le monde y ga
 Même si j'ai très largement préparé le terrain en amont, cette nouvelle version a bénéficié de la relecture et des suggestions de quelques bénévoles qui ont permis de corriger de nombreuses erreurs et d'améliorer beaucoup d'éléments d'interface. À celles et ceux qui m'ont apporté ce soutien je dis **merci**.
 
 §§§ .text-right
-_**Em-squared**_
+_**Em-squared**_,  
+_le 25 mai 2020_
 §§§
 
 </v-col>
 
 <v-col cols="12" md="6">
-
-## Ressources utiles
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://www.black-book-editions.fr/forums.php?board_id=115" link target="\_blank"><v-icon left>mdi-forum</v-icon> Forum Héros & Dragons</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://discord.gg/mp6ECCs" link target="\_blank"><v-icon left>mdi-discord</v-icon> Discord H&D DRS</v-btn>
-<v-btn color="#9b1c47" dark depressed class="mb-4" href="https://github.com/em-squared/heros-et-dragons-drs" link target="\_blank"><v-icon left>mdi-github</v-icon> Source Github</v-btn>
 
 ## Bibliothèques
 <MySpellsButton />
@@ -79,5 +94,22 @@ _**Em-squared**_
   <v-col><v-btn color="#9b1c47" dark depressed block large to="/creation-d-objet-magique/"><v-icon>mdi-ring</v-icon> Création d'objet magique</v-btn></v-col>
   <v-col><v-btn color="#9b1c47" dark depressed block large to="/calculateur-de-caracteristiques/"><v-icon>mdi-calculator</v-icon> Calculateur de carac<span class="d-none d-md-inline">téristiques</span></v-btn></v-col>
 </v-row>
+
+## Liens utiles
+&nbsp;
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage PDF](https://www.black-book-editions.fr/file.php?id=178), _par Black Book Éditions_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
+
+### Communauté
+&nbsp;
+<v-icon>mdi-forum</v-icon> [Forum Héros & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115)  
+<v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/MntFXr), pour discuter du jeu, de ses règles et organiser des parties.  
+
+### À propos de ce site
+&nbsp;
+<v-icon>mdi-discord</v-icon> [Discord H&D DRS](https://discord.gg/mp6ECCs), pour discuter de ce site.  
+<v-icon>mdi-github</v-icon> [Sources Github](https://github.com/em-squared/heros-et-dragons-drs), tout le code source en licence GPLv3.  
+<v-icon>mdi-github</v-icon> [Soumettre une demande](https://github.com/em-squared/heros-et-dragons-drs/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
+
 </v-col>
 </v-row>

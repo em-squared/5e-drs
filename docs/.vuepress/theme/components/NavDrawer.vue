@@ -16,7 +16,10 @@
           <v-list-group v-if="item.children" :key="item.title" :value="isExpanded(item)" color="accent">
             <template v-slot:activator>
               <v-list-item-icon v-if="item.icon">
-                <v-icon v-text="item.icon"></v-icon>
+                <span class="v-icon" v-if="item.customIcon" v-html="item.icon"></span>
+                <template v-else>
+                  <v-icon v-text="item.icon"></v-icon>
+                </template>
               </v-list-item-icon>
               <v-list-item-content>
                 <v-list-item-title>
@@ -38,7 +41,7 @@
                     </v-list-item-title>
                   </v-list-item-content>
                 </template>
-                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" :exact="subchild.exact">
+                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" exact>
                   <v-list-item-icon v-if="subchild.icon">
                     <v-icon v-text="subchild.icon"></v-icon>
                   </v-list-item-icon>
@@ -51,7 +54,7 @@
                 </v-list-item>
               </v-list-group>
               <v-divider v-else-if="child.type == 'divider'" />
-              <v-list-item v-else :key="child.title" link :to="{path: child.path}" :exact="child.exact">
+              <v-list-item v-else :key="child.title" link :to="{path: child.path}" exact>
                 <v-list-item-icon v-if="child.icon">
                   <v-icon v-text="child.icon"></v-icon>
                 </v-list-item-icon>
@@ -65,7 +68,7 @@
             </template>
           </v-list-group>
           <v-divider v-else-if="item.type == 'divider'" />
-          <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" :exact="item.exact">
+          <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" exact>
             <v-list-item-icon v-if="item.icon">
               <v-icon v-text="item.icon"></v-icon>
             </v-list-item-icon>
@@ -76,26 +79,50 @@
             </v-list-item-content>
           </v-list-item>
         </template>
-        <v-list-item v-if="$site.themeConfig.forum" link :href="$site.themeConfig.forum" target="_blank">
-          <v-list-item-icon>
-            <v-icon>mdi-forum</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>
-              Forum
-            </v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item v-if="$site.themeConfig.discord" link :href="$site.themeConfig.discord" target="_blank">
-          <v-list-item-icon>
-            <v-icon>mdi-discord</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>
-              Discord
-            </v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
+        <v-list-group key="community" color="accent">
+          <template v-slot:activator>
+            <v-list-item-icon>
+              <v-icon>mdi-account-group</v-icon>
+            </v-list-item-icon>
+            <v-list-item-content>
+              <v-list-item-title>
+                Communauté
+              </v-list-item-title>
+            </v-list-item-content>
+          </template>
+          <v-list-item v-if="$site.themeConfig.forum" link :href="$site.themeConfig.forum" target="_blank">
+            <v-list-item-icon>
+              <v-icon>mdi-forum</v-icon>
+            </v-list-item-icon>
+            <v-list-item-content>
+              <v-list-item-title>
+                Forum
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+          <v-list-item v-if="$site.themeConfig.discordHDNO" link :href="$site.themeConfig.discordHDNO" target="_blank">
+            <v-list-item-icon>
+              <v-icon>mdi-discord</v-icon>
+            </v-list-item-icon>
+            <v-list-item-content>
+              <v-list-item-title>
+                Discord H&D Non Officiel
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+          <v-list-item v-if="$site.themeConfig.discord" link :href="$site.themeConfig.discord" target="_blank">
+            <v-list-item-icon>
+              <v-icon>mdi-discord</v-icon>
+            </v-list-item-icon>
+            <v-list-item-content>
+              <v-list-item-title>
+                Discord H&D DRS
+              </v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+          <v-divider/>
+        </v-list-group>
+
         <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
           <v-list-item-icon>
             <v-icon>mdi-github</v-icon>

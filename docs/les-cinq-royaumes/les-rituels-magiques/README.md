@@ -1,7 +1,7 @@
 ---
 title: Les rituels magiques
 ---
-# Les rituels magiques
+# <span class="orn">8</span> Les rituels magiques
 ## Lancer un rituel
 Tout le monde est capable de tenter de réaliser un rituel, mais il faut un certain degré de compétence pour le réussir pleinement. Les compétences les plus communément utilisées sont Intelligence (Arcanes), Intelligence (Religion) ou Intelligence (Nature), en fonction de l'origine du rituel. La personne qui mène le rituel est appelé l'invocateur.
 

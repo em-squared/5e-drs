@@ -1,7 +1,7 @@
 ---
 title: Les cinq royaumes
 ---
-# Les cinq royaumes
+# <span class="orn">8</span> Les cinq royaumes
 
 ## Règles générales
 

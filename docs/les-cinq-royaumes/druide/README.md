@@ -1,7 +1,7 @@
 ---
 title: Druide des cinq royaumes
 ---
-# Druide des cinq royaumes
+# <span class="orn">8</span> Druide des cinq royaumes
 
 §§§ .table-container
 ## Évolution du druide des cinq royaumes

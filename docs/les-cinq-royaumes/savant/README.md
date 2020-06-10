@@ -1,7 +1,7 @@
 ---
 title: Savant
 ---
-# Savant
+# <span class="orn">8</span> Savant
 Il s'agit en réalité d'une variante de la classe de [roublard](/classes/roublard/) dont il partage un certain nombre de caractéristiques. Vous pourrez d'ailleurs sans peine utiliser les [archétypes de roublard](/classes/roublard/#archetypes-de-roublard) avec ce savant. Modifiez la classe de [roublard](/classes/roublard/) comme suit.
 
 ## Aptitudes de classe

@@ -1,7 +1,7 @@
 ---
 title: Humain des cinq royaumes
 ---
-# Humain des cinq royaumes
+# <span class="orn">8</span> Humain des cinq royaumes
 
 ## Traits de base des humains
 Les humains sont versatiles et talentueux. Contrairement aux faës, ils ne possèdent pas de pouvoirs particuliers et ne comptent que sur leurs compétences, leurs savoir-faire et leur ingéniosité.
