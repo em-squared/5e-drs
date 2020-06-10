@@ -33,7 +33,8 @@ export default new Vuex.Store({
     isOpenAboutDialog: false,
     isOpenSupportDialog: false,
     isOpenSnackbar: false,
-    snackbarText: ''
+    snackbarText: '',
+    l5r: false
   },
 
   getters: {
@@ -46,6 +47,7 @@ export default new Vuex.Store({
     isOpenAboutDialog: state => state.isOpenAboutDialog,
     isOpenSupportDialog: state => state.isOpenSupportDialog,
     isOpenSnackbar: state => state.isOpenSnackbar,
+    l5r: state => state.l5r,
   },
 
   actions: {
@@ -78,6 +80,9 @@ export default new Vuex.Store({
     },
     snackbarText: ({ commit }, payload) => {
       commit('setSnackbarText', payload)
+    },
+    updateL5r: ({ commit }, payload) => {
+      commit('setL5r', payload)
     },
   },
 
@@ -119,5 +124,9 @@ export default new Vuex.Store({
     setSnackbarText: (state, payload) => {
       state.snackbarText = payload
     },
+    setL5r: (state, payload) => {
+      state.l5r = payload
+      Cookies.set('heros-et-dragons-l5r', state.l5r)
+    }
   },
 })

@@ -193,6 +193,7 @@ module.exports = {
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
+    discordHDNO: 'https://discord.gg/MntFXr',
     primaryColor: '#563f5a', // Hero
     accentColor: '#9b1c47', // Dragon
     searchPlaceholder: 'Recherche',
@@ -538,6 +539,46 @@ module.exports = {
           {
             title: "Les poisons",
             path: '/poisons/'
+          }
+        ]
+      },
+      {
+        title: 'Les cinq royaumes',
+        customIcon: true,
+        icon: '<span class="orn">8</span>',
+        children: [
+          {
+            title: 'Règles spécifiques',
+            path: '/les-cinq-royaumes/'
+          },
+          {
+            title: 'Humain',
+            path: '/les-cinq-royaumes/humain/'
+          },
+          {
+            title: 'Classes',
+            children: [
+              {
+                title: 'Barde',
+                path: '/les-cinq-royaumes/barde/'
+              },
+              {
+                title: 'Druide',
+                path: '/les-cinq-royaumes/druide/'
+              },
+              {
+                title: 'Rôdeur',
+                path: '/les-cinq-royaumes/rodeur/'
+              },
+              {
+                title: 'Savant',
+                path: '/les-cinq-royaumes/savant/'
+              }
+            ],
+          },
+          {
+            title: 'Rituels magiques',
+            path: '/les-cinq-royaumes/les-rituels-magiques/'
           }
         ]
       },
