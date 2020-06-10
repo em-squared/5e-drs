@@ -222,7 +222,7 @@ Transmutation
 
 Une fois le cœur du monstre rapporté, il est remis à l'herboriste qui passe plusieurs heures à mélanger les ingrédients et le cœur découpé en plusieurs morceaux en une mixture peu ragoûtante, chauffée sur un feu de bois au cœur du sanctuaire d'Arawn. Au terme de cette préparation, les novices sont amenés et boivent la mixture. Ils doivent alors effectuer un jet de sauvegarde de Constitution contre une difficulté de 15. En cas d'échec, ils tombent malade et restent alités plusieurs jours durant. Ils ont échoué à la confrontation et leurs souvenirs de ce rituel sont effacés. En cas de succès, ils se tordent en deux de douleur mais tiennent bon... et deviennent des traqueurs carmins.
 
-Dès lors, ils obtiennent l'_avantage_ sur leurs tests de Sagesse (Perception) contre les monstres et les morts-vivants. De plus, ils peuvent désormais ajouter leur modificateur de Sagesse, s'il est positif, à l'initiative, en plus du modificateur de Dextérité.
+Dès lors, ils obtiennent l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests de Sagesse (Perception) contre les monstres et les morts-vivants. De plus, ils peuvent désormais ajouter leur modificateur de Sagesse, s'il est positif, à l'initiative, en plus du modificateur de Dextérité.
 
 Si une capacité de classe, un don ou un sort permet aussi de rajouter son modificateur de Sagesse à l'initiative, le traqueur peut l'ajouter deux fois grâce à ce rituel.
 
@@ -266,7 +266,7 @@ La magie coule dans vos veines. Vous êtes capable de la comprendre instinctivem
 
 Vous obtenez +1 en Intelligence.
 
-Lorsque vous effectuez un rituel, vous obtenez l'_avantage_ sur tous les tests de compétence liés à ce dernier.
+Lorsque vous effectuez un rituel, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de compétence liés à ce dernier.
 
 Vous obtenez la capacité de lancer deux tours de magie. Une fois un tour de magie lancé, vous devez prendre un repos court ou un repos long avant de pouvoir lancer l'un ou l'autre de nouveau. Choisissez deux tours de magie parmi les suivants : [_druidisme_](/grimoire/druidisme/), [_lumière_](/grimoire/lumiere/), [_message_](/grimoire/message/), [_illusion mineure_](/grimoire/illusion-mineure), [_prestidigitation_](/grimoire/prestidigitation/), [_assistance_](/grimoire/assistance/), [_résistance_](/grimoire/resistance/). Ce tour de magie ne demande pas de composante matérielle, mais il requiert toujours une composante somatique et une composante verbale, même si le tour de magie n'en demande pas à l'origine. De plus, lorsque vous utilisez ce tour de magie, vous devez effectuer un test d'Intelligence (Arcane) contre une difficulté de 15. En cas d'échec, le sort a un effet secondaire fâcheux et clairement surnaturel (la zone est parcourue d'un vent froid en plein été, une odeur de soufre se dégage de vous, le lait tourne, les chevaux ou les chiens s'affolent, etc.). Si vous obtenez un 1 sur votre d20, toute la zone subit un contrecoup important et visible de tous, et le tour de magie affecte ennemis comme alliés de manière déformée ou excessive (au détriment du sourcelin et de ses alliés). Quoiqu'il en soit, le tour de magie, lui, fonctionne toujours.
 

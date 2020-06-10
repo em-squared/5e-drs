@@ -71,7 +71,7 @@ Au niveau 9, vous pouvez utiliser ce pouvoir entre deux repos courts.
 Au niveau 13, quand vous communiquez avec eux, vous êtes capable d'éveiller les animaux pour le temps de leur dialogue avec vous : ils obtiennent alors une intelligence de 8.
 
 #### Maître des brumes
-Vous passez une heure à psalmodier dans la langue du dragon puis vous canalisez votre souffle. Vous désignez une zone que vous pouvez voir se situant au moins partiellement en extérieur. Dans un rayon de 50m par niveau de druide, une brume se lève pour un nombre d'heures égal à votre niveau divisé par 4 (minimum 1), ou jusqu'à ce que vous arrêtiez de vous concentrer. Cette brume surnaturelle est épaisse et offre un couvert important. Tous les tests de perception au sein de la brume subissent un _désavantage_, et tous les tests de discrétion bénéficient d'un _avantage_. La brume est épaisse mais un vent violent peut la dissiper. Elle se dissipe en un nombre de minutes égal à la moitié du niveau de druide (minimum une minute).
+Vous passez une heure à psalmodier dans la langue du dragon puis vous canalisez votre souffle. Vous désignez une zone que vous pouvez voir se situant au moins partiellement en extérieur. Dans un rayon de 50m par niveau de druide, une brume se lève pour un nombre d'heures égal à votre niveau divisé par 4 (minimum 1), ou jusqu'à ce que vous arrêtiez de vous concentrer. Cette brume surnaturelle est épaisse et offre un couvert important. Tous les tests de perception au sein de la brume subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), et tous les tests de discrétion bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). La brume est épaisse mais un vent violent peut la dissiper. Elle se dissipe en un nombre de minutes égal à la moitié du niveau de druide (minimum une minute).
 
 Au niveau 9, cette brume devient magique et ne peut plus être dissipée, sauf par un vent magique.
 
@@ -91,7 +91,7 @@ Au niveau 9, ce vent devient magique et il faut un jet de sauvegarde de Force co
 
 Au niveau 13, vous pouvez décider de réduire la vitesse de moitié, mais de l'accompagner de grêle. Les créatures présentes dans la zone, ainsi que les structures de bois et de torchis, ou tout autre matériau souple, subissent 2d6 points de dégâts par minute passé dans la zone. Un jet de sauvegarde de Dextérité permet de réduire les dégâts par deux en trouvant un abri.
 
-Au niveau 17, vous soulevez une véritable tempête, et lorsque le vent dépasse les 80 km/h, le jet de sauvegarde de Force ou de Dextérité subit un _désavantage_.
+Au niveau 17, vous soulevez une véritable tempête, et lorsque le vent dépasse les 80 km/h, le jet de sauvegarde de Force ou de Dextérité subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Voyageur des terres
 Les druides errent sur les terres et certains ont appris à ne faire qu'un avec la terre et les arbres. Lorsque vous prononcez un mot de pouvoir, les plantes et arbres s'écartent devant vous. Plus aucun terrain ne devient difficile pour un nombre d'heures égal à votre niveau. De plus, vous ne laissez aucune trace derrière vous.
@@ -107,7 +107,7 @@ Vous êtes l'incarnation de la colère de la nature et vous savez en maîtriser 
 
 Au niveau 5, votre bâton peut se transformer en [serpent venimeux](/bestiaire/serpent-venimeux/) pendant une heure, et cibler un ennemi de son venin. Si le serpent est tué, il redevient votre bâton.
 
-Au niveau 9, vous pouvez agiter plantes, buissons et racines autour de vous. Pendant un nombre de rounds égal à votre niveau, vos ennemis dans un rayon de 10m autour de vous subissent un _désavantage_ à leurs tests d'actions, à leurs jets de sauvegarde physiques, ainsi qu'à leurs tests d'attaque.
+Au niveau 9, vous pouvez agiter plantes, buissons et racines autour de vous. Pendant un nombre de rounds égal à votre niveau, vos ennemis dans un rayon de 10m autour de vous subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leurs tests d'actions, à leurs jets de sauvegarde physiques, ainsi qu'à leurs tests d'attaque.
 
 Au niveau 13, votre bâton peut se transformer en un [serpent venimeux géant](/bestiaire/serpent-venimeux-geant/) qui vous obéit.
 
@@ -122,7 +122,7 @@ Aux niveaux 9 et 15, choisissez une nouvelle compétence liée à l'Intelligence
 Au niveau 3, vous devenez capable de favoriser la fertilité des êtres et des plantes. En effectuant un rituel du crépuscule jusqu'à l'aube, vous pouvez bénir un champ ou une femme enceinte. Le champ sera aussi fertile que possible pour l'année à venir ; l'enfant naîtra sans difformité, ni maladie... Si la mère ou l'enfant à naître devaient être soumis à une malédiction, vous devez réussir un test de Sagesse (en y ajoutant votre bonus de maîtrise) contre une difficulté de **8 + [bonus de maîtrise] + [modificateur de caractéristique approprié à la créature qui les a maudit]**.)
 
 ### Le souffle du dragon
-Après une utilisation du souffle, vous avez besoin d'une semaine de repos total, dans un sommeil profond, avant de pouvoir utiliser de nouveau cette capacité. Si, après l'utilisation du souffle, vous ne pouvez consacrer une semaine entière au repos total, vous avez un _désavantage_ sur les tests de caractéristiques physiques pendant une semaine, et vous ne pouvez pas réutiliser le souffle avant un mois.
+Après une utilisation du souffle, vous avez besoin d'une semaine de repos total, dans un sommeil profond, avant de pouvoir utiliser de nouveau cette capacité. Si, après l'utilisation du souffle, vous ne pouvez consacrer une semaine entière au repos total, vous avez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de caractéristiques physiques pendant une semaine, et vous ne pouvez pas réutiliser le souffle avant un mois.
 
 Au niveau 7, vous apprenez à faire appel à la colère du dragon, aux flammes qui sortent de sa gueule béante. Ce pouvoir ne fonctionne qu'en extérieur. Afin de l'activer, il faut trouver une zone en hauteur par rapport à la zone visée, puis passer dix minutes à psalmodier. Vous pouvez alors invoquer une tempête d'éclairs sur un cercle dont vous pouvez voir le centre et dont le rayon est égal, en mètres, à votre niveau multiplié par deux. La zone est frappée par une multitude d'éclairs aussi longtemps que vous maintenez votre concentration, pour une durée maximale d'une minute. Toutes les créatures présentes dans la zone subissent 2d6 points de dégâts par tour. Un jet de sauvegarde de Dextérité permet de réduire les dégâts de moitié. Un échec critique signifie que l'intégralité des dégâts est décomptée des points de vitalité.
 

@@ -42,7 +42,7 @@ Cette double jauge peut rendre les personnages de bas niveau plus résistants qu
 #### Viser où ça fait mal !
 Un joueur peut décider de viser là où ça fait mal et tenter de toucher directement les PVit de son adversaire sans attendre une réussite critique.
 
-Avant de porter une attaque, il doit déclarer qu'il effectue une attaque féroce. Il effectue alors un test d'attaque avec _désavantage_. En cas de réussite, il inflige l'intégralité des dégâts aux PVit de son adversaire, et la moitié des dégâts à ses propres PC (ceci représentant l'effort nécessaire pour passer la défense de son adversaire). En cas d'échec sur le test d'attaque, il jette tout de même les dégâts et s'inflige la moitié à ses propres PC. Le personnage peut éviter cette perte en prenant, à la place, un niveau de fatigue.
+Avant de porter une attaque, il doit déclarer qu'il effectue une attaque féroce. Il effectue alors un test d'attaque avec [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). En cas de réussite, il inflige l'intégralité des dégâts aux PVit de son adversaire, et la moitié des dégâts à ses propres PC (ceci représentant l'effort nécessaire pour passer la défense de son adversaire). En cas d'échec sur le test d'attaque, il jette tout de même les dégâts et s'inflige la moitié à ses propres PC. Le personnage peut éviter cette perte en prenant, à la place, un niveau de fatigue.
 §§§
 
 #### 0 PC
@@ -64,7 +64,7 @@ Il peut, s'il le désire, effectuer une attaque sournoise non-mortelle. Elle s'e
 
 Il peut aussi effectuer une attaque sournoise normale. Les dégâts sont appliqués normalement selon les règles présentes dans ce livre. Cependant, si l'adversaire tombe à 0PC, les dégâts reportés sur les PVit sont divisés par 2. S'il est déjà à 0PC, les dégâts sont appliqués normalement.
 
-Il peut enfin effectuer une attaque sournoise en conjonction avec une attaque féroce. Le roublard doit alors trouver comment obtenir l'_avantage_ sur son attaque afin d'annuler le _désavantage_ de l'attaque féroce. L'attaque sournoise prend place normalement.
+Il peut enfin effectuer une attaque sournoise en conjonction avec une attaque féroce. Le roublard doit alors trouver comment obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur son attaque afin d'annuler le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) de l'attaque féroce. L'attaque sournoise prend place normalement.
 
 #### Éviter de perdre des PVit
 Un joueur dont le personnage subit des dégâts infligés à ses PVit peut décider de réduire de moitié cette perte de points, ou de l'annuler totalement. S'il la réduit de moitié, il décide alors de tirer une blessure légère aléatoire. S'il l'annule, il décide alors de tirer une blessure sérieuse aléatoire (cf. [table des blessures](#blessures)). Lors d'un unique combat, vous pouvez subir [modificateur de constitution] (minimum 2) blessures légères et [modificateur de constitution/2] (minimum 1) blessures graves. Un personnage ne peut supporter d'avoir au maximum [modificateur de Constitution x 2] (minimum 2) blessures légères, et [modifiacteur de Consitution] (minimum 1) blessures graves en même temps.
@@ -99,50 +99,50 @@ _Note : tant que le combat n'est pas terminé, le personnage ne ressent pas les 
 #### Blessures
 |1d12|Blessure légère|Technique|
 |:-:|:-|:-|
-|**1**|Arcade ouverte|_Désavantage_ sur les tests liés à la vue|
-|**2**|Main écrasée|_Désavantage_ sur les tests liés à la manipulation manuelle de précision|
-|**3**|Mâchoire déboîtée|_Désavantage_ sur les tests nécessitant de parler et de se faire comprendre|
-|**4**|Commotion légère|_Désavantage_ sur les tests de connaissance|
-|**5**|Côte fêlée|_Désavantage_ sur les tests liés à l'effort physique|
-|**6**|Œdème dorsal|_Désavantage_ sur les jets de sauvegarde de Dextérité|
-|**7**|Cheville foulée|_Désavantage_ sur les tests liés à la vitesse|
-|**8**|Poignet tordu|_Désavantage_ sur les tests d'attaque|
-|**9**|Nez cassé|_Désavantage_ sur les tests liés à un effort intense|
-|**10**|Plaie superficielle|_Désavantage_ sur les jets de sauvegarde de Charisme|
-|**11**|Gorge écrasée|_Désavantage_ sur tous les tests liés à l'interaction sociale|
-|**12**|Hématome à la nuque|_Désavantage_ sur les jets de sauvegarde d'Intelligence et de Sagesse|
+|**1**|Arcade ouverte|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests liés à la vue|
+|**2**|Main écrasée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests liés à la manipulation manuelle de précision|
+|**3**|Mâchoire déboîtée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests nécessitant de parler et de se faire comprendre|
+|**4**|Commotion légère|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de connaissance|
+|**5**|Côte fêlée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests liés à l'effort physique|
+|**6**|Œdème dorsal|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde de Dextérité|
+|**7**|Cheville foulée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests liés à la vitesse|
+|**8**|Poignet tordu|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests d'attaque|
+|**9**|Nez cassé|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests liés à un effort intense|
+|**10**|Plaie superficielle|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde de Charisme|
+|**11**|Gorge écrasée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests liés à l'interaction sociale|
+|**12**|Hématome à la nuque|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde d'Intelligence et de Sagesse|
 
 
 |1d12|Blessure sérieuse|Technique|
 |:-:|:-|:-|
-|**1**|Commotion sévère|_Désavantage_ sur tous les tests de Sagesse et d'Intelligence|
-|**2**|Bras cassé|_Désavantage_ sur tous les tests de Force, impossibilité de porter une seconde arme ou un bouclier.|
-|**3**|Éventration|_Désavantage_ sur tous les tests de Constitution et les jets de sauvegarde de Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
-|**4**|Jambe fracturée|_Désavantage_ sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.|
-|**5**|Épaule brisée|_Désavantage_ sur tous les tests de Force, impossibilité de rajouter son bonus de Force aux dégâts.|
-|**6**|Main broyée|_Désavantage_ sur tous les tests d'attaque impliquant la Dextérité, impossibilité de rajouter son bonus de caractéristique aux dégâts.|
-|**7**|Côtes cassées|_Désavantage_ sur tous les tests de Constitution et de Dextérité.|
-|**8**|Œil balafré|_Désavantage_ aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux tests de Charisme (sauf Charisme (Intimidation)).|
-|**9**|Hanche éclatée|_Désavantage_ sur tous les tests de Dextérité et Force|
-|**10**|Torse tailladé|_Désavantage_ sur tous les tests de Dextérité et sur les jets de sauvegarde de Constitution.|
-|**11**|Mâchoire brisée|_Désavantage_ sur tous les tests de Charisme.|
-|**12**|Pied transpercé|_Désavantage_ sur tous les tests de Dextérité et les adversaires ont l'_avantage_ sur leurs tests d'attaque.|
+|**1**|Commotion sévère|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Sagesse et d'Intelligence|
+|**2**|Bras cassé|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Force, impossibilité de porter une seconde arme ou un bouclier.|
+|**3**|Éventration|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Constitution et les jets de sauvegarde de Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
+|**4**|Jambe fracturée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.|
+|**5**|Épaule brisée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Force, impossibilité de rajouter son bonus de Force aux dégâts.|
+|**6**|Main broyée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests d'attaque impliquant la Dextérité, impossibilité de rajouter son bonus de caractéristique aux dégâts.|
+|**7**|Côtes cassées|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Constitution et de Dextérité.|
+|**8**|Œil balafré|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux tests de Charisme (sauf Charisme (Intimidation)).|
+|**9**|Hanche éclatée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Dextérité et Force|
+|**10**|Torse tailladé|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Dextérité et sur les jets de sauvegarde de Constitution.|
+|**11**|Mâchoire brisée|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Charisme.|
+|**12**|Pied transpercé|[_Désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests de Dextérité et les adversaires ont l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests d'attaque.|
 
 
 |1d12|Séquelle|Technique|
 |:-:|:-|:-|
 |**1**|Crâne fendu|Le personnage a des problèmes de mémoire. Une fois par séance, le Meneur de Jeu peut décréter que le personnage ne se souvient pas d'une information ou d'une scène.|
-|**2**|Tendons d'une main coupés|Le personnage ne peut plus saisir avec la main concernée. Cela compromet son utilisation d'armes nécessitant deux mains, et le combat à deux armes. Il peut toujours tirer avec un arc en utilisant un accessoire lui permettant de tenir arc ou corde, mais est affublé du _désavantage_ à l'attaque.|
-|**3**|Main tranchée|Le personnage ne peut plus utiliser la main tranchée. Ses tests de caractéristique concernant des actions physiques requérant deux mains ont le _désavantage_.|
-|**4**|Rotule éclatée|La vitesse du personnage est divisée par deux. Ses tests de caractéristique concernant des actions physiques requérant l'usage actif des jambes ont le _désavantage_.|
-|**5**|Œil percé|Le personnage subit un _désavantage_ aux tests d'attaque.|
+|**2**|Tendons d'une main coupés|Le personnage ne peut plus saisir avec la main concernée. Cela compromet son utilisation d'armes nécessitant deux mains, et le combat à deux armes. Il peut toujours tirer avec un arc en utilisant un accessoire lui permettant de tenir arc ou corde, mais est affublé du [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à l'attaque.|
+|**3**|Main tranchée|Le personnage ne peut plus utiliser la main tranchée. Ses tests de caractéristique concernant des actions physiques requérant deux mains ont le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).|
+|**4**|Rotule éclatée|La vitesse du personnage est divisée par deux. Ses tests de caractéristique concernant des actions physiques requérant l'usage actif des jambes ont le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).|
+|**5**|Œil percé|Le personnage subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'attaque.|
 |**6**|Doigts sectionnés|Le personnage ne peut plus utiliser d'arc. Il tient difficilement ses armes et le dé de dégâts de ces dernières est réduit d'un cran (1d10 devient 1d8 par exemple, ou 2d6 deviennent 1d10)|
-|**7**|Poumon transpercé|Le personnage ne peut plus faire d'efforts comme avant. Tous les tests et jets de sauvegarde impliquant la Force ou la Constitution ont le _désavantage_.|
-|**8**|Cheville disloquée|Le personnage n'a presque plus rien pour tenir sa cheville. Tous les tests impliquant les jambes subissent le _désavantage_. De plus, le personnage boite et tout test réalisé afin de passer inaperçu subit aussi un _désavantage_.|
-|**9**|Pied sectionné|Le personnage a un pied en moins, qu'il devra remplacer par une prothèse grossière. Tous les tests impliquant la course, l'escalade ou les acrobaties subissent le _désavantage_. Espérons qu'il n'en perde pas un second !|
-|**10**|Visage écrasé|Le visage du personnage a été littéralement brisé. Même sa mère ne saurait le reconnaître. Malheureusement, il est plus ridicule qu'effrayant. Les gens le fuient ou le harcèlent, et surtout ne lui portent plus crédit. Tous les tests de caractéristique en lien avec la sociabilité et le Charisme sont affublés du _désavantage_.|
-|**11**|Dos brisé|La structure osseuse même du dos a été atteinte. La colonne n'est pas sectionnée, mais le personnage a perdu une immense partie de sa souplesse. Tous ses tests liés à la dextérité subissent le _désavantage_. De plus, il ne peut plus ajouter sa dextérité à la CA.|
-|**12**|Tripes sectionnées|Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a le _désavantage_ sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la fin de la scène, le personnage gagne l'inspiration.|
+|**7**|Poumon transpercé|Le personnage ne peut plus faire d'efforts comme avant. Tous les tests et jets de sauvegarde impliquant la Force ou la Constitution ont le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).|
+|**8**|Cheville disloquée|Le personnage n'a presque plus rien pour tenir sa cheville. Tous les tests impliquant les jambes subissent le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). De plus, le personnage boite et tout test réalisé afin de passer inaperçu subit aussi un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).|
+|**9**|Pied sectionné|Le personnage a un pied en moins, qu'il devra remplacer par une prothèse grossière. Tous les tests impliquant la course, l'escalade ou les acrobaties subissent le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Espérons qu'il n'en perde pas un second !|
+|**10**|Visage écrasé|Le visage du personnage a été littéralement brisé. Même sa mère ne saurait le reconnaître. Malheureusement, il est plus ridicule qu'effrayant. Les gens le fuient ou le harcèlent, et surtout ne lui portent plus crédit. Tous les tests de caractéristique en lien avec la sociabilité et le Charisme sont affublés du [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).|
+|**11**|Dos brisé|La structure osseuse même du dos a été atteinte. La colonne n'est pas sectionnée, mais le personnage a perdu une immense partie de sa souplesse. Tous ses tests liés à la dextérité subissent le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). De plus, il ne peut plus ajouter sa dextérité à la CA.|
+|**12**|Tripes sectionnées|Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la fin de la scène, le personnage gagne l'inspiration.|
 §§§
 
 §§§ .hero

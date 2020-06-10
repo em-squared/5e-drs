@@ -17,7 +17,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 #### Trait des fils de la terre
 **Augmentation de Caractéristique**. Votre Force augmente de 1.
 
-**Sens commun**. Vous avez développé un sens commun et un pragmatisme propre à ceux qui vivent de la terre. Vous connaissez la sagesse populaire, savez calmer les esprits et rappeler le sens des priorités. Quand vous tentez de calmer les gens et d'apaiser une situation tendue, ou simplement de rappeler à certains le sens des priorités, vous obtenez l'_avantage_ sur votre test de compétence.
+**Sens commun**. Vous avez développé un sens commun et un pragmatisme propre à ceux qui vivent de la terre. Vous connaissez la sagesse populaire, savez calmer les esprits et rappeler le sens des priorités. Quand vous tentez de calmer les gens et d'apaiser une situation tendue, ou simplement de rappeler à certains le sens des priorités, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre test de compétence.
 
 **Maîtrises supplémentaires**. Vous obtenez la maîtrise d'un outil d'artisan parmi les suivants : les outils de charpentier, de forgeron, de brasseur, les ustensiles de cuisine, les outils de maçon ou les outils de menuisier.
 
@@ -26,7 +26,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 #### Trait des fils du sel
 **Augmentation de Caractéristique**. Votre Dextérité augmente de 1.
 
-**Pied agile**. Vous êtes habitué à la houle et vous savez garder votre équilibre sur une barque ballottée par la tempête. Lorsque vous effectuez un jet de sauvegarde afin d'éviter d'être Renversé, vous obtenez l'_avantage_ sur votre jet.
+**Pied agile**. Vous êtes habitué à la houle et vous savez garder votre équilibre sur une barque ballottée par la tempête. Lorsque vous effectuez un jet de sauvegarde afin d'éviter d'être Renversé, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre jet.
 
 **Marin né**. Vous maîtrisez particulièrement bien les embarcations aquatiques. Quand vous utilisez un tel moyen de transport, vous avez l'avantage pour le piloter.
 
@@ -37,7 +37,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Entraîné à la chasse**. Vous maîtrisez l'arc long et la pique de guerre.
 
-**Inébranlable**. Vous avez l'_avantage_ sur les jets de sauvegarde effectués afin de résister à la peur.
+**Inébranlable**. Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde effectués afin de résister à la peur.
 
 ### Fils des cités
 
@@ -53,7 +53,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 #### Trait des fils du vent
 **Augmentation de Caractéristique**. Votre Sagesse augmente de 1.
 
-**Voyageur**. Quand vous conduisez un attelage ou que vous montez un cheval ou une mule, vous avez l'_avantage_ sur vos tests visant à les contrôler et à conserver leur contrôle en cas de panique.
+**Voyageur**. Quand vous conduisez un attelage ou que vous montez un cheval ou une mule, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos tests visant à les contrôler et à conserver leur contrôle en cas de panique.
 
 **Débrouillard**. Vous maîtrisez deux compétences supplémentaires.
 
@@ -71,9 +71,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 #### Trait des Gwynnddaerains
 **Augmentation de Caractéristique**. Votre Charisme augmente de 1.
 
-**Chantre de la tradition**. Vous obtenez l'_avantage_ sur tous les tests d'Intelligence (Histoire).
+**Chantre de la tradition**. Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests d'Intelligence (Histoire).
 
-**Autorité de la tradition**. Votre origine vous a apporté une confiance telle en votre légitimité que vous dégagez une confiance naturelle sans limite. Quand vous tentez de vous imposer, que cela soit pour calmer une assemblée ou pour faire valoir la légitimité de vos arguments (moraux, politiques ou religieux), vous avez l'_avantage_.
+**Autorité de la tradition**. Votre origine vous a apporté une confiance telle en votre légitimité que vous dégagez une confiance naturelle sans limite. Quand vous tentez de vous imposer, que cela soit pour calmer une assemblée ou pour faire valoir la légitimité de vos arguments (moraux, politiques ou religieux), vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 ### Fils des terres sauvages
 
@@ -82,7 +82,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Menaçant**. Vous obtenez l'avantage sur vos tests de Charisme (Intimidation).
 
-**Immunités naturelles**. Vous avez l'_avantage_ sur les jets de sauvegarde contre les poisons, et possédez la Résistance contre les dommages dus aux poisons.
+**Immunités naturelles**. Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde contre les poisons, et possédez la Résistance contre les dommages dus aux poisons.
 
 ### Bâtard
 
