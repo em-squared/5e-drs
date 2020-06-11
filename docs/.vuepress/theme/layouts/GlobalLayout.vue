@@ -54,7 +54,7 @@
         </v-card-title>
 
         <v-card-text>
-          <v-text-field id="copy-uri" outlined readonly label="Copiez le lien pour partager" :hint="hintCopied" :value="shortenURL($site.themeConfig.domain + '/homebrew/?h=' + $store.state.shareURI)" append-outer-icon="mdi-content-copy" @click:append-outer="copyURI('copy-uri')"></v-text-field>
+          <v-text-field id="copy-uri" outlined readonly label="Copiez le lien pour partager" :hint="hintCopied" :value="$site.themeConfig.domain + '/homebrew/?h=' + $store.state.shareURI" append-outer-icon="mdi-content-copy" @click:append-outer="copyURI('copy-uri')"></v-text-field>
           <div class="text-center">
             <v-btn color="accent" depressed link :to="{ path: '/homebrew/', query: { h: $store.state.shareURI }}" @click="$store.commit('setIsOpenShareHomebrewDialog', !$store.state.isOpenShareHomebrewDialog)">Voir la page</v-btn>
           </div>
@@ -173,17 +173,6 @@ export default {
 
     setRightDrawer () {
       this.$store.commit('setRightDrawer', !this.$store.state.rightDrawer)
-    },
-
-    shortenURL (url) {
-      // var isgd = require('isgd')
-
-      isgd.shorten('http://google.com', function(res) {
-          console.log(res)
-          return res
-      })
-
-      return url
     },
 
     copyURI (id) {
