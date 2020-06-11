@@ -412,6 +412,7 @@ export default {
         custom: true,
         pid: 'monster',
         key: Math.random().toString(36).substr(2, 9),
+        author: '',
         title: '',
         content: `## Capacités\n_**Capacité**_. Description de la capacité.\n\n## Actions\n_**Action**_. Description de l'action.`,
         frontmatter: {

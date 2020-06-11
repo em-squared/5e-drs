@@ -21,7 +21,7 @@
 
             <template v-slot:expanded-item="{ headers, item }">
               <td :colspan="headers.length" class="pa-4">
-                <MagicItem :magicItem="item" />
+                <MagicItem :magicItem="getMagicItem(item)" />
               </td>
             </template>
 
@@ -35,6 +35,7 @@
 
             <template v-slot:item.actions="{ item }">
               <div class="text-no-wrap">
+                <v-btn class="d-print-none" v-if="item.custom" small depressed icon @click="share(item)"><v-icon>mdi-share-variant</v-icon></v-btn>
                 <v-btn class="d-print-none mr-2" small depressed icon @click.stop="toggleHidePrint(item)">
                   <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
                   <v-icon v-else>mdi-printer</v-icon>
@@ -55,7 +56,7 @@
                 <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: magicItem.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
                 <v-btn color="error" class="d-print-none" small depressed @click="removeMagicItem(magicItem)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
               </h2>
-              <MagicItem :magicItem="magicItem" :isList="true" :hideTitle="true" />
+              <MagicItem :magicItem="getMagicItem(magicItem)" :isList="true" :hideTitle="true" />
             </div>
           </div>
         </div>
@@ -122,6 +123,17 @@ export default {
       this.$store.commit('myMagicItems/removeMagicItem', magicItem)
       this.$store.commit('setSnackbarText', "L'objet magique " + magicItem.title + " a été supprimé de votre bibliothèque")
       this.$store.commit('setIsOpenSnackbar', true)
+    },
+    share (item) {
+      this.$store.commit('setShareURI', encode(item))
+      this.$store.commit('setIsOpenShareHomebrewDialog', true)
+    },
+    getMagicItem (item) {
+      if (!item.custom && item.path) {
+        let magicItem = this.$site.pages.find((el) => el.path === item.path || el.path === item.path + "/")
+        return magicItem
+      }
+      return item
     }
   }
 }

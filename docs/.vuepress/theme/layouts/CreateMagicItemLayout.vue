@@ -222,6 +222,7 @@ export default {
         custom: true,
         pid: 'magicItem',
         key: Math.random().toString(36).substr(2, 9),
+        author: '',
         title: '',
         content: '',
         hasAttunement: false,

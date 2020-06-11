@@ -21,7 +21,7 @@
 
             <template v-slot:expanded-item="{ headers, item }">
               <td :colspan="headers.length" class="pa-4">
-                <Spell :spell="item" />
+                <Spell :spell="getSpell(item)" />
               </td>
             </template>
 
@@ -75,6 +75,7 @@
 
             <template v-slot:item.actions="{ item }">
               <div class="text-no-wrap">
+                <v-btn class="d-print-none" v-if="item.custom" small depressed icon @click="share(item)"><v-icon>mdi-share-variant</v-icon></v-btn>
                 <v-btn class="d-print-none mr-2" small depressed icon @click.stop="toggleHidePrint(item)">
                   <v-icon v-if="isHiddenPrint(item)">mdi-printer-off</v-icon>
                   <v-icon v-else>mdi-printer</v-icon>
@@ -98,7 +99,7 @@
                     <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: spell.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
                     <v-btn color="error" class="d-print-none" small depressed @click="removeSpell(spell)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
                   </h3>
-                  <Spell :spell="spell" :isList="true" :hideTitle="true" />
+                  <Spell :spell="getSpell(spell)" :isList="true" :hideTitle="true" />
                 </template>
               </div>
             </div>
@@ -115,6 +116,7 @@
 
 <script>
 import Spell from '@theme/components/Spell'
+import { encode } from '@theme/util/homebrew'
 
 export default {
   name: 'MySpells',
@@ -197,6 +199,17 @@ export default {
       this.$store.commit('mySpells/removeSpell', spell)
       this.$store.commit('setSnackbarText', "Le sort " + spell.title + " a été supprimé de votre grimoire")
       this.$store.commit('setIsOpenSnackbar', true)
+    },
+    share (item) {
+      this.$store.commit('setShareURI', encode(item))
+      this.$store.commit('setIsOpenShareHomebrewDialog', true)
+    },
+    getSpell (item) {
+      if (!item.custom && item.path) {
+        let spell = this.$site.pages.find((el) => el.path === item.path || el.path === item.path + "/")
+        return spell
+      }
+      return item
     }
   },
 }
