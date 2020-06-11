@@ -1,7 +1,7 @@
 <template>
 <div class="homebrew">
   <div class="text-center" v-if="brew === null">
-    Ressource incorrecte
+    
   </div>
 
   <div class="spell" v-else-if="brew.pid && brew.pid == 'spell'">
