@@ -74,7 +74,7 @@ export default {
   },
 
   mounted () {
-    let brew64 = this.$route.query.brew
+    let brew64 = this.$route.query.h
     if (brew64) {
       this.brew = decode(brew64)
     }
