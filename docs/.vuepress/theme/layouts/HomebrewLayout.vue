@@ -74,7 +74,7 @@ export default {
   },
 
   mounted () {
-    let brew64 = this.$route.query.brew
+    let brew64 = this.$route.query.h
     if (brew64) {
       this.brew = decode(brew64)
     }
@@ -117,7 +117,7 @@ export default {
 
   methods: {
     share () {
-      this.$store.commit('setShareURI', this.$route.query.brew)
+      this.$store.commit('setShareURI', this.$route.query.h)
       this.$store.commit('setIsOpenShareHomebrewDialog', true)
     },
 
