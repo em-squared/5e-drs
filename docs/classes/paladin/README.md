@@ -24,7 +24,7 @@ title: Paladin
 |**15**|+5|[Aptitude de serment sacré](#serment-sacre)|4|3|3|2|-|
 |**16**|+5|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|3|3|2|-|
 |**17**|+6|-|4|3|3|3|1|
-|**18**|+6|Amélioration des auras|4|3|3|3|1|
+|**18**|+6|[Amélioration des auras](#aura-de-protection)|4|3|3|3|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|3|3|3|2|
 |**20**|+6|[Aptitude de serment sacré](#serment-sacre)|4|3|3|3|2|
 §§§
