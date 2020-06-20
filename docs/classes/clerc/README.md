@@ -198,7 +198,7 @@ Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_
 §§§ .table-container .flex-shrink-0
 | Niveau de clerc | Sorts |
 |:-:|:-|
-| **1** | [_compréhension des langues_](/grimoire/comprehension-des-langues/) |
+| **1** | [_compréhension des langues_](/grimoire/comprehension-des-langues) |
 | **3** | [_détection des pensées_](/grimoire/detection-des-pensees/) |
 | **5** | [_clairvoyance_](/grimoire/clairvoyance/) |
 | **7** | [_divination_](/grimoire/divination/) |
