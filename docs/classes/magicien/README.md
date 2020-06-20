@@ -33,15 +33,15 @@ title: Magicien
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 
 ### Points de vie
-**Dés de vie** : 1d6 par niveau de magicien
-**Points de vie au niveau 1** : 6 + votre modificateur de Constitution
+**Dés de vie** : 1d6 par niveau de magicien  
+**Points de vie au niveau 1** : 6 + votre modificateur de Constitution  
 **Points de vie aux niveaux supérieurs** : 1d6 (ou 4) + votre modificateur de Constitution par niveau de magicien après le niveau 1
 
 ### Maîtrises
-**Armures** : aucune
-**Armes** : dagues, fléchettes, frondes, bâtons, arbalètes légères
-**Outils** : aucun
-**Jets de sauvegarde** : Intelligence, Sagesse
+**Armures** : aucune  
+**Armes** : dagues, fléchettes, frondes, bâtons, arbalètes légères  
+**Outils** : aucun  
+**Jets de sauvegarde** : Intelligence, Sagesse  
 **Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion
 
 ### Équipement
@@ -340,7 +340,7 @@ Dès que vous choisissez cette école au niveau 2, l'argent et le temps que vous
 #### Évocation améliorée
 À partir du niveau 10, vous pouvez ajouter votre modificateur d'Intelligence aux dégâts de n'importe quel sort d'évocation de magicien que vous lancez.
 
-### Surcharge magique
+#### Surcharge magique
 À partir du niveau 14, vous pouvez améliorer la puissance de vos sorts les plus simples. Quand vous lancez un sort de magicien de niveau 1 à 5 qui inflige des dégâts, vous infligez le maximum de dégâts possibles avec ce sort.
 
 Vous pouvez utiliser une fois cette aptitude sans ressentir d'effet indésirable. Mais si vous l'utilisez une nouvelle fois avant de terminer un repos long, vous subissez 2d12 dégâts nécrotiques pour chaque niveau de ce sort immédiatement après l'avoir lancé. Et, à chaque fois que vous réutilisez cette aptitude avant d'avoir terminé un repos long, la quantité de dégâts nécrotique par niveau de sort que vous subissez est augmentée d'1d12. Ces dégâts ne tiennent pas compte de vos résistances ou de vos immunités.

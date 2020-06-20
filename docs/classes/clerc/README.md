@@ -560,7 +560,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
 |Niveau de clerc|Sorts|
 |:-:|:-|
-|**1**|[_protection contre la loi et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)|
+|**1**|[_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)|
 |**3**|[_augure_](/grimoire/augure/)|
 |**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts/)|
 |**7**|[_divination_](/grimoire/divination/)|

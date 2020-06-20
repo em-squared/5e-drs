@@ -90,9 +90,9 @@ Votre niveau de druide détermine en quel animal vous pouvez vous transformer (v
 §§§ .table-container
 | Niv. | ID | Limitations | Exemple |
 |:-:|:-:|:-|:-|
-| **2** | 1/4 | Pas de vitesse de vol ou de nage | Loup |
-| **4** | 1/2 | Pas de vitesse de vol | Crocodile |
-| **8** | 1 | - | Aigle géant |
+| **2** | 1/4 | Pas de vitesse de vol ou de nage | [Loup](/bestiaire/loup/) |
+| **4** | 1/2 | Pas de vitesse de vol | [Crocodile](/bestiaire/crocodile/) |
+| **8** | 1 | - | [Aigle géant](/bestiaire/aigle-geant/) |
 §§§
 
 Vous pouvez conserver votre forme sauvage pendant un nombre d'heures équivalent à la moitié de votre niveau de druide (arrondi à l'entier inférieur). Vous reprenez alors forme humaine, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre forme humaine de manière anticipée en utilisant une action bonus lors de votre tour. Vous retrouvez immédiatement forme humaine si vous perdez conscience, si vous êtes réduit à 0 point de vie ou si vous mourrez.
@@ -366,11 +366,11 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 §§§ .table-container
 | Niveau 2 | Niveau 4 | Niveau 8 | Niveau 12 | Niveau 18 |
 |:-:|:-:|:-:|:-:|:-:|
-| Oxydeur (ID 1/2) | Chien du trépas (ID 1) | Ankheg (ID 2) | Basilic (ID 3) | Bulette (ID 5) |
-| Worg (ID 1/2) | Cockatrice (ID 1/2) | Ettercap (ID 2) | Hibours (ID 3) | Enlaceur (ID 5) |
-|  | Harpie (ID 1) | Grick (ID 2) | Loup arctique (ID 3) | Gorgone (ID 5) |
-|  | Larve des roches (ID 1) | Merrow (ID 2)* | Manticore (ID 3) | Terreur des roches (ID 5) |
-|  | Mante obscure (ID 1/2) | Mimique (ID 2) | Minotaure (ID 3)* |  |
+| [Oxydeur](/bestiaire/oxydeur/) (ID 1/2) | [Chien du trépas](/bestiaire/chien-du-trepas/) (ID 1) | [Ankheg](/bestiaire/ankheg/) (ID 2) | [Basilic](/bestiaire/basilic/) (ID 3) | [Bulette](/bestiaire/bulette/) (ID 5) |
+| [Worg](/bestiaire/worg/) (ID 1/2) | [Cockatrice](/bestiaire/cockatrice/) (ID 1/2) | [Ettercap](/bestiaire/ettercap/) (ID 2) | [Hibours](/bestiaire/hibours/) (ID 3) | [Enlaceur](/bestiaire/enlaceur/) (ID 5) |
+|  | [Harpie](/bestiaire/harpie/) (ID 1) | [Grick](/bestiaire/grick/) (ID 2) | [Loup arctique](/bestiaire/loup-arctique/) (ID 3) | [Gorgone](/bestiaire/gorgone/) (ID 5) |
+|  | [Larve des roches](/bestiaire/larve-des-roches/) (ID 1) | [Merrow](/bestiaire/merrow/) (ID 2)* | [Manticore](/bestiaire/manticore/) (ID 3) | [Terreur des roches](/bestiaire/terreur-des-roches/) (ID 5) |
+|  | [Mante obscure](/bestiaire/mante-obscure/) (ID 1/2) | [Mimique](/bestiaire/mimique/) (ID 2) | [Minotaure](/bestiaire/minotaure/) (ID 3)* |  |
 §§§
 
 \*_Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s'il veut réaliser une attaque avec une arme, il doit se la procurer d'une façon ou d'une autre._
