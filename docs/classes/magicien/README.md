@@ -33,15 +33,15 @@ title: Magicien
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 
 ### Points de vie
-**Dés de vie** : 1d6 par niveau de magicien
-**Points de vie au niveau 1** : 6 + votre modificateur de Constitution
+**Dés de vie** : 1d6 par niveau de magicien  
+**Points de vie au niveau 1** : 6 + votre modificateur de Constitution  
 **Points de vie aux niveaux supérieurs** : 1d6 (ou 4) + votre modificateur de Constitution par niveau de magicien après le niveau 1
 
 ### Maîtrises
-**Armures** : aucune
-**Armes** : dagues, fléchettes, frondes, bâtons, arbalètes légères
-**Outils** : aucun
-**Jets de sauvegarde** : Intelligence, Sagesse
+**Armures** : aucune  
+**Armes** : dagues, fléchettes, frondes, bâtons, arbalètes légères  
+**Outils** : aucun  
+**Jets de sauvegarde** : Intelligence, Sagesse  
 **Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion
 
 ### Équipement
