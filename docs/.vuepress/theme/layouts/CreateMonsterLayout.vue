@@ -200,7 +200,8 @@
             Capacités, Actions, Réactions et Actions légendaires
           </v-col>
           <v-col>
-            <v-textarea outlined label="Capacités, Actions, Réactions, Actions légendaires" v-model="monster.content" hint="Markdown supporté" persistent-hint></v-textarea>
+            <v-textarea outlined label="Capacités, Actions, Réactions, Actions légendaires" v-model="monster.content" hide-details></v-textarea>
+            <MarkdownDoc />
           </v-col>
         </v-row>
 
@@ -222,6 +223,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Monster from '@theme/components/Monster'
+import MarkdownDoc from '@theme/components/MarkdownDoc'
 import { saveAs } from 'file-saver'
 import { MONSTERTYPES, MONSTERSIZES, CHALLENGES, ABILITIES, SKILLS } from '../../data/monsters'
 import { stats } from '../../data/stats'
@@ -241,7 +243,8 @@ export default {
 
   components: {
     Breadcrumb,
-    Monster
+    Monster,
+    MarkdownDoc
   },
 
   computed: {

@@ -52,7 +52,8 @@
 
         <v-row>
           <v-col>
-            <v-textarea outlined label="Description" v-model="magicItem.content" hint="Markdown supporté" persistent-hint></v-textarea>
+            <v-textarea outlined label="Description" v-model="magicItem.content" hide-details></v-textarea>
+            <MarkdownDoc />
           </v-col>
         </v-row>
 
@@ -74,6 +75,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import MagicItem from '@theme/components/MagicItem'
+import MarkdownDoc from '@theme/components/MarkdownDoc'
 import { saveAs } from 'file-saver'
 import { MAGICITEMTYPES, RARITIES } from '../../data/magicItems'
 import { getUrlParameter } from '@theme/util/filterHelpers'
@@ -86,7 +88,8 @@ export default {
 
   components: {
     Breadcrumb,
-    MagicItem
+    MagicItem,
+    MarkdownDoc
   },
 
   computed: {

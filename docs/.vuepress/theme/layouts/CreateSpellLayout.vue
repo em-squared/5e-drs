@@ -91,7 +91,8 @@
 
         <v-row>
           <v-col>
-            <v-textarea outlined label="Description" v-model="spell.content" hint="Markdown supporté" persistent-hint></v-textarea>
+            <v-textarea outlined label="Description" v-model="spell.content" hide-details></v-textarea>
+            <MarkdownDoc />
           </v-col>
         </v-row>
 
@@ -113,6 +114,7 @@
 <script>
 import Breadcrumb from '@theme/components/Breadcrumb'
 import Spell from '@theme/components/Spell'
+import MarkdownDoc from '@theme/components/MarkdownDoc'
 import { saveAs } from 'file-saver'
 import { CLASSES } from '../../data/classes'
 import { SPELLSCHOOLS, SPELLLEVELS } from '../../data/spells'
@@ -127,7 +129,8 @@ export default {
 
   components: {
     Breadcrumb,
-    Spell
+    Spell,
+    MarkdownDoc
   },
 
   computed: {
