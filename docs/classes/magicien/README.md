@@ -253,20 +253,20 @@ Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le nive
 ##### Terre
 Vous gagnez le pouvoir surnaturel nuage acide ou secousse sismique.
 
-Nuage acide. En utilisant une action, vous créez un nuage de vapeurs acides de 1,50 mètre de rayon centré sur un point à 12 mètres ou moins de vous. Chaque créature qui se trouve dans le nuage au début ou à la fin de son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts d'acide et se retrouve [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Une réussite permet d'annuler l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) et de réduire les dégâts de moitié. Ce nuage persiste jusqu'au début de votre tour suivant.
+**Nuage acide**. En utilisant une action, vous créez un nuage de vapeurs acides de 1,50 mètre de rayon centré sur un point à 12 mètres ou moins de vous. Chaque créature qui se trouve dans le nuage au début ou à la fin de son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, la créature subit 1d6 dégâts d'acide et se retrouve [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Une réussite permet d'annuler l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) et de réduire les dégâts de moitié. Ce nuage persiste jusqu'au début de votre tour suivant.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-Secousse sismique. En utilisant une action, vous frappez le sol pour générer une brusque secousse sismique autour de vous qui désoriente vos adversaires. Chaque créature en contact avec le sol, situées à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, elle subit 1d6 dégâts de tonnerre et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque jusqu'à la fin de votre prochain tour.
+**Secousse sismique**. En utilisant une action, vous frappez le sol pour générer une brusque secousse sismique autour de vous qui désoriente vos adversaires. Chaque créature en contact avec le sol, situées à 1,50 mètre ou moins de vous doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, elle subit 1d6 dégâts de tonnerre et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque jusqu'à la fin de votre prochain tour.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
 #### Résistance élémentaire
 Au niveau 6, vous gagnez une résistance à un type de dégâts lié à votre élément de prédilection.
 
-**Air**. Résistance aux dégâts de foudre.
-**Eau**. Résistance aux dégâts de froid.
-**Feu**. Résistance aux dégâts de feu.
+**Air**. Résistance aux dégâts de foudre.  
+**Eau**. Résistance aux dégâts de froid.  
+**Feu**. Résistance aux dégâts de feu.  
 **Terre**. Résistance aux dégâts d'acide.
 
 #### Maître des éléments
@@ -294,9 +294,9 @@ Au niveau 10 vous gagnez l'aptitude suivante liée à votre élément de prédil
 #### Immunité élémentaire
 Au niveau 14, vous gagnez une immunité au type de dégâts lié à votre élément de prédilection.
 
-**Air**. Immunité aux dégâts de foudre.
-**Eau**. Immunité aux dégâts de froid.
-**Feu**. Immunité aux dégâts de feu.
+**Air**. Immunité aux dégâts de foudre.  
+**Eau**. Immunité aux dégâts de froid.  
+**Feu**. Immunité aux dégâts de feu.  
 **Terre**. Immunité aux dégâts d'acide.
 
 #### Maîtrise élémentaire
