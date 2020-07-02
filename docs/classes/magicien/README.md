@@ -163,7 +163,7 @@ Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
 **Évocation : Sorts puissants**. Vous ajoutez votre bonus de maîtrise aux dégâts des sorts d'évocation. Si votre sort affecte plusieurs cibles, votre bonus de maîtrise ne s'applique qu'à une seule cible de votre choix. Si votre sort inflige des dégâts durant plusieurs rounds, votre bonus de dégât ne s'applique qu'au premier round.
 
-**Illusion : Sort illusoire**. Vous pouvez lancer un sort de l'école d'évocation ou de conjuration que vous connaissez sous forme d'illusion (mais il garde son école d'origine). Les dégâts infligés sont de type psychique, mais les cibles pensent qu'il s'agit du type de dégâts approprié au sort imité. Un allié ou une créature prévenue de la nature de l'illusion obtient une résistance aux dégâts du sort.
+**Illusion : Sort illusoire**. Vous pouvez lancer un sort de l'école d'évocation ou d'invocation que vous connaissez sous forme d'illusion (mais il garde son école d'origine). Les dégâts infligés sont de type psychique, mais les cibles pensent qu'il s'agit du type de dégâts approprié au sort imité. Un allié ou une créature prévenue de la nature de l'illusion obtient une résistance aux dégâts du sort.
 
 **Nécromancie : Réanimation spontanée**. Lorsque vous tuez un humanoïde de taille moyenne ou petite avec un sort, lancez un d12 (ou un d6 s'il s'agit d'un sort de nécromancie). Si le résultat est inférieur ou égal au niveau du sort, utilisez une réaction et la créature se relève sous la forme d'un zombie qui vous sert pendant 24 heures. Au bout de ce laps de temps, elle redevient un cadavre inerte.
 
