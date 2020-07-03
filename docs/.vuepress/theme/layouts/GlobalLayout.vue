@@ -32,10 +32,12 @@
     </v-fab-transition>
     </v-content>
 
-    <v-bottom-sheet v-model="cookieConsentDialog" persistent>
-      <v-sheet class="text-center" tile>
-        <div class="py-3">Ce site utilise des cookies pour son bon fonctionnement et pour l'analyse de la fréquentation. Sans ces cookies, vous ne pourriez pas écrire vos sorts dans votre grimoire ou recruter tous ces monstres pour garnir votre repaire maléfique.</div>
-        <v-btn class="my-6" color="primary" @click="setCookieConsent">Compris</v-btn>
+    <v-bottom-sheet v-model="cookieConsentDialog" hide-overlay>
+      <v-sheet class="" tile>
+        <div class="container d-flex align-center justify-space-between py-3 body-2">
+          <div>Ce site utilise des cookies pour son bon fonctionnement et pour l'analyse de la fréquentation. Sans ces cookies, vous ne pourriez pas écrire vos sorts dans votre grimoire ou recruter tous ces monstres pour garnir votre repaire maléfique.</div>
+          <v-btn color="primary" @click="setCookieConsent">Compris</v-btn>
+        </div>
       </v-sheet>
     </v-bottom-sheet>
 
