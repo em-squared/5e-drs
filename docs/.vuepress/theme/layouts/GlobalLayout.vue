@@ -34,9 +34,9 @@
 
     <v-bottom-sheet v-model="cookieConsentDialog" hide-overlay>
       <v-sheet class="" tile>
-        <div class="container d-flex align-center justify-space-between py-3 body-2">
+        <div class="container text-center text-md-left d-md-flex align-md-center justify-md-space-between py-3 body-2">
           <div>Ce site utilise des cookies pour son bon fonctionnement et pour l'analyse de la fréquentation. Sans ces cookies, vous ne pourriez pas écrire vos sorts dans votre grimoire ou recruter tous ces monstres pour garnir votre repaire maléfique.</div>
-          <v-btn color="primary" @click="setCookieConsent">Compris</v-btn>
+          <v-btn class="my-4 my-md-0" color="primary" @click="setCookieConsent">Compris</v-btn>
         </div>
       </v-sheet>
     </v-bottom-sheet>
