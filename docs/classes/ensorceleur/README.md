@@ -17,7 +17,7 @@ title: Ensorceleur
 |**7**|+3|7|-|5|8|4|3|3|1|-|-|-|-|-|
 |**8**|+3|8|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|9|4|3|3|2|-|-|-|-|-|
 |**9**|+4|9|-|5|10|4|3|3|3|1|-|-|-|-|
-|**10**|+4|10|[Aptitude d'origine magique](#origine-magique)|6|11|4|3|3|3|2|-|-|-|-|
+|**10**|+4|10|[Métamagie](#metamagie)|6|11|4|3|3|3|2|-|-|-|-|
 |**11**|+4|11|-|6|12|4|3|3|3|2|1|-|-|-|
 |**12**|+4|12|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|6|12|4|3|3|3|2|1|-|-|-|
 |**13**|+5|13|-|6|13|4|3|3|3|2|1|1|-|-|
