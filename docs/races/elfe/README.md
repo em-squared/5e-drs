@@ -25,7 +25,8 @@ sidebarDepth: 0
 ### Elfe de fer
 **Augmentation de caractéristiques**. Votre valeur de Charisme augmente de 1.  
 **Entraînement aux armes elfiques**. Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.  
-**Tour de magie**. Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le Charisme.
+**Tour de magie**. Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le Charisme.  
+**Langue supplémentaire**. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
 ### Elfe des sylves
 **Augmentation de caractéristiques**. Votre valeur de Sagesse augmente de 1.  
