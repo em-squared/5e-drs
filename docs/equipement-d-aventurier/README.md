@@ -33,7 +33,7 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Échelle (3 mètres)**|1 pa|12,5 kg|
 |**Encre (bouteille de 30 grammes)**|10 po|-|
 |**Équipement d'escalade**|25 po|6 kg|
-|**Étui pour carraux**|1 po|0,5 kg|
+|**Étui pour carreaux**|1 po|0,5 kg|
 |**Étui pour cartes et parchemins**|1 po|0,5 kg|
 |**Feu grégeois (flasque)**|50 po|0,5 kg|
 |**Fiole**|1 po|-|
