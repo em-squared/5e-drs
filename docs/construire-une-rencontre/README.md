@@ -19,7 +19,7 @@ Le tableau ci-dessous vous donne la valeur en PC d'une créature en fonction de 
 |**2**|450|40|
 |**3**|700|60|
 |**4**|1100|85|
-|**5**|1800|100|
+|**5**|1800|110|
 |**6**|2300|135|
 |**7**|2900|160|
 |**8**|3900|185|
