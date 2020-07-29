@@ -88,7 +88,7 @@
           </v-data-table>
         </div>
         <div class="d-none d-print-block">
-          <template v-for="(n, level) in 9" v-if="hasSpellOfLevel(level)">
+          <template v-for="(n, level) in 10" v-if="hasSpellOfLevel(level)">
             <h2 v-if="level == 0">Tours de magie</h2>
             <h2 v-else>Sorts de niveau {{ level }}</h2>
             <div class="column-count-2">
