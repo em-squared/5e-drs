@@ -187,7 +187,7 @@ export const races = [
     key: 'demi-ogre',
     label: "Demi-ogre",
     abilityBonuses: [
-      { ability: 'for', value: 1 },
+      { ability: 'for', value: 2 },
       { ability: 'con', value: 2 }
     ],
     variants: [
@@ -195,7 +195,7 @@ export const races = [
         key: 'demi-ogre-standard',
         label: "Demi-ogre",
         abilityBonuses: [
-          { ability: 'for', value: 1 },
+          { ability: 'for', value: 2 },
           { ability: 'con', value: 2 }
         ]
       },
