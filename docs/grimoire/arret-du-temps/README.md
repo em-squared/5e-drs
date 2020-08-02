@@ -5,7 +5,7 @@ school: "Transmutation"
 level: 9
 concentration: false
 casting_time: "1 action"
-duration: "instantannée"
+duration: "instantanée"
 range: "personnelle"
 components:
   verbal: true

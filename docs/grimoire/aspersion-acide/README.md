@@ -5,7 +5,7 @@ school: "Invocation"
 level: 0
 concentration: false
 casting_time: "1 action"
-duration: "instantannée"
+duration: "instantanée"
 range: "18 mètres"
 components:
   verbal: true
