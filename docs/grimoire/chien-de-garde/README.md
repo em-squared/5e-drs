@@ -1,7 +1,7 @@
 ---
 title: "Chien de garde"
 description: "Chien <em>invisible</em> et immobile qui donne l'alarme et attaque les intrus."
-school: "Invoaction"
+school: "Invocation"
 level: 4
 concentration: false
 casting_time: "1 action"
