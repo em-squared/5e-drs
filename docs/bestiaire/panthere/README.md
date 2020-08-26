@@ -1,7 +1,7 @@
 ---
 title: "Panthère"
 type: "Bête"
-size: "G"
+size: "M"
 alignment: "non-alignée"
 challenge: "0.25"
 hitDiceCount: 3
