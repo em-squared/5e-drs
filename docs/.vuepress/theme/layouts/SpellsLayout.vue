@@ -198,6 +198,30 @@ export default {
     spells() {
       let results = this.$pagination.pages
 
+      // JSON Migration Generation
+      // console.log(results)
+      // let json = []
+      // for (var spell of results) {
+      //   json.push({
+      //     'nom':spell.frontmatter.title,
+      //     'ecole':spell.frontmatter.school,
+      //     'niveau':spell.frontmatter.level,
+      //     'portee':spell.frontmatter.range,
+      //     'duree':spell.frontmatter.duration,
+      //     'temps_incantation':spell.frontmatter.casting_time,
+      //     'composante_v':spell.frontmatter.components.material,
+      //     'composante_s':spell.frontmatter.components.somatic,
+      //     'composante_m':spell.frontmatter.components.material,
+      //     'composante_m_description':spell.frontmatter.components.materials,
+      //     'concentration':spell.frontmatter.concentration,
+      //     'rituel':spell.frontmatter.ritual,
+      //     'description':spell.rawContent,
+      //     'resume':spell.frontmatter.description,
+      //     'source':spell.frontmatter.source,
+      //   })
+      // }
+      // console.log(json)
+
       // Filter concetration
       if (this.mustBeConcentration !== undefined) {
         results = results.filter(item => {
