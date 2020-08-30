@@ -326,14 +326,14 @@ Vous avez appris la magie secrète du peuple des fées. Du niveau 2 au niveau 9,
 §§§ .table-container
 | Niv. de druide | Sorts féériques |
 |:-:|:-|
-| **2** | [_appel de familier_](/grimoire/appel-de-familier/) |
-| **3** | [_invisibilité_](/grimoire/invisibilite/) |
-| **4** | [_pas brumeux_](/grimoire/pas-brumeux/) |
-| **5** | [_confusion_](/grimoire/confusion/) |
-| **6** | [_nuage puant_](/grimoire/nuage-puant/) |
-| **7** | [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
-| **8** | [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
-| **9** | [_tromperie_](/grimoire/tromperie/) |
+| **2** | [_Appel de familier_](/grimoire/appel-de-familier/) |
+| **3** | [_Invisibilité_](/grimoire/invisibilite/) |
+| **4** | [_Pas brumeux_](/grimoire/pas-brumeux/) |
+| **5** | [_Motif hypnotique_](/grimoire/motif-hypnotique/) |
+| **6** | [_Nuage puant_](/grimoire/nuage-puant/) |
+| **7** | [_Porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
+| **8** | [_Terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
+| **9** | [_Tromperie_](/grimoire/tromperie/) |
 §§§
 
 #### Disparition instinctive
