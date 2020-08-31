@@ -329,7 +329,7 @@ Vous avez appris la magie secrète du peuple des fées. Du niveau 2 au niveau 9,
 | **2** | [_appel de familier_](/grimoire/appel-de-familier/) |
 | **3** | [_invisibilité_](/grimoire/invisibilite/) |
 | **4** | [_pas brumeux_](/grimoire/pas-brumeux/) |
-| **5** | [_confusion_](/grimoire/confusion/) |
+| **5** | [_motif hypnotique_](/grimoire/motif-hypnotique/) |
 | **6** | [_nuage puant_](/grimoire/nuage-puant/) |
 | **7** | [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) |
 | **8** | [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/) |
