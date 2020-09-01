@@ -8,14 +8,14 @@ title: Barde
 |^^|^^|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|5<sup>e</sup>|6<sup>e</sup>|7<sup>e</sup>|8<sup>e</sup>|9<sup>e</sup>|
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Inspiration bardique (d6)](#inspiration-bardique)|2|4|2|-|-|-|-|-|-|-|-|
-|**2**|+2|[Touche-à-tout](#touche-a-tout), [Chant reponsant (d6)](#chant-reposant)|2|5|3|-|-|-|-|-|-|-|-|
+|**2**|+2|[Touche-à-tout](#touche-a-tout), [Chant reposant (d6)](#chant-reposant)|2|5|3|-|-|-|-|-|-|-|-|
 |**3**|+2|[Collège bardique](#college-bardique), [Expertise](#expertise)|2|6|4|2|-|-|-|-|-|-|-|
 |**4**|+2|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|3|7|4|3|-|-|-|-|-|-|-|
 |**5**|+3|[Inspiration bardique (d8)](#inspiration-bardique), [Source d'inspiration](#source-d-inspiration)|3|8|4|3|2|-|-|-|-|-|-|
 |**6**|+3|[Contre-charme](#contre-charme), [Aptitude de collège bardique](#college-bardique)|3|9|4|3|3|-|-|-|-|-|-|
 |**7**|+3|-|3|10|4|3|3|1|-|-|-|-|-|
 |**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|3|11|4|3|3|2|-|-|-|-|-|
-|**9**|+4|[Chant reponsant (d8)](#chant-reposant)|3|12|4|3|3|3|1|-|-|-|-|
+|**9**|+4|[Chant reposant (d8)](#chant-reposant)|3|12|4|3|3|3|1|-|-|-|-|
 |**10**|+4|[Inspiration bardique (d10)](#inspiration-bardique), [Expertise](#expertise), [Secrets magiques](#secrets-magiques)|4|14|4|3|3|3|2|-|-|-|-|
 |**11**|+4|-|4|15|4|3|3|3|2|1|-|-|-|
 |**12**|+4|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|15|4|3|3|3|2|1|-|-|-|
