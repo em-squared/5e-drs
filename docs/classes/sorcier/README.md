@@ -8,7 +8,7 @@ title: Sorcier
 |:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|
 |**1**|+2|[Protecteur de l'outre-monde](#protecteur-de-l-outre-monde), [Magie de pacte](#magie-de-pacte)|2|2|1|1|-|
 |**2**|+2|[Invocations occultes](#invocations-occultes)|2|3|2|1|2|
-|**3**|+2|[Pacte](#pacte)|3|4|2|2|2|
+|**3**|+2|[Pacte](#pacte)|2|4|2|2|2|
 |**4**|+2|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|3|5|2|2|2|
 |**5**|+3|-|3|6|2|3|3|
 |**6**|+3|[Aptitude de protecteur de l'outre-monde](#protecteur-de-l-outre-monde)|3|7|2|3|3|
