@@ -80,7 +80,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
 ### Archétype martial
-Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur) et [sorcelame](#sorcelame). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
+Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame) et [Kal'Thori](#kal-thori). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -203,3 +203,21 @@ Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie po
 Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'incantation est normalement d'une action en utilisant une action bonus. Le coût en points de sorcellerie est doublé. Vous pouvez utiliser un tour de magie de cette façon en dépensant 1 point de sorcellerie.
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un quatrième tour de magie de la liste d'ensorceleur.
+
+### Kal'Thori
+#### Un bouclier est une arme
+Au niveau 3, lorsque vous combattez avec un bouclier, vous pouvez effectuer une attaque de corps-à-corps ou à distance avec ce dernier en utilisant une action bonus. Le bouclier est considéré comme une arme contondante, ayant une allonge de 1,5 mètre, une portée de 9/18 et occasionnant 1d4 points de dégâts. Les dégâts passent à 1d6 au niveau 7 et 1d8 au niveau 15. Cette attaque en action bonus suit les règles du combat à deux armes. Ainsi, seul le style de combat [combat à deux armes](#combat-a-deux-armes) permet d'adjoindre à ses dégâts le modificateur de Force.
+De plus, lorsque vous avez jeté votre bouclier, si vous vous déplacez et passez dans les 1,5 mètre de son allonge, vous pouvez utiliser votre réaction afin de le récupérer et de l'équiper immédiatement.
+
+#### Défense Impénétrable
+Au niveau 7, vous avez optimisé votre défense au bouclier de telle manière qu’il devient très difficile de vous toucher. Lorsque vous tenez votre bouclier et que vous portez une armure légère, intermédiaire ou aucune armure, votre CA est augmentée de la moitié de votre bonus de maîtrise, arrondi à l’inférieur.
+De plus, lorsque vous êtes au corps à corps avec une créature, tant que vous portez votre bouclier et que vous portez une armure légère, intermédiaire ou aucune armure, vous pouvez utiliser votre action bonus afin d’effectuer l’action [se désengager](/combattre/#se-desengager) en vous protégeant des attaques adverses.
+
+#### Attaque tourbillonnante
+À partir du niveau 10, votre technique de combat est virevoltante. En utilisant votre action, vous tentez de renverser toutes les créatures de taille G ou moins se trouvant à 1,5 mètre de vous. De plus, ces dernières doivent effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force contre une difficulté de 8 + votre modificateur de Force + votre bonus de maîtrise. Une créature de taille G a l’avantage sur ce jet de sauvegarde. En cas d’échec, les cibles sont [à terre](/gerer-la-sante-du-personnage/#a-terre) et subissent les dégâts de votre bouclier, sans y ajouter votre modificateur de Force, même si vous maîtrisez le style de combat [combat à deux armes](#combat-a-deux-armes). Vous devez effectuer un repos court avant de pouvoir réutiliser cette capacité.
+
+#### Défense parfaite
+Au niveau 15, vous avez appris à optimiser votre défense et à utiliser toute la surface de votre bouclier pour vous protéger. Vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de dextérité contre tout sort ou effet qui devrait vous prendre pour cible. De plus, si vous deviez subir la moitié des dégâts en cas de réussite, vous pouvez utiliser votre réaction afin de n’en subir aucun.
+
+#### Riposte inattendue
+Au niveau 18, lorsqu’une attaque devrait vous toucher, vous pouvez utiliser votre réaction afin d’obtenir la résistance contre les dégâts de l’attaque. De plus, s’il s’agit d’une attaque de corps à corps, vous parvenez à dévier la puissance du coup pour la retourner contre votre adversaire en déportant son coup afin qu’il heurte le décor. Il subit la moitié des points de dégâts que vous avez subis.
