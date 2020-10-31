@@ -48,7 +48,7 @@ _**Destin funeste (1/jour)**_. Par une action bonus, un dullahan peut condamner 
 
 _**Incantation innée**_. La caractéristique d'incantation innée d'un dullahan est le Charisme (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles ou somatiques :
 * **À volonté** : [_contact glacial_](/grimoire/contact-glacial), [_déblocage_](/grimoire/deblocage), [_fléau_](/grimoire/fleau), _maléfice_
-* **3/jour chacun** : [_simulacre de vie_](/grimoire/simulacre-de-vie), [_voir l'invisible_](/grimoire/voir-linvisible)
+* **3/jour chacun** : [_simulacre de vie_](/grimoire/simulacre-de-vie), [_voir l'invisible_](/grimoire/voir-l-invisible)
 * **1/jour** : [_flétrissement_](/grimoire/fletrissement)
 
 _**Avancée inexorable**_. Un dullahan traverse sans mal les terrains difficiles et il peut avancer sur l'eau et les autres surfaces liquides.

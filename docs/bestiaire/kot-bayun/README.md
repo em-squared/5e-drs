@@ -34,7 +34,7 @@ source: "Livre des monstres"
 source_page: 261
 ---
 ## Capacités
-_**Guérison**_. Les contes du kot bayun ont, à volonté, le même effet que [_restauration inférieure_](/grimoire/restauration-inferieure/) et une fois par semaine le même que [_restauration supérieure_](/grimoire/restauration-superieure/). Le félin désigne un auditeur qui bénéficiera de ce pouvoir. Cet auditeur doit passer une heure à l'écouter sans interruption. Les kot bayuns répugnent à accorder ces soins, il faut donc négocier avec eux ou leur forcer la main avec un effet de [_domination_](/grimoire/domination/).
+_**Guérison**_. Les contes du kot bayun ont, à volonté, le même effet que [_restauration inférieure_](/grimoire/restauration-inferieure/) et une fois par semaine le même que [_restauration supérieure_](/grimoire/restauration-superieure/). Le félin désigne un auditeur qui bénéficiera de ce pouvoir. Cet auditeur doit passer une heure à l'écouter sans interruption. Les kot bayuns répugnent à accorder ces soins, il faut donc négocier avec eux ou leur forcer la main avec un effet de [_domination_](/grimoire/dominer-un-monstre/).
 
 _**Incantation innée**_. Le kot bayun utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **3/jour chacun** : [_nappe de brouillard_](/grimoire/nappe-de-brouillard/), [_invisibilité_](/grimoire/invisibilite/) (sur soi uniquement)
