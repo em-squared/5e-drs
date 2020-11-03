@@ -385,9 +385,12 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 À partir du niveau 14, vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale, que ce soit sous votre forme normale ou sous forme sauvage. Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un jet de sauvegarde de Constitution DD 15.
 
 ### Cercle de la vie
+§§§ .source .font-italic
+Source : Gazette Role'n Play #3
+§§§
 #### Pacifiste
 Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n’ajoutez plus votre bonus de maîtrises à vos jets d’attaque, qu’ils soient magiques ou non.
-En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d’emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n’est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort. 
+En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d’emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n’est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort.
 Au niveau 10, vous pouvez utiliser cette capacité sur un allié situé dans un rayon de 9 mètres.
 Au niveau 14, vous pouvez utiliser cette capacité une fois entre deux repos courts.
 
