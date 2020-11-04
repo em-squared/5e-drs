@@ -105,7 +105,7 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l'emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L'équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d'équipement peut être portée de manière pratique par l'animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s'adapter à votre nouvelle forme et toute pièce d'équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L'équipement qui fusionne avec vous sous votre forme sauvage n'a aucun effet jusqu'à ce que vous retrouviez votre forme normale.
 
 ### Cercle druidique
-Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees) ou le [cercle des profondeurs](#cercle-des-profondeurs). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
+Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees), le [cercle des profondeurs](#cercle-des-profondeurs) ou le [cercle de la vie](#cercle-de-la-vie). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -383,3 +383,46 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 
 #### Déplacement souterrain
 À partir du niveau 14, vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale, que ce soit sous votre forme normale ou sous forme sauvage. Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un jet de sauvegarde de Constitution DD 15.
+
+### Cercle de la vie
+§§§ .source .font-italic
+Source : Gazette Role'n Play #3
+§§§
+#### Pacifiste
+Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n’ajoutez plus votre bonus de maîtrises à vos jets d’attaque, qu’ils soient magiques ou non.
+En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d’emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n’est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort.
+Au niveau 10, vous pouvez utiliser cette capacité sur un allié situé dans un rayon de 9 mètres.
+Au niveau 14, vous pouvez utiliser cette capacité une fois entre deux repos courts.
+
+#### Guérisseur émérite
+Toujours au niveau 2, vous obtenez la maîtrise de la compétence Médecine. Si vous l’avez déjà, vous doublez votre bonus de maîtrise quand vous l’utilisez.
+Vous pouvez dépenser une de vos métamorphoses afin de lancer le sort soin des blessures. Il est considéré comme étant lancé avec un emplacement d’un niveau égal à la moitié de votre bonus de maîtrise, arrondi à l’inférieur.
+Enfin, quand vous lancez un sort de soins, vous ajoutez votre bonus de maîtrise au nombre de points de vie que vous rendez.
+
+#### Sorts de Vie
+Vous avez appris à canaliser la magie afin de régénérer les esprits, les corps et les plantes. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
+
+§§§ .table-container
+| Niv. de druide | Sorts de vie |
+|:-:|:-|
+| **2** | [_soin des blessures_](/grimoire/soin-des-blessures/) |
+| **3** | [_croissance végétale_](/grimoire/croissance-vegetale/),[_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) |
+| **4** | [_prière de soins_](/grimoire/priere-de-soins/)  |
+| **5** | [_lever une malédiction_](/grimoire/lever-une-malediction/) |
+| **6** | [_esprits gardiens_](/grimoire/esprits-gardiens/) |
+| **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
+| **8** | [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
+| **9** | [_restauration supérieure_](/grimoire/restauration-superieure/), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) |
+§§§
+
+#### Aide précieuse
+Au niveau 6, lorsque que vous lancez un sort sur un allié et que ce dernier possède une durée supérieure à « instantanée », vous doublez sa durée. Si le sort requiert de maintenir votre concentration, vous devez toujours la maintenir pendant toute la durée du sort.
+
+#### Réaction rapide
+Au niveau 10, vous êtes toujours prompt à aider vos alliés. Quand l’un de vos alliés subit des dommages, vous pouvez utiliser votre [réaction](/lancer-des-sorts/#reaction) afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/) ou [_prière de soins_](/grimoire/priere-de-soins/). Si votre allié devait tomber à 0 PV, il serait alors considéré comme ayant un nombre de PV égal au résultat de votre sort de soins et ne tombe pas inconscient. Vous devez cependant utiliser un emplacement de sort. Vous pouvez, à la place, utiliser votre capacité guérisseur émérite et dépenser une métamorphose afin de lancer soin des blessures.
+
+#### Esprit apaisé
+Au niveau 14, vous êtes immunisé aux états [charmé](/gerer-la-sante-du-personnage/#charme) et [terrorisé](/gerer-la-sante-du-personnage/#terrorise).
+
+#### Esprit de vie
+Au niveau 18, vous pouvez canaliser la puissance vitale de la nature à travers votre cops. En utilisant votre action, vous commencez à vous nourrir de l’énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l’effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
