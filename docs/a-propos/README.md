@@ -19,6 +19,7 @@ Vous souhaitez participer aux frais d'hébergement ou m'encourager ?
 Cette nouvelle version a pu voir le jour grâce à la contribution de bénévoles qui ont apporté leur soutien à la relecture des contenus, la recherche de bugs et les suggestions d'améliorations ou d'ajout de fonctionnalités.
 
 * Thierry Bastide alias Wylandïr
+* Sebb
 * DocQuantic
 * Erhard
 * Ombreloup

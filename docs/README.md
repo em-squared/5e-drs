@@ -10,7 +10,27 @@ toc: false
 <v-row>
 <v-col cols="12" md="6">
 
-Bienvenue sur la nouvelle version du site Document de Référence Système pour _**Héros & Dragons**_ !
+Bienvenue sur le site Document de Référence Système pour _**Héros & Dragons**_ !
+
+## Prêts pour le confinement, saison 2
+Ça y est, nous sommes de nouveaux interdits de jeux de rôle autour d'une table. Mais nous pouvons toujours jouer en ligne. Voici quelques nouveautés dans H&D DRS pour l'occasion :
+
+### Ajout des archétypes de classe des gazettes Role'n Play #2 et #3
+Le guerrier et le druide disposent à présent de nouveaux archétypes de classe : le [guerrier Kal'Thori](/classes/guerrier/#kal-thori) avec ses techniques de combat au bouclier, et le [druide du cercle de la vie](/classes/druide/#cercle-de-la-vie) porteur de paix.
+
+Merci à @Sebb pour ces ajouts.
+
+### Ajout des profils techniques du Livre des monstres
+Le [bestiaire](/bestiaire/) s'est vu ajouter plus de 400 créatures issues de l'excellent Livre des monstres pour un total de 751 créatures (oui, il a plus que doublé). Si vous avez toujours voulu libérer/délivrer la [Reine des Neiges](/bestiaire/reine-des-neiges/) (plot twist, c'est les héros qui vont avoir besoin d'aide), piéger vos joueurs avec la [mimique carte](/bestiaire/mimique-carte/) (ils ne vous feront plus jamais confiance), ou les attendrir avec la [larve stellaire de Cthulhu](/larve-stellaire-de-cthulhu/) (on parle bien d'attendrir la viande d'aventurier, hein), vous aurez de quoi faire. Ce sont de nombreuses créatures féeriques, dragons, fiélons et morts-vivants, entre autres, qui viennent peupler cette foire aux monstres.
+
+Comme toujours, si vous trouvez des erreurs, n'hésitez pas à me les signaler ou proposer une correction directement sur le dépôt Github.
+
+Prenez bien soin de vous,
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 4 novembre 2020_
+§§§
 
 ## Ajout des règles spécifiques aux Cinq Royaumes
 Voilà une chose qui m'est réclamée depuis un certain temps. Et bien c'est chose faite.
