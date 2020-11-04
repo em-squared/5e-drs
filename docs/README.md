@@ -21,7 +21,7 @@ Le guerrier et le druide disposent à présent de nouveaux archétypes de classe
 Merci à @Sebb pour ces ajouts.
 
 ### Ajout des profils techniques du Livre des monstres
-Le [bestiaire](/bestiaire/) s'est vu ajouter plus de 400 créatures issues de l'excellent Livre des monstres pour un total de 751 créatures (oui, il a plus que doublé). Si vous avez toujours voulu libérer/délivrer la [Reine des Neiges](/bestiaire/reine-des-neiges/) (plot twist, c'est les héros qui vont avoir besoin d'aide), piéger vos joueurs avec la [mimique carte](/bestiaire/mimique-carte/) (ils ne vous feront plus jamais confiance), ou les attendrir avec la [larve stellaire de Cthulhu](/larve-stellaire-de-cthulhu/) (on parle bien d'attendrir la viande d'aventurier, hein), vous aurez de quoi faire. Ce sont de nombreuses créatures féeriques, dragons, fiélons et morts-vivants, entre autres, qui viennent peupler cette foire aux monstres.
+Le [bestiaire](/bestiaire/) s'est vu ajouter plus de 400 créatures issues de l'excellent Livre des monstres pour un total de 751 créatures (oui, il a plus que doublé). Si vous avez toujours voulu libérer/délivrer la [Reine des Neiges](/bestiaire/reine-des-neiges/) (plot twist, c'est les héros qui vont avoir besoin d'aide), piéger vos joueurs avec la [mimique carte](/bestiaire/mimique-carte/) (ils ne vous feront plus jamais confiance), ou les attendrir avec la [larve stellaire de Cthulhu](/bestiaire/larve-stellaire-de-cthulhu/) (on parle bien d'attendrir la viande d'aventurier, hein), vous aurez de quoi faire. Ce sont de nombreuses créatures féeriques, dragons, fiélons et morts-vivants, entre autres, qui viennent peupler cette foire aux monstres.
 
 Comme toujours, si vous trouvez des erreurs, n'hésitez pas à me les signaler ou proposer une correction directement sur le dépôt Github.
 
@@ -124,6 +124,20 @@ _le 25 mai 2020_
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Héros & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115)  
 <v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/MntFXr), pour discuter du jeu, de ses règles et organiser des parties.  
+
+### Application Haches & Dés de @Nioux
+&nbsp;
+<v-row>
+  <v-col cols="12" sm="4">
+    <a href="https://play.google.com/store/apps/details?id=com.nioux.aidedejeu" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png" alt="Android" /></a>
+  </v-col>
+  <v-col cols="12" sm="4">
+    <a href="https://apps.apple.com/us/app/haches-d%C3%A9s/id1446575505?l=fr&ls=1" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.iOS/apple-appstore-badge.png" alt="iOS" /></a>
+  </v-col>
+  <v-col cols="12" sm="4">
+    <a href="https://www.microsoft.com/fr-fr/p/aide-de-jeu/9nvns0j25ct7?activetab=pivot:overviewtab" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.UWP/microsoft-store-badge.png" alt="Microsoft" /></a>
+  </v-col>
+</v-row>
 
 ### À propos de ce site
 &nbsp;

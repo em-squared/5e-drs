@@ -36,6 +36,8 @@ Cette liste n'est certainement pas exhaustive.
 ## Le jeu
 _**Héros & Dragons**_ est un jeu de rôle basé sur les mécaniques de l'[OGL5](/licence-ogl/) et développé par les talents de la rédaction de [_Casus Belli_](https://www.black-book-editions.fr/catalogue.php?id=40), le magazine de référence des jeux de rôle.
 
+Le _**Livre des monstres**_ est une traduction de Black Book Éditions du _**Tome of Beasts**_ publié à l'origine par [Kobold Press](https://koboldpress.com/).
+
 Les textes de cette documentation appartiennent à [Black Book Éditions](https://www.black-book-editions.fr/catalogue.php?id=365).
 
 Casus Belli et Black Book Éditions sont des marques déposées par [Black Book Éditions](https://www.black-book-editions.fr/). Tous droits réservés.
