@@ -6,7 +6,7 @@ export const MONSTERTYPES = [
   "Créature monstrueuse",
   "Dragon",
   "Élémentaire",
-  "Fée",
+  "Fées",
   "Fiélon",
   "Géant",
   "Humanoïde",
