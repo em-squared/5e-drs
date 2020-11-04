@@ -41,6 +41,6 @@ source_page: 249
 **_Épée à deux mains de cérémonie._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une créature.  
 _Touché_: 10 (2d6 + 3) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou subir 5 (2d4) dégâts de poison au début de chacun de ses tours. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 
-**_Vomir une nuée (1/jour)._** L'imy-ut ushabti écarte volontairement ses bandelettes et libère une nuée de scarabées qui obéissent à ses ordres mentaux. Elle a le même profil qu'une [nuée d'insectes](/bestiaire/nuee-d-insectes/), mais avec les attaques suivantes au lieu de l'attaque de morsure ordinaire de la nuée d'insectes :
+**_Vomir une nuée (1/jour)._** L'imy-ut ushabti écarte volontairement ses bandelettes et libère une nuée de scarabées qui obéissent à ses ordres mentaux. Elle a le même profil qu'une [nuée d'insectes](/bestiaire/nuee-dinsectes/), mais avec les attaques suivantes au lieu de l'attaque de morsure ordinaire de la nuée d'insectes :
 
 * **_Morsures._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 0 m, une créature. Touché: 10 (4d4) dégâts perforants, ou 5 (2d4) dégâts perforants si la nuée n'a que la moitié de ses points de vie ou moins. La cible doit réussir un jet de sauvegarde de Constitution DD 13 ou subir 5 (2d4) dégâts de poison au début de chacun de ses tours. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.

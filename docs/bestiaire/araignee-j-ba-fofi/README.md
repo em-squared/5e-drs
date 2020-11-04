@@ -36,7 +36,7 @@ _**Toiles camouflées**_. Il faut réussir un test de Sagesse (perception) DD 15
 
 _**Pattes d'araignée**_. L'araignée peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
 
-_**Symbiose arachnide**_. Aucune araignée ordinaire n'attaquera une j'ba fofi à moins qu'elle ne soit contrôlée par magie ou que la j'ba fofi ne l'attaque la première. De plus, toute j'ba fofi est accompagnée d'une [nuée d'araignées](/bestiaire/nuee-d-insectes/) (variante de la nuée d'insectes) qui se déplace et attaque au gré des ordres mentaux de la j'ba fofi (la direction de la nuée ne lui coûte pas d'action).
+_**Symbiose arachnide**_. Aucune araignée ordinaire n'attaquera une j'ba fofi à moins qu'elle ne soit contrôlée par magie ou que la j'ba fofi ne l'attaque la première. De plus, toute j'ba fofi est accompagnée d'une [nuée d'araignées](/bestiaire/nuee-dinsectes) (variante de la nuée d'insectes) qui se déplace et attaque au gré des ordres mentaux de la j'ba fofi (la direction de la nuée ne lui coûte pas d'action).
 
 _**Perception sur les toiles**_. Quand la j'ba fofi est en contact avec une toile, elle connaît la position exacte de toute créature en contact avec cette même toile.
 
