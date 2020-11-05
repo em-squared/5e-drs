@@ -127,17 +127,7 @@ _le 25 mai 2020_
 
 ### Application Haches & Dés de @Nioux
 &nbsp;
-<v-row>
-  <v-col cols="12" sm="4">
-    <a href="https://play.google.com/store/apps/details?id=com.nioux.aidedejeu" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png" alt="Android" /></a>
-  </v-col>
-  <v-col cols="12" sm="4">
-    <a href="https://apps.apple.com/us/app/haches-d%C3%A9s/id1446575505?l=fr&ls=1" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.iOS/apple-appstore-badge.png" alt="iOS" /></a>
-  </v-col>
-  <v-col cols="12" sm="4">
-    <a href="https://www.microsoft.com/fr-fr/p/aide-de-jeu/9nvns0j25ct7?activetab=pivot:overviewtab" target="\_blank"><v-img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu.UWP/microsoft-store-badge.png" alt="Microsoft" /></a>
-  </v-col>
-</v-row>
+[Android](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu) [iOS](https://apps.apple.com/us/app/haches-d%C3%A9s/id1446575505?l=fr&ls=1) [Microsoft](https://www.microsoft.com/fr-fr/p/aide-de-jeu/9nvns0j25ct7?activetab=pivot:overviewtab)
 
 ### À propos de ce site
 &nbsp;
