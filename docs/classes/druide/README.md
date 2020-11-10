@@ -389,7 +389,7 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 Source : Gazette Role'n Play #3
 §§§
 #### Pacifiste
-Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n’ajoutez plus votre bonus de maîtrises à vos jets d’attaque, qu’ils soient magiques ou non.
+Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n’ajoutez plus votre bonus de maîtrises à vos jets d’attaque, qu’ils soient magiques ou non. De plus lorsque vous faites le résultat maximal d'un dé de dégâts vous devez lancer de nouveau ce dé et utiliser le nouveau résultat.
 En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d’emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n’est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort.
 Au niveau 10, vous pouvez utiliser cette capacité sur un allié situé dans un rayon de 9 mètres.
 Au niveau 14, vous pouvez utiliser cette capacité une fois entre deux repos courts.
@@ -405,10 +405,10 @@ Vous avez appris à canaliser la magie afin de régénérer les esprits, les cor
 §§§ .table-container
 | Niv. de druide | Sorts de vie |
 |:-:|:-|
-| **2** | [_soin des blessures_](/grimoire/soin-des-blessures/) |
-| **3** | [_croissance végétale_](/grimoire/croissance-vegetale/),[_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) |
+| **2** | [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) |
+| **3** | [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) |
 | **4** | [_prière de soins_](/grimoire/priere-de-soins/)  |
-| **5** | [_lever une malédiction_](/grimoire/lever-une-malediction/) |
+| **5** | [_croissance végétale_](/grimoire/croissance-vegetale/),[_lever une malédiction_](/grimoire/lever-une-malediction/) |
 | **6** | [_esprits gardiens_](/grimoire/esprits-gardiens/) |
 | **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
 | **8** | [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
@@ -419,10 +419,10 @@ Vous avez appris à canaliser la magie afin de régénérer les esprits, les cor
 Au niveau 6, lorsque que vous lancez un sort sur un allié et que ce dernier possède une durée supérieure à « instantanée », vous doublez sa durée. Si le sort requiert de maintenir votre concentration, vous devez toujours la maintenir pendant toute la durée du sort.
 
 #### Réaction rapide
-Au niveau 10, vous êtes toujours prompt à aider vos alliés. Quand l’un de vos alliés subit des dommages, vous pouvez utiliser votre [réaction](/lancer-des-sorts/#reaction) afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/) ou [_prière de soins_](/grimoire/priere-de-soins/). Si votre allié devait tomber à 0 PV, il serait alors considéré comme ayant un nombre de PV égal au résultat de votre sort de soins et ne tombe pas inconscient. Vous devez cependant utiliser un emplacement de sort. Vous pouvez, à la place, utiliser votre capacité guérisseur émérite et dépenser une métamorphose afin de lancer soin des blessures.
+Au niveau 10, vous êtes toujours prompt à aider vos alliés. Quand l’un de vos alliés subit des dommages, vous pouvez utiliser votre [réaction](/lancer-des-sorts/#reaction) afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/) ou [_mot de guérison_](/grimoire/mot-de-guerison/). Si votre allié devait tomber à 0 PV, il serait alors considéré comme ayant un nombre de PV égal au résultat de votre sort de soins et ne tombe pas inconscient. Vous devez cependant utiliser un emplacement de sort. Vous pouvez, à la place, utiliser votre capacité guérisseur émérite et dépenser une métamorphose afin de lancer soin des blessures.
 
 #### Esprit apaisé
 Au niveau 14, vous êtes immunisé aux états [charmé](/gerer-la-sante-du-personnage/#charme) et [terrorisé](/gerer-la-sante-du-personnage/#terrorise).
 
 #### Esprit de vie
-Au niveau 18, vous pouvez canaliser la puissance vitale de la nature à travers votre cops. En utilisant votre action, vous commencez à vous nourrir de l’énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l’effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
+Au niveau 18, en plus que vos aptidudes de druide, vous pouvez canaliser la puissance vitale de la nature à travers votre corps. En utilisant votre action, vous commencez à vous nourrir de l’énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l’effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
