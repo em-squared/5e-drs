@@ -408,7 +408,7 @@ Vous avez appris à canaliser la magie afin de régénérer les esprits, les cor
 | **2** | [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) |
 | **3** | [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) |
 | **4** | [_prière de soins_](/grimoire/priere-de-soins/)  |
-| **5** | [_croissance végétale_](/grimoire/croissance-vegetale/),[_lever une malédiction_](/grimoire/lever-une-malediction/) |
+| **5** | [_croissance végétale_](/grimoire/croissance-vegetale/), [_lever une malédiction_](/grimoire/lever-une-malediction/) |
 | **6** | [_esprits gardiens_](/grimoire/esprits-gardiens/) |
 | **7** | [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) |
 | **8** | [_protection contre la mort_](/grimoire/protection-contre-la-mort/) |
