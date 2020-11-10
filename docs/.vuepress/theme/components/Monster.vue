@@ -278,6 +278,9 @@ export default {
     },
 
     displaySkillBonus (skill) {
+      if (skill.name == 'custom') {
+        return skill.value
+      }
       let result = stats.skills[skill.name].label
       if (skill.invalid) {
         result += ' ' + displayBonus(skill.value)
