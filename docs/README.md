@@ -123,7 +123,7 @@ _le 25 mai 2020_
 ### Communauté
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Héros & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115)  
-<v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/MntFXr), pour discuter du jeu, de ses règles et organiser des parties.  
+<v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/24BfHYVz), pour discuter du jeu, de ses règles et organiser des parties.  
 
 ### Application Haches & Dés de @Nioux
 &nbsp;

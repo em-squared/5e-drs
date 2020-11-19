@@ -11,8 +11,8 @@
         <div class="spell-casting-time"><strong>Temps d'incantation</strong> : {{ spell.frontmatter.casting_time }}</div>
         <div class="spell-range"><strong>Portée</strong> : {{ spell.frontmatter.range }}</div>
         <div class="spell-components"><strong>Composantes</strong> :
-          <template v-if="spell.frontmatter.components.verbal">V</template><template v-if="spell.frontmatter.components.somatic || spell.frontmatter.components.material">,</template>
-          <template v-if="spell.frontmatter.components.somatic">S</template><template v-if="spell.frontmatter.components.material">,</template>
+          <template v-if="spell.frontmatter.components.verbal">V</template><template v-if="spell.frontmatter.components.verbal && (spell.frontmatter.components.somatic || spell.frontmatter.components.material)">,</template>
+          <template v-if="spell.frontmatter.components.somatic">S</template><template v-if="spell.frontmatter.components.somatic && spell.frontmatter.components.material">,</template>
           <template v-if="spell.frontmatter.components.material">M</template>
           <template v-if="spell.frontmatter.components.material && spell.frontmatter.components.materials">({{spell.frontmatter.components.materials}})</template>
         </div>
