@@ -2,7 +2,7 @@
 title: "Titanoboa"
 type: "Bête"
 size: "Gig"
-alignment: "non-algnée"
+alignment: "non-alignée"
 challenge: "12"
 hitDiceCount: 15
 abilityScores:
@@ -12,21 +12,21 @@ abilityScores:
   int: 3
   sag: 10
   cha: 3
-savingThrows: 
+savingThrows:
   - "dex"
   - "sag"
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 4
-skills: 
+skills:
   - name: "perception"
-movement: 
+movement:
   walk: 12
   climb: 12
   swim: 12
-senses: 
+senses:
   blindsight: 3
-languages: 
+languages:
   - "—"
 environments:
   - Jungle

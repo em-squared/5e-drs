@@ -432,11 +432,11 @@ Au niveau 18, en plus que vos aptidudes de druide, vous pouvez canaliser la puis
 Source : Gazette Role'n Play #4
 §§§
 #### Guérisseur de pacotille
-Au niveau 2, vous décidez de vous concentrer davantage sur les dégâts infligés par vos sorts que sur le soutien à vos alliés. Lorsque vous lancez les dés afin de déterminer le nombre de points de vie rendus par un sort de guérison rendant des PV (comme [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) ou [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) par exemple), vous ne pouvez pas ajouter votre bonus de caractéristique au nombre de points de vie rendus si le sort le permet. Vous devez en outre relancer les dés ayant obtenu le maximum (8 sur 1d8 par exemple) puis utiliser le nouveau résultat. De plus, tout sort rendant un nombre fixe de points de vie ne rend que la moitié du nombre prévu. Enfin, cette règle s’applique même aux sorts obtenus via des dons, des objets magiques ou un multiclassage
+Au niveau 2, vous décidez de vous concentrer davantage sur les dégâts infligés par vos sorts que sur le soutien à vos alliés. Lorsque vous lancez les dés afin de déterminer le nombre de points de vie rendus par un sort de guérison rendant des PV (comme [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) ou [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) par exemple), vous ne pouvez pas ajouter votre bonus de caractéristique au nombre de points de vie rendus si le sort le permet. Vous devez en outre relancer les dés ayant obtenu le maximum (8 sur 1d8 par exemple) puis utiliser le nouveau résultat. De plus, tout sort rendant un nombre fixe de points de vie ne rend que la moitié du nombre prévu. Enfin, cette règle s’applique même aux sorts obtenus via des dons, des objets magiques ou un multiclassage.
 
 #### Puissance vengeresse
 Toujours au niveau 2, lorsque vous lancez un tour de magie infligeant des dégâts, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par le sort.
-De plus, vous obtenez le tour de magie [_gourdin magique_](/grimoire/gourdin-magique) s’il ne fait pas partie de votre liste de sorts. Vous pouvez aussi ajouter votre bonus de maîtrise aux dégâts infligés par un gourdin ou un bâton enchanté par ce tour de magie.
+De plus, vous obtenez le tour de magie [_gourdin magique_](/grimoire/gourdin-magique/) s’il ne fait pas partie de votre liste de sorts. Vous pouvez aussi ajouter votre bonus de maîtrise aux dégâts infligés par un gourdin ou un bâton enchanté par ce tour de magie.
 
 #### Sorts du Châtiment
 Vous avez appris à canaliser la magie afin de châtier les ennemis du monde naturel. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
@@ -451,11 +451,11 @@ Vous avez appris à canaliser la magie afin de châtier les ennemis du monde nat
 | **6** | [_caresse du vampire_](/grimoire/caresse-du-vampire/) |
 | **7** | [_flétrissement_](/grimoire/fletrissement/) |
 | **8** | [_bouclier de feu_](/grimoire/bouclier-de-feu/) |
-| **9** | [_fléau d'insecteq_](/grimoire/fleau-d-insectes/) |
+| **9** | [_fléau d'insectes_](/grimoire/fleau-d-insectes/) |
 §§§
 
 #### Résistance naturelle
-Au niveau 6, votre corps s’est accoutumé aux substances empoisonnées émises par certaines créatures et plantes. Vous êtes immunisé aux dégâts de poison et à l’état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). De plus, vous obtenez la maîtrise des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution
+Au niveau 6, votre corps s’est accoutumé aux substances empoisonnées émises par certaines créatures et plantes. Vous êtes immunisé aux dégâts de poison et à l’état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). De plus, vous obtenez la maîtrise des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution.
 
 #### Réaction violente
 Au niveau 10, vous pouvez utiliser un tour de magie au lieu d’une attaque de corps à corps lorsque vous obtenez une attaque d’opportunité.
