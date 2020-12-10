@@ -12,6 +12,11 @@ toc: false
 
 Bienvenue sur le site Document de Référence Système pour _**Héros & Dragons**_ !
 
+## Nouvel archétype de druide
+La _gazette Role'n Play #4_ est sortie et un nouvel archétype de druide avec ça ! Vous trouverez donc le [druide du cercle des Châtiments](/classes/druide/#cercle-des-chatiments) qui prend le contre-pied du [druide du cercle de la vie](/classes/druide/#cercle-de-la-vie).
+
+Merci à @Sebb pour l'ajout de cet archétype.
+
 ## Prêts pour le confinement, saison 2
 Ça y est, nous sommes de nouveaux interdits de jeux de rôle autour d'une table. Mais nous pouvons toujours jouer en ligne. Voici quelques nouveautés dans H&D DRS pour l'occasion :
 
@@ -131,7 +136,7 @@ _le 25 mai 2020_
 
 ### À propos de ce site
 &nbsp;
-<v-icon>mdi-discord</v-icon> [Discord H&D DRS](https://discord.gg/mp6ECCs), pour discuter de ce site.  
+<v-icon>mdi-discord</v-icon> [Discord H&D DRS](https://discord.gg/mp6ECCs), pour discuter de ce site, signaler des erreurs, des bugs ou suggérer une amélioration.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/em-squared/heros-et-dragons-drs), tout le code source en licence GPLv3.  
 <v-icon>mdi-github</v-icon> [Soumettre une demande](https://github.com/em-squared/heros-et-dragons-drs/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
 

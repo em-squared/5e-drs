@@ -52,7 +52,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ### Rage
 Quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :
-* Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
+* Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force.
 * Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts. Ce bonus augmente en même temps que votre niveau (voir le tableau d'[evolution du barbare](#evolution-du-barbare), colonne dégâts de rage).
 * Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 
@@ -71,7 +71,7 @@ Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + v
 ### Sens du danger
 Quand vous atteignez le niveau 2, vous développez la capacité instinctive de ressentir si quelque chose ne tourne pas rond dans votre environnement, ce qui vous donne un temps d'avance quand vous tentez d'esquiver un danger.
 
-Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos jets de sauvegarde de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
+Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 ### Voie primitive
 Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la <a href="#voie-du-berserker">voie du berserker</a>, la <a href="#voie-des-esprits">voie des esprits</a>, la <a href="#voie-de-l-acier">voie de l'acier</a> ou la <a href="#voie-du-hurlement">voie du hurlement</a>. Toutes sont détaillées à la fin de la section consacrée à cette classe.
@@ -101,7 +101,7 @@ De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au d�
 Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un repos, court ou long, permet de rétablir le DD initial à 10.
 
 ### Rage ininterrompue
-À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes inconscient ou que vous choisissez de sortir de cet état.
+À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) ou que vous choisissez de sortir de cet état.
 
 ### Puissance indomptable
 À partir du niveau 18, si le total que vous obtenez à un test de Force est moins élevé que votre valeur de Force, vous pouvez utiliser votre valeur de Force à la place du résultat du test.
@@ -121,13 +121,13 @@ Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de deven
 #### Présence intimidante
 À partir du niveau 10, vous pouvez utiliser votre action pour terroriser quelqu'un grâce à votre présence menaçante. Quand vous voulez utiliser cette aptitude, choisissez une créature qui se trouve dans votre champ de vision dans un rayon de 9 mètres. Si cette créature peut vous voir et vous entendre, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) jusqu'à la fin de votre prochain tour. Au cours des tours suivants, vous pouvez utiliser votre action pour faire durer cet effet sur la même créature un tour supplémentaire. Cet effet prend fin si la créature termine son tour hors de votre champ de vision ou qu'elle se trouve à plus de 18 mètres de vous.
 
-Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
+Si la créature réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
 
 #### Représailles
 À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une attaque de corps-à-corps visant cette créature en représailles.
 
 ### Voie des esprits
-Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la Sagesse (difficulté des jets de sauvegarde égale à 8 + bonus de maîtrise + modificateur de Sagesse).
+Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la Sagesse (difficulté des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) égale à 8 + bonus de maîtrise + modificateur de Sagesse).
 
 #### Né dans la nature
 Au niveau 3, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) effectués en milieu naturel (+5 pour le valeur passive) et aux tests de Sagesse (Survie).
@@ -135,7 +135,7 @@ Au niveau 3, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/
 #### Initiation
 Également au niveau 3, à la suite d'une cérémonie, vous entrez en communion avec un esprit animal : ours, taureau (ou bison), loup, chouette, aigle, renard, lynx (ou tout autre félin), etc. L'animal qui correspond à votre alter ego spirituel ne vous est jamais hostile et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests lorsque vous essayez de le pister, de le repérer, de l'influencer ou de le dresser.
 
-En dépensant un point de lien spirituel, vous pouvez utiliser sur vous-même le sort amélioration de caractéristique, mais uniquement dans la version qui correspond à l'esprit auquel vous êtes lié. Le loup permet d'améliorer la Sagesse (comme la chouette) et le lynx correspond au chat et permet d'améliorer la Dextérité. Vous pouvez bien entendu choisir d'autres animaux et la caractéristique correspondante en accord avec votre MJ. Si vous choisissez un animal associé à l'Intelligence, la Sagesse ou le Charisme (loup, chouette, aigle, renard), votre valeur de lien spirituel est augmentée de un.
+En dépensant un point de lien spirituel, vous pouvez utiliser sur vous-même le sort [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/), mais uniquement dans la version qui correspond à l'esprit auquel vous êtes lié. Le loup permet d'améliorer la Sagesse (comme la chouette) et le lynx correspond au chat et permet d'améliorer la Dextérité. Vous pouvez bien entendu choisir d'autres animaux et la caractéristique correspondante en accord avec votre MJ. Si vous choisissez un animal associé à l'Intelligence, la Sagesse ou le Charisme (loup, chouette, aigle, renard), votre valeur de lien spirituel est augmentée de un.
 
 Vous êtes capable de maintenir une concentration lorsque vous êtes sous les effets de la rage ; toutefois, cela ne concerne que les sorts obtenus par la voie des esprits.
 
@@ -189,7 +189,7 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 À chaque fois que vous entrez en rage, vous pouvez choisir d'utiliser ou non cette aptitude.
 
 #### Hurlement du tonnerre
-À partir du niveau 6, vous pouvez pousser un cri dont la puissance est comparable à la foudre et au tonnerre. Vous utilisez votre action à ce tour et toutes les créatures dans un rayon de 6 mètres autour de vous doivent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + bonus de maîtrise + modificateur de Force). En cas d'échec, chaque cible subit 1d8 dégâts de tonnerre par point de bonus de maîtrise du barbare et est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) pour 1 minute. Les cibles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) subissent seulement la moitié des dégâts et ne sont pas _assourdies_.
+À partir du niveau 6, vous pouvez pousser un cri dont la puissance est comparable à la foudre et au tonnerre. Vous utilisez votre action à ce tour et toutes les créatures dans un rayon de 6 mètres autour de vous doivent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + bonus de maîtrise + modificateur de Force). En cas d'échec, chaque cible subit 1d8 dégâts de tonnerre par point de bonus de maîtrise du barbare et est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) pour 1 minute. Les cibles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) subissent seulement la moitié des dégâts et ne sont pas [_assourdies_](/gerer-la-sante-du-personnage/#assourdi).
 
 Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
@@ -197,4 +197,4 @@ Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette ap
 Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous poussez lorsque vous frappez un ennemi de toutes vos forces. À partir du niveau 10, lorsque vous choisissez d'utiliser votre aptitude témérité, vous pouvez dépenser une action bonus pour pousser un cri sauvage et obtenir un bonus de 1d6 aux dégâts infligés par une attaque au corps-à-corps à votre tour. Si vous êtes à ce moment-là en rage, vous ajoutez 1d8 aux dégâts de l'attaque au lieu de 1d6.
 
 #### Hurlement terrifiant
-À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Force au choix (difficulté 8 + modificateur de Force + bonus de maîtrise) ou être _terrorisés_ pendant 1 minute. Si vous êtes en rage, les cibles subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
+À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Force au choix (difficulté 8 + modificateur de Force + bonus de maîtrise) ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Si vous êtes en rage, les cibles subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.

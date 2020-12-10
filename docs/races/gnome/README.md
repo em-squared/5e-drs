@@ -11,7 +11,7 @@ sidebarDepth: 0
 **Taille**. Les gnomes mesurent entre 90 centimètres et 1,20 mètre et pèsent en moyenne une vingtaine de kilos. Ils sont de petite taille.  
 **Vitesse**. Votre vitesse au sol de base est de 7,50 mètres.  
 **Vision dans le noir**. Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.  
-**Ruse gnome**. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les jets de sauvegarde d'Intelligence, Sagesse et Charisme contre la magie.  
+**Ruse gnome**. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence, Sagesse et Charisme contre la magie.  
 **Langues**. Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.
 
 ### Gnome des roches
@@ -33,6 +33,6 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 ### Gnome des lacs
 
 **Augmentation de caractéristiques**. Votre valeur de Sagesse augmente de 1.  
-**Maître des illusions**. Maître des illusions. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.  
+**Maître des illusions**. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.  
 **Amphibie**. Vous êtes capable de respirer sous l'eau pendant une durée de 10 minutes au maximum. Au bout de ces 10 minutes, vous devez reprendre votre souffle à l'air libre.  
 **Magie instinctive**. Vous connaissez deux tours de magie que vous choisissez parmi la liste de sorts du barde. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
