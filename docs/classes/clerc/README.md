@@ -91,12 +91,12 @@ Au niveau 2, vous gagnez la capacité de canaliser directement l'énergie divine
 
 Quand vous utilisez canalisation d'énergie divine, vous choisissez quel effet vous souhaitez produire. Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
 
-Certains effets de la canalisation d'énergie divine impliquent des jets de sauvegarde. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des jets de sauvegarde de vos sorts de clerc.
+Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de vos sorts de clerc.
 
 À partir du niveau 6, vous pouvez utiliser l'aptitude canalisation d'énergie divine deux fois entre chaque repos court ou long, puis trois fois à partir du niveau 18.
 
 ### Canalisation d'énergie divine : Renvoi des morts-vivants
-Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son jet de sauvegarde, elle est _repoussée_ pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle est [_repoussée_](/gerer-la-sante-du-personnage/#repousse) pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -206,7 +206,7 @@ Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un [_
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : nom secret
-Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets de sauvegarde contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
+Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
 §§§
 §§§
 
@@ -274,7 +274,7 @@ Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires penda
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Puissance divine
-Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests et jets de sauvegarde de Force et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde. De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
+Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests et [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde. De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
 §§§
 §§§
 
@@ -427,7 +427,7 @@ Vous lancez le sort [_invoquer des animaux_](/grimoire/invoquer-des-animaux/), t
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Vision des ténèbres
-Vous obtenez l'aptitude vision aveugle et vous êtes immunisé à l'état spécial aveuglé pendant un nombre de rounds égal à votre bonus de maîtrise.
+Vous obtenez l'aptitude vision aveugle et vous êtes immunisé à l'état spécial [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) pendant un nombre de rounds égal à votre bonus de maîtrise.
 §§§
 §§§
 
@@ -461,7 +461,7 @@ Vous obtenez une résistance à tous les types de dégâts pendant 1 round par p
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Repli du temps
-Cette aptitude fait exception à la règle générale de canalisation d'énergie divine, vous n'avez besoin que d'une réaction pour l'activer. En dépensant votre réaction, vous agissez 1 tour complet en plus de votre tour normal. Toutefois ce tour supplémentaire ne vous octroie pas de nouvelle réaction. Vous ne pouvez pas utiliser, dans le même round, une aptitude ou un sort vous octroyant une action, une action bonus et/ou une réaction supplémentaire. Si vous êtes sous l'effet d'un sort de hâte au moment où vous utilisez cette aptitude, il cesse immédiatement. De plus, vous devez terminer un repos court ou long avant de pouvoir réutiliser cette capacité.
+Cette aptitude fait exception à la règle générale de canalisation d'énergie divine, vous n'avez besoin que d'une réaction pour l'activer. En dépensant votre réaction, vous agissez 1 tour complet en plus de votre tour normal. Toutefois ce tour supplémentaire ne vous octroie pas de nouvelle réaction. Vous ne pouvez pas utiliser, dans le même round, une aptitude ou un sort vous octroyant une action, une action bonus et/ou une réaction supplémentaire. Si vous êtes sous l'effet d'un sort de [_hâte_](/grimoire/hate/) au moment où vous utilisez cette aptitude, il cesse immédiatement. De plus, vous devez terminer un repos court ou long avant de pouvoir réutiliser cette capacité.
 §§§
 §§§
 
@@ -478,7 +478,7 @@ Cette aptitude fait exception à la règle générale de canalisation d'énergie
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Enfouissement
-Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale pendant un nombre de rounds égal à votre bonus de maîtrise. Lorsque l'aptitude se termine, si vous restez prisonnier dans la matière, vous êtes éjecté vers l'espace libre le plus proche, vous subissez 1d6 dégâts contondants par mètre de matière traversée, et vous êtes étourdi pendant 1 round.
+Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale pendant un nombre de rounds égal à votre bonus de maîtrise. Lorsque l'aptitude se termine, si vous restez prisonnier dans la matière, vous êtes éjecté vers l'espace libre le plus proche, vous subissez 1d6 dégâts contondants par mètre de matière traversée, et vous êtes [_étourdi_](/gerer-la-sante-du-personnage/#etourdi) pendant 1 round.
 §§§
 §§§
 
@@ -621,7 +621,7 @@ Nul n'est votre égal pour utiliser les mots et pour convaincre les individus co
 Au niveau 6, lorsque vous lancez le tour de magie [_assistance_](/grimoire/assistance/), la cible du sort peut appliquer l'effet à un [jet d'attaque](/combattre/#jets-d-attaque), et lorsque vous lancez le tour de magie [_résistance_](/grimoire/resistance/), elle peut appliquer l'effet à sa CA contre une attaque.
 
 #### Analyse des faiblesses
-Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. En cas d'échec, pendant 1 heure, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme effectués contre cette cible et elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses jets de sauvegarde de Sagesse contre les sorts que vous lancez. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
+Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. En cas d'échec, pendant 1 heure, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme effectués contre cette cible et elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre les sorts que vous lancez. En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
 
 Si vous conversez pendant 1 heure complète avec votre cible, vous imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à la sauvegarde et vous bénéficiez des effets de l'analyse des faiblesses pendant 24 heures. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
 
@@ -632,7 +632,7 @@ Au niveau 8, si vous utilisez une action pour lancer [_assistance_](/grimoire/as
 Également, au niveau 8, vous pouvez établir une relation particulière avec un disciple. Vous devez vous entretenir avec le sujet volontaire pendant une journée complète. Votre disciple bénéficie d'effets équivalents au sort [_lueur d'espoir_](/grimoire/lueur-d-espoir/) lorsque vous êtes à moins de 9 mètres l'un de l'autre pendant la semaine qui suit. Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres sorts. Le lien est prolongé de semaine en semaine tant que vous prenez le temps d'un entretien hebdomadaire d'au moins 1 heure, mais il est brisé si votre disciple vous manque de respect, ne fait pas de son mieux pour vous aider ou vous protéger ou s'il agit de façon clairement opposée à vos préceptes moraux. Vous ne pouvez être lié qu'à un seul disciple à la fois.
 
 #### Haranguer les foules
-Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort [_suggestion de groupe_](/grimoire/suggestion-de-groupe/) sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
 ### Théurge
 #### Études académiques
@@ -657,7 +657,7 @@ Lorsque vous lancez un sort de magicien, vous utilisez votre modificateur d'Inte
 §§§
 
 #### Canalisation d'énergie divine : Magie renforcée
-Dès le niveau 2, votre compréhension des principes fondamentaux de la magie vous permet d'utiliser votre canalisation d'énergie divine pour améliorer l'efficacité de vos sorts. Vous pouvez utiliser votre canalisation d'énergie divine pour lancer un sort un niveau au-dessus de l'emplacement de sort utilisé. Par exemple, si vous lancez projectile magique au niveau 1, vous créez quatre projectiles, comme si vous aviez utilisé un emplacement de sort de niveau 2. De cette façon, vous pouvez lancer un sort à un niveau au-dessus de celui que vous êtes habituellement capable de lancer (mais jamais au-dessus du niveau 9).
+Dès le niveau 2, votre compréhension des principes fondamentaux de la magie vous permet d'utiliser votre canalisation d'énergie divine pour améliorer l'efficacité de vos sorts. Vous pouvez utiliser votre canalisation d'énergie divine pour lancer un sort un niveau au-dessus de l'emplacement de sort utilisé. Par exemple, si vous lancez [_projectile magique_](/grimoire/projectile-magique/) au niveau 1, vous créez quatre projectiles, comme si vous aviez utilisé un emplacement de sort de niveau 2. De cette façon, vous pouvez lancer un sort à un niveau au-dessus de celui que vous êtes habituellement capable de lancer (mais jamais au-dessus du niveau 9).
 
 #### Récupération de sorts
 À partir du niveau 6, votre capacité à inscrire vos prières et vos sorts dans un grimoire pour les réviser vous permet de récupérer partiellement votre magie. Une fois par jour, après avoir terminé un repos court, vous pouvez choisir des emplacements de sort à récupérer. La somme des niveaux récupérés doit être inférieure ou égale au bonus de maîtrise du personnage.
