@@ -117,9 +117,9 @@ Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées 
 Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les effets [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) et [_charmé_](/gerer-la-sante-du-personnage/#charme). Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
 
 ### Secrets magiques
-Au niveau 10, vous avez exploré de nombreuses disciplines magiques et en avez tiré des connaissances. Choisissez deux sorts de n'importe quelle classe –  y compris celle de barde – d'un niveau de sort que vous pouvez déjà utiliser, comme indiqué sur le tableau d'évolution du barde.
+Au niveau 10, vous avez exploré de nombreuses disciplines magiques et en avez tiré des connaissances. Choisissez deux sorts de n'importe quelle classe –  y compris celle de barde – d'un niveau de sort que vous pouvez déjà utiliser, comme indiqué sur le tableau d'[évolution du barde](#evolution-du-barde).
 
-Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde et sont comptabilisés dans le nombre de sorts connus indiqué dans la colonne du même nom dans le tableau d'évolution du barde.
+Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde et sont comptabilisés dans le nombre de sorts connus indiqué dans la colonne du même nom dans le tableau d'[évolution du barde](#evolution-du-barde).
 
 Vous pouvez apprendre de la même manière deux sorts supplémentaires de la classe de votre choix au niveau 14 et deux autres au niveau 18.
 
@@ -135,7 +135,7 @@ Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise
 Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un [jet d'attaque](/combattre/#jets-d-attaque), de dégâts ou un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le [jet d'attaque](/combattre/#jets-d-attaque) ou le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmé_](/gerer-la-sante-du-personnage/#charme).
 
 #### Secrets magiques supplémentaires
-Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d'évolution du barde.
+Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d'[évolution du barde](#evolution-du-barde).
 
 Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde mais ils ne sont pas comptabilisés parmi les sorts de barde que vous connaissez.
 
@@ -176,7 +176,7 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 #### Premier rôle
 Au niveau 3, vous choisissez une spécialité emblématique des troupes de spectacle itinérantes qui vous permet de prétendre à certaines compétences. Choisissez une formation parmi les quatre proposées.
 * **Bouffon** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme (Supercherie) et lorsque vous utilisez des accessoires de déguisement.
-* **Force de la nature** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Force (Athlétisme) et vous maîtrisez désormais les jets de sauvegarde de Force.
+* **Force de la nature** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Force (Athlétisme) et vous maîtrisez désormais les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force.
 * **Jongleur** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité (Acrobatie) et Dextérité (Escamotage).
 * **Voyante** : vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.
 

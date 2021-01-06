@@ -123,7 +123,7 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
 ### Âme de diamant
-À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les jets de sauvegarde.
+À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 De plus, quand vous faites un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
 
@@ -203,6 +203,6 @@ Au niveau 6, vous apprenez des techniques de projection vous permettant de retou
 Lorsque vous atteignez le niveau 11, vous avez endurci votre corps et appris à absorber l'énergie des coups, vous devenez résistant aux dégâts contondants. De plus, chaque blessure reçue renforce votre détermination. Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdre au moins 5 points de vie, vous récupérez 1 point de ki.
 
 #### Étreinte mortelle
-À partir du niveau 17, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'inconscience.
+À partir du niveau 17, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'[inconscience](/gerer-la-sante-du-personnage/#inconscient).
 
 Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.

@@ -4,7 +4,7 @@ type: "Fiélon"
 subtype: "Démon"
 size: "M"
 alignment: "Chaotique Mauvais"
-challenge: "5"
+challenge: "9"
 hitDiceCount: 12
 abilityScores:
   for: 14

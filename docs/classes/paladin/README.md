@@ -84,7 +84,7 @@ Quand une créature qui se trouve dans votre champ de vision attaque une cible a
 En arrivant au niveau 2, vous avez appris à puiser dans la magie divine grâce à vos méditations et vos prières, et vous êtes capable de lancer des sorts comme un clerc.
 
 ### Préparer et lancer des sorts
-Le tableau d'évolution du paladin vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de paladin, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
+Le tableau d'[évolution du paladin](#evolution-du-paladin) vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de paladin, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
 Choisissez dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Paladin' }}">sorts de paladin</router-link> des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de paladin égal à votre modificateur de Charisme + la moitié de votre niveau de paladin (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
@@ -123,7 +123,7 @@ Votre serment vous permet de canaliser l'énergie divine pour alimenter vos effe
 
 Quand vous utilisez une canalisation d'énergie divine, vous choisissez quel effet vous souhaitez produire. Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
 
-Certains effets de la canalisation d'énergie divine impliquent des jets de sauvegarde. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des jets de sauvegarde de vos sorts de paladin.
+Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de vos sorts de paladin.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -132,7 +132,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour.
 
 ### Aura de protection
-À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour que ce bonus soit pris en compte.
+À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), cette créature gagne un bonus à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour que ce bonus soit pris en compte.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
@@ -178,11 +178,11 @@ Vous avez accès aux sorts de paladins de la liste suivante.
 #### Canalisation d'énergie divine
 Quand vous prêtez serment au niveau 3, vous pouvez décliner votre aptitude canalisation d'énergie divine de deux façons différentes.
 
-**Arme sacrée**. Vous pouvez utiliser une action pour utiliser l'aptitude canalisation d'énergie divine et insuffler de l'énergie positive dans l'arme que vous tenez en main. Pendant 1 minute, vous ajoutez votre modificateur de Charisme aux jets d'attaque que vous faites avec cette arme (avec un bonus minimum de +1). Une lumière vive se dégage de l'arme dans un rayon de 6 mètres et s'atténue en lumière faible dans un rayon de 6 mètres supplémentaires. Si l'arme n'est pas déjà magique, elle le devient pour la durée de cet effet.
+**Arme sacrée**. Vous pouvez utiliser une action pour utiliser l'aptitude canalisation d'énergie divine et insuffler de l'énergie positive dans l'arme que vous tenez en main. Pendant 1 minute, vous ajoutez votre modificateur de Charisme aux [jets d'attaque](/combattre/#jets-d-attaque) que vous faites avec cette arme (avec un bonus minimum de +1). Une lumière vive se dégage de l'arme dans un rayon de 6 mètres et s'atténue en lumière faible dans un rayon de 6 mètres supplémentaires. Si l'arme n'est pas déjà magique, elle le devient pour la durée de cet effet.
 
 Vous pouvez terminer cet effet lors de votre tour dans le cadre d'une autre action. Si vous ne tenez plus l'arme ou que vous perdez conscience, l'effet prend fin.
 
-**Renvoi des impies**. Vous pouvez utiliser une action pour utiliser l'aptitude canalisation d'énergie divine et, en brandissant votre symbole sacré, prononcer une prière contre les fiélons et les morts-vivants. Dans un rayon de 9 mètres autour de vous, chaque fiélon et mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son jet de sauvegarde, elle est [_repoussée_](/gerer-la-sante-du-personnage/#repousse) pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+**Renvoi des impies**. Vous pouvez utiliser une action pour utiliser l'aptitude canalisation d'énergie divine et, en brandissant votre symbole sacré, prononcer une prière contre les fiélons et les morts-vivants. Dans un rayon de 9 mètres autour de vous, chaque fiélon et mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si une créature échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle est [_repoussée_](/gerer-la-sante-du-personnage/#repousse) pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
 #### Aura de dévotion
 À partir du niveau 7, vous et les créatures amicales qui se trouvent à 3 mètres de vous ne pouvez pas être [_charmés_](/gerer-la-sante-du-personnage/#charme). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
@@ -197,7 +197,7 @@ Au niveau 20, vous pouvez utiliser une action pour qu'une aura solaire se dégag
 
 Quand une créature ennemie commence son tour dans la lumière vive, elle subit 10 dégâts radiants.
 
-Pendant tout le temps que perdure ce halo, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde contre les sorts lancés par les fiélons et les morts-vivants.
+Pendant tout le temps que perdure ce halo, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts lancés par les fiélons et les morts-vivants.
 
 Après un usage de cette aptitude, vous devez terminer un repos long pour la recharger.
 
@@ -295,7 +295,7 @@ De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un [_av
 De plus, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son action pour attaquer.
 
 #### Parangon héroïque
-Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau prend la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau prend la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme ([jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
 ### Serment de piété
 #### Préceptes de piété
