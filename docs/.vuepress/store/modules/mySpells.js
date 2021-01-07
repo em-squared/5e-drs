@@ -7,6 +7,7 @@ export default {
   state: {
     spells: [],
     spellSlots: [],
+    spellCast: [],
     notPrintedSpells: []
   },
 
@@ -39,6 +40,20 @@ export default {
         }
         if (localStorageData.spellSlots) {
           state.spellSlots = localStorageData.spellSlots
+          for (let i = 0; i < state.spellSlots.length; i++) {
+            if (state.spellSlots[i] > 0) {
+              if (!state.spellCast[i]) {
+                state.spellCast[i] = new Array(Number(state.spellSlots[i]))
+              }
+              for (let j = 0; j < state.spellSlots[i]; j++) {
+                if (!state.spellCast[i][j]) {
+                  state.spellCast[i][j] = false
+                }
+              }
+            } else {
+              state.spellCast[i] = null
+            }
+          }
         }
         if (localStorageData.notPrintedSpells) {
           state.notPrintedSpells = localStorageData.notPrintedSpells
@@ -69,6 +84,23 @@ export default {
     },
     setSpellSlots: (state, payload) => {
       state.spellSlots = payload
+      for (let i = 0; i < state.spellSlots.length; i++) {
+        if (state.spellSlots[i] > 0) {
+          if (!state.spellCast[i]) {
+            state.spellCast[i] = new Array(Number(state.spellSlots[i]))
+          }
+          for (let j = 0; j < state.spellSlots[i]; j++) {
+            if (!state.spellCast[i][j]) {
+              state.spellCast[i][j] = false
+            }
+          }
+        } else {
+          state.spellCast[i] = null
+        }
+      }
+    },
+    setSpellCast: (state, payload) => {
+      state.spellCast = payload
     },
     setNotPrintedSpells: (state, payload) => {
       state.notPrintedSpells = payload

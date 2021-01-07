@@ -40,7 +40,7 @@
                   <div class="ml-md-12">
                     <div class="d-flex" v-if="spellSlots[group] > 0">
                       <div v-for="(slot, idx) in Number(spellSlots[group])" :key="idx">
-                        <v-checkbox dark hide-details class="spell-slot"></v-checkbox>
+                        <v-checkbox dark hide-details class="spell-slot" v-model="spellCast[group][idx]"></v-checkbox>
                       </div>
                     </div>
                   </div>
@@ -152,7 +152,15 @@ export default {
         return this.$store.state.mySpells.spellSlots
       },
       set (value) {
-        this.$store.commit('mySpells/setSpells', value)
+        this.$store.commit('mySpells/setSpellSlots', value)
+      }
+    },
+    spellCast: {
+      get () {
+        return this.$store.state.mySpells.spellCast
+      },
+      set (value) {
+        this.$store.commit('mySpells/setSpellCast', value)
       }
     }
   },
@@ -167,6 +175,10 @@ export default {
     },
     onInputSpellSlots () {
       this.$store.commit('mySpells/setSpellSlots', this.spellSlots)
+    },
+    onInputSpellCast (level, idx, value) {
+      this.spellCast[level][idx] = value
+      this.$store.commit('mySpells/setSpellCast', this.spellCast)
     },
     hasSpellOfLevel (level) {
       for (let spell of this.spells) {
