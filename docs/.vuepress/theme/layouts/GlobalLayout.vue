@@ -130,7 +130,9 @@ export default {
 
     // Variante 5 royaumes pour les monstres
     const L5R = Cookies.get('heros-et-dragons-l5r')
-    this.$store.state.l5r = L5R
+    if (L5R === 'true') {
+      this.$store.state.l5r = true
+    }
 
     // Chargement des donées utilisateur depuis le navigateur
     this.$store.commit('mySpells/initialiseStore')
