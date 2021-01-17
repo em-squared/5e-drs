@@ -11,6 +11,59 @@
 
     <h1>Grimoire</h1>
 
+    <div><strong>Colonnes affichées :</strong></div>
+    <div class="columns-toggles d-flex mb-2">
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.school"
+        label="École"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.castingTime"
+        label="Temps d'incantation"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.duration"
+        label="Durée"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.concentration"
+        label="Concentration"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.ritual"
+        label="Rituel"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.components"
+        label="Composantes"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.description"
+        label="Description"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+    </div>
+
     <div class="active-filters mb-2">
       <div class="classes-filter mb-1" v-if="selectedClasses.length > 0">
         <strong>Classes</strong> : <v-chip class="mr-1" v-for="(c, idx) in selectedClasses">{{ c }}</v-chip>
@@ -96,9 +149,9 @@
         </template>
       </template>
 
-      <!-- <template v-slot:item.frontmatter.classes="{ item }">
-        <span v-for="(c, idx) in item.frontmatter.classes" :key="idx">{{c}}<template v-if="idx != item.frontmatter.classes.length-1">, </template></span>
-      </template> -->
+      <template v-slot:item.frontmatter.description="{ item }">
+        <div v-html="item.frontmatter.description"></div>
+      </template>
 
     </v-data-table>
 
@@ -120,6 +173,7 @@ import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import { isResourceInLibrary } from '@theme/util'
 import Spell from '@theme/components/Spell'
 import MySpellsButton from '@theme/global-components/MySpellsButton'
+import Cookies from 'js-cookie'
 
 export default {
   components: { Breadcrumb, Spell, MySpellsButton },
@@ -137,18 +191,27 @@ export default {
       ],
       page: 1,
       pageCount: 0,
-      headers: [
-        { text: "", align: 'center', sortable: false, value: 'isInSpellBook' },
-        { text: "Nom", align: 'start', sortable: true, value: 'title' },
-        { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' },
-        { text: "École", align: 'start', sortable: false, value: 'frontmatter.school' },
-        { text: "Temps d'incantation", align: 'start', sortable: false, value: 'frontmatter.casting_time' },
-        { text: "Durée", align: 'start', sortable: false, value: 'frontmatter.duration' },
-        { text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' },
-        { text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' },
-        { text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' },
-        // { text: "Classes", align: 'start', sortable: false, value: 'frontmatter.classes' }
-      ],
+      // headers: [
+      //   { text: "", align: 'center', sortable: false, value: 'isInSpellBook' },
+      //   { text: "Nom", align: 'start', sortable: true, value: 'title' },
+      //   { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' },
+      //   { text: "École", align: 'start', sortable: false, value: 'frontmatter.school' },
+      //   { text: "Temps d'incantation", align: 'start', sortable: false, value: 'frontmatter.casting_time' },
+      //   { text: "Durée", align: 'start', sortable: false, value: 'frontmatter.duration' },
+      //   { text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' },
+      //   { text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' },
+      //   { text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' },
+      //   { text: "Description", align: 'start', sortable: false, value: 'frontmatter.description' },
+      // ],
+      showColumn: {
+        school: true,
+        castingTime: true,
+        duration: true,
+        concentration: true,
+        ritual: true,
+        components: true,
+        description: false,
+      }
     }
   },
 
@@ -164,6 +227,36 @@ export default {
       componentSomatic: state => state.spellFilters.componentSomatic,
       componentMaterial: state => state.spellFilters.componentMaterial,
     }),
+
+    headers() {
+      let headers = [
+        { text: "", align: 'center', sortable: false, value: 'isInSpellBook' },
+        { text: "Nom", align: 'start', sortable: true, value: 'title' },
+        { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' }
+      ]
+      if (this.showColumn.school) {
+        headers.push({ text: "École", align: 'start', sortable: false, value: 'frontmatter.school' })
+      }
+      if (this.showColumn.castingTime) {
+        headers.push({ text: "Temps d'incantation", align: 'start', sortable: false, value: 'frontmatter.casting_time' })
+      }
+      if (this.showColumn.duration) {
+        headers.push({ text: "Durée", align: 'start', sortable: false, value: 'frontmatter.duration' })
+      }
+      if (this.showColumn.concentration) {
+        headers.push({ text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' })
+      }
+      if (this.showColumn.ritual) {
+        headers.push({ text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' })
+      }
+      if (this.showColumn.components) {
+        headers.push({ text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' })
+      }
+      if (this.showColumn.description) {
+        headers.push({ text: "Description", align: 'start', sortable: false, value: 'frontmatter.description' })
+      }
+      return headers
+    },
 
     selectedClasses() {
       let result = []
@@ -341,6 +434,10 @@ export default {
       }
       return level.level.toString() + '<sup>ème</sup>'
     },
+
+    setShowColumn () {
+      Cookies.set('heros-et-dragons-grimoire-colonnes', this.showColumn)
+    },
   },
 
   mounted () {
@@ -356,6 +453,12 @@ export default {
     let page = parseInt(getUrlParameter(window.location.href, "page"))
     if (page) {
       this.page = page
+    }
+
+    // Choix des colonnes à afficher
+    const showColumn = Cookies.get('heros-et-dragons-grimoire-colonnes')
+    if (showColumn) {
+      this.showColumn = JSON.parse(showColumn)
     }
   }
 }
