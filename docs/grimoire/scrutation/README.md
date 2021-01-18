@@ -1,6 +1,6 @@
 ---
 title: "Scrutation"
-description: ""
+description: "Permet d'observer et d'écouter la cible à distance, à l'insu de la cible."
 school: "Divination"
 level: 5
 concentration: true

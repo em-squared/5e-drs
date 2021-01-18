@@ -1,6 +1,6 @@
 ---
 title: "Assistance"
-description: "La cible peut ajouter 1d4 à un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique)."
+description: "La cible peut ajouter 1d4 à un test de caractéristique."
 school: "Divination"
 level: 0
 concentration: true
