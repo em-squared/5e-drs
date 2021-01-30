@@ -10,7 +10,7 @@
 
     <Navbar class="d-print-none" />
 
-    <v-content>
+    <v-main>
       <v-container fluid ref="container">
         <v-row align="start" justify="center">
           <v-col cols="12">
@@ -30,7 +30,7 @@
           <v-icon class="d-print-none">mdi-chevron-up</v-icon>
         </v-btn>
     </v-fab-transition>
-    </v-content>
+  </v-main>
 
     <v-bottom-sheet v-model="cookieConsentDialog" hide-overlay>
       <v-sheet class="" tile>

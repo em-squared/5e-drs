@@ -128,7 +128,8 @@ _le 25 mai 2020_
 ### Communauté
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Héros & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115)  
-<v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/24BfHYVz), pour discuter du jeu, de ses règles et organiser des parties.  
+<v-icon>mdi-discord</v-icon> [Discord Héros & Dragons Non Officiel](https://discord.gg/KMZkEQhe8a), pour discuter du jeu, de ses règles et organiser des parties.  
+<v-icon>mdi-email</v-icon> [Scribes & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115), une newsletter hebdomadaire diffusant du contenu pour Héros & Dragons et la 5e en général, portée par @Tibo.  
 
 ### Application Haches & Dés de @Nioux
 &nbsp;

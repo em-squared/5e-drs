@@ -199,7 +199,7 @@ module.exports = {
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
-    discordHDNO: 'https://discord.gg/MntFXr',
+    discordHDNO: 'https://discord.gg/KMZkEQhe8a',
     primaryColor: '#563f5a', // Hero
     accentColor: '#9b1c47', // Dragon
     searchPlaceholder: 'Recherche',
