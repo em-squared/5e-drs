@@ -154,7 +154,7 @@ export default {
 
   methods: {
     setCookieConsent () {
-      Cookies.set('heros-et-dragons-cookies', 'compris')
+      Cookies.set('heros-et-dragons-cookies', 'compris', { expires: 365 })
       this.cookieConsentDialog = false
     },
 

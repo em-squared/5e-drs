@@ -436,7 +436,7 @@ export default {
     },
 
     setShowColumn () {
-      Cookies.set('heros-et-dragons-grimoire-colonnes', this.showColumn)
+      Cookies.set('heros-et-dragons-grimoire-colonnes', this.showColumn, { expires: 365 })
     },
   },
 

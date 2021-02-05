@@ -109,7 +109,7 @@ export default new Vuex.Store({
     setIsThemeDark: (state, payload) => {
       state.isThemeDark = payload
       // console.log(payload)
-      Cookies.set('heros-et-dragons-is-dark', state.isThemeDark)
+      Cookies.set('heros-et-dragons-is-dark', state.isThemeDark, { expires: 365 })
     },
     setIsOpenAboutDialog: (state, payload) => {
       state.isOpenAboutDialog = payload
@@ -136,7 +136,7 @@ export default new Vuex.Store({
     },
     setL5r: (state, payload) => {
       state.l5r = payload
-      Cookies.set('heros-et-dragons-l5r', state.l5r)
+      Cookies.set('heros-et-dragons-l5r', state.l5r, { expires: 365 })
     }
   },
 })
