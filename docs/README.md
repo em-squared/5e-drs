@@ -12,6 +12,22 @@ toc: false
 
 Bienvenue sur le site Document de Référence Système pour _**Héros & Dragons**_ !
 
+## La fin d'une ère
+Chers rôlistes,
+
+Vous l'aurez remarqué, _**Héros & Dragons**_ est en pleine tourmente. Aussi, les livres seront retirés de la vente dès le 28 février 2021. Malgré le respect strict de l'Opoen Game License, H&D DRS utilise les mêmes textes que ceux contenus dans les livres _**Héros & Dragons**_. Si ces textes sont sujet à litige par différentes parties, alors le site est également concerné.
+
+De fait, pour ne pas naviguer dans des eaux troubles infestées de requins, et respecter au mieux chaque partie, **le site H&D DRS fermera ses portes ce 28 février 2021 au plus tard**.
+
+Vous comprendrez que cette décision me peine à la hauteur du temps que j'ai consacré à bâtir ce site. Je suis vraiment désolé, je sais que vous êtes un certain nombre à utiliser ce site régulièrement. Je tiens à remercier chaleureusement toutes les personnes qui m'ont soutenu, encouragé et prêté main forte.
+
+À cette heure, je n'ai aucune vision quant à ce que sera l'avenir de ce site à moyen terme. Une chose est sûre, heros-et-dragons.fr ne sera plus.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 5 février 2021_
+§§§
+
 ## Nouvel archétype de druide
 La _gazette Role'n Play #4_ est sortie et un nouvel archétype de druide avec ça ! Vous trouverez donc le [druide du cercle des Châtiments](/classes/druide/#cercle-des-chatiments) qui prend le contre-pied du [druide du cercle de la vie](/classes/druide/#cercle-de-la-vie).
 
