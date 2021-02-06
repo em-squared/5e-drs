@@ -152,7 +152,7 @@
     <Content v-if="!monster.custom" :pageKey="monster.key" class="mt-4" />
     <div v-else v-html="md.render(monster.content)" class="mt-4"></div>
 
-    <p v-if="$page.frontmatter.source" class="source">Source : <em>{{ monsterStats.source }}</em><template v-if="monsterStats.source_page">, page {{ monsterStats.source_page }}</template></p>
+    <!-- <p v-if="$page.frontmatter.source" class="source">Source : <em>{{ monsterStats.source }}</em><template v-if="monsterStats.source_page">, page {{ monsterStats.source_page }}</template></p> -->
     <p v-if="monster.author" class="source">Auteur : <em>{{ monster.author }}</em></p>
 
   </main>

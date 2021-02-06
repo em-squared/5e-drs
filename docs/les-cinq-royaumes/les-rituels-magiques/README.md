@@ -18,7 +18,7 @@ Malgré la présence d'assistants, c'est toujours l'invocateur qui effectue les 
 Avoir plus d'assistants que nécessaire ne change rien au rituel.
 
 #### Résister au rituel
-Comme pour tout sort de _**Héros & Dragons**_, on peut parfois résister à un rituel. Certains impliquent que la cible (ou les cibles) effectue un jet de sauvegarde. Le DD de ce jet de sauvegarde dépend du rituel, comme indiqué à la section [_Créer son rituel_](#creer-son-rituel).
+Comme pour tout sort des règles de base, on peut parfois résister à un rituel. Certains impliquent que la cible (ou les cibles) effectue un jet de sauvegarde. Le DD de ce jet de sauvegarde dépend du rituel, comme indiqué à la section [_Créer son rituel_](#creer-son-rituel).
 
 #### Composantes
 Tous les rituels, ou presque, nécessitent l'utilisation de diverses composantes. Elles peuvent être verbales, gestuelles ou matérielles. Certains impliquent l'utilisation d'un focaliseur spécifique (comme une baguette, une branche d'un arbre spécifique, un cristal, des crânes ensanglantés, un chaudron de bronze fabriqué par un maître artisan faërique, une épée ayant appartenu à un héros du passé, une structure architecturale ou un lieu spécifique, etc.). La différence entre un focaliseur et une composante est que le focaliseur n'est pas détruit lors du rituel. Il peut cependant être vidé de sa puissance pour les rituels les plus puissants (comme un rituel permettant de faire revenir à la vie par exemple, ou dont vous, MJ, désirez limiter l'utilisation). Une fois l'objet vidé de son pouvoir, il ne peut plus être utilisé lors d'un rituel, à moins que les PJ aient le moyen de lui faire retrouver sa puissance perdue. Et cela devrait être, en soi, le sujet d'une aventure !
@@ -37,7 +37,7 @@ La magie corrompt l'âme autant que le corps. Trop y recourir affecte petit à p
 
 ## Créer son rituel
 ### Domaines de magie
-Afin de simplifier ce système de magie et sa formalisation, nous utilisons les écoles de magies de _**Héros & Dragons**_ et les renommons « domaines ». Consultez la [section dédiée](/lancer-des-sorts/#les-ecoles-de-magie) pour plus d'informations sur ce que recouvrent ces écoles.
+Afin de simplifier ce système de magie et sa formalisation, nous utilisons les écoles de magies des règles de base et les renommons « domaines ». Consultez la [section dédiée](/lancer-des-sorts/#les-ecoles-de-magie) pour plus d'informations sur ce que recouvrent ces écoles.
 
 #### Étape 1 : déterminer le domaine et le degré de difficulté de base
 La première chose à faire est de décider à quel domaine votre rituel est rattaché. Ce domaine fixe le degré de difficulté (DD) de base de tous les tests de compétence à réaliser dans le cadre du rituel. Ce dernier pourra être modifié lors de l'étape 2.

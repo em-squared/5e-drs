@@ -15,7 +15,7 @@
 
       <v-divider class="mt-3" />
 
-      <p v-if="monster.frontmatter.source" class="source">Source : <em>{{ monster.frontmatter.source }}</em></p>
+      <!-- <p v-if="monster.frontmatter.source" class="source">Source : <em>{{ monster.frontmatter.source }}</em></p> -->
     </v-card-text>
   </v-card>
 </template>

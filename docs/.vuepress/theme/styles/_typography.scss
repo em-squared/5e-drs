@@ -13,15 +13,70 @@
   font-style: normal;
 }
 
+$srd-font-family: "srd" !default;
+$srd-font-path: "/fonts" !default;
+
+$icon-bookmark: "\e900";
+
+@font-face {
+  font-family: '#{$srd-font-family}';
+  src:  url('#{$srd-font-path}/#{$srd-font-family}.eot?u95p4y');
+  src:  url('#{$srd-font-path}/#{$srd-font-family}.eot?u95p4y#iefix') format('embedded-opentype'),
+    url('#{$srd-font-path}/#{$srd-font-family}.ttf?u95p4y') format('truetype'),
+    url('#{$srd-font-path}/#{$srd-font-family}.woff?u95p4y') format('woff'),
+    url('#{$srd-font-path}/#{$srd-font-family}.svg?u95p4y##{$srd-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$srd-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bookmark {
+  &:before {
+    content: $icon-bookmark;
+  }
+}
+
 .home-logo {
-  max-width: 300px;
-  width: 100%;
+  font-size: 20rem;
+  color: $color-gold;
+  display: block;
+  margin: 1rem;
+}
+.breadcrumb-logo {
+  color: $color-gold;
+}
+.brand-logo {
+  font-size: 2rem;
+}
+.sidebar-logo {
+  color: $color-hero;
+  font-size: 2rem;
+}
+.theme--dark {
+  .sidebar-logo {
+    color: $color-gold;
+  }
 }
 
 .srd {
   .content {
     a {
-      //color: #9b1c47;
+      //color: #4c6477;
     }
   }
 }

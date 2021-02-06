@@ -4,7 +4,7 @@
       <template v-slot:item="{ item }">
         <v-breadcrumbs-item :to="item.to" :exact="true" :disabled="item.disabled">
           <template v-if="item.to == '/'">
-            <img src="/dragon_rouge.svg" />
+            <span class="icon-bookmark breadcrumb-logo"></span>
           </template>
           <template v-else>
             {{ item.text }}
@@ -12,7 +12,9 @@
         </v-breadcrumbs-item>
       </template>
     </v-breadcrumbs>
-    <v-row v-else justify="center"><img class="d-block home-logo" src="/dragon_rouge.svg" /></v-row>
+    <v-row v-else justify="center">
+      <span class="icon-bookmark home-logo"></span>
+    </v-row>
   </div>
 </template>
 

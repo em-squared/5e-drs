@@ -36,12 +36,12 @@ export default ({
       },
       themes: {
         light: {
-          primary: '#9b1c47', // Dragons
+          primary: '#4c6477', // Dragons
           navbar: '#435a3f', // Héros
           accent: '#435a3f', // Héros
         },
         dark: {
-          primary: '#c38dcc', // Héros
+          primary: '#4c6477', // Dragons
           navbar: '#435a3f', // Héros
           accent: '#e02867', // Dragons
         }

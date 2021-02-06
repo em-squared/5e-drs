@@ -45,7 +45,7 @@
           <template>{{ spell.frontmatter.customClasses }}</template>
         </template>
       </div>
-      <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p>
+      <!-- <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p> -->
     </v-card-text>
   </v-card>
 </template>

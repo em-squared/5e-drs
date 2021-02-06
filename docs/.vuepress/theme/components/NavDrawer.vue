@@ -4,7 +4,7 @@
       <v-list dense nav>
         <v-list-item class="hidden-md-and-up site-title" link :to="{path: '/'}">
           <v-list-item-avatar>
-            <img :src="$vuetify.theme.dark ? '/dragon_blanc.svg' : '/dragon_pourpre.svg'">
+            <span class="icon-bookmark sidebar-logo"></span>
           </v-list-item-avatar>
 
           <v-list-item-content>
@@ -106,7 +106,7 @@
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>
-                Discord H&D Non Officiel
+                Discord Communautaire
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -116,7 +116,7 @@
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>
-                Discord H&D DRS
+                Discord 5E DRS
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -168,32 +168,6 @@
       </template>
     </v-navigation-drawer>
 
-    <v-dialog v-model="isOpenAboutDialog" @click:outside="toggleAboutDialog" max-width="600">
-      <v-card>
-        <v-card-title class="headline">À propos de H&D DRS</v-card-title>
-
-        <v-card-text>
-          <p class="title-2">
-            <strong>La personne derrière ce site</strong><br>
-            Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.<br>
-            Développeur web passionné de jeux de rôle, j'aime mettre l'un au service de l'autre.<br>
-            Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE" target="_blank">GPLv3</a>.
-          </p>
-          <p>Vous souhaitez participer aux frais d'hébergement ou m'encourager ?</p>
-          <p class="text-center">
-            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou au développeur</v-btn>
-          </p>
-          <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l'<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
-          <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
-          <p>Casus Belli et Black Book Éditions sont des marques déposées par <a href="https://www.black-book-editions.fr/" target="_blank">Black Book Éditions</a>. Tous droits réservés.</p>
-        </v-card-text>
-
-        <v-card-actions>
-          <v-btn color="primary" text @click="toggleAboutDialog">Fermer</v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-dialog>
-
     <v-dialog v-model="isOpenSupportDialog" @click:outside="toggleSupportDialog" max-width="600">
       <v-card>
         <v-card-title class="headline d-flex justify-space-between">
@@ -234,9 +208,6 @@ export default {
       set (newValue) {
         this.$store.commit('setDrawer', newValue)
       }
-    },
-    isOpenAboutDialog () {
-      return this.$store.state.isOpenAboutDialog
     },
     isOpenSupportDialog () {
       return this.$store.state.isOpenSupportDialog
@@ -280,9 +251,6 @@ export default {
         return true
       }
       return false
-    },
-    toggleAboutDialog () {
-      this.$store.commit('setIsOpenAboutDialog', !this.$store.state.isOpenAboutDialog)
     },
     toggleSupportDialog () {
       this.$store.commit('setIsOpenSupportDialog', !this.$store.state.isOpenSupportDialog)

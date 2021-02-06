@@ -30,7 +30,6 @@ export default new Vuex.Store({
     hasRightDrawer: false,
     inRightDrawer: null,
     isThemeDark: false,
-    isOpenAboutDialog: false,
     isOpenSupportDialog: false,
     isOpenShareHomebrewDialog: false,
     shareURI: '',
@@ -46,7 +45,6 @@ export default new Vuex.Store({
     hasRightDrawer: state => state.hasRightDrawer,
     inRightDrawer: state => state.inRightDrawer,
     isThemeDark: state => state.isThemeDark,
-    isOpenAboutDialog: state => state.isOpenAboutDialog,
     isOpenSupportDialog: state => state.isOpenSupportDialog,
     isOpenShareHomebrewDialog: state => state.isOpenShareHomebrewDialog,
     shareURI: state => state.shareURI,
@@ -72,9 +70,6 @@ export default new Vuex.Store({
     },
     isThemeDark: ({ commit }, payload) => {
       commit('setIsThemeDark', payload)
-    },
-    isOpenAboutDialog: ({ commit }, payload) => {
-      commit('setIsOpenAboutDialog', payload)
     },
     isOpenSupportDialog: ({ commit }, payload) => {
       commit('setIsOpenSupportDialog', payload)
@@ -109,10 +104,7 @@ export default new Vuex.Store({
     setIsThemeDark: (state, payload) => {
       state.isThemeDark = payload
       // console.log(payload)
-      Cookies.set('heros-et-dragons-is-dark', state.isThemeDark, { expires: 365 })
-    },
-    setIsOpenAboutDialog: (state, payload) => {
-      state.isOpenAboutDialog = payload
+      Cookies.set('5e-drs-is-dark', state.isThemeDark, { expires: 365 })
     },
     setIsOpenSupportDialog: (state, payload) => {
       state.isOpenSupportDialog = payload
@@ -136,7 +128,7 @@ export default new Vuex.Store({
     },
     setL5r: (state, payload) => {
       state.l5r = payload
-      Cookies.set('heros-et-dragons-l5r', state.l5r, { expires: 365 })
+      Cookies.set('5e-drs-l5r', state.l5r, { expires: 365 })
     }
   },
 })

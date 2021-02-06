@@ -106,9 +106,8 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 ### Personnaliser votre historique
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage/#_2-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
 
-### Les historiques de Héros & Dragons
+### Les historiques
 
-Voici la liste des historiques proposés dans _**Héros & Dragons**_.
 §§§ .column-count-3
 * [Brigand](/personnalite-et-historique/brigand/)
  * [Bandit de grand chemin](/personnalite-et-historique/brigand/#variante-bandit-de-grand-chemin)

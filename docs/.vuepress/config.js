@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Héros & Dragons DRS',
-  description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
+  title: '5E DRS',
+  description: 'Document de Référence Système pour jeux de rôle en OGL 5E',
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
     ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],
@@ -86,7 +86,7 @@ module.exports = {
     [
       'sitemap',
       {
-        hostname: 'https://heros-et-dragons.fr'
+        hostname: 'https://5e-drs.fr'
       }
     ],
     // [
@@ -194,14 +194,14 @@ module.exports = {
     }
   ],
   themeConfig: {
-    domain: 'https://heros-et-dragons.fr',
-    repository: 'https://github.com/em-squared/heros-et-dragons-drs',
+    domain: 'https://5e-drs.fr',
+    repository: 'https://github.com/em-squared/5e-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
     discordHDNO: 'https://discord.gg/KMZkEQhe8a',
     primaryColor: '#435a3f', // Hero
-    accentColor: '#9b1c47', // Dragon
+    accentColor: '#4c6477', // Dragon
     searchPlaceholder: 'Recherche',
     nav: [
       { text: 'Home', link: '/' },

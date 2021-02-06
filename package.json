@@ -1,7 +1,7 @@
 {
-  "name": "heros-et-dragons-drs",
+  "name": "drs-5e",
   "version": "1.0.0",
-  "description": "Document de Référence Système pour Héros & Dragons",
+  "description": "Document de Référence Système pour jeux de rôle en OGL 5E",
   "author": "Maxime Moraine",
   "license": "MIT",
   "scripts": {

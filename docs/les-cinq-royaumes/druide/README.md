@@ -30,7 +30,7 @@ title: Druide des cinq royaumes
 §§§
 
 ## Aptitudes de classe
-Comme le [druide](/classes/druide/) du livre de règles de _**Héros & Dragons**_. Cependant, les aptitudes liées au lancement de sorts ont disparu.
+Comme le [druide](/classes/druide/) des règles de base. Cependant, les aptitudes liées au lancement de sorts ont disparu.
 
 ### Gardien des traditions
 Vous connaissez les secrets de votre ordre. Vous êtes capable de véritables prouesses et savez canaliser la magie du monde, de la nature et des esprits. Vous connaissez d'anciens rites enseignés il y a longtemps par les dieux primordiaux, les aspects de la nature et même les premières faës. Au premier niveau, choisissez un secret parmi les secrets proposés plus bas.
@@ -136,7 +136,7 @@ Dans les cinq royaumes, l'aptitude [forme sauvage](/classes/druide/#forme-sauvag
 Dans les cinq royaumes, l'aptitude [archidruide](/classes/druide/#archidruide) est légèrement modifiée dans son fonctionnement. L'aptitude permettant d'ignorer les composantes verbales, somatiques et matérielles devient obsolète. À la place, tous les pouvoirs issus de l'aptitude Gardien des traditions peuvent désormais être lancés entre deux repos courts.
 
 ## Cercles druidiques
-Tous les [cercles](/classes/druide/#cercle-druidique) issus du livre de base de _**Héros & Dragons**_ sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
+Tous les [cercles](/classes/druide/#cercle-druidique) issus des règles de base sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
 
 ### Cercle des fées
 Le fonctionnement de ce cercle reste peu ou prou le même. Mais au vu du mystère qui tourne autour de la disparition des faës et de leur monde, certaines choses changent :

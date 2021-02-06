@@ -14,7 +14,7 @@
     <Content v-if="!magicItem.custom" :pageKey="magicItem.key" class="mt-4" />
     <div v-else v-html="md.render(magicItem.content)" class="mt-4"></div>
 
-    <p v-if="$page.frontmatter.source" class="source">Source : <em>{{ $page.frontmatter.source }}</em></p>
+    <!-- <p v-if="$page.frontmatter.source" class="source">Source : <em>{{ $page.frontmatter.source }}</em></p> -->
     <p v-if="magicItem.author" class="source">Auteur : <em>{{ magicItem.author }}</em></p>
 
   </main>

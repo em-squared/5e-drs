@@ -117,19 +117,19 @@ export default {
     this.$store.commit('setDrawer', this.$vuetify.breakpoint.lgAndUp)
 
     // Cookie consent
-    const COOKIECONSENT = Cookies.get('heros-et-dragons-cookies')
+    const COOKIECONSENT = Cookies.get('5e-drs-cookies')
     if (COOKIECONSENT == 'compris') {
       this.cookieConsentDialog = false
     }
 
     // Dark theme
-    const THEMEISDARK = Cookies.get('heros-et-dragons-is-dark')
+    const THEMEISDARK = Cookies.get('5e-drs-is-dark')
     if (THEMEISDARK === 'true') {
       this.$vuetify.theme.dark = true
     }
 
     // Variante 5 royaumes pour les monstres
-    const L5R = Cookies.get('heros-et-dragons-l5r')
+    const L5R = Cookies.get('5e-drs-l5r')
     if (L5R === 'true') {
       this.$store.state.l5r = true
     }
@@ -154,7 +154,7 @@ export default {
 
   methods: {
     setCookieConsent () {
-      Cookies.set('heros-et-dragons-cookies', 'compris', { expires: 365 })
+      Cookies.set('5e-drs-cookies', 'compris', { expires: 365 })
       this.cookieConsentDialog = false
     },
 

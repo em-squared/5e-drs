@@ -30,7 +30,7 @@ title: Barde des cinq royaumes
 §§§
 
 ## Aptitudes de classe
-Comme le [barde](/classes/barde/) du livre de règles de _**Héros & Dragons**_. Cependant, les aptitudes liées au lancement de sorts ont disparu.
+Comme le [barde](/classes/barde/) de base. Cependant, les aptitudes liées au lancement de sorts ont disparu.
 
 ### Maître des ombres
 Vous savez passer inaperçu. Vous pouvez passer 10 minutes avec du matériel de déguisement afin d'obtenir les effets du sort [_déguisement_](/grimoire/deguisement/). Votre déguisement est si efficace qu'il est presque impossible de le percer à jour. Pourtant, il ne s'agit que d'un déguisement. Vous devez attendre d'avoir effectué un repos long avant d'utiliser à nouveau cette capacité.
@@ -75,7 +75,7 @@ Vous devez effectuer un repos long entre deux utilisations de l'une ou l'autre d
 Au niveau 18, vous devez désormais effectuer un simple repos court entre deux utilisations de l'une ou l'autre de ces capacités.
 
 ## Collèges de bardes
-Tous les [collèges](/classes/barde/#college-bardique) issus du livre de base de _**Héros & Dragons**_ sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
+Tous les [collèges](/classes/barde/#college-bardique) issus des règles de base sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
 
 ### Collège du savoir
 La capacité [_secrets magiques supplémentaires_](/classes/barde/#secrets-magiques-supplementaires) est remplacée par _maître espion aguerri_. Choisissez deux compétences ou outils supplémentaires dans la liste de maître espion et appliquez-leur cette dernière aptitude. Lorsque vous arrivez au niveau 10 et que vous obtenez la capacité [Maître espion](#maitre-espion), choisissez les compétences et outils normalement.

@@ -2,7 +2,7 @@
   <v-app-bar :clipped-left="$vuetify.breakpoint.lgAndUp" :clipped-right="$vuetify.breakpoint.lgAndUp" :hide-on-scroll="$vuetify.breakpoint.mdAndDown" scroll-threshold="60" app color="#435a3f" dark>
     <v-app-bar-nav-icon @click.stop="setDrawer" />
     <v-toolbar-title class="ml-0 mr-4 pl-4">
-      <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }"><img src="/dragon_blanc.svg" />&nbsp;{{ $site.title }}</v-btn>
+      <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }"><span class="icon-bookmark brand-logo"></span>&nbsp;{{ $site.title }}</v-btn>
     </v-toolbar-title>
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <v-spacer class="hidden-sm-and-down" />

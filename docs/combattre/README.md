@@ -194,7 +194,7 @@ De la même manière, quand vous choisissez l'action _se tenir prêt_ avec un so
 Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action [_attaquer_](/combattre/#attaquer). Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action _utiliser un objet_. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
 
 ### Autre chose ?
-Dans _**Héros & Dragons**_, la seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
+La seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
 
 ## Porter une attaque
 Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distance ou que vous fassiez un [jet d'attaque](/combattre/#jets-d-attaque) dans le cadre d'un sort, cette attaque se décompose ainsi :

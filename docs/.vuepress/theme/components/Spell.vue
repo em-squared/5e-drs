@@ -32,7 +32,7 @@
     </template>
     <div v-else v-html="spell.frontmatter.description" class="mt-4"></div>
 
-    <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p>
+    <!-- <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p> -->
     <p v-if="spell.author" class="source">Auteur : <em>{{ spell.author }}</em></p>
 
   </main>

@@ -1,13 +1,13 @@
 {
   "dir" : "ltr",
   "lang" : "fr",
-  "name" : "Héros & Dragons DRS",
+  "name" : "5E DRS",
   "scope" : "/",
   "display" : "standalone",
   "start_url" : "/index.html",
-  "short_name" : "H&D DRS",
+  "short_name" : "5E DRS",
   "theme_color" : "#435a3f",
-  "description" : "Document de référence système pour le jeu de rôle Héros & Dragons",
+  "description" : "Document de référence système pour jeux de rôle en OGL 5E",
   "orientation" : "any",
   "background_color" : "#ffffff",
   "icons" : [

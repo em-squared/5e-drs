@@ -436,7 +436,7 @@ export default {
     },
 
     setShowColumn () {
-      Cookies.set('heros-et-dragons-grimoire-colonnes', this.showColumn, { expires: 365 })
+      Cookies.set('5e-drs-grimoire-colonnes', this.showColumn, { expires: 365 })
     },
   },
 
@@ -456,7 +456,7 @@ export default {
     }
 
     // Choix des colonnes à afficher
-    const showColumn = Cookies.get('heros-et-dragons-grimoire-colonnes')
+    const showColumn = Cookies.get('5e-drs-grimoire-colonnes')
     if (showColumn) {
       this.showColumn = JSON.parse(showColumn)
     }
