@@ -6,7 +6,7 @@
   "display" : "standalone",
   "start_url" : "/index.html",
   "short_name" : "H&D DRS",
-  "theme_color" : "#563f5a",
+  "theme_color" : "#435a3f",
   "description" : "Document de référence système pour le jeu de rôle Héros & Dragons",
   "orientation" : "any",
   "background_color" : "#ffffff",
