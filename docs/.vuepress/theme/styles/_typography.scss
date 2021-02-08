@@ -51,11 +51,37 @@ $icon-bookmark: "\e900";
   }
 }
 
+@keyframes gold-pulse {
+  0% {
+    color: $color-gold-light;
+  }
+  50% {
+    color: $color-gold-dark;
+  }
+  100% {
+    color: $color-gold-light;
+  }
+}
+@keyframes gold-pulse-background {
+  0% {
+    background-color: $color-gold;
+  }
+  50% {
+    background-color: darken($color-gold, 20);
+  }
+  100% {
+    background-color: $color-gold;
+  }
+}
+
 .home-logo {
   font-size: 20rem;
   color: $color-gold;
   display: block;
   margin: 1rem;
+  animation-name: gold-pulse;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
 }
 .breadcrumb-logo {
   color: $color-gold;
@@ -71,6 +97,18 @@ $icon-bookmark: "\e900";
   .sidebar-logo {
     color: $color-gold;
   }
+}
+.glowing-gold {
+  color: $color-gold;
+  animation-name: gold-pulse;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+.glowing-gold-background {
+  background-color: $color-gold;
+  animation-name: gold-pulse-background;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 .srd {

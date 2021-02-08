@@ -100,7 +100,7 @@ Vous pouvez lancer un sort de magicien que vous connaissez sous la forme d'un ri
 Vous pouvez utiliser un [focaliseur arcanique](/equipement-d-aventurier/#focaliseur-arcanique) comme focaliseur d'incantation pour vos sorts de magicien.
 
 ### Apprendre des sorts de niveau 1 et supérieur
-Chaque fois que vous gagnez un niveau dans la classe de magicien, vous pouvez ajouter gratuitement deux sorts de magicien de votre choix dans votre grimoire. Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer grâce à vos emplacements de sorts, ainsi que vous pouvez le voir dans le tableau d'[évolution du magicien](#evolution-du-magicien). Lors de vos aventures, vous pouvez trouver de nouveaux sorts à copier dans votre grimoire (voir encadré page suivante).
+Chaque fois que vous gagnez un niveau dans la classe de magicien, vous pouvez ajouter gratuitement deux sorts de magicien de votre choix dans votre grimoire. Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer grâce à vos emplacements de sorts, ainsi que vous pouvez le voir dans le tableau d'[évolution du magicien](#evolution-du-magicien). Lors de vos aventures, vous pouvez trouver de nouveaux sorts à copier dans votre grimoire (voir [encadré sur le grimoire](#votre-grimoire)).
 
 ### Restauration magique
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant votre grimoire. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer des emplacements de sorts utilisés. Le niveau total de ces emplacements de sorts doit être inférieur ou égal à la moitié de votre niveau de magicien (arrondi à l'entier supérieur) et vous ne pouvez pas récupérer d'emplacement de niveau 6 ou supérieur.

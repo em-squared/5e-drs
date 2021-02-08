@@ -135,7 +135,7 @@
         </v-list-item>
         <v-list-item v-if="$site.themeConfig.kofi" @click.stop="toggleSupportDialog">
           <v-list-item-icon>
-            <v-icon color="#BDB76B">mdi-glass-mug-variant</v-icon>
+            <v-icon class="glowing-gold">mdi-glass-mug-variant</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>

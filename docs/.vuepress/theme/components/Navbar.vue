@@ -13,7 +13,7 @@
       <v-icon>mdi-information</v-icon>
     </v-btn>
     <v-btn class="hidden-sm-and-down" v-if="$site.themeConfig.kofi" @click.stop="toggleSupportDialog" icon>
-      <v-icon color="#BDB76B">mdi-glass-mug-variant</v-icon>
+      <v-icon class="glowing-gold">mdi-glass-mug-variant</v-icon>
     </v-btn>
     <v-btn class="ml-5" @click.stop="setRightDrawer" icon v-if="hasRightDrawer">
       <v-icon>{{ rightDrawerIcon }}</v-icon>
