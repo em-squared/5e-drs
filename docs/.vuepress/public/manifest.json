@@ -1,13 +1,13 @@
 {
   "dir" : "ltr",
   "lang" : "fr",
-  "name" : "5E DRS",
+  "name" : "5e DRS",
   "scope" : "/",
   "display" : "standalone",
   "start_url" : "/index.html",
-  "short_name" : "5E DRS",
+  "short_name" : "5e DRS",
   "theme_color" : "#435a3f",
-  "description" : "Document de référence système pour jeux de rôle en OGL 5E",
+  "description" : "Document de référence système pour jeux de rôle en OGL 5e",
   "orientation" : "any",
   "background_color" : "#ffffff",
   "icons" : [

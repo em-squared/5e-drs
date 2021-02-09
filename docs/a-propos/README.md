@@ -34,7 +34,7 @@ Cette nouvelle version a pu voir le jour grâce à la contribution de bénévole
 Cette liste n'est certainement pas exhaustive.
 
 ## Le jeu
-Le système _**5E**_ est un jeu de rôle basé sur les mécaniques de l'[OGL5](/licence-ogl/).
+Le système _**5e**_ est un jeu de rôle basé sur les mécaniques de l'[OGL5](/licence-ogl/).
 
 Le _**Livre des monstres**_ est une traduction de [Black Book Éditions](https://www.black-book-editions.fr) du _**Tome of Beasts**_ publié à l'origine par [Kobold Press](https://koboldpress.com/).
 

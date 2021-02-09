@@ -35,11 +35,15 @@ table {
   }
 
   thead {
-    font-family: 'Spectral SC', serif;
+    font-family: 'Oswald', sans-serif;
   }
 
   tr {
 
+  }
+
+  th {
+    font-weight: 400;
   }
 
   th, td {
@@ -65,7 +69,7 @@ table {
   tbody {
     tr {
       &:nth-of-type(even) {
-        background-color: $color-light-gray;
+        background-color: darken($color-background, 5);
       }
       &:nth-of-type(odd):hover {
         background-color: inherit !important;
@@ -124,12 +128,12 @@ table {
 
 .theme--dark {
   thead {
-    background-color: darken($color-gray, 10);
+    background-color: darken($color-gray, 30);
   }
   tbody {
     tr {
       &:nth-of-type(even) {
-        background-color: darken($color-gray, 10);
+        background-color: darken($color-gray, 30);
       }
       &:nth-of-type(odd):hover {
         background-color: inherit !important;

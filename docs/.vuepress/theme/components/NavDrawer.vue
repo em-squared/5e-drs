@@ -116,7 +116,7 @@
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>
-                Discord 5E DRS
+                Discord 5e DRS
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>

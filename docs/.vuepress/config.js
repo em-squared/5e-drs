@@ -1,6 +1,6 @@
 module.exports = {
-  title: '5E DRS',
-  description: 'Document de Référence Système pour jeux de rôle en OGL 5E',
+  title: '5e DRS',
+  description: 'Document de Référence Système pour jeux de rôle en OGL 5e',
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
     ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],

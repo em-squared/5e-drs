@@ -1,25 +1,25 @@
 ---
-title: Accueil
+title: "5e DRS"
 notEditable: true
 toc: false
 ---
-§§§ .text-center
+§§§ .text-center .mt-4 .mb-8
 # Document de Référence Système
 §§§
 
 <v-row>
 <v-col cols="12" md="6">
 
-Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5E**_ !
+Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
 # Une nouvelle ère
 Amis rôlistes,
 
-Une ère s'achève, une autre commence. Voici _**5E DRS**_, le Document de Référence Système en ligne pour les jeux de rôle en OGL 5E !
+Une ère s'achève, une autre commence. Voici _**5e DRS**_, le Document de Référence Système en ligne pour les jeux de rôle en OGL 5e !
 
 Pour l'occasion, l'interface a bénéficié d'un nouveau coup de pinceau avec des couleurs plus douces.
 
-Cette fois, le site ne fait référence à aucun jeu en particulier, mais à des ressources compatibles 5E sous licence OGL.
+Cette fois, le site ne fait référence à aucun jeu en particulier, mais à des ressources compatibles 5e sous licence OGL.
 
 J'espère qu'il rencontrera le même succès auprès de vous que la mouture précédente.
 
@@ -63,7 +63,7 @@ _le 6 février 2021_
 
 ### À propos de ce site
 &nbsp;
-<v-icon>mdi-discord</v-icon> [Discord 5E DRS](https://discord.gg/mp6ECCs), pour discuter de ce site, signaler des erreurs, des bugs ou suggérer une amélioration.  
+<v-icon>mdi-discord</v-icon> [Discord 5e DRS](https://discord.gg/mp6ECCs), pour discuter de ce site, signaler des erreurs, des bugs ou suggérer une amélioration.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/em-squared/5e-drs), tout le code source en licence GPLv3.  
 <v-icon>mdi-github</v-icon> [Soumettre une demande](https://github.com/em-squared/5e-drs/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
 

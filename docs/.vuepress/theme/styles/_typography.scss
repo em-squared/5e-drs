@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
 @font-face {
   font-family: "ornaments";
@@ -51,26 +51,26 @@ $icon-bookmark: "\e900";
   }
 }
 
-@keyframes gold-pulse {
+@keyframes gold-flash {
   0% {
     color: $color-gold-light;
   }
-  50% {
-    color: $color-gold-dark;
+  10% {
+    color: $color-gold;
   }
   100% {
-    color: $color-gold-light;
+    color: $color-gold;
   }
 }
-@keyframes gold-pulse-background {
+@keyframes gold-pulse {
   0% {
-    background-color: $color-gold;
+    color: darken($color-gold, 10);
   }
   50% {
-    background-color: darken($color-gold, 20);
+    color: lighten($color-gold, 10);
   }
   100% {
-    background-color: $color-gold;
+    color: darken($color-gold, 10);
   }
 }
 
@@ -83,6 +83,7 @@ $icon-bookmark: "\e900";
   animation-duration: 6s;
   animation-iteration-count: infinite;
 }
+
 .breadcrumb-logo {
   color: $color-gold;
 }
@@ -100,9 +101,10 @@ $icon-bookmark: "\e900";
 }
 .glowing-gold {
   color: $color-gold;
-  animation-name: gold-pulse;
+  animation-name: gold-flash;
   animation-duration: 4s;
   animation-iteration-count: infinite;
+
 }
 .glowing-gold-background {
   background-color: $color-gold;
@@ -124,8 +126,14 @@ $icon-bookmark: "\e900";
 }
 
 .v-application {
-  h1, h2, h3, h4, h5, h6, .title, .subtitle, .subtitle-2, .site-title {
-    font-family: 'Spectral SC', serif !important;
+  h1, h2, h3, h4, h5, h6, .title, .subtitle, .subtitle-2, .site-title, .v-btn, .v-breadcrumbs {
+    font-family: 'Oswald', sans-serif !important;
+  }
+  .site-title {
+    font-size: 1rem;
+  }
+  .v-btn, .v-breadcrumbs {
+    font-weight: 400;
   }
 }
 

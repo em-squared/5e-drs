@@ -44,6 +44,7 @@ export default {
 @import '../styles/colors';
 
 .page-toc {
+  font-size: .9rem;
   ul {
     list-style: none;
     padding-right: 24px;

@@ -1,9 +1,10 @@
-// .v-main {
-//   background-color: $color-background;
-// }
-// .theme--light.v-navigation-drawer {
-//   background-color: darken($color-background, 0);
-// }
+main.content {
+  padding: 0 3rem;
+
+  @media screen and (max-width: $breakpointMD) {
+    padding: 0;
+  }
+}
 
 .column-count-2 {
   column-count: 2;
@@ -16,4 +17,36 @@
 .column-count-4 {
   column-count: 4;
   margin-bottom: 12px;
+}
+
+* {
+  ::-webkit-scrollbar {
+    height: 12px;
+    width: 7px;
+    background: darken($color-background, 50);
+  }
+  scrollbar-color: $color-gold darken($color-background, 50);
+  scrollbar-width: thin;
+
+  ::-webkit-scrollbar-thumb {
+    background: $color-gold;
+    border: 1px solid $color-gold-light;
+
+    &:hover {
+      background: $color-gold-light;
+    }
+  }
+
+  ::-webkit-scrollbar-corner {
+    background: #000;
+  }
+}
+
+.theme--light {
+  .v-main {
+    background-color: lighten($color-background, 5);
+  }
+  .v-navigation-drawer {
+    background-color: darken($color-background, 0);
+  }
 }
