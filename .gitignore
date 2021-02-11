@@ -3,3 +3,5 @@ docs/.vuepress/dist
 tmp/
 import/
 regex
+package-lock.json
+yarn.lock

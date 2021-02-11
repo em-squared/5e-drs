@@ -45,6 +45,7 @@
       hide-default-footer
       show-expand
       @click:row="onClickRow"
+      mobile-breakpoint="0"
     >
 
       <template v-slot:expanded-item="{ headers, item }">
@@ -112,16 +113,13 @@ export default {
       ],
       page: 1,
       pageCount: 0,
-      headers: [
-        { text: "", align: 'center', sortable: false, value: 'isInBestiary' },
-        { text: "Nom", align: 'start', sortable: true, value: 'title' },
-        { text: "ID", align: 'center', sortable: true, value: 'frontmatter.challenge' },
-        { text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' },
-        { text: "Taille", align: 'center', sortable: false, value: 'frontmatter.size' },
-        { text: "Sous-type", align: 'start', sortable: false, value: 'frontmatter.subtype' },
-        { text: "Environnements", align: 'start', sortable: false, value: 'frontmatter.environments' },
-        { text: "Type de donjons", align: 'start', sortable: false, value: 'frontmatter.dungeonTypes' },
-      ],
+      showColumn: {
+        type: true,
+        size: true,
+        subtype: true,
+        environments: true,
+        dungeonTypes: true,
+      },
       challenges: CHALLENGES
     }
   },
@@ -135,6 +133,30 @@ export default {
       environments: state => state.monsterFilters.environments,
       dungeonTypes: state => state.monsterFilters.dungeonTypes,
     }),
+
+    headers() {
+      let headers = [
+        { text: "", align: 'center', sortable: false, value: 'isInBestiary' },
+        { text: "Nom", align: 'start', sortable: true, value: 'title' },
+        { text: "ID", align: 'center', sortable: true, value: 'frontmatter.challenge' }
+      ]
+      if (this.showColumn.type && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' })
+      }
+      if (this.showColumn.size && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Taille", align: 'center', sortable: false, value: 'frontmatter.size' })
+      }
+      if (this.showColumn.subtype && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Sous-type", align: 'start', sortable: false, value: 'frontmatter.subtype' })
+      }
+      if (this.showColumn.environments && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Environnements", align: 'start', sortable: false, value: 'frontmatter.environments' })
+      }
+      if (this.showColumn.dungeonTypes && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Type de donjons", align: 'start', sortable: false, value: 'frontmatter.dungeonTypes' })
+      }
+      return headers
+    },
 
     selectedTypes() {
       let result = []

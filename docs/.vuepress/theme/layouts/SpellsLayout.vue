@@ -11,8 +11,8 @@
 
     <h1>Grimoire</h1>
 
-    <div><strong>Colonnes affichées :</strong></div>
-    <div class="columns-toggles d-flex mb-2">
+    <div class="columns-toggles d-md-flex d-none align-center mb-2">
+      <div><strong>Colonnes affichées :</strong></div>
       <v-checkbox
         class="mt-0 mr-4"
         v-model="showColumn.school"
@@ -112,6 +112,7 @@
       hide-default-footer
       show-expand
       @click:row="onClickRow"
+      mobile-breakpoint="0"
     >
 
       <template v-slot:expanded-item="{ headers, item }">
@@ -191,18 +192,6 @@ export default {
       ],
       page: 1,
       pageCount: 0,
-      // headers: [
-      //   { text: "", align: 'center', sortable: false, value: 'isInSpellBook' },
-      //   { text: "Nom", align: 'start', sortable: true, value: 'title' },
-      //   { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' },
-      //   { text: "École", align: 'start', sortable: false, value: 'frontmatter.school' },
-      //   { text: "Temps d'incantation", align: 'start', sortable: false, value: 'frontmatter.casting_time' },
-      //   { text: "Durée", align: 'start', sortable: false, value: 'frontmatter.duration' },
-      //   { text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' },
-      //   { text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' },
-      //   { text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' },
-      //   { text: "Description", align: 'start', sortable: false, value: 'frontmatter.description' },
-      // ],
       showColumn: {
         school: true,
         castingTime: true,
@@ -234,25 +223,25 @@ export default {
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
         { text: "Niveau", align: 'center', sortable: true, value: 'frontmatter.level' }
       ]
-      if (this.showColumn.school) {
+      if (this.showColumn.school && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "École", align: 'start', sortable: false, value: 'frontmatter.school' })
       }
-      if (this.showColumn.castingTime) {
+      if (this.showColumn.castingTime && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Temps d'incantation", align: 'start', sortable: false, value: 'frontmatter.casting_time' })
       }
-      if (this.showColumn.duration) {
+      if (this.showColumn.duration && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Durée", align: 'start', sortable: false, value: 'frontmatter.duration' })
       }
-      if (this.showColumn.concentration) {
+      if (this.showColumn.concentration && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Concentration", align: 'center', sortable: false, value: 'frontmatter.concentration' })
       }
-      if (this.showColumn.ritual) {
+      if (this.showColumn.ritual && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Rituel", align: 'center', sortable: false, value: 'frontmatter.ritual' })
       }
-      if (this.showColumn.components) {
+      if (this.showColumn.components && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Composantes", align: 'center', sortable: false, value: 'frontmatter.components' })
       }
-      if (this.showColumn.description) {
+      if (this.showColumn.description && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Description", align: 'start', sortable: false, value: 'frontmatter.description' })
       }
       return headers
@@ -291,31 +280,7 @@ export default {
     spells() {
       let results = this.$pagination.pages
 
-      // JSON Migration Generation
-      // console.log(results)
-      // let json = []
-      // for (var spell of results) {
-      //   json.push({
-      //     'nom':spell.frontmatter.title,
-      //     'ecole':spell.frontmatter.school,
-      //     'niveau':spell.frontmatter.level,
-      //     'portee':spell.frontmatter.range,
-      //     'duree':spell.frontmatter.duration,
-      //     'temps_incantation':spell.frontmatter.casting_time,
-      //     'composante_v':spell.frontmatter.components.material,
-      //     'composante_s':spell.frontmatter.components.somatic,
-      //     'composante_m':spell.frontmatter.components.material,
-      //     'composante_m_description':spell.frontmatter.components.materials,
-      //     'concentration':spell.frontmatter.concentration,
-      //     'rituel':spell.frontmatter.ritual,
-      //     'description':spell.rawContent,
-      //     'resume':spell.frontmatter.description,
-      //     'source':spell.frontmatter.source,
-      //   })
-      // }
-      // console.log(json)
-
-      // Filter concetration
+      // Filter concentration
       if (this.mustBeConcentration !== undefined) {
         results = results.filter(item => {
           return item.frontmatter.concentration === this.mustBeConcentration

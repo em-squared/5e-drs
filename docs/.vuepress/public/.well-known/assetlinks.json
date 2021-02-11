@@ -1,5 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target" : { "namespace": "android_app", "package_name": "fr.heros_et_dragons.twa",
-                   "sha256_cert_fingerprints": [": 25:82:3F:F7:25:C0:53:A3:C6:C6:A1:D3:D9:F0:55:EE:08:A9:F9:BD:D0:FC:50:24:F1:99:8D:39:75:E0:76:3A"] }
-    }]

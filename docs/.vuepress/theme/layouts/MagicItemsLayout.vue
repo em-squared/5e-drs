@@ -40,6 +40,7 @@
       hide-default-footer
       show-expand
       @click:row="onClickRow"
+      mobile-breakpoint="0"
     >
 
       <template v-slot:expanded-item="{ headers, item }">
@@ -97,13 +98,11 @@ export default {
       ],
       page: 1,
       pageCount: 0,
-      headers: [
-        { text: "", align: 'center', sortable: false, value: 'isInTreasureChest' },
-        { text: "Nom", align: 'start', sortable: true, value: 'title' },
-        { text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' },
-        { text: "Rareté", align: 'start', sortable: false, value: 'frontmatter.rarity' },
-        { text: "Harmonisation", align: 'start', sortable: false, value: 'frontmatter.attunement' },
-      ],
+      showColumn: {
+        type: true,
+        rarity: true,
+        attunement: true,
+      }
     }
   },
 
@@ -114,6 +113,23 @@ export default {
       rarities: state => state.magicItemFilters.rarities,
       hasAttunement: state => state.magicItemFilters.hasAttunement,
     }),
+
+    headers() {
+      let headers = [
+        { text: "", align: 'center', sortable: false, value: 'isInTreasureChest' },
+        { text: "Nom", align: 'start', sortable: true, value: 'title' },
+      ]
+      if (this.showColumn.school && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' })
+      }
+      if (this.showColumn.castingTime && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Rareté", align: 'start', sortable: false, value: 'frontmatter.rarity' })
+      }
+      if (this.showColumn.duration && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Harmonisation", align: 'start', sortable: false, value: 'frontmatter.attunement' })
+      }
+      return headers
+    },
 
     selectedTypes() {
       let result = []
