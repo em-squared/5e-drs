@@ -119,13 +119,13 @@ export default {
         { text: "", align: 'center', sortable: false, value: 'isInTreasureChest' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
       ]
-      if (this.showColumn.school && this.$vuetify.breakpoint.mdAndUp) {
+      if (this.showColumn.type && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' })
       }
-      if (this.showColumn.castingTime && this.$vuetify.breakpoint.mdAndUp) {
+      if (this.showColumn.rarity && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Rareté", align: 'start', sortable: false, value: 'frontmatter.rarity' })
       }
-      if (this.showColumn.duration && this.$vuetify.breakpoint.mdAndUp) {
+      if (this.showColumn.attunement && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Harmonisation", align: 'start', sortable: false, value: 'frontmatter.attunement' })
       }
       return headers
