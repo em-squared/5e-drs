@@ -140,6 +140,7 @@ export default {
     this.$store.commit('setHasRightDrawer', false)
     this.$store.commit('setRightDrawer', this.$vuetify.breakpoint.lgAndUp)
     this.$store.commit('setInRightDrawer', null)
+    this.$page.title = "Mes objets magiques"
   }
 }
 </script>

@@ -1,7 +1,7 @@
 <template>
 <div class="homebrew">
   <div class="text-center" v-if="brew === null">
-    
+
   </div>
 
   <div class="spell" v-else-if="brew.pid && brew.pid == 'spell'">
@@ -157,6 +157,10 @@ export default {
       }
     }
   },
+
+  mounted () {
+    this.$page.title = 'Homebrew'
+  }
 }
 </script>
 
