@@ -12,6 +12,52 @@
 
     <h1>Bestiaire</h1>
 
+    <div class="columns-toggles d-md-flex d-none align-center mb-2">
+      <div><strong>Colonnes affichées :</strong></div>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.type"
+        label="Type"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.size"
+        label="Taille"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.subtype"
+        label="Sous-type"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.environments"
+        label="Environnements"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.dungeonTypes"
+        label="Type de donjons"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+      <v-checkbox
+        class="mt-0 mr-4"
+        v-model="showColumn.encounter"
+        label="Rencontre"
+        hide-details
+        @change="setShowColumn"
+      ></v-checkbox>
+    </div>
+
     <div class="active-filters mb-2">
       <div class="challengeRange-filter" v-if="Number(challengeRange[0]) >= 0 && Number(challengeRange[1]) <= challenges.length-1">
         <strong>Indice de dangerosité</strong> entre {{ challenges[challengeRange[0]].label }} et {{ challenges[challengeRange[1]].label }}
@@ -74,6 +120,12 @@
         <span v-if="item.frontmatter.dungeonTypes">{{ displayList(item.frontmatter.dungeonTypes) }}</span>
       </template>
 
+      <template v-slot:item.isInEncounter="{ item }">
+        <v-btn dense icon @click.stop="addCreatureInEncounter(item)">
+          <v-icon>mdi-sword-cross</v-icon>
+        </v-btn>
+      </template>
+
     </v-data-table>
 
     <v-row class="align-center  mb-12 pb-6">
@@ -96,6 +148,7 @@ import { isResourceInLibrary } from '@theme/util'
 import Monster from '@theme/components/Monster'
 import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 import { CHALLENGES } from '../../data/monsters'
+import Cookies from 'js-cookie'
 
 export default {
   components: { Breadcrumb, Monster, MyMonstersButton },
@@ -116,9 +169,10 @@ export default {
       showColumn: {
         type: true,
         size: true,
-        subtype: true,
-        environments: true,
-        dungeonTypes: true,
+        subtype: false,
+        environments: false,
+        dungeonTypes: false,
+        encounter: true,
       },
       challenges: CHALLENGES
     }
@@ -138,7 +192,7 @@ export default {
       let headers = [
         { text: "", align: 'center', sortable: false, value: 'isInBestiary' },
         { text: "Nom", align: 'start', sortable: true, value: 'title' },
-        { text: "ID", align: 'center', sortable: true, value: 'frontmatter.challenge' }
+        { text: "ID", align: 'center', sortable: true, value: 'frontmatter.challenge' },
       ]
       if (this.showColumn.type && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Type", align: 'start', sortable: false, value: 'frontmatter.type' })
@@ -154,6 +208,9 @@ export default {
       }
       if (this.showColumn.dungeonTypes && this.$vuetify.breakpoint.mdAndUp) {
         headers.push({ text: "Type de donjons", align: 'start', sortable: false, value: 'frontmatter.dungeonTypes' })
+      }
+      if (this.showColumn.encounter && this.$vuetify.breakpoint.mdAndUp) {
+        headers.push({ text: "Rencontre", align: 'center', sortable: false, value: 'isInEncounter' })
       }
       return headers
     },
@@ -306,6 +363,13 @@ export default {
       }
     },
 
+    isCreatureInEncounter (creature) {
+      return isResourceInLibrary(creature, this.$store.state.encounterCalculator.creatures)
+    },
+    addCreatureInEncounter (creature) {
+      this.$store.commit('encounterCalculator/addCreature', creature)
+    },
+
     selectItemPerPage (value) {
       setUrlParams("lignes", [value])
     },
@@ -317,7 +381,11 @@ export default {
 
     onClickRow (row, item) {
       item.expand(!item.isExpanded)
-    }
+    },
+
+    setShowColumn () {
+      Cookies.set('5e-drs-bestiaire-colonnes', this.showColumn, { expires: 365 })
+    },
   },
 
   mounted () {
@@ -332,6 +400,11 @@ export default {
     let page = parseInt(getUrlParameter(window.location.href, "page"))
     if (page) {
       this.page = page
+    }
+
+    const showColumn = Cookies.get('5e-drs-bestiaire-colonnes')
+    if (showColumn) {
+      this.showColumn = JSON.parse(showColumn)
     }
   }
 }

@@ -57,6 +57,8 @@
               crumbs.push({to: page.path, disabled: disabled, text: 'Création de monstre ou PNJ'})
             } else if (page.path == '/calculateur-de-caracteristiques/') {
               crumbs.push({to: page.path, disabled: disabled, text: 'Calculateur de caractéristiques'})
+            } else if (page.path == '/calculateur-de-rencontres/') {
+              crumbs.push({to: page.path, disabled: disabled, text: 'Calculateur de rencontres'})
             } else {
               crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title})
             }

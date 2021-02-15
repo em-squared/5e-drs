@@ -9,6 +9,8 @@ import mySpells from './modules/mySpells'
 import myMonsters from './modules/myMonsters'
 import myMagicItems from './modules/myMagicItems'
 
+import encounterCalculator from './modules/encounterCalculator'
+
 Vue.use(Vuex)
 
 import Cookies from 'js-cookie'
@@ -20,7 +22,8 @@ export default new Vuex.Store({
     monsterFilters,
     mySpells,
     myMonsters,
-    myMagicItems
+    myMagicItems,
+    encounterCalculator,
   },
 
   state: {

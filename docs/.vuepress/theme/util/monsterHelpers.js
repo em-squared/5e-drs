@@ -1,4 +1,5 @@
 import {stats} from '../../data/stats'
+import {CHALLENGES} from '../../data/monsters'
 
 // Calcul du modificateur de caractéristique
 export function getModifier (score) {
@@ -67,4 +68,13 @@ export function displayMonsterTypeSizeAlignment (monster, hideAlignment = false,
     result += ', Dangerosité : ' + displayChallenge(monster.challenge)
   }
   return result
+}
+
+// Retourne le nombre de points de combat pour un indice de dangerosité
+export function getPCbyChallenge(challenge) {
+  let challengeIndex = CHALLENGES.findIndex(item => item.value == challenge)
+  if (challengeIndex > -1) {
+    return CHALLENGES[challengeIndex].pc
+  }
+  return false
 }

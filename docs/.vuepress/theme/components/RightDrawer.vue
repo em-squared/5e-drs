@@ -4,6 +4,7 @@
     <SpellFilters v-if="hasSpellFilters" />
     <MagicItemFilters v-if="hasMagicItemFilters" />
     <MonsterFilters v-if="hasMonsterFilters" />
+    <EncounterCalculator v-if="hasMonsterFilters" />
   </v-navigation-drawer>
 </template>
 
@@ -12,6 +13,7 @@ import PageToc from '@theme/components/PageToc'
 import SpellFilters from '@theme/components/SpellFilters'
 import MagicItemFilters from '@theme/components/MagicItemFilters'
 import MonsterFilters from '@theme/components/MonsterFilters'
+import EncounterCalculator from '@theme/components/EncounterCalculator'
 
 export default {
   name: 'RightDrawer',
@@ -20,6 +22,7 @@ export default {
     SpellFilters,
     MagicItemFilters,
     MonsterFilters,
+    EncounterCalculator,
     PageToc
   },
 

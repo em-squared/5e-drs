@@ -42,7 +42,7 @@ module.exports = {
           {
             // Unique ID of current classification
             id: 'monster',
-            // Meta title for spell list page
+            // Meta title for monster list page
             title: 'Bestiaire',
             // Target directory
             dirname: 'bestiaire',

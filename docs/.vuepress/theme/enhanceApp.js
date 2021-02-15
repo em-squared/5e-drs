@@ -39,11 +39,13 @@ export default ({
           primary: '#4c6477', // Dragons (Bleu)
           navbar: '#435a3f', // Héros (Vert)
           accent: '#435a3f', // Héros
+          gold: "#bab468",
         },
         dark: {
           primary: '#6c8599', // Dragons (Bleu)
           navbar: '#435a3f', // Héros (Vert)
           accent: '#6c8599', // Dragons
+          gold: "#bab468",
         }
       }
     },
