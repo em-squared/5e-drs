@@ -20,7 +20,7 @@
 
       </v-container>
 
-      <v-btn v-show="$vuetify.breakpoint.lgAndUp && $store.state.hasRightDrawer" color="primary" @click.stop="setRightDrawer" :class="rightDrawerButtonCSS()" small top right fixed fab>
+      <v-btn v-show="$vuetify.breakpoint.lgAndUp && $store.state.hasRightDrawer" color="primary" @click.stop="setRightDrawer" class="d-print-none" :class="rightDrawerButtonCSS()" small top right fixed fab>
         <v-icon v-if="$store.state.rightDrawer">mdi-chevron-right</v-icon>
         <v-icon v-else left>mdi-chevron-left</v-icon>
       </v-btn>

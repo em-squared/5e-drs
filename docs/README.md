@@ -17,7 +17,9 @@ Amis rôlistes,
 
 Une ère s'achève, une autre commence. Voici _**5e DRS**_, le Document de Référence Système en ligne pour les jeux de rôle en OGL 5e !
 
-Pour l'occasion, l'interface a bénéficié d'un nouveau coup de pinceau avec des couleurs plus douces.
+Pour l'occasion, l'interface a bénéficié d'un nouveau coup de pinceau avec des couleurs plus douces et agréables à l’œil et une police plus lisible sur les écrans.
+
+Mais ce n'est pas la seule nouveauté ! En effet, pour l'occasion, je vous ai concocté un calculateur de rencontre sommaire pour vous permettre de construire des rencontres équilibrées pour vos joueurs. Il est accessible directement depuis le [bestiaire](/bestiaire/), la colonne "Rencontre" permet d'ajouter une créature à la liste prévue dans la colonne de droite depuis laquelle vous pouvez préciser le nombre de PJ et leur niveau moyen pour évaluer la difficulté de la rencontre.
 
 Cette fois, le site ne fait référence à aucun jeu en particulier, mais à des ressources compatibles 5e sous licence OGL.
 
@@ -29,7 +31,7 @@ Je tiens à remercier encore une fois toutes les personnes qui soutiennent cette
 
 §§§ .text-right
 _**Em-squared**_,  
-_le 6 février 2021_
+_le 10 mars 2021_
 §§§
 
 </v-col>

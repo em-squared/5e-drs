@@ -121,9 +121,19 @@
       </template>
 
       <template v-slot:item.isInEncounter="{ item }">
-        <v-btn dense icon @click.stop="addCreatureInEncounter(item)">
-          <v-icon>mdi-sword-cross</v-icon>
-        </v-btn>
+        <v-tooltip top>
+          <template v-slot:activator="{ on, attrs }">
+            <v-btn
+              dense
+              icon
+              @click.stop="addCreatureInEncounter(item)"
+              v-bind="attrs"
+              v-on="on">
+              <v-icon>mdi-sword-cross</v-icon>
+            </v-btn>
+          </template>
+          <span>Ajouter au calculateur de rencontre</span>
+        </v-tooltip>
       </template>
 
     </v-data-table>
