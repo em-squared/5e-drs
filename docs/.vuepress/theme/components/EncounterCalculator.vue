@@ -17,11 +17,12 @@
           </div>
           <div v-else>
             <div class="body-2 mb-4">
-              <span class="subtitle-2">Difficulté: </span>{{challenge.label}}
+              <span class="subtitle-2">Difficulté : </span>{{challenge.label}}
               <v-progress-linear
               :color="challenge.color"
               :value="challengeRate"
               ></v-progress-linear>
+              <span class="subtitle-2">PX : </span>{{ totalXP }}
             </div>
             <v-row class="d-flex align-center my-0" v-for="c in creatures">
               <v-col class="px-0 py-1">
@@ -47,6 +48,7 @@
 import { mapState, mapGetters } from 'vuex'
 import { CHALLENGES, ENCOUNTERLEVELS } from '../../data/monsters'
 import { getPCbyChallenge } from '@theme/util/monsterHelpers'
+import { stats } from '../../data/stats'
 
 export default {
   name: 'EncounterCalculator',
@@ -114,6 +116,18 @@ export default {
         pc += getPCbyChallenge(Number(c.frontmatter.challenge))
       }
       return pc
+    },
+
+    totalXP () {
+      let xp = 0
+      for (let c of this.creatures) {
+        if (c.frontmatter.challenge == 0) {
+          xp += 10
+        } else {
+          xp += stats.challenges[c.frontmatter.challenge].xp
+        }
+      }
+      return xp
     },
 
     challengeForGroup () {
