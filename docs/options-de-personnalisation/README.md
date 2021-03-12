@@ -157,7 +157,7 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 * [Expert en armes lourdes](#expert-en-armes-lourdes)
 * [Expert en armures](#expert-en-armures)
 * [Expert au bouclier](#expert-au-bouclier)
-* [Expert en manœuvres](#expert-en-manoeuvres)
+* [Expert en manœuvres](#expert-en-manœuvres)
 * [Fantassin léger](#fantassin-leger)
 * [Fantassin intermédiaire](#fantassin-intermediaire)
 * [Fantassin lourd](#fantassin-lourd)
