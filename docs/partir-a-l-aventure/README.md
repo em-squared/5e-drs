@@ -105,7 +105,7 @@ Une créature dotée du trait vision aveugle est capable de percevoir son enviro
 De nombreuses créatures ont la capacité de voir dans le noir, et plus particulièrement celles qui vivent sous terre. Une créature dotée du trait vision dans le noir peut, dans un périmètre donné, voir dans les ténèbres comme s'il s'agissait d'une zone faiblement éclairée. Les zones de ténèbres ne sont donc pour elles que des zones de visibilité réduite. Néanmoins, ces créatures ne peuvent pas distinguer les couleurs dans les ténèbres, mais seulement des nuances de gris.
 
 #### Vision parfaite
-Une créature dotée de vision parfaite peut, dans un périmètre donné, voir parfaitement dans les ténèbres et les ténèbres magiques, voir les créatures et les objets _invisibles_, automatiquement détecter les illusions visuelles et réussir son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre celles-ci, percevoir la forme originale d'un métamorphe ou d'une créature transformée par magie et voir dans le plan éthéré.
+Une créature dotée de vision parfaite peut, dans un périmètre donné, voir parfaitement dans les ténèbres et les ténèbres magiques, voir les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible), automatiquement détecter les illusions visuelles et réussir son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre celles-ci, percevoir la forme originale d'un métamorphe ou d'une créature transformée par magie et voir dans le plan éthéré.
 
 ### Eau et nourriture
 Les personnages privés d'eau ou de nourriture subissent les effets de l'épuisement. Une créature ne peut sortir de l'état d'épuisement causé par le manque de nourriture ou d'eau que si elle mange et boit en quantité suffisante.

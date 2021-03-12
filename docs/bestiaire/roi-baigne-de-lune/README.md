@@ -52,12 +52,12 @@ source_page: 188
 ## Capacités
 _**Contrôle des rayons de lune**_. Par une action bonus, le Roi Baigné de Lune peut faire en sorte que toutes les zones éclairées par la lune dans un rayon de 30 mètres se déplacent d'un maximum de 3 mètres.
 
-_**Incantation innée**_. La caractéristique d'incantation innée du Roi Baigné de Lune est le Charisme (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée du Roi Baigné de Lune est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_flamme éternelle_](/grimoire/flamme-eternelle/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_invisibilité_](/grimoire/invisibilite/) (personnelle), [_rayon de lune_](/grimoire/rayon-de-lune/), [_zone de vérité_](/grimoire/zone-de-verite/)
 * **3/jour chacun** : [_flétrissement_](/grimoire/fletrissement/), [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/)
 * **1/jour chacun** : [_demi-plan_](/grimoire/demi-plan/), [_guérison_](/grimoire/guerison/)
 
-_**Résistance légendaire (3/jour)**_. Si le Roi Baigné de Lune rate un jet de sauvegarde, il peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si le Roi Baigné de Lune rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.
 
 _**Armes magiques**_. Les attaques d'arme du Roi Baigné de Lune sont magiques et infligent 7 (2d6) dégâts radiants supplémentaires (inclus ci-dessous).
 
@@ -65,12 +65,12 @@ _**Armes magiques**_. Les attaques d'arme du Roi Baigné de Lune sont magiques e
 _**Attaques multiples**_. Le Roi Baigné de Lune fait trois attaques avec son _bâton de cristal_ ou son _éclair lunaire_.
 
 _**Bâton de cristal**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 7 (1d8 + 3) dégâts contondants plus 7 (2d6) dégâts radiants. Si une cible est frappée par le bâton deux fois ou plus lors d'un même tour, elle doit réussir un jet de sauvegarde de Constitution DD 17 ou être _étourdie_ jusqu'à la fin de son prochain tour.
+_Touché_ : 7 (1d8 + 3) dégâts contondants plus 7 (2d6) dégâts radiants. Si une cible est frappée par le bâton deux fois ou plus lors d'un même tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 ou être [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de son prochain tour.
 
 _**Éclair lunaire**_. _Attaque de sort à distance_ : +11 pour toucher, portée 45/180 m, une cible.  
-_Touché_ : 22 (4d10) dégâts radiants. Si la cible est une créature qui ne se trouve pas sous sa forme naturelle, elle subit 22 (4d10) dégâts radiants supplémentaires et doit réussir un jet de sauvegarde de Charisme DD 19 ou reprendre sa forme naturelle. Quand l'éclair lunaire frappe une cible, le point d'impact brille de l'éclat de la lune et projette une lumière faible sur un rayon de 3 mètres. Cette lumière est fixe et persiste jusqu'à la fin du tour suivant du Roi Baigné de Lune.
+_Touché_ : 22 (4d10) dégâts radiants. Si la cible est une créature qui ne se trouve pas sous sa forme naturelle, elle subit 22 (4d10) dégâts radiants supplémentaires et doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 19 ou reprendre sa forme naturelle. Quand l'éclair lunaire frappe une cible, le point d'impact brille de l'éclat de la lune et projette une lumière faible sur un rayon de 3 mètres. Cette lumière est fixe et persiste jusqu'à la fin du tour suivant du Roi Baigné de Lune.
 
-_**Ombres craintives (recharge 5-6)**_. Le Roi Baigné de Lune anime magiquement les ombres de tous ses ennemis dans un rayon de 18 mètres autour de lui. Les ombres animées attaquent les créatures qui les projettent. Toutes les créatures affectées qui se trouvent dans la zone subissent 35 (10d6) dégâts nécrotiques, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 19. Si une créature échoue à son jet de sauvegarde, elle perd également 1d4 points de Force. Une créature dont la valeur de Force est réduite à 0 sombre dans l'inconscience jusqu'à ce qu'elle regagne au moins 1 point de Force. Une créature qui a perdu de la Force suite à une rencontre avec les ombres craintives récupère celle-ci à la fin d'un repos court ou long.
+_**Ombres craintives (recharge 5-6)**_. Le Roi Baigné de Lune anime magiquement les ombres de tous ses ennemis dans un rayon de 18 mètres autour de lui. Les ombres animées attaquent les créatures qui les projettent. Toutes les créatures affectées qui se trouvent dans la zone subissent 35 (10d6) dégâts nécrotiques, ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 19. Si une créature échoue à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle perd également 1d4 points de Force. Une créature dont la valeur de Force est réduite à 0 sombre dans l'inconscience jusqu'à ce qu'elle regagne au moins 1 point de Force. Une créature qui a perdu de la Force suite à une rencontre avec les ombres craintives récupère celle-ci à la fin d'un repos court ou long.
 
 _**Convocation de diable (1/jour)**_. Le Roi Baigné de Lune peut convoquer un [diable lunaire](/bestiaire/diable-lunaire/). Le diable ainsi convoqué apparaît dans un emplacement inoccupé, dans un rayon de 18 mètres autour de son convocateur. Il se comporte comme un allié de ce dernier et il ne peut pas convoquer d'autres diables. Il reste présent pendant 10 minutes, jusqu'à la mort de son convocateur, ou jusqu'à ce que celui-ci le renvoie par une action.
 

@@ -50,4 +50,4 @@ _Touché_ : 16 (2d12+3) dégâts perforants.
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 12 (2d8+3) dégâts tranchants.
 
-_**Souffle de feu (Recharge 6)**_. Le bébécéphale zmey souffle un cône de feu de 9 mètres. Les créatures prises dans le cône subissent 16 (3d10) dégâts de feu, la moitié seulement si elles réussissent un jet de sauvegarde de Dextérité DD 16.
+_**Souffle de feu (Recharge 6)**_. Le bébécéphale zmey souffle un cône de feu de 9 mètres. Les créatures prises dans le cône subissent 16 (3d10) dégâts de feu, la moitié seulement si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 16.

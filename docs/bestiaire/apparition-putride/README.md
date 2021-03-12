@@ -35,7 +35,7 @@ source: "Livre des monstres"
 source_page: 22
 ---
 ## Capacités
-_**Immobilité parfaite**_. L'apparition putride ensevelie sous la vase est considérée comme _invisible_.
+_**Immobilité parfaite**_. L'apparition putride ensevelie sous la vase est considérée comme [_invisible_](/gerer-la-sante-du-personnage/#invisible).
 
 _**Marche dans le marais**_. Une apparition putride ne subit pas de malus de déplacement en terrain marécageux.
 

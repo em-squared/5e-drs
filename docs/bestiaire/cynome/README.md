@@ -31,9 +31,9 @@ source: "Livre des monstres"
 source_page: 73
 ---
 ## Capacités
-_**Conscience du terrier**_. Un cynome est _avantagé_ à ses tests de Perception si au moins un autre cynome éveillé se trouve dans un rayon de 3 m.
+_**Conscience du terrier**_. Un cynome est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses tests de Perception si au moins un autre cynome éveillé se trouve dans un rayon de 3 m.
 
-_**Tactique de groupe**_. Un cynome est _avantagé_ à ses jets d'attaque quand sa cible se trouve dans un emplacement adjacent à au moins un autre cynome qui est capable de l'attaquer.
+_**Tactique de groupe**_. Un cynome est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque quand sa cible se trouve dans un emplacement adjacent à au moins un autre cynome qui est capable de l'attaquer.
 
 ## Actions
 _**Attaques multiples**_. Un cynome porte une attaque de _morsure_ et une attaque de _griffe_.

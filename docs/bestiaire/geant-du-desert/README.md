@@ -37,7 +37,7 @@ source: "Livre des monstres"
 source_page: 203
 ---
 ## Capacités
-**_Camouflage sablonneux._** Le géant est _avantagé_ sur les tests de Dextérité (Discrétion) pour se cacher en zone sablonneuse.
+**_Camouflage sablonneux._** Le géant est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) pour se cacher en zone sablonneuse.
 
 **_Passage par les terres gastes._** Le géant ignore le terrain difficile lié au sable, au gravier ou aux rochers.
 

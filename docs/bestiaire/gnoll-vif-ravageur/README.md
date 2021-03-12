@@ -34,11 +34,11 @@ source: "Livre des monstres"
 source_page: 405
 ---
 ## Capacités
-_**Harcèlement**_. Si le gnoll attaque deux créatures lors d'un même tour, la première est _désavantagée_ sur ses jets d'attaque jusqu'à la fin de son prochain tour.
+_**Harcèlement**_. Si le gnoll attaque deux créatures lors d'un même tour, la première est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets d'attaque jusqu'à la fin de son prochain tour.
 
 _**Course éclair**_. Le gnoll peut _se précipiter_ ou _se désengager_ par une action bonus.
 
-_**Tactique de meute**_. Le gnoll est _avantagé_ sur les jets d'attaque contre une créature si au moins l'un de ses alliés non _neutralisé_ se trouve dans un rayon de 1,50 mètre autour d'elle.
+_**Tactique de meute**_. Le gnoll est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre une créature si au moins l'un de ses alliés non [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 ## Actions
 _**Attaques multiples**_. Le gnoll fait une attaque de _morsure_ et deux de _hache d'armes_.

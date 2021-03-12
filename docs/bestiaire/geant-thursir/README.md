@@ -31,7 +31,7 @@ source: "Livre des monstres"
 source_page: 208
 ---
 ## Capacités
-_**Estomac en titane**_. Le géant peut dévorer la moitié de son poids en nourriture sans effet néfaste. Il est _avantagé_ contre tout ce qui pourrait lui donner l'état _empoisonné_. On trouve fréquemment de la nourriture empoisonnée ou gâtée dans l'antre d'un thursir.
+_**Estomac en titane**_. Le géant peut dévorer la moitié de son poids en nourriture sans effet néfaste. Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre tout ce qui pourrait lui donner l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). On trouve fréquemment de la nourriture empoisonnée ou gâtée dans l'antre d'un thursir.
 
 ## Actions
 _**Attaques multiples**_. Le géant fait deux attaques de _marteau de guerre_.

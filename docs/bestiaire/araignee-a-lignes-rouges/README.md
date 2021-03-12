@@ -12,22 +12,22 @@ abilityScores:
   int: 1
   sag: 10
   cha: 2
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
   - name: "perception"
-movement: 
+movement:
   walk: 9
   climb: 9
-senses: 
+senses:
   darkvision: 18
-conditionImmunities: 
+conditionImmunities:
   - "charme"
   - "terrorise"
-damageTypeImmunities: 
+damageTypeImmunities:
   - "psychique"
-languages: 
+languages:
   - "—"
 source: "Livre des monstres"
 source_page: 23
@@ -39,7 +39,7 @@ _**Pattes d'araignée**_. L'araignée peut escalader les surfaces difficiles, y 
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1 dégât perforant. La cible doit réussir un jet de sauvegarde de Consitution DD 10, sans quoi elle subit 3 (1d6) dégâts de poison et se retrouve _empoisonnée_ jusqu'au début du prochain tour de l'araignée. Une créature rate automatiquement le jet de sauvegarde et subit 1d6 dégâts de poison supplémentaires si une autre araignée à lignes rouges la mord alors qu'elle est déjà _empoisonnée_ ainsi.
+_Touché_ : 1 dégât perforant. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Consitution DD 10, sans quoi elle subit 3 (1d6) dégâts de poison et se retrouve [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'au début du prochain tour de l'araignée. Une créature rate automatiquement le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et subit 1d6 dégâts de poison supplémentaires si une autre araignée à lignes rouges la mord alors qu'elle est déjà [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) ainsi.
 
 _**Ligne de plongée**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 18 m, une cible.  
-_Touché_ : l'araignée se déplace immédiatement de toute la longueur du filament de toile (18 mètres au maximum) jusqu'à atteindre sa cible qu'elle mord en étant _avantagée_. Cette attaque fonctionne uniquement si l'araignée est en hauteur par rapport à sa cible et à au moins 3 mètres d'elle.
+_Touché_ : l'araignée se déplace immédiatement de toute la longueur du filament de toile (18 mètres au maximum) jusqu'à atteindre sa cible qu'elle mord en étant [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Cette attaque fonctionne uniquement si l'araignée est en hauteur par rapport à sa cible et à au moins 3 mètres d'elle.

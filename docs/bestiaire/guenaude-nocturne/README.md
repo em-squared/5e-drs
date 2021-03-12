@@ -54,7 +54,7 @@ _**Incantation innée**_. La caractéristique d'incantation de la guenaude est l
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_projectile magique_](/grimoire/projectile-magique/)
 * _**2/jour chacun**_ : [_changement de plan_](/grimoire/changement-de-plan/) (elle-même uniquement), [_rayon affaiblissant_](/grimoire/rayon-affaiblissant/), [_sommeil_](/grimoire/sommeil/)
 
-_**Résistance à la magie**_. La guenaude obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La guenaude obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Changer de forme**_. La guenaude peut se métamorphoser par magie en une femme humanoïde de taille M ou P, ou reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Elle retrouve sa véritable forme au moment de sa mort.

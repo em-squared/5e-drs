@@ -34,7 +34,7 @@ source: "Créatures & Oppositions"
 source_page: 255
 ---
 ## Capacités
-_**Résistance à la magie**_. Le satyre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le satyre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96 m, une cible.  

@@ -46,7 +46,7 @@ source_page: 144
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.
 
-_**Résistance légendaire (3/jour)**_. Si le dragon rate un jet de sauvegarde, il peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.
 
 _**Monstre assiégeur**_. La quantité de dégâts que le dragon inflige aux objets et aux structures est doublée.
 
@@ -62,9 +62,9 @@ _Touché_ : 14 (2d6 + 7) dégâts tranchants.
 _**Queue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 16 (2d8 + 7) dégâts contondants.
 
-_**Présence terrifiante**_. Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36 mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 17 ou être _terrorisées_ pendant 1 minute. Une créature refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24 heures qui suivent.
+_**Présence terrifiante**_. Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36 mètres de lui et qui sont conscientes de sa présence doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 17 ou être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24 heures qui suivent.
 
-_**Souffle des marées (Recharge 5-6)**_. Le dragon crache un jet dévastateur d'eau glacée sur un cône de 18 mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 19. Sur un échec, une cible subit 33 (6d10) dégâts contondants plus 33 (6d10) dégâts de froid et elle se trouve repoussée de 9 mètres en arrière et jetée _à terre_. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n'est pas repoussée ni jetée _à terre_.
+_**Souffle des marées (Recharge 5-6)**_. Le dragon crache un jet dévastateur d'eau glacée sur un cône de 18 mètres. Chaque créature qui se trouve dans la zone affectée doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 19. Sur un échec, une cible subit 33 (6d10) dégâts contondants plus 33 (6d10) dégâts de froid et elle se trouve repoussée de 9 mètres en arrière et jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si elle réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), la créature subit la moitié des dégâts et n'est pas repoussée ni jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 ## Actions légendaires
 Le dragon peut faire trois actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, le dragon récupère les actions légendaires dépensées.
@@ -73,4 +73,4 @@ _**Détecter**_. Le dragon fait un test de Sagesse (Perception).
 
 _**Attaque avec la queue**_. Le dragon fait une attaque de _queue_.
 
-_**Attaque avec les ailes (coûte 2 actions)**_. Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 20 ou subir 14 (2d6 + 7) dégâts contondants et se trouver jetée _à terre_. Le dragon peut alors se déplacer de la moitié de sa vitesse de vol ou de la moitié de sa vitesse de nage s'il est dans l'eau.
+_**Attaque avec les ailes (coûte 2 actions)**_. Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 20 ou subir 14 (2d6 + 7) dégâts contondants et se trouver jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Le dragon peut alors se déplacer de la moitié de sa vitesse de vol ou de la moitié de sa vitesse de nage s'il est dans l'eau.

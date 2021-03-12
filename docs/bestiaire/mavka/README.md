@@ -44,7 +44,7 @@ source: "Livre des monstres"
 source_page: 289
 ---
 ## Capacités
-_**Incantation innée**_. La mavka utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :
+_**Incantation innée**_. La mavka utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16, +8 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :
 * **Constant** : [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)
 * **À volonté** : [_création ou destruction d'eau_](/grimoire/creation-ou-destruction-d-eau/), [_lumières dansantes_](/grimoire/lumieres-dansantes/), [_rayon de givre_](/grimoire/rayon-de-givre/), [_résistance_](/grimoire/resistance/), _carreau ensorcelé_
 * **3/jour chacun** : [_ténèbres_](/grimoire/tenebres/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/), [_blessure_](/grimoire/blessure/), [_invisibilité_](/grimoire/invisibilite/), [_silence_](/grimoire/silence/)
@@ -52,7 +52,7 @@ _**Incantation innée**_. La mavka utilise le Charisme comme caractéristique d'
 
 _**Monture de cauchemar**_. Une mavka est liée à un destrier noir à sa création. 95% du temps, on la rencontre avec sa monture.
 
-_**Hypersensibilité à la lumière du soleil**_. La mavka subit 20 dégâts radiants quand elle commence son tour à la lumière du soleil. Sous cette lumière, elle est _désavantagée_ sur les jets d'attaque et les tests de caractéristique.
+_**Hypersensibilité à la lumière du soleil**_. La mavka subit 20 dégâts radiants quand elle commence son tour à la lumière du soleil. Sous cette lumière, elle est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque et les tests de caractéristique.
 
 ## Actions
 _**Attaques multiples**_. La mavka fait deux attaques de _coup_.

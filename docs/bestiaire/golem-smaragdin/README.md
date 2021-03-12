@@ -38,7 +38,7 @@ source_page: 215
 ## Capacités
 _**Forme immuable**_. Le golem est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
 
-_**Résistance à la magie**_. Le golem est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le golem est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Armes magiques**_. Les attaques d'arme du golem sont magiques.
 
@@ -50,4 +50,4 @@ _**Attaques multiples**_. Le golem fait deux attaques de _coup_.
 _**Coup**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 25 (4d8 + 7) dégâts contondants.
 
-_**Libérer un sort**_. Le golem peut libérer un effet de sort absorbé qui explose dans une sphère d'énergie émeraude centrée sur le golem d'un rayon de 3 mètres par niveau de sort absorbé. En dehors du golem, toutes les créatures dans la zone d'effet subissent 7 (2d6) dégâts de foudre par niveau du sort absorbé, ou la moitié seulement pour celles qui réussissent un jet de sauvegarde de Dextérité DD 18. Les créatures qui ratent le jet de sauvegarde sont de plus _aveuglées_ jusqu'à la fin du prochain tour du golem.
+_**Libérer un sort**_. Le golem peut libérer un effet de sort absorbé qui explose dans une sphère d'énergie émeraude centrée sur le golem d'un rayon de 3 mètres par niveau de sort absorbé. En dehors du golem, toutes les créatures dans la zone d'effet subissent 7 (2d6) dégâts de foudre par niveau du sort absorbé, ou la moitié seulement pour celles qui réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 18. Les créatures qui ratent le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont de plus [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin du prochain tour du golem.

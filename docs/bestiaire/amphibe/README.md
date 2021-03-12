@@ -40,7 +40,7 @@ source_page: 25
 ## Capacités
 _**Amphibie**_. L'amphibe peut respirer à l'air libre et sous l'eau.
 
-_**Avantage aquatique**_. Sous l'eau, l'amphibe bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses tests de Discrétion et de Perception, ainsi qu'à ses jets de sauvegarde de Dextérité visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action [_se précipiter_](/combattre/#se-precipiter).
+_**Avantage aquatique**_. Sous l'eau, l'amphibe bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses tests de Discrétion et de Perception, ainsi qu'à ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action [_se précipiter_](/combattre/#se-precipiter).
 
 _**Pattes arrières**_. L'amphibe gagne 2 attaques de griffes supplémentaires avec ses pattes arrières lorsqu'il attaque en nageant.
 

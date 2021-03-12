@@ -37,7 +37,7 @@ _**Fouissement**_. Les canitaupes juggernauts ne peuvent pas traverser la roche 
 
 _**Férocité (1/jour)**_. Quand un canitaupe juggernaut est réduit à 0 point de vie, il ne meurt qu'à la fin de son tour suivant.
 
-_**Solide charpente**_. Il faut considérer qu'un canitaupe juggernaut fait une catégorie de taille de plus que sa taille normale si cela est à son avantage (par exemple pour les tests faits pour empoigner, repousser ou faire un croche-pied, mais pas pour se faufiler ou sa CA). Il est _avantagé_ contre les tentatives magiques de le repousser avec des effets comme bourrasque ou onde de choc.
+_**Solide charpente**_. Il faut considérer qu'un canitaupe juggernaut fait une catégorie de taille de plus que sa taille normale si cela est à son avantage (par exemple pour les tests faits pour empoigner, repousser ou faire un croche-pied, mais pas pour se faufiler ou sa CA). Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre les tentatives magiques de le repousser avec des effets comme bourrasque ou onde de choc.
 
 _**Rage du tueur de vers**_. On raconte que des meutes de canitaupes juggernauts sauvages affrontent des monstres dans les sombres cavernes souterraines du monde. Si un canitaupe juggernaut fait couler le sang d'une vermine, d'un ver pourpre ou d'un autre invertébré souterrain, il gagne un bonus de +4 à sa Force et à sa Constitution, mais subit un malus de -2 à sa CA. La rage du tueur de vers dure un nombre de rounds égal à 1 + le modificateur de Constitution du canitaupe (avec un minimum de 1 round). Il ne peut pas mettre fin volontairement à cet état tant que les créatures qui l'ont déclenché vivent encore.
 

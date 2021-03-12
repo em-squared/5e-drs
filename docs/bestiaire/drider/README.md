@@ -34,7 +34,7 @@ source: "Créatures & Oppositions"
 source_page: 128
 ---
 ## Capacités
-_**Ascendance féerique**_. Le drider obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
+_**Ascendance féerique**_. Le drider obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
 
 _**Incantation innée**_. La caractéristique d'incantation du drider est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Le drider peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes/)

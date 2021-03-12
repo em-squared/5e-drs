@@ -35,13 +35,13 @@ source: "Livre des monstres"
 source_page: 423
 ---
 ## Capacités
-_**Résistance naine**_. Le mage des anneaux nains est _avantagé_ sur les jets de sauvegarde contre le poison.
+_**Résistance naine**_. Le mage des anneaux nains est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le poison.
 
 _**Magie des anneaux**_. Le mage des anneaux peut intégrer un sort ayant comme portée « personnelle » ou « contact » dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
 
 _**Bâton aux anneaux focaliseur**_. Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
 
-_**Incantation**_. Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
+_**Incantation**_. Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
 * **Tours de magie (à volonté)** : [_main du mage_](/grimoire/main-du-mage/), [_poigne électrique_](/grimoire/poigne-electrique/), [_trait de feu_](/grimoire/trait-de-feu/), [_viser juste_](/grimoire/viser-juste/)
 * **Niveau 1 (4 emplacements)** : [_bouclier_](/grimoire/bouclier/), [_projectile magique_](/grimoire/projectile-magique/), [_repli expéditif_](/grimoire/repli-expeditif/), [_vague tonnante_](/grimoire/vague-tonnante/)
 * **Niveau 2 (3 emplacements)** : [_pas brumeux_](/grimoire/pas-brumeux/), [_toile d'araignée_](/grimoire/toile-d-araignee/)

@@ -43,9 +43,9 @@ _**Carapace réfléchissante**_. Lancez un d6 chaque fois que la tarasque est la
 
 _**Monstre assiégeur**_. La tarasque inflige des dégâts doublés aux objets et aux structures.
 
-_**Résistance à la magie**_. La tarasque obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La tarasque obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Résistance légendaire (3/jour)**_. La tarasque peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. La tarasque peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples**_. La tarasque peut utiliser sa _Présence terrifiante_. Elle effectue ensuite cinq attaques : une avec sa morsure, deux avec ses griffes, une avec ses cornes et une avec sa queue. Elle peut utiliser son action _Engloutir_ à la place de sa morsure.

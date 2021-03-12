@@ -37,9 +37,9 @@ source: "Livre des monstres"
 source_page: 172
 ---
 ## Capacités
-_**Odorat aiguisé**_. Un erina est _avantagé_ lors de ses tests de Sagesse (Perception) basés sur l'odorat.
+_**Odorat aiguisé**_. Un erina est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Sagesse (Perception) basés sur l'odorat.
 
-_**Vigoureux**_. Un erina est _avantagé_ lors de ses jets de sauvegarde contre le poison.
+_**Vigoureux**_. Un erina est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le poison.
 
 _**Aiguilles**_. Un ennemi qui touche un erina avec une attaque de corps à corps alors qu'il se trouve dans un rayon de 1,50 m subit 5 (2d4) dégâts perforants.
 

@@ -13,29 +13,29 @@ abilityScores:
   int: 11
   sag: 13
   cha: 11
-ac: 
+ac:
   armorType: "armure de cuir clouté"
-skills: 
+skills:
   - name: "discretion"
   - name: "nature"
   - name: "perception"
     isExpert: true
   - name: "survie"
-movement: 
+movement:
   walk: 9
-senses: 
-languages: 
+senses:
+languages:
   - "commun"
   - "elfique"
 source: "Livre des monstres"
 source_page: 418
 ---
 ## Capacités
-_**Chasseur de bêtes**_. L'archer vétéran elfique est _avantagé_ sur les tests de Sagesse (Survie) pour suivre la piste d'une bête et sur les tests d'Intelligence (Nature) pour se souvenir d'une information à propos d'une bête.
+_**Chasseur de bêtes**_. L'archer vétéran elfique est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Survie) pour suivre la piste d'une bête et sur les tests d'Intelligence (Nature) pour se souvenir d'une information à propos d'une bête.
 
-_**Ascendance féerique**_. L'archer vétéran est _avantagé_ sur les jets de sauvegarde pour éviter d'être _charmé_ et il est impossible de l'endormir par magie.
+_**Ascendance féerique**_. L'archer vétéran est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour éviter d'être [_charmé_](/gerer-la-sante-du-personnage/#charme) et il est impossible de l'endormir par magie.
 
-_**Vue et ouïe aiguisées**_. L'archer vétéran est _avantagé_ sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.
+_**Vue et ouïe aiguisées**_. L'archer vétéran est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.
 
 _**Armes magiques**_. Les attaques d'arme de l'archer vétéran sont magiques.
 

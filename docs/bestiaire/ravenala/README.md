@@ -41,9 +41,9 @@ source: "Livre des monstres"
 source_page: 349
 ---
 ## Capacités
-_**Résistance à la magie**_. Le ravenala est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le ravenala est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Incantation innée**_. Le ravenala utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le ravenala utilise la Sagesse comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_enchevêtrement_](/grimoire/enchevetrement/), [_sommeil_](/grimoire/sommeil/)
 * **1/jour chacun** : [_guérison_](/grimoire/guerison/), [_mur d'épines_](/grimoire/mur-d-epines/)
 
@@ -56,6 +56,6 @@ _**Coup**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m
 _Touché_ : 12 (2d6 + 5) dégâts contondants.
 
 _**Éclatement de la cosse**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 9/36 m, une cible.  
-_Touché_ : 8 (1d6 + 5) dégâts contondants. La cible et les créatures dans un rayon de 1,50 mètre autour d'elle subissent aussi 5 (2d4) dégâts perforants ou la moitié seulement si elles réussissent un jet de sauvegarde de Dextérité DD 15.
+_Touché_ : 8 (1d6 + 5) dégâts contondants. La cible et les créatures dans un rayon de 1,50 mètre autour d'elle subissent aussi 5 (2d4) dégâts perforants ou la moitié seulement si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15.
 
-_**Complainte de l'enveloppé**_. Le ravenala vise une créature située dans un rayon de 1,50 mètre. Elle doit réussir un jet de sauvegarde de Dextérité DD 13, sans quoi le ravenala l'_empoigne_ et l'_entrave_.
+_**Complainte de l'enveloppé**_. Le ravenala vise une créature située dans un rayon de 1,50 mètre. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13, sans quoi le ravenala l'_empoigne_ et l'_entrave_.

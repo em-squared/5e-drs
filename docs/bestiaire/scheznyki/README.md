@@ -35,13 +35,13 @@ source: "Livre des monstres"
 source_page: 356
 ---
 ## Capacités
-_**Incantation innée**_. Le scheznyki utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le scheznyki utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_lumières dansantes_](/grimoire/lumieres-dansantes/), [_ténèbres_](/grimoire/tenebres/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/), [_invisibilité_](/grimoire/invisibilite/)\*, [_vol_](/grimoire/vol/)\*, [_main du mage_](/grimoire/main-du-mage/), [_rayon de givre_](/grimoire/rayon-de-givre/) (\*seulement quand il porte un chapeau de volatilisateur)
 * **5/jour chacun** : [_projectile magique_](/grimoire/projectile-magique/), [_rayon affaiblissant_](/grimoire/rayon-affaiblissant/), [_image silencieuse_](/grimoire/image-silencieuse/)
 * **3/jour chacun** : [_localiser un objet_](/grimoire/localiser-un-objet/) (dans un rayon de 900 mètres pour retrouver un chapeau de volatilisateur), [_fou rire_](/grimoire/fou-rire/), [_toile d'araignée_](/grimoire/toile-d-araignee/)
 * **1/jour chacun** : [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_dominer un humanoïde_](/grimoire/dominer-un-humanoide/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)
 
-_**Résistance à la magie**_. Le scheznyki est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le scheznyki est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le scheznyki fait quatre attaques de _pic de guerre_ ou deux d'_arbalète de poing_.

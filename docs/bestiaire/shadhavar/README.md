@@ -27,13 +27,13 @@ source: "Livre des monstres"
 source_page: 364
 ---
 ## Capacités
-_**Incantation innée**_. Le shadhavar utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 13). Il peut lancer les sorts suivants sans composantes matérielles :
+_**Incantation innée**_. Le shadhavar utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants sans composantes matérielles :
 * **À volonté** : [_déguisement_](/grimoire/deguisement/) (en cheval ou licorne seulement)
 * **2/jour** : [_ténèbres_](/grimoire/tenebres/) (centrées sur lui, se déplacent avec lui)
 
 _**Armes magiques**_. L'attaque de corne du shadhavar est magique.
 
-_**Mélodie plaintive (3/jour)**_. Le shadhavar peut utiliser une action bonus pour jouer une mélodie captivante à l'aide de sa corne creuse. Toutes les créatures situées dans un rayon de 18 mètres qui l'entendent doivent réussir un jet de sauvegarde de Sagesse DD 13, sans quoi elles sont _charmées_ jusqu'au début du prochain tour du shadhavar. Une créature ainsi _charmée_ est _neutralisée_, sa vitesse est réduite à 0 et le shadhavar est _avantagé_ sur ses jets d'attaque contre elle.
+_**Mélodie plaintive (3/jour)**_. Le shadhavar peut utiliser une action bonus pour jouer une mélodie captivante à l'aide de sa corne creuse. Toutes les créatures situées dans un rayon de 18 mètres qui l'entendent doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 13, sans quoi elles sont [_charmées_](/gerer-la-sante-du-personnage/#charme) jusqu'au début du prochain tour du shadhavar. Une créature ainsi [_charmée_](/gerer-la-sante-du-personnage/#charme) est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise), sa vitesse est réduite à 0 et le shadhavar est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets d'attaque contre elle.
 
 _**Vision dans l'ombre**_. La vision dans le noir du shadhavar fonctionne dans les ténèbres magiques.
 

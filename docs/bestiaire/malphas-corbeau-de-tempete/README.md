@@ -35,11 +35,11 @@ source: "Livre des monstres"
 source_page: 280
 ---
 ## Capacités
-_**Incantation innée**_. Le malphas utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le malphas utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_projectile magique_](/grimoire/projectile-magique/)
 * **1/jour** : [_hâte_](/grimoire/hate/)
 
-_**Sensibilité à la lumière du soleil**_. Un malphas est _désavantagé_ lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé à la lumière du soleil.
+_**Sensibilité à la lumière du soleil**_. Un malphas est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé à la lumière du soleil.
 
 _**Terreur nocturne (1/round)**_. Immédiatement après avoir réussi une attaque de corps à corps, le malphas peut, par une action bonus, lancer un [_projectile magique_](/grimoire/projectile-magique/) sur la même cible à travers son épée.
 

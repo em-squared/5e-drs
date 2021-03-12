@@ -40,7 +40,7 @@ source_page: 245
 ## Capacités
 _**Perception des lanceurs de sorts**_. Le parasite arcanique détecte automatiquement et instantanément les créatures usant de sorts ou de pouvoirs magiques dans un rayon de 36 mètres.
 
-_**Résistance à la magie**_. Le parasite arcanique a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le parasite arcanique a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Agonie explosive**_. Lorsque le parasite arcanique meurt, il explose en libérant une décharge magique. Chaque créature située à 3 mètres ou moins subit 3d8 points de dégâts dont la nature dépend de la couleur du parasite et seulement la moitié en cas de réussite d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité (DD 11). Couleur du parasites et type de dégâts :  
 _**1. Rouge**_ – feu  

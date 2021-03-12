@@ -37,7 +37,7 @@ source: "Livre des monstres"
 source_page: 123
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation innée d'un domovoï est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un domovoï est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_invisibilité_](/grimoire/invisibilite/), [_modifier son apparence_](/grimoire/modifier-son-apparence/)
 * **3/jour chacun** : [_hâte_](/grimoire/hate/), [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/), [_ténèbres_](/grimoire/tenebres/)
 

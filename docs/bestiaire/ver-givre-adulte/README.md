@@ -43,9 +43,9 @@ _**Enveloppé de glace et de mort**_. Un ver givré est enveloppé d'une aura de
 _**Attaques multiples**_. Le ver givré fait deux attaques de _tentacules_.
 
 _**Tentacules**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 8 (1d6 + 5) dégâts tranchants. Si les deux attaques de tentacules touchent une même cible au cours du même tour, cette cible est _empoignée_ (évasion DD 15). Le ver givré ne peut empoigner qu'une créature à la fois et ne peut pas utiliser ses attaques de dévorer ni de tentacules contre une autre cible tant que dure l'empoignade.
+_Touché_ : 8 (1d6 + 5) dégâts tranchants. Si les deux attaques de tentacules touchent une même cible au cours du même tour, cette cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Le ver givré ne peut empoigner qu'une créature à la fois et ne peut pas utiliser ses attaques de dévorer ni de tentacules contre une autre cible tant que dure l'empoignade.
 
 _**Dévorer**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 18 (2d12 + 5) dégâts tranchants. Si le ver givré empoigne la cible, elle subit 13 (2d12) dégâts de froid supplémentaires.
 
-_**Pluie de glace noire (Recharge 5-6)**_. Le ver givré pulvérise un liquide à l'odeur immonde sur une ligne de 6 mètres de long pour 1,50 de large. Toutes les créatures de la ligne subissent 26 (4d12) dégâts nécrotiques et sont _aveuglées_. Un jet de sauvegarde de Constitution DD 15 réussi évite l'aveuglement. Une créature _aveuglée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet sur une réussite.
+_**Pluie de glace noire (Recharge 5-6)**_. Le ver givré pulvérise un liquide à l'odeur immonde sur une ligne de 6 mètres de long pour 1,50 de large. Toutes les créatures de la ligne subissent 26 (4d12) dégâts nécrotiques et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle). Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 réussi évite l'aveuglement. Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et met un terme à l'effet sur une réussite.

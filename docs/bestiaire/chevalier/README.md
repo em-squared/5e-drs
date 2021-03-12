@@ -27,7 +27,7 @@ source: "Créatures & Oppositions"
 source_page: 331
 ---
 ## Capacités
-_**Brave**_. Le chevalier obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être terrorisé.
+_**Brave**_. Le chevalier obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être terrorisé.
 
 ## Actions
 _**Arbalète lourde**_. _Attaque d'arme à distance_ : +2 pour toucher, portée 30/120 m, une cible.  

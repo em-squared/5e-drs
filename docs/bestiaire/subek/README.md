@@ -37,7 +37,7 @@ _**Retenir son souffle**_. Le subek peut retenir son souffle 15 minutes.
 
 _**Fièvre des crues**_. Lors de la saison des pluies, le subek se laisse submerger par la malveillance et la soif de sang. Il devient chaotique mauvais, gagne le trait _frénésie sanguinaire_ et perd sa capacité à parler le commun ainsi que ses bonus en Histoire et Investigation.
 
-_**Frénésie sanguinaire**_. Le subek est _avantagé_ sur les jets d'attaque au corps à corps contre une créature qui ne possède pas la totalité de ses points de vie.
+_**Frénésie sanguinaire**_. Le subek est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque au corps à corps contre une créature qui ne possède pas la totalité de ses points de vie.
 
 ## Actions
 _**Attaques multiples**_. Le subek porte une attaque de _morsure_ et une attaque de _griffes_. S'il touche une même cible avec les deux attaques, il peut faire une attaque de _malmener_ contre cette cible par une action bonus.

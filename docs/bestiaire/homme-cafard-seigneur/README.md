@@ -37,9 +37,9 @@ source: "Livre des monstres"
 source_page: 238
 ---
 ## Capacités
-_**Résistant**_. L'escarmoucheur est _avantagé_ lors des jets de sauvegarde de Constitution.
+_**Résistant**_. L'escarmoucheur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution.
 
-_**Déplaisant**_. L'escarmoucheur est _désavantagé_ sur les tests de Représentation et de Persuasion lors d'interactions avec des membres d'autres races.
+_**Déplaisant**_. L'escarmoucheur est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Représentation et de Persuasion lors d'interactions avec des membres d'autres races.
 
 ## Actions
 _**Attaques multiples**_. Le seigneur homme-cafard fait deux attaques de corps à corps ou deux attaques de _fléchette_.

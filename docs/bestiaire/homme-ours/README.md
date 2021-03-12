@@ -28,9 +28,9 @@ source: "Livre des monstres"
 source_page: 244
 ---
 ## Capacités
-_**Frénésie (1/repos)**_. Par une action bonus, un homme-ours peut entrer dans un état de frénésie de berserk qui dure pendant 1 minute. Tant qu'il se trouve dans cet état, il est résistant aux dégâts contondants, perforants et tranchants et est _avantagé_ à ses jets d'attaque. Les jets d'attaques qui prennent pour cible un homme-ours frénétique sont _avantagés_.
+_**Frénésie (1/repos)**_. Par une action bonus, un homme-ours peut entrer dans un état de frénésie de berserk qui dure pendant 1 minute. Tant qu'il se trouve dans cet état, il est résistant aux dégâts contondants, perforants et tranchants et est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque. Les jets d'attaques qui prennent pour cible un homme-ours frénétique sont [_avantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
-_**Odorat aiguisé**_. Un homme-ours est _avantagé_ aux tests de Sagesse (Perception) basés sur l'odorat.
+_**Odorat aiguisé**_. Un homme-ours est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 _**Attaques multiples**_. Un homme ours porte trois attaques : une avec sa _hache d'armes_, une avec son _marteau de guerre_ et une attaque de _morsure_.

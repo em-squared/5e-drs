@@ -53,4 +53,4 @@ _**Attaques multiples**_. Le tophet porte deux attaques, mais pas plus d'une de 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 12 (1d10 + 7) dégâts contondants. La cible est jetée dans le ventre brûlant du tophet si l'attaque se solde par un coup critique.
 
-_**Jet de flammes**_. Le tophet vise un point situé dans son champ de vision et un rayon de 30 mètres. Toutes les cibles dans un rayon de 3 mètres autour de ce point subissent 22 (4d10) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16.
+_**Jet de flammes**_. Le tophet vise un point situé dans son champ de vision et un rayon de 30 mètres. Toutes les cibles dans un rayon de 3 mètres autour de ce point subissent 22 (4d10) dégâts de feu, ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 16.

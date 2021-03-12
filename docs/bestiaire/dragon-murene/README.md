@@ -60,9 +60,9 @@ _**Glisser dans la tempête**_. Pendant les tempêtes, une murène dragon peut t
 _**Attaques multiples**_. La murène dragon fait une attaque de _morsure_ et une attaque avec la _queue_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 26 (4d8 + 8) dégâts perforants plus 5 (1d10) dégâts de foudre, et la cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être _paralysée_ pour 1d4 rounds.
+_Touché_ : 26 (4d8 + 8) dégâts perforants plus 5 (1d10) dégâts de foudre, et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 18 ou être [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pour 1d4 rounds.
 
 _**Coup de queue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 30 (5d8 + 8) dégâts contondants plus 5 (1d10) dégâts de foudre et la cible est repoussée en arrière d'un maximum de 3 mètres.
 
-_**Souffle de foudre (Recharge 6)**_. La murène dragon crache de la foudre sur une ligne de 18 mètres de long sur 3 mètres de large. Les créatures qui se trouvent sur cette ligne subissent 55 (10d10) dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 18.
+_**Souffle de foudre (Recharge 6)**_. La murène dragon crache de la foudre sur une ligne de 18 mètres de long sur 3 mètres de large. Les créatures qui se trouvent sur cette ligne subissent 55 (10d10) dégâts de foudre, ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 18.

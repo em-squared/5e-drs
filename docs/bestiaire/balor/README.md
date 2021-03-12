@@ -46,7 +46,7 @@ _**Armes magiques**_. Les attaques d'arme du balor sont magiques.
 
 _**Aura de feu**_. Au début de chacun des tours du balor, les créatures situées à 1,50 mètre ou moins de lui subissent 10 (3d6) dégâts de feu et les objets inflammables dans l'aura qui ne sont équipés ou transportés par personne prennent feu. Les créatures qui touchent le balor ou qui réussissent une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subissent 10 (3d6) dégâts de feu.
 
-_**Résistance à la magie**_. Le balor obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le balor obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Spasmes d'agonie**_. Le balor explose quand il meurt, et toutes les créatures situées à 9 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 20 ; elles subissent 70 (20d6) dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite. L'explosion met le feu aux objets inflammables dans la zone qui ne sont équipés ou transportés par personne. Elle détruit également les armes du balor.
 

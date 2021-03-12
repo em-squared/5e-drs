@@ -35,7 +35,7 @@ source: "Livre des monstres"
 source_page: 308
 ---
 ## Capacités
-_**Renvoi flagrant**_. Tant que le champion monolithique se trouve dans une cour ou un château féerique, il peut substituer un double d'ombre à sa cible quand il réussit un coup à l'_épée à deux mains_. La cible doit réussir un jet de sauvegarde de Charisme DD 14, sans quoi elle devient _invisible_, silencieuse et _paralysée_ tandis qu'une version illusoire d'elle-même reste visible et audible... et sous le contrôle du champion, à hurler qu'il faut battre en retraite par exemple. Ce pouvoir ne fonctionne pas en dehors des domaines féeriques.
+_**Renvoi flagrant**_. Tant que le champion monolithique se trouve dans une cour ou un château féerique, il peut substituer un double d'ombre à sa cible quand il réussit un coup à l'_épée à deux mains_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 14, sans quoi elle devient [_invisible_](/gerer-la-sante-du-personnage/#invisible), silencieuse et [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) tandis qu'une version illusoire d'elle-même reste visible et audible... et sous le contrôle du champion, à hurler qu'il faut battre en retraite par exemple. Ce pouvoir ne fonctionne pas en dehors des domaines féeriques.
 
 _**Flamme féerique**_. Le rituel qui alimente le champion monolithique lui confère une flamme intérieure qu'il peut utiliser pour renforcer son arme ou ses poings avec des dégâts de froid ou de feu, selon ses besoins.
 

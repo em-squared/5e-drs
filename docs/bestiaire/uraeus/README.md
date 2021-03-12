@@ -42,9 +42,9 @@ _**Lié au protégé**_. Par une action bonus, l'uraeus forme un lien magique av
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5 (1d6 + 2) dégâts perforants plus 9 (2d8) dégâts de poison. La cible doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est _empoisonnée_ pendant 1 minute. Tant qu'elle est ainsi _empoisonnée_, elle subit 9 (2d8) dégâts de poison au début de chacun de ses tours. Une créature _empoisonnée_ refait le jet de sauvegarde à la fin de son tour et met un terme à l'effet si elle le réussit.
+_Touché_ : 5 (1d6 + 2) dégâts perforants plus 9 (2d8) dégâts de poison. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12, sans quoi elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. Tant qu'elle est ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne), elle subit 9 (2d8) dégâts de poison au début de chacun de ses tours. Une créature [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de son tour et met un terme à l'effet si elle le réussit.
 
-_**Souffle incandescent (Recharge 5-6)**_. L'uraeus souffle un cône de feu de 4,50 mètres. Les créatures prises dans le cône subissent 10 (3d6) dégâts de feu, la moitié seulement si elles réussissent un jet de sauvegarde de Dextérité DD 12.
+_**Souffle incandescent (Recharge 5-6)**_. L'uraeus souffle un cône de feu de 4,50 mètres. Les créatures prises dans le cône subissent 10 (3d6) dégâts de feu, la moitié seulement si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 12.
 
 ## Réactions
 _**Sauveur lié**_. Quand le protégé de l'uraeus subit des dégâts, le serpent peut les transférer sur lui. Sa résistance aux dégâts et ses immunités ne s'appliquent pas aux dégâts transférés.

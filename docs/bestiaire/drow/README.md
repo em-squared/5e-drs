@@ -32,7 +32,7 @@ source: "Créatures & Oppositions"
 source_page: 130
 ---
 ## Capacités
-_**Ascendance féerique**_. Le drow obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
+_**Ascendance féerique**_. Le drow obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
 
 _**Incantation innée**_. La caractéristique d'incantation du drow est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11). Le drow peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_lumières dansantes_](/grimoire/lumieres-dansantes/)

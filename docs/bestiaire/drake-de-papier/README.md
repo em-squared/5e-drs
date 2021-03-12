@@ -45,4 +45,4 @@ _**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,5
 _Touché_ : 13 (3d6 + 3) dégâts tranchants.
 
 _**Queue (Recharge 5–6)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 16 (5d6 + 3) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est _neutralisée_ pendant 1 round.
+_Touché_ : 16 (5d6 + 3) dégâts tranchants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13, sans quoi elle est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) pendant 1 round.

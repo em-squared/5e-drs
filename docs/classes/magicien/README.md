@@ -159,7 +159,7 @@ Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
 **Divination : Prédiction**. Vous invoquez une vision du futur proche dont vous partagez la conscience avec vos alliés. Tous vos alliés jusqu'à une distance de 9 mètres bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leurs tests et leurs ennemis d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour les attaquer (sorts, attaques au corps-à-corps ou à distance) pendant un nombre de rounds égal à votre bonus de maîtrise. Vous devez terminer un repos long avant de pouvoir invoquer une nouvelle vision.
 
-**Enchantement : Présence envoûtante**. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être _charmées_.
+**Enchantement : Présence envoûtante**. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme).
 
 **Évocation : Sorts puissants**. Vous ajoutez votre bonus de maîtrise aux dégâts des sorts d'évocation. Si votre sort affecte plusieurs cibles, votre bonus de maîtrise ne s'applique qu'à une seule cible de votre choix. Si votre sort inflige des dégâts durant plusieurs rounds, votre bonus de dégât ne s'applique qu'au premier round.
 
@@ -274,7 +274,7 @@ Au niveau 6, vos études vous amènent à faire un nouveau choix. Soit vous vous
 
 Dans le premier cas, ignorez simplement les pouvoirs et les limitations décrits ci-dessous  ; dans le second, poursuivez votre lecture et appliquez les bénéfices et les inconvénients présentés.
 
-Vous choisissez un second élément de prédilection, cet élément ne doit toutefois pas être opposé au premier élément que vous avez choisi (feu est opposé à eau, air est opposé à terre).
+Vous choisissez un second élément de prédilection, cet élément ne doit toutefois pas être opposé au premier élément que vous avez choisi (feu est opposé à eau, air est opposé [_à terre_](/gerer-la-sante-du-personnage/#a-terre)).
 
 Vous gagnez l'aptitude puissance élémentaire correspondant à ce nouvel élément. Toutefois, vous ne pouvez l'utiliser qu'une fois entre deux repos long. Au niveau 10, vous obtenez l'aptitude de résistance élémentaire correspondant à cet élément. Au niveau 14, vous obtenez l'aptitude spécialisation élémentaire correspondant à cet élément et pouvez désormais utiliser votre aptitude de puissance élémentaire une fois après chaque repos court ou long.
 

@@ -45,9 +45,9 @@ source: "Livre des monstres"
 source_page: 391
 ---
 ## Capacités
-_**Spasmes d'agonie**_. Quand un guetteur étrangleur meurt, il libère toute la peur qu'il a consommée au cours de sa vie en une seule vague de terreur à déchirer l'âme. Toutes les créatures dans un rayon de 18 mètres doivent réussir un jet de sauvegarde de Charisme DD 19. Celles qui échouent sont _terrorisées_. Une créature effrayée subit 13 (2d12) dégâts psychiques au début de chacun de ses tours à cause de l'effroi accumulé au cours des siècles. Elle refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+_**Spasmes d'agonie**_. Quand un guetteur étrangleur meurt, il libère toute la peur qu'il a consommée au cours de sa vie en une seule vague de terreur à déchirer l'âme. Toutes les créatures dans un rayon de 18 mètres doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 19. Celles qui échouent sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise). Une créature effrayée subit 13 (2d12) dégâts psychiques au début de chacun de ses tours à cause de l'effroi accumulé au cours des siècles. Elle refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
-_**Incantation innée**_. Le guetteur utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 19). Il peut lancer les sorts suivants sans composantes matérielles :
+_**Incantation innée**_. Le guetteur utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19). Il peut lancer les sorts suivants sans composantes matérielles :
 * **À volonté** : [_léger comme une plume_](/grimoire/leger-comme-une-plume/)
 * **3/jour chacun** : [_assassin imaginaire_](/grimoire/assassin-imaginaire/), [_flou_](/grimoire/flou/), [_fusion dans la pierre_](/grimoire/fusion-dans-la-pierre/)
 * **1/jour chacun** : [_invisibilité supérieure_](/grimoire/invisibilite-superieure/), [_mauvais œil_](/grimoire/mauvais-oeil/), [_tentacules noirs_](/grimoire/tentacules-noirs/)
@@ -60,9 +60,9 @@ _**Se faufiler**_. Malgré leur taille, les guetteurs étrangleurs ont un corps 
 _**Attaques multiples**_. Le guetteur porte quatre attaques de _tentacules_.
 
 _**Tentacule**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 6 m, une cible.  
-_Touché_ : 20 (3d8 + 7) dégâts contondants et la cible est _empoignée_ (évasion DD 17). La cible est _entravée_ jusqu'à la fin de l'empoignade. Le guetteur peut empoigner une cible par tentacule.
+_Touché_ : 20 (3d8 + 7) dégâts contondants et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 17). La cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) jusqu'à la fin de l'empoignade. Le guetteur peut empoigner une cible par tentacule.
 
-_**Regard paralysant (Recharge 5–6)**_. Le guetteur peut viser une créature située dans un rayon de 18 mètres avec son étrange regard. La cible doit réussir un jet de sauvegarde de Sagesse DD 19, sans quoi elle est _paralysée_ pendant 1 minute. Elle refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une cible réussir son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre le regard du guetteur pendant les 24 heures qui suivent.
+_**Regard paralysant (Recharge 5–6)**_. Le guetteur peut viser une créature située dans un rayon de 18 mètres avec son étrange regard. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 19, sans quoi elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 minute. Elle refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une cible réussir son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou que l'effet se termine pour elle, elle est immunisée contre le regard du guetteur pendant les 24 heures qui suivent.
 
 ## Actions légendaires
 L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dessous. Il ne peut en effectuer qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, le guetteur étrangleur récupère les actions légendaires dépensées.

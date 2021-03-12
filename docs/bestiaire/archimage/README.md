@@ -50,7 +50,7 @@ _**Incantation**_. L'archimage est un lanceur de sorts de niveau 18. Sa caracté
 
 \*_L'archimage lance ces sorts sur lui-même avant un combat._
 
-_**Résistance à la magie**_. L'archimage bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. L'archimage bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Dague**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible.  

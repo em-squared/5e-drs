@@ -37,9 +37,9 @@ source_page: 387
 ## Capacités
 _**Précision mortelle**_. L'attaque de l'archer-pillard d'élite tosculi inflige 9 (2d8) dégâts supplémentaires (inclus plus bas).
 
-_**Esquiveur**_. Les attaques à distance contre l'archer-pillard d'élite tosculi sont _désavantagées_.
+_**Esquiveur**_. Les attaques à distance contre l'archer-pillard d'élite tosculi sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
-_**Odorat aiguisé**_. L'archer-pillard d'élite tosculi est _avantagé_ sur les tests de Sagesse (Perception) basés sur l'odorat.
+_**Odorat aiguisé**_. L'archer-pillard d'élite tosculi est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'odorat.
 
 _**Escarmoucheur**_. L'archer-pillard d'élite tosculi peut _se précipiter_ par une action bonus.
 

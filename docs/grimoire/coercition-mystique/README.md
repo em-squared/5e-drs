@@ -25,6 +25,6 @@ Vous imposez une coercition magique à une créature située à portée et dans 
 
 Vous pouvez lui donner n'importe quel ordre de votre choix, en dehors de ceux qui la mènent directement à la mort. Le sort se termine immédiatement si jamais vous donnez un ordre suicidaire.
 
-Vous pouvez mettre prématurément fin au sort en dépensant une action pour le dissiper. Les sorts _lever une malédiction_, _restauration supérieure_ et _souhait_ mettent aussi fin à ce sort.
+Vous pouvez mettre prématurément fin au sort en dépensant une action pour le dissiper. Les sorts [_lever une malédiction_](/grimoire/lever-une-malediction/), [_restauration supérieure_](/grimoire/restauration-superieure/) et [_souhait_](/grimoire/souhait/) mettent aussi fin à ce sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou 8, il dure 1 an. Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un le dissipe avec l'un des sorts mentionnés précédemment.

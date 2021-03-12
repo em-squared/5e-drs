@@ -20,7 +20,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous et un maximum de huit créatures consentantes à portée projetez vos corps astraux sur le plan astral (si vous vous trouvez déjà sur ce plan, le sort échoue et l'incantation est gâchée). Les corps physiques que vous laissez derrière vous sont _inconscients_, en état d'animation suspendue. Ils n'ont pas besoin de nourriture ni d'air et ne vieillissent pas.
+Vous et un maximum de huit créatures consentantes à portée projetez vos corps astraux sur le plan astral (si vous vous trouvez déjà sur ce plan, le sort échoue et l'incantation est gâchée). Les corps physiques que vous laissez derrière vous sont [_inconscients_](/gerer-la-sante-du-personnage/#inconscient), en état d'animation suspendue. Ils n'ont pas besoin de nourriture ni d'air et ne vieillissent pas.
 
 Votre corps astral ressemble fort à votre corps physique, jusqu'à reproduire son profil technique et dupliquer ses possessions. La principale différence, c'est le cordon argenté qui sort entre vos omoplates et se prolonge derrière vous, disparaissant du champ de vision après une trentaine de centimètres. C'est lui qui vous relie à votre corps physique. Tant que ce lien est intact, vous pourrez rentrer chez vous, mais s'il est coupé (ce qui se produit seulement si un effet le précise), votre âme est soudain séparée de votre corps et vous mourez sur-le-champ.
 

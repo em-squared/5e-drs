@@ -40,11 +40,11 @@ source_page: 419
 ## Capacités
 _**Clef de la prophétie**_. Le chef du culte de l'Ordre d'émeraude peut toujours agir lors d'un round de surprise, mais s'il ne remarque pas un ennemi, il est tout de même considéré comme surpris jusqu'à ce qu'il accomplisse une action. Il reçoit un bonus de +3 aux tests d'initiative.
 
-_**Incantation innée**_. Le chef de culte de l'Ordre d'émeraude utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le chef de culte de l'Ordre d'émeraude utilise la Sagesse comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **2/jour chacun** : [_détection des pensées_](/grimoire/detection-des-pensees/), [_hâte_](/grimoire/hate/), [_lenteur_](/grimoire/lenteur/), [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/)
 * **1/jour chacun** : [_suggestion_](/grimoire/suggestion/), [_téléportation_](/grimoire/teleportation/)
 
-_**Incantation**_. Le chef du culte de l'Ordre d'émeraude est un lanceur de sorts de niveau 10. Il utilise la Sagesse comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec les attaques de sort). Voici les sorts de clerc qu'il a préparés :
+_**Incantation**_. Le chef du culte de l'Ordre d'émeraude est un lanceur de sorts de niveau 10. Il utilise la Sagesse comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16, +8 pour toucher avec les attaques de sort). Voici les sorts de clerc qu'il a préparés :
 * **Tours de magie (à volonté)** : [_assistance_](/grimoire/assistance/), [_épargner les mourants_](/grimoire/epargner-les-mourants/), [_flamme sacrée_](/grimoire/flamme-sacree/), [_lumière_](/grimoire/lumiere/), [_thaumaturgie_](/grimoire/thaumaturgie/)
 * **Niveau 1 (4 emplacements)** : [_balisage_](/grimoire/balisage/), [_identification_](/grimoire/identification/), [_soin des blessures_](/grimoire/soin-des-blessures/)
 * **Niveau 2 (3 emplacements)** : [_arme spirituelle_](/grimoire/arme-spirituelle/), [_restauration inférieure_](/grimoire/restauration-inferieure/), [_silence_](/grimoire/silence/)

@@ -47,7 +47,7 @@ _**Incantation innée**_. La caractéristique d'incantation du déva est le Char
 * _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/)  
 * _**1/jour chacun**_ : [_communion_](/grimoire/communion/), [_rappel à la vie_](/grimoire/rappel-a-la-vie/)
 
-_**Résistance à la magie**_. Le déva obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le déva obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le déva effectue deux attaques au corps à corps.

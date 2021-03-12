@@ -50,7 +50,7 @@ _Touché_ : 10 (1d10 + 5) dégâts tranchants.
 _**Javeline**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 9/36 m, une cible.  
 _Touché_ : 8 (1d6 + 5) dégâts perforants.
 
-_**Tourbillon (recharge 5-6)**_. Le templier mécaforgé fait tournoyer sa coutille autour de lui. Toutes les créatures qui se trouvent dans un rayon de 3 m subissent 16 (3d10) dégâts tranchants, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16.
+_**Tourbillon (recharge 5-6)**_. Le templier mécaforgé fait tournoyer sa coutille autour de lui. Toutes les créatures qui se trouvent dans un rayon de 3 m subissent 16 (3d10) dégâts tranchants, ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 16.
 
 ## Réactions
 _**Parade**_. Le templier mécaforgé augmente sa CA de 3 contre une attaque de corps à corps qui devrait le toucher. Pour cela, il doit voir son assaillant et manier une arme de corps à corps.

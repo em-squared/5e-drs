@@ -46,4 +46,4 @@ _Touché_ : 17 (3d8+4) dégâts perforants.
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 13 (2d8+4) dégâts tranchants.
 
-_**Souffle empoisonné (Recharge 5-6)**_. Le lynx vaporeux souffle du brouillard empoisonné dans un rayon de 12 mètres, ce qui rend la visibilité nulle dans une zone sphérique autour de lui. Toute créature qui respire et termine son tour dans le brouillard doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est _empoisonnée_ pendant 1d4 + 1 rounds.
+_**Souffle empoisonné (Recharge 5-6)**_. Le lynx vaporeux souffle du brouillard empoisonné dans un rayon de 12 mètres, ce qui rend la visibilité nulle dans une zone sphérique autour de lui. Toute créature qui respire et termine son tour dans le brouillard doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14, sans quoi elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1d4 + 1 rounds.

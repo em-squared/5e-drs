@@ -33,7 +33,7 @@ source: "Créatures & Oppositions"
 source_page: 335
 ---
 ## Capacités
-_**Brave**_. Le gladiateur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
+_**Brave**_. Le gladiateur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
 
 _**Brutal**_. Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand le gladiateur réussit une attaque en la maniant (inclus dans l'attaque).
 

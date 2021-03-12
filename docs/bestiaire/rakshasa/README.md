@@ -34,7 +34,7 @@ source: "Créatures & Oppositions"
 source_page: 248
 ---
 ## Capacités
-_**Immunité limitée à la magie**_. Le rakshasa ne peut pas être affecté ou détecté par des sorts de niveau 6 ou moins, à moins qu'il ne le souhaite. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre tous les autres sorts et effets magiques.
+_**Immunité limitée à la magie**_. Le rakshasa ne peut pas être affecté ou détecté par des sorts de niveau 6 ou moins, à moins qu'il ne le souhaite. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre tous les autres sorts et effets magiques.
 
 _**Incantation innée**_. La caractéristique d'incantation du rakshasa est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 18, +10 pour toucher avec des attaques de sort). Le rakshasa peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_déguisement_](/grimoire/deguisement/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_illusion mineure_](/grimoire/illusion-mineure/), [_main du mage_](/grimoire/main-du-mage/)

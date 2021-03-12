@@ -31,7 +31,7 @@ source_page: 299
 ## Capacités
 _**Informe**_. La mélasse peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.
 
-_**Présence charmante**_. La mélasse dispose d'une capacité surnaturelle lui permettant de percevoir les émotions d'autrui et d'en jouer. Elle est _avantagée_ sur les tests de Charisme (Supercherie) opposé aux tests de Sagesse (Perspicacité ou Perception) destinés à percer sa ruse à jour.
+_**Présence charmante**_. La mélasse dispose d'une capacité surnaturelle lui permettant de percevoir les émotions d'autrui et d'en jouer. Elle est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Charisme (Supercherie) opposé aux tests de Sagesse (Perspicacité ou Perception) destinés à percer sa ruse à jour.
 
 ## Actions
 _**Remodelage**_. La mélasse prend la forme d'une créature ou d'un objet minuscule. Une mélasse remodelée gagne le déplacement de sa nouvelle forme, mais pas d'autre aptitude spéciale.

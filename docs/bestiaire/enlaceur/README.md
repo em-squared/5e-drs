@@ -45,7 +45,7 @@ _**Attaques multiples**_. L'enlaceur effectue quatre attaques avec ses filaments
 _**Enrouler**_. L'enlaceur tire vers lui chaque créature qu'il empoigne sur une distance maximale de 7,50 mètres.
 
 _**Filament**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 15 m, une créature.  
-_Touché_ : la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Jusqu'à la fin de l'empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et des jets de sauvegarde de Force. L'enlaceur ne peut pas utiliser le même filament sur une autre cible.
+_Touché_ : la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Jusqu'à la fin de l'empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. L'enlaceur ne peut pas utiliser le même filament sur une autre cible.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 22 (4d8+4) dégâts perforants.

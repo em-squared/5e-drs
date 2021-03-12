@@ -43,7 +43,7 @@ _**Incantation innée**_. La caractéristique d'incantation de la licorne est le
 * _**À volonté**_ : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_druidisme_](/grimoire/druidisme/), [_passage sans trace_](/grimoire/passage-sans-trace/)
 * _**1/jour chacun**_ : [_apaisement des émotions_](/grimoire/apaisement-des-emotions/), [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/), [_enchevêtrement_](/grimoire/enchevetrement/)
 
-_**Résistance à la magie**_. La licorne obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La licorne obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. La licorne effectue deux attaques : une avec ses sabots et l'autre avec sa corne.

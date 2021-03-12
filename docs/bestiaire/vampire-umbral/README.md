@@ -54,7 +54,7 @@ source_page: 396
 ## Capacités
 _**Déplacement intangible**_. Le vampire umbral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.
 
-_**Incantation innée**_. Le vampire umbral utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le vampire umbral utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_changement de plan_](/grimoire/changement-de-plan/) (plan de l'ombre uniquement), [_image miroir_](/grimoire/image-miroir/)
 * **1/jour chacun** : [_fléau_](/grimoire/fleau/) (sous une faible lumière ou dans les ténèbres seulement), [_tentacules noirs_](/grimoire/tentacules-noirs/)
 
@@ -62,7 +62,7 @@ _**Se fondre dans les ombres**_. Quand le vampire umbral est dans une faible lum
 
 _**Frapper depuis les ombres**_. L'allonge de l'attaque _poigne umbrale_ du vampire augmente de 3 mètres et ses dégâts de 4d6 quand le vampire est caché aux yeux de sa cible et que les deux se trouvent dans une faible lumière ou dans les ténèbres.
 
-_**Sensibilité à la lumière du soleil**_. Le vampire umbral est _désavantagé_ sur les jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé directement à la lumière du soleil.
+_**Sensibilité à la lumière du soleil**_. Le vampire umbral est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé directement à la lumière du soleil.
 
 ## Actions
 _**Poigne umbrale**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  

@@ -59,7 +59,7 @@ _**Incantation**_. La momie auguste est une lanceuse de sorts de niveau 10. Sa c
 
 _**Reconstitution**_. Une momie auguste détruite obtient une nouvelle enveloppe charnelle au bout de 24 heures si son cœur est intact. Elle récupère ainsi la totalité de ses points de vie et peut de nouveau agir. Le nouveau corps apparaît à 1,50 mètre ou moins du cœur de la momie auguste.
 
-_**Résistance à la magie**_. La momie auguste obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La momie auguste obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. La momie peut utiliser son _Regard effroyable_ et effectuer une attaque avec son poing en décomposition.

@@ -30,13 +30,13 @@ source: "Livre des monstres"
 source_page: 424
 ---
 ## Capacités
-_**Sens du danger**_. Le nain loup ravageur est _avantagé_ sur les jets de sauvegarde de Dextérité contre les attaques qu'il voit tant qu'il n'est pas _aveuglé_, _assourdi_ ni _neutralisé_.
+_**Sens du danger**_. Le nain loup ravageur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les attaques qu'il voit tant qu'il n'est pas [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
-_**Résistance naine**_. Le nain loup ravageur est _avantagé_ sur les jets de sauvegarde contre le poison.
+_**Résistance naine**_. Le nain loup ravageur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le poison.
 
-_**Tactique de meute**_. Le nain est _avantagé_ sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et n'est pas _neutralisé_.
+_**Tactique de meute**_. Le nain est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
-_**Téméraire**_. Au début de son tour, le ravageur peut être _avantagé_ sur tous les jets d'attaque armée au corps à corps du tour, mais les jets d'attaque contre lui sont alors _avantagés_ jusqu'au début de son prochain tour.
+_**Téméraire**_. Au début de son tour, le ravageur peut être [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les jets d'attaque armée au corps à corps du tour, mais les jets d'attaque contre lui sont alors [_avantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'au début de son prochain tour.
 
 ## Actions
 _**Attaques multiples**_. Le loup ravageur fait deux attaques au corps à corps ou à distance.

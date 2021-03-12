@@ -46,7 +46,7 @@ source: "Créatures & Oppositions"
 source_page: 102
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples**_. Le dragon peut utiliser sa _Présence terrifiante_. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
@@ -67,7 +67,7 @@ _Touché_ : 17 (2d8+8) dégâts contondants.
 
 _**Souffles (Recharge 5-6)**_. Le dragon utilise l'un des souffles suivants :
 * _Souffle de feu_. Le dragon souffle du feu sur une ligne de 27 mètres de long et 3 mètres de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 21 ; elles subissent 56 (16d6) dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
-* _Souffle soporifique_. Le dragon souffle un gaz soporifique sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21 pour ne pas tomber _inconscientes_ pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+* _Souffle soporifique_. Le dragon souffle un gaz soporifique sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21 pour ne pas tomber [_inconscientes_](/gerer-la-sante-du-personnage/#inconscient) pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 ## Actions légendaires
 Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.

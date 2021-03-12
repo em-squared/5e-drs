@@ -33,7 +33,7 @@ source: "Créatures & Oppositions"
 source_page: 241
 ---
 ## Capacités
-_**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
+_**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou terrorisé.
 
 _**Incantation**_. Le chaman est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le chaman :
 * _**Tours de magie (à volonté)**_ : [_flamme sacrée_](/grimoire/flamme-sacree/), [_résistance_](/grimoire/resistance/), [_thaumaturgie_](/grimoire/thaumaturgie/)

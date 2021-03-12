@@ -32,7 +32,7 @@ source: "Livre des monstres"
 source_page: 26
 ---
 ## Capacités
-_**Toiles camouflées**_. Il faut réussir un test de Sagesse (perception) DD 15 pour repérer la toile d'une j'ba fofi. Si une créature ne la voit pas et entre contact avec, elle est _entravée_. Une créature _entravée_ peut se libérer si elle utilise une action et réussit un test de Force DD 12. On peut attaquer et détruire la toile (CA 10, 5 pv, vulnérabilité aux dégâts de feu, immunité contre les dégâts contondants, de poison et psychiques).
+_**Toiles camouflées**_. Il faut réussir un test de Sagesse (perception) DD 15 pour repérer la toile d'une j'ba fofi. Si une créature ne la voit pas et entre contact avec, elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave). Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut se libérer si elle utilise une action et réussit un test de Force DD 12. On peut attaquer et détruire la toile (CA 10, 5 pv, vulnérabilité aux dégâts de feu, immunité contre les dégâts contondants, de poison et psychiques).
 
 _**Pattes d'araignée**_. L'araignée peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
 
@@ -44,4 +44,4 @@ _**Marche sur les toiles**_. L'araignée ignore les restrictions de mouvement pr
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 8 (1d10 + 3) dégâts perforant plus 22 (5d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 12 réussi. Une cible qui tombe à 0 point de vie suite à cette attaque est stable, mais _empoisonnée_ et _paralysée_ pendant 1 heure, même après avoir récupéré des points de vie.
+_Touché_ : 8 (1d10 + 3) dégâts perforant plus 22 (5d8) dégâts de poison, ou la moitié des dégâts de poison sur un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 réussi. Une cible qui tombe à 0 point de vie suite à cette attaque est stable, mais [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) et [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 heure, même après avoir récupéré des points de vie.

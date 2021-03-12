@@ -31,7 +31,7 @@ source: "Créatures & Oppositions"
 source_page: 302
 ---
 ## Capacités
-_**Bicéphale**_. Le chien obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), [_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
+_**Bicéphale**_. Le chien obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les états spéciaux [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), [_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 
 ## Actions
 _**Attaques multiples**_. Le chien effectue deux attaques de morsure.

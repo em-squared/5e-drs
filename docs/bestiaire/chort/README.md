@@ -51,9 +51,9 @@ source_page: 107
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
-_**Résistance à la magie**_. Le diable est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le diable est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un chort est le Charisme (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un chort est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_cercle magique_](/grimoire/cercle-magique/), [_flou_](/grimoire/flou/), [_téléportation_](/grimoire/teleportation/)
 * **3/jour** : [_rayon ardent_](/grimoire/rayon-ardent/) (5 rayons)
 * **1/jour chacun** : [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_dominer un humanoïde_](/grimoire/dominer-un-humanoide/), [_colonne de flamme_](/grimoire/colonne-de-flamme/), [_hâte_](/grimoire/hate/)

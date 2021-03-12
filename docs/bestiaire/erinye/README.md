@@ -42,7 +42,7 @@ source_page: 71
 ## Capacités
 _**Armes infernales**_. Les attaques d'arme de l'érinye sont magiques et infligent 13 (3d8) dégâts de poison supplémentaires en cas d'attaque réussie (déjà comptabilisés dans ses attaques).
 
-_**Résistance à la magie**_. L'érinye obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. L'érinye obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. L'érinye effectue trois attaques.

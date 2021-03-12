@@ -47,7 +47,7 @@ source_page: 287
 ## Capacités
 _**Malédiction des yeux fermés**_. Si le marchand de sable réussit un coup critique ou une attaque-surprise contre un adversaire, ses griffes tracent une rune sur les globes oculaires de sa victime, fermant ses paupières et la laissant _aveugle_. On peut mettre un terme à cet effet avec [_restauration supérieure_](/grimoire/restauration-superieure/), [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire.
 
-_**Incantation innée**_. Le marchand de sable utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. Le marchand de sable utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_ténèbres_](/grimoire/tenebres/), [_illusion mineure_](/grimoire/illusion-mineure/), [_changement de plan_](/grimoire/changement-de-plan/) (la nuit seulement), [_monture fantôme_](/grimoire/monture-fantome/), [_prestidigitation_](/grimoire/prestidigitation/), [_sommeil_](/grimoire/sommeil/) (11d8)
 * **3/jour chacun** : [_motif hypnotique_](/grimoire/motif-hypnotique/), [_image majeure_](/grimoire/image-majeure/)
 * **1/jour chacun** : [_rêve_](/grimoire/reve/), [_assassin imaginaire_](/grimoire/assassin-imaginaire/) (5d10)

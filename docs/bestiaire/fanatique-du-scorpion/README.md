@@ -34,7 +34,7 @@ source: "Livre des monstres"
 source_page: 422
 ---
 ## Capacités
-_**Sens aiguisés**_. Le fanatique du scorpion est _avantagé_ sur les tests de Sagesse (Perception).
+_**Sens aiguisés**_. Le fanatique du scorpion est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception).
 
 ## Actions
 _**Attaques multiples**_. Le fanatique du scorpion fait deux attaques de corps à corps ou deux attaques à distance.

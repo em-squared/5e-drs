@@ -44,7 +44,7 @@ source: "Livre des monstres"
 source_page: 283
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation innée d'un mangepoussière est le Charisme (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un mangepoussière est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **3/jour chacun** : [_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_blessure_](/grimoire/blessure/), [_viser juste_](/grimoire/viser-juste/)
 * **1/jour chacun** : [_soin des blessures_](/grimoire/soin-des-blessures/) (de niveau 3), [_arme magique_](/grimoire/arme-magique/) (de niveau 6), [_pas brumeux_](/grimoire/pas-brumeux/)
 
@@ -56,4 +56,4 @@ _**Faim insatiable**_. Un mangepoussière peut dévorer n'importe quelle substan
 _**Attaques multiples**_. Le mangepoussière fait deux attaques de _mâchelame_ ou il fait une attaque de _mâchelame_ et _lance blessure_.
 
 _**Mâchelame**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, une cible.  
-_Touché_ : 19 (4d6 + 5) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 17 ou gagner un niveau d'épuisement.
+_Touché_ : 19 (4d6 + 5) dégâts perforants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 ou gagner un niveau d'épuisement.

@@ -49,7 +49,7 @@ source: "Créatures & Oppositions"
 source_page: 131
 ---
 ## Capacités
-_**Ascendance féerique**_. La prêtresse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
+_**Ascendance féerique**_. La prêtresse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
 
 _**Marque du matriarcat**_. Par une action bonus, la prêtresse drow peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts nécrotiques supplémentaires à une cible qu'elle parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si la prêtresse dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du premier.
 

@@ -18,7 +18,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-De menaçantes nuées orageuses se forment en un point situé dans votre champ de vision et s'étendent dans un rayon de 110 mètres. Des éclairs strient la zone, le tonnerre gronde et un vent fort se lève. Chaque créature située sous le nuage lors de son apparition (mais pas à plus de 1500 mètres au-dessous) doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 2d6 dégâts de tonnerre et sont _assourdies_ pendant 5 minutes.
+De menaçantes nuées orageuses se forment en un point situé dans votre champ de vision et s'étendent dans un rayon de 110 mètres. Des éclairs strient la zone, le tonnerre gronde et un vent fort se lève. Chaque créature située sous le nuage lors de son apparition (mais pas à plus de 1500 mètres au-dessous) doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 2d6 dégâts de tonnerre et sont [_assourdies_](/gerer-la-sante-du-personnage/#assourdi) pendant 5 minutes.
 
 À chaque round où vous continuez à vous concentrer sur ce sort, il génère des effets supplémentaires à votre tour.
 

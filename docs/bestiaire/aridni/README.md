@@ -38,9 +38,9 @@ source_page: 31
 ## Capacités
 _**Repli aérien**_. Un aridni ne provoque par d'attaque d'opportunité quand il vole hors de portée d'un ennemi.
 
-_**Résistance à la magie**_. Un aridni est _avantagé_ à ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Un aridni est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un aridni est le Charisme (DD du jet de sauvegarde contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composante matérielle.
+_**Incantation innée**_. La caractéristique d'incantation innée d'un aridni est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composante matérielle.
 * **À volonté** : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_invisibilité_](/grimoire/invisibilite/), [_lumières dansantes_](/grimoire/lumieres-dansantes/)
 * **3/jour** : [_armure du mage_](/grimoire/armure-du-mage/), [_charme-personne_](/grimoire/charme-personne/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/)
 * **1/jour** : [_croissance d'épines_](/grimoire/croissance-d-epines/)
@@ -53,7 +53,7 @@ _**Arc de pixie**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 12/4
 _Touché_ : 7 (1d4 + 5) dégâts perforants.
 
 _**Flèches d'esclavagiste**_. Un aridni peut ajouter un effet magique à ses flèches en plus des dégâts normaux qu'elles infligent. Il a le choix entre les effets suivants :
-* _Confusion_. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 ou se trouver dans un état de confusion (comme le [sort](/grimoire/confusion)) pendant 2d4-1 rounds.
-* _Peur_. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 ou devenir _terrorisée_ pendant 2d4 rounds.
-* _Fou rire_. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 ou être _neutralisée_ pendant 2d4 rounds. Tant qu'elle est _neutralisée_, la cible se trouve _à terre_ et est prise d'un fou rire incontrôlable.
-* _Sommeil_. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 ou s'endormir pendant 2d4 minutes. La créature se réveille si elle subit des dégâts ou si une autre créature utilise une action pour la secouer et la réveiller.
+* _Confusion_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou se trouver dans un état de confusion (comme le [sort](/grimoire/confusion)) pendant 2d4-1 rounds.
+* _Peur_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou devenir [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 2d4 rounds.
+* _Fou rire_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou être [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) pendant 2d4 rounds. Tant qu'elle est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise), la cible se trouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et est prise d'un fou rire incontrôlable.
+* _Sommeil_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou s'endormir pendant 2d4 minutes. La créature se réveille si elle subit des dégâts ou si une autre créature utilise une action pour la secouer et la réveiller.

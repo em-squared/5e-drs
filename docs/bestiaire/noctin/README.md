@@ -26,11 +26,11 @@ source: "Livre des monstres"
 source_page: 323
 ---
 ## Capacités
-_**Résistance à la magie**_. Le noctin est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le noctin est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Colère du pacte**_. L'une des armes du noctin est imprégnée de puissance. Les attaques portées avec elle sont traitées comme magiques et il ajoute son bonus de Charisme aux dégâts de l'arme (inclus plus loin).
 
-_**Incantation**_. Le noctin est un lanceur de sorts de niveau 3. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort). Il connaît les sorts de sorcier suivants.
+_**Incantation**_. Le noctin est un lanceur de sorts de niveau 3. Il utilise le Charisme comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13, +5 pour toucher avec les attaques de sort). Il connaît les sorts de sorcier suivants.
 * **Tours de magie (à volonté)** : [_bouffée de poison_](/grimoire/bouffee-de-poison/), [_contact glacial_](/grimoire/contact-glacial/), [_explosion occulte_](/grimoire/explosion-occulte/)
 * **Niveau 1 (4 emplacements)** : _armure d'Agathys_, [_charme-personne_](/grimoire/charme-personne/), _maléfice_, [_représailles infernales_](/grimoire/represailles-infernales/)
 * **Niveau 2 (2 emplacements)** : _couronne du dément_, [_pas brumeux_](/grimoire/pas-brumeux/)

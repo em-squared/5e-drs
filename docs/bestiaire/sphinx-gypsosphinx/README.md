@@ -46,13 +46,13 @@ source: "Livre des monstres"
 source_page: 369
 ---
 ## Capacités
-_**Insondable**_. Le sphinx est immunisé contre tout effet permettant de sentir ses émotions ou de lire ses pensées, ainsi que contre les sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) destinés à estimer les intentions ou la sincérité du gypsosphinx sont _désavantagés_.
+_**Insondable**_. Le sphinx est immunisé contre tout effet permettant de sentir ses émotions ou de lire ses pensées, ainsi que contre les sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) destinés à estimer les intentions ou la sincérité du gypsosphinx sont [_désavantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 _**Armes magiques**_. Les attaques d'arme du sphinx sont magiques.
 
 _**Vision mystique**_. Le gypsosphinx voit la mort arriver et peut prédire la manière dont quelqu'un mourra. Ce pouvoir ne s'accompagne pas du moindre désir de partager cette information. Il est connu pour faire des allusions sur la mort d'une créature, l'asticoter à ce sujet ou même mentir (« Si on se bat, je vais te tuer et manger ton cœur : je l'ai vu » est un de ses coups de bluff favoris).
 
-_**Incantation**_. Le sphinx est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien qu'il a préparés :
+_**Incantation**_. Le sphinx est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien qu'il a préparés :
 * **Tours de magie (à volonté)** : [_main du mage_](/grimoire/main-du-mage/), [_réparation_](/grimoire/reparation/), [_illusion mineure_](/grimoire/illusion-mineure/), [_bouffée de poison_](/grimoire/bouffee-de-poison/)
 * **Niveau 1 (4 emplacements)** : [_compréhension des langues_](/grimoire/comprehension-des-langues/), [_détection de la magie_](/grimoire/detection-de-la-magie/), [_identification_](/grimoire/identification/)
 * **Niveau 2 (3 emplacements)** : [_flou_](/grimoire/flou/), [_ténèbres_](/grimoire/tenebres/), [_localiser un objet_](/grimoire/localiser-un-objet/)
@@ -69,7 +69,7 @@ _Touché_ : 21 (3d10 + 5) dégâts perforants.
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 32 (6d8 + 5) dégâts tranchants.
 
-_**Labourer**_. Si le sphinx réussit ses deux attaques de _griffes_, il enchaîne automatiquement sur une attaque de _labourer_. Si la cible rate un test de Dextérité DD 17, elle se retrouve _à terre_ et subit 14 (2d8 + 5) dégâts tranchants.
+_**Labourer**_. Si le sphinx réussit ses deux attaques de _griffes_, il enchaîne automatiquement sur une attaque de _labourer_. Si la cible rate un test de Dextérité DD 17, elle se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et subit 14 (2d8 + 5) dégâts tranchants.
 
 ## Actions légendaires
 Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dessous. Il ne peut en effectuer qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, il récupère les actions légendaires dépensées.

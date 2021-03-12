@@ -55,7 +55,7 @@ source: "Livre des monstres"
 source_page: 334
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation innée d'un oiseau de feu est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un oiseau de feu est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_assistance_](/grimoire/assistance/), [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-l-eau/), [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/)
 * **3/jour chacun** : [_charme-personne_](/grimoire/charme-personne/), [_soin des blessures_](/grimoire/soin-des-blessures/) (2d8 + 5), [_lumière du jour_](/grimoire/lumiere-du-jour/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/), [_chauffer le métal_](/grimoire/chauffer-le-metal/), [_motif hypnotique_](/grimoire/motif-hypnotique/), [_langues_](/grimoire/langues/)
 * **1/jour chacun** : [_coercition mystique_](/grimoire/coercition-mystique/), [_guérison_](/grimoire/guerison/), [_réincarnation_](/grimoire/reincarnation/)

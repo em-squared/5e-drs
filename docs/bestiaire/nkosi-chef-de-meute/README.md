@@ -31,11 +31,11 @@ source_page: 319
 ## Capacités
 _**Métamorphe**_. Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15 mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
 
-_**Odorat aiguisé**_. Le nkosi est _avantagé_ sur les tests de Sagesse (Perception) basés sur l'odorat.
+_**Odorat aiguisé**_. Le nkosi est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'odorat.
 
 _**Brutal**_. Quand le chef de meute touche sa cible avec une attaque d'arme au corps à corps, il inflige un dé de dégâts de plus (compris dans l'attaque).
 
-_**Gueule du chasseur**_. Si le nkosi se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 13, sans quoi elle se retrouve _à terre_. Dans ce cas, le nkosi peut immédiatement lui porter une attaque de _morsure_ par une action bonus.
+_**Gueule du chasseur**_. Si le nkosi se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13, sans quoi elle se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Dans ce cas, le nkosi peut immédiatement lui porter une attaque de _morsure_ par une action bonus.
 
 ## Actions
 _**Attaques multiples**_. Le chef de meute fait deux attaques avec son _cimeterre_ ou son _mambele_.

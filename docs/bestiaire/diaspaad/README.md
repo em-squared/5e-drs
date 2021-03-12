@@ -27,7 +27,7 @@ source: "Créatures & Oppositions"
 source_page: 72
 ---
 ## Capacités
-_**Division**_. Quand un diaspaad de taille P ou plus grand subit au moins 25 points de dégâts tranchants, il se divise en deux nouveaux diaspaad d'une catégorie de taille inférieure. Ces deux nouveaux diaspaads ont la moitié des points de vie du diaspaad dont ils sont issus. Ils subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests de Force et leurs jets de sauvegarde de Force. Leurs dégâts sont réduits de 1 point et d'une catégorie de dé par taille inférieure à la taille G.
+_**Division**_. Quand un diaspaad de taille P ou plus grand subit au moins 25 points de dégâts tranchants, il se divise en deux nouveaux diaspaad d'une catégorie de taille inférieure. Ces deux nouveaux diaspaads ont la moitié des points de vie du diaspaad dont ils sont issus. Ils subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests de Force et leurs [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Leurs dégâts sont réduits de 1 point et d'une catégorie de dé par taille inférieure à la taille G.
 
 _**Scissiparité**_. Une fois par jour, s'il le souhaite, un diaspaad peut générer un autre diaspaad identique (de même taille) en se divisant en deux parties dont chacune reconstitue un individu. Le processus prend une minute durant laquelle le diaspaad est immobile et ne peut rien faire d'autre.
 
@@ -43,4 +43,4 @@ _**Attaques multiples**_. Le diaspaad effectue deux attaques de coup.
 _**Coup**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 16 (2d10+5) dégâts contondants.
 
-_**Hâte (Recharge 5-6)**_. Jusqu'à la fin de son prochain tour, le diaspaad bénéficie d'un bonus de +2 à sa CA, il obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Dextérité et il peut utiliser son attaque de coup par une action bonus.
+_**Hâte (Recharge 5-6)**_. Jusqu'à la fin de son prochain tour, le diaspaad bénéficie d'un bonus de +2 à sa CA, il obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité et il peut utiliser son attaque de coup par une action bonus.

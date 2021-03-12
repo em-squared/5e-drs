@@ -49,13 +49,13 @@ source: "Livre des monstres"
 source_page: 180
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. Si la Reine de la Nuit et de la Magie rate un jet de sauvegarde, elle peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si la Reine de la Nuit et de la Magie rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle peut choisir à la place de le réussir.
 
-_**Résistance à la magie**_. La Reine de la Nuit et de la Magie est _avantagée_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La Reine de la Nuit et de la Magie est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Née dans les ombres**_. Quand elle se trouve éclairée par une lumière qui n'est pas vive, la Reine de la Nuit et de la Magie est _avantagée_ lors de ses jets de Dextérité (Discrétion) pour se cacher et elle peut se cacher même alors qu'elle est observée.
+_**Née dans les ombres**_. Quand elle se trouve éclairée par une lumière qui n'est pas vive, la Reine de la Nuit et de la Magie est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets de Dextérité (Discrétion) pour se cacher et elle peut se cacher même alors qu'elle est observée.
 
-_**Incantation**_. La Reine de la Nuit et de la Magie est une lanceuse de sorts de niveau 18. Sa caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 23, +15 pour toucher avec une attaque de sort). Elle connaît les sorts d'ensorceleur suivants :
+_**Incantation**_. La Reine de la Nuit et de la Magie est une lanceuse de sorts de niveau 18. Sa caractéristique d'incantation est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 23, +15 pour toucher avec une attaque de sort). Elle connaît les sorts d'ensorceleur suivants :
 * **Tours de magie (à volonté)** : _protection contre les armes_, [_contact glacial_](/grimoire/contact-glacial/), [_lumières dansantes_](/grimoire/lumieres-dansantes/), [_main du mage_](/grimoire/main-du-mage/), [_prestidigitation_](/grimoire/prestidigitation/), [_rayon de givre_](/grimoire/rayon-de-givre/)
 * **1er niveau (4 emplacements)** : [_armure du mage_](/grimoire/armure-du-mage/), [_projectile magique_](/grimoire/projectile-magique/), [_bouclier_](/grimoire/bouclier/)
 * **2e niveau (3 emplacements)** : [_ténèbres_](/grimoire/tenebres/), [_image miroir_](/grimoire/image-miroir/)
@@ -73,7 +73,7 @@ _**Attaques multiples**_. La Reine de la Nuit et de la Magie fait trois attaques
 _**Rapière**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 9 (1d8 + 5) dégâts perforants plus 10 (3d6) dégâts de froid.
 
-_**Brèche d'ombres (recharge 5-6)**_. La Reine de la Nuit et de la Magie crée une brèche d'ombres dans une sphère de 6 mètres de diamètre centrée sur un point qu'elle peut voir dans un rayon de 45 mètres. Toutes les créatures qui se trouvent prises dans cette brèche subissent 72 (16d8) dégâts de froid ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 23. Les créatures qui échouent à leur jet de sauvegarde se trouvent également _entravées_ par des cirres d'ombre glacés. Une créature _entravée_ refait le jet de sauvegarde à la fin de son tour et met un terme à l'état _entravé_ si elle le réussit.
+_**Brèche d'ombres (recharge 5-6)**_. La Reine de la Nuit et de la Magie crée une brèche d'ombres dans une sphère de 6 mètres de diamètre centrée sur un point qu'elle peut voir dans un rayon de 45 mètres. Toutes les créatures qui se trouvent prises dans cette brèche subissent 72 (16d8) dégâts de froid ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 23. Les créatures qui échouent à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) se trouvent également [_entravées_](/gerer-la-sante-du-personnage/#entrave) par des cirres d'ombre glacés. Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de son tour et met un terme à l'état [_entravé_](/gerer-la-sante-du-personnage/#entrave) si elle le réussit.
 
 _**Frappe étoilée**_. _Attaque de sort à distance_ : +15 pour toucher, portée 36 m, une cible.  
 _Touché_ : 9 (2d8) dégâts de feu plus 9 (2d8) dégâts radiants.
@@ -90,7 +90,7 @@ La Reine de la Nuit et de la Magie peut faire 3 actions légendaires, parmi cell
 
 _**Tour de magie**_. La Reine de la Nuit et de la Magie fait un tour de magie.
 
-_**Étoiles tourbillonnantes**_. La Reine de la Nuit et de la Magie fait une attaque avec _frappe étoilée_. Même si l'un des adversaires de la Reine se trouve à 1,50 mètre d'elle, elle n'est pas _désavantagée_ lors de cette attaque.
+_**Étoiles tourbillonnantes**_. La Reine de la Nuit et de la Magie fait une attaque avec _frappe étoilée_. Même si l'un des adversaires de la Reine se trouve à 1,50 mètre d'elle, elle n'est pas [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de cette attaque.
 
 _**Téléportation**_. La Reine de la Nuit et de la Magie utilise son pouvoir de _téléportation_.
 

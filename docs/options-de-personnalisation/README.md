@@ -416,7 +416,7 @@ Votre caractéristique d'incantation pour les sorts appris par ce biais est la S
 
 Vous avez développé des compétences qui vous permettent de bien vous débrouiller quand vous luttez au corps-à-corps. Vous obtenez les bénéfices suivants :
 * Vous disposez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos attaques contre une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par vous.
-* Vous pouvez utiliser votre action pour tenter d'immobiliser une créature que vous avez empoignée. Vous devez d'abord faire un autre test d'empoignade. Si vous réussissez, vous et la créature en question êtes tous les deux _entravés_.
+* Vous pouvez utiliser votre action pour tenter d'immobiliser une créature que vous avez empoignée. Vous devez d'abord faire un autre test d'empoignade. Si vous réussissez, vous et la créature en question êtes tous les deux [_entravés_](/gerer-la-sante-du-personnage/#entrave).
 
 #### Mage combattant
 Vous êtes une exception, votre talent est le fruit d'un entraînement très particulier qui vous permet d'allier la puissance des armes à celle de la magie.

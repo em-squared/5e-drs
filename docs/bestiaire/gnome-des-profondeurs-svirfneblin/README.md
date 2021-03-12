@@ -40,7 +40,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée du gnome est 
 * _**À volonté**_ : [_non-détection_](/grimoire/non-detection/) (soi-même uniquement)
 * _**1/jour chacun**_ : [_cécité/surdité_](/grimoire/cecite-surdite/), [_déguisement_](/grimoire/deguisement/), [_flou_](/grimoire/flou/)
 
-_**Ruse gnome**_. Le gnome obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde d'Intelligence, de Sagesse et de Charisme contre la magie.
+_**Ruse gnome**_. Le gnome obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence, de Sagesse et de Charisme contre la magie.
 
 ## Actions
 _**Fléchette empoisonnée**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 9/36 m, une créature.  

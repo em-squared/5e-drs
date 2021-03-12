@@ -46,7 +46,7 @@ _**Attaque surprise**_. Si le gobelours surprend une créature et réussit une a
 _**Brutal**_. Une arme de corps à corps inflige un dé de dégâts supplémentaire quand le gobelours touche son ennemi avec elle (déjà inclus dans l'attaque).
 
 _**Rage**_. Lors de son tour, le chef gobelours peut utiliser une action bonus pour être pris de rage. Tant qu'il est enragé (10 rounds), il obtient les bénéfices suivants :
-* [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
+* [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force.
 * un bonus de +2 au jet de dégâts en corps à corps.
 * résistance aux dégâts contondants, perforants et tranchants.
 

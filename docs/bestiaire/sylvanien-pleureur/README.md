@@ -39,7 +39,7 @@ _**Monstre assiégeur**_. Le sylvanien inflige des dégâts doublés aux objets 
 
 _**Langue des arbres**_. Un sylvanien pleureur peut discuter avec les plantes et la plupart d'entre elles se montrent amicales ou serviables envers lui.
 
-_**Larmes acides**_. D'épaisses larmes de sève sombre coulent sans cesse sur le visage et le tronc du sylvanien. Elles sont très acides : toute personne qui attaque le sylvanien en se tenant à 1,50 mètre ou moins de lui doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle subit 6 (1d2) dégâts d'acide à cause des éclaboussures de larmes. La sève acide continue d'infliger 6 (1d12) dégâts d'acide au début de chaque tour de la créature jusqu'à ce qu'elle-même ou un allié adjacent utilise une action pour essuyer les larmes ou que trois rounds se soient écoulés.
+_**Larmes acides**_. D'épaisses larmes de sève sombre coulent sans cesse sur le visage et le tronc du sylvanien. Elles sont très acides : toute personne qui attaque le sylvanien en se tenant à 1,50 mètre ou moins de lui doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15, sans quoi elle subit 6 (1d2) dégâts d'acide à cause des éclaboussures de larmes. La sève acide continue d'infliger 6 (1d12) dégâts d'acide au début de chaque tour de la créature jusqu'à ce qu'elle-même ou un allié adjacent utilise une action pour essuyer les larmes ou que trois rounds se soient écoulés.
 
 ## Actions
 _**Attaques multiples**_. Le Sylvanien porte trois attaques de _coup_.

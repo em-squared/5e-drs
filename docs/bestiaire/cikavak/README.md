@@ -35,7 +35,7 @@ source: "Livre des monstres"
 source_page: 63
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation innée d'un cikavak est la Sagesse (DD du jet de sauvegarde contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un cikavak est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/)
 * **1/jour** : [_silence_](/grimoire/silence/)
 

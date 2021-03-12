@@ -38,7 +38,7 @@ source_page: 302
 ## Capacités
 _**Métamorphe**_. La mimique peut utiliser une action pour se changer en objet ou reprendre son apparence normale, informe. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont elle est équipée ou vêtue ne sont pas transformés. Elle reprend sa forme normale si elle meurt.
 
-_**Compression faciale**_. Quand une créature de taille Moyenne ou inférieure touche une mimique carte ou inversement, la mimique adhère à elle et enveloppe son visage, couvrant ses yeux, ses oreilles et ses voies respiratoires (évasion DD 13). La cible est immédiatement _aveuglée_ et _assourdie_ et commence à suffoquer au début du prochain tour de la mimique.
+_**Compression faciale**_. Quand une créature de taille Moyenne ou inférieure touche une mimique carte ou inversement, la mimique adhère à elle et enveloppe son visage, couvrant ses yeux, ses oreilles et ses voies respiratoires (évasion DD 13). La cible est immédiatement [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) et [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) et commence à suffoquer au début du prochain tour de la mimique.
 
 _**Faux-semblant (forme d'objet uniquement)**_. Tant que la mimique reste immobile, il est impossible de la différencier d'un objet ordinaire.
 

@@ -31,9 +31,9 @@ source: "Livre des monstres"
 source_page: 377
 ---
 ## Capacités
-_**Camouflage**_. En forêt, la sutureuse est _avantagée_ sur les tests de Dextérité (Discrétion).
+_**Camouflage**_. En forêt, la sutureuse est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion).
 
-_**Détection du blasphème**_. La variété de sutureuses la plus répandue attaque les créatures qui blasphèment à voix haute. Elles détectent les blasphèmes dans un rayon de 30 mètres, à moins que leur auteur ne réussisse un jet de sauvegarde de Charisme DD 13.
+_**Détection du blasphème**_. La variété de sutureuses la plus répandue attaque les créatures qui blasphèment à voix haute. Elles détectent les blasphèmes dans un rayon de 30 mètres, à moins que leur auteur ne réussisse un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 13.
 
 ## Actions
 _**Coudre**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  

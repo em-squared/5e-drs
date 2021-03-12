@@ -53,12 +53,12 @@ _**Métamorphe**_. Un ange a le choix entre plusieurs formes : une forme de cél
 
 _**En contact permanent**_. Les anges fidèles connaissent toujours l'humeur et l'état de santé de leur compagnon. Les dégâts qui sont infligés à l'un d'entre eux sont partagés entre les deux et, s'il n'est pas possible de partager ces dégâts équitablement, la cible originelle de l'attaque subit le point de dégât supplémentaire. Tout autre effet délétère, comme une réduction de caractéristique, affecte les deux de la même manière.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un ange fidèle est la Sagesse (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composante matérielle.
+_**Incantation innée**_. La caractéristique d'incantation innée d'un ange fidèle est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composante matérielle.
 * **À volonté** : [_assistance_](/grimoire/assistance/), [_épargner les mourants_](/grimoire/epargner-les-mourants/), [_lumière_](/grimoire/lumiere/), [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-l-eau/)
 * **3/jour** : [_rayon ardent (5 rayons)_](/grimoire/rayon-ardent/), [_soin des blessures_](/grimoire/soin-des-blessures/)
 * **1/jour** : [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/), [_bénédiction_](/grimoire/benediction/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_lumière du jour_](/grimoire/lumiere-du-jour/), [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/), [_sanctification_](/grimoire/sanctification/)
 
-_**Résistance à la magie**_. Un ange est _avantagé_ à ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Un ange est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Armes magiques**_. Les attaques d'arme d'un ange sont magiques quand il se trouve sous sa forme d'aigle.
 

@@ -45,7 +45,7 @@ _**Grâce surnaturelle**_. Le modificateur de Charisme d'une eleinomae est ajout
 
 _**Marche sur les roseaux**_. Une eleinomae peut traverser les broussailles ou les rivières sans avoir besoin de faire de test de caractéristique. Par ailleurs, un terrain difficile de ce type ne lui coûte pas de déplacement supplémentaire.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'une eleinomae est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'une eleinomae est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_lumières dansantes_](/grimoire/lumieres-dansantes/)
 * **3/jour chacun** : [_charme-personne_](/grimoire/charme-personne/), [_suggestion_](/grimoire/suggestion/)
 * **2/jour chacun** : [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/), [_image majeure_](/grimoire/image-majeure/)
@@ -57,4 +57,4 @@ _**Dague**_. _Attaque d'arme au corps à corps ou à distance_ : +7 pour toucher
 _Touché_ : 6 (1d4 + 4) dégâts tranchants plus 3 (1d6) dégâts de poison.
 
 _**Filet de roseau fleuri**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 1,50/4,50 m, une créature de taille Grande ou inférieure.  
-_Touché_ : La cible est _désavantagée_ lors de ses jets de sauvegarde de Sagesse pendant 1 minute et est _entravée_. Une créature peut se libérer elle-même ou libérer une autre créature de cette entrave par une action si elle réussit un test de Force DD 15 ou inflige 5 dégâts tranchants au filet (CA 10).
+_Touché_ : La cible est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse pendant 1 minute et est [_entravée_](/gerer-la-sante-du-personnage/#entrave). Une créature peut se libérer elle-même ou libérer une autre créature de cette entrave par une action si elle réussit un test de Force DD 15 ou inflige 5 dégâts tranchants au filet (CA 10).

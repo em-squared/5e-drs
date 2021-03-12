@@ -52,7 +52,7 @@ _**Incantation innée**_. La caractéristique d'incantation du solar est le Char
 * _**3/jour chacun**_ : [_barrière de lames_](/grimoire/barriere-de-lames/), [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/), [_résurrection_](/grimoire/resurrection/)
 * _**1/jour chacun**_ : [_communion_](/grimoire/communion/), [_contrôle du climat_](/grimoire/controle-du-climat/)
 
-_**Résistance à la magie**_. Le solar obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le solar obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Vigilance divine**_. Le solar reconnaît un mensonge lorsqu'il entend quelqu'un le prononcer.
 

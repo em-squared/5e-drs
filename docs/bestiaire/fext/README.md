@@ -39,12 +39,12 @@ source: "Livre des monstres"
 source_page: 196
 ---
 ## Capacités
-_**Incantation innée**_. La caractéristique d'incantation innée d'un fext est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un fext est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : _maléfice_
 * **3/jour chacun** : [_contresort_](/grimoire/contresort/), [_peur_](/grimoire/peur/), [_forme gazeuse_](/grimoire/forme-gazeuse/)
 * **1/jour chacun** : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_vision suprême_](/grimoire/vision-supreme/)
 
-_**Résistance à la magie**_. Le fext est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le fext est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Armes magiques**_. Les attaques d'arme du fext sont magiques.
 

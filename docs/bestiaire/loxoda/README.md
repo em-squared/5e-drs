@@ -28,7 +28,7 @@ source: "Livre des monstres"
 source_page: 276
 ---
 ## Capacités
-_**Charge écrasante**_. Si le loxoda se déplace d'au moins 6 mètres en ligne droite vers une créature de Grande taille ou supérieure et lui porte une attaque de pas pesant, il est _avantagé_ sur cette dernière. Si cette attaque touche, la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle tombe _à terre_.
+_**Charge écrasante**_. Si le loxoda se déplace d'au moins 6 mètres en ligne droite vers une créature de Grande taille ou supérieure et lui porte une attaque de pas pesant, il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur cette dernière. Si cette attaque touche, la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 15, sans quoi elle tombe [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 ## Actions
 _**Attaques multiples**_. Le loxoda fait deux attaques, mais pas plus d'une de _maillet d'armes_ ou de _javeline_.

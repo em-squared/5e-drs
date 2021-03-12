@@ -45,7 +45,7 @@ _**Armes magiques**_. Les attaques d'arme de la marilith sont magiques.
 
 _**Réactif**_. La marilith peut effectuer une réaction à chaque tour lors d'un combat.
 
-_**Résistance à la magie**_. La marilith obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La marilith obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. La marilith effectue sept attaques : six avec ses épées longues et une avec sa queue.

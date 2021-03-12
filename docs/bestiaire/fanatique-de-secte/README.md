@@ -33,7 +33,7 @@ _**Incantation**_. Le fanatique est un lanceur de sorts de niveau 4. Sa caracté
 * **1er niveau (4 emplacements)** : [blessure](/grimoire/blessure/), [_bouclier de la foi_](/grimoire/bouclier-de-la-foi/), [_injonction_](/grimoire/injonction/)
 * **2e niveau (3 emplacements)** : [_arme spirituelle_](/grimoire/arme-spirituelle/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)
 
-_**Sombre dévotion**_. Le fanatique obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
+_**Sombre dévotion**_. Le fanatique obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
 
 ## Actions
 _**Attaques multiples**_. Le fanatique effectue deux attaques au corps à corps.

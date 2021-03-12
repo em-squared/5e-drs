@@ -28,7 +28,7 @@ source: "Livre des monstres"
 source_page: 200
 ---
 ## Capacités
-_**Marcheur du givre**_. Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber à terre si le sol est couvert de neige ou de glace.
+_**Marcheur du givre**_. Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre) si le sol est couvert de neige ou de glace.
 
 ## Actions
 _**Attaques multiples**_. Le fraughashar fait une attaque de _morsure_ et une de _dague_.

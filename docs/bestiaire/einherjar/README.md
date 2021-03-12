@@ -37,11 +37,11 @@ _**Haches d'armes asgardiennes**_. Ces haches ont été forgées au Valhalla et 
 
 _**Guerroyeur**_. Les einherjars adorent se battre et jamais ils ne tournent le dos à un duel ou évitent un combat, même si celui-ci est perdu d'avance. Après tout, le Valhalla les attend.
 
-_**Fureur au combat**_. Une fois qu'un einherjar a été réduit à 30 pv ou moins, il est _avantagé_ lors de toutes ses attaques.
+_**Fureur au combat**_. Une fois qu'un einherjar a été réduit à 30 pv ou moins, il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de toutes ses attaques.
 
-_**Regard terrible**_. Le regard d'un einherjar est particulièrement perçant et intimidant. En conséquence, un einherjar est _avantagé_ lors de ses tests d'Intimidation.
+_**Regard terrible**_. Le regard d'un einherjar est particulièrement perçant et intimidant. En conséquence, un einherjar est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests d'Intimidation.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un einherjar est la Sagesse (DD du jet de sauvegarde contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un einherjar est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_bénédiction_](/grimoire/benediction/), [_épargner les mourants_](/grimoire/epargner-les-mourants/)
 * **1/jour chacun** : [_protection contre la mort_](/grimoire/protection-contre-la-mort/), [_esprits gardiens_](/grimoire/esprits-gardiens/)
 

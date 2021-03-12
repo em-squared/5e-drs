@@ -87,8 +87,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque contre la créature bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Les attaques de la créature subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Charmé
-* Une créature [_charmée_](/gerer-la-sante-du-personnage/#charme) se trouve dans l'incapacité d'attaquer l'individu qui l'a charmée ou de le cibler avec une capacité ou un effet magique néfaste.
-* L'individu qui a charmé la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les interactions sociales avec celle-ci.
+* Une créature [_charmée_](/gerer-la-sante-du-personnage/#charme) se trouve dans l'incapacité d'attaquer l'individu qui l'a [_charmée_](/gerer-la-sante-du-personnage/#charme) ou de le cibler avec une capacité ou un effet magique néfaste.
+* L'individu qui a [_charmé_](/gerer-la-sante-du-personnage/#charme) la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les interactions sociales avec celle-ci.
 
 #### Empoigné
 * La vitesse d'une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
@@ -145,7 +145,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 Les états suivants pourraient aussi affecter votre personnage. Tout comme les états spéciaux précédents, ils ne se cumulent pas et ont une durée précisée dans l'effet qui impose chaque état. Toutefois, si un effet ou une capacité annule tous les états qui affectent le personnage, les états suivants ne sont pas concernés, à moins qu'ils soient spécifiquement désignés.
 
 #### Repoussé
-* Une créature _repoussée_ ne peut pas volontairement s'approcher à moins de 9 mètres de la créature (ou toute autre source) à l'origine de l'effet.
+* Une créature [_repoussée_](/gerer-la-sante-du-personnage/#repousse) ne peut pas volontairement s'approcher à moins de 9 mètres de la créature (ou toute autre source) à l'origine de l'effet.
 * La créature ne peut plus utiliser de réaction.
 * Ses seules actions disponibles sont [_se précipiter_](/combattre/#se-precipiter) et toute action permettant d'échapper à un effet qui l'empêche de se déplacer.
 * Si la créature n'a nulle part où s'enfuir, elle peut utiliser l'action [_esquiver_](/combattre/#esquiver).

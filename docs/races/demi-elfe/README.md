@@ -11,6 +11,6 @@ sidebarDepth: 0
 **Taille**. Les demi-elfes sont de taille similaire aux humains. Ils font entre 1,50 mètre et 1,80 mètre et sont de taille moyenne.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Vision dans le noir**. Grâce à votre sang elfe, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.  
-**Ascendance féerique**. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.  
+**Ascendance féerique**. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'effet [_charmé_](/gerer-la-sante-du-personnage/#charme) et un effet magique ne peut pas vous plonger dans le sommeil.  
 **Polyvalence**. Vous gagnez la maîtrise de deux compétences de votre choix.  
 **Langues**. Vous pouvez parler, lire et écrire en commun, en elfe et dans une autre langue de votre choix.

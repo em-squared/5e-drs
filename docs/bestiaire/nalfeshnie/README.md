@@ -42,7 +42,7 @@ source: "Créatures & Oppositions"
 source_page: 55
 ---
 ## Capacités
-_**Résistance à la magie**_. Le nalfeshnie obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le nalfeshnie obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le nalfeshnie utilise, si possible, son halo d'épouvante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.

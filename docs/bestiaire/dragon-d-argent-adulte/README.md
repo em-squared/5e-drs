@@ -43,7 +43,7 @@ source: "Créatures & Oppositions"
 source_page: 107
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples**_. Le dragon peut utiliser sa _Présence terrifiante_. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
@@ -64,7 +64,7 @@ _Touché_ : 17 (2d8+8) dégâts contondants.
 
 _**Souffles (Recharge 5-6)**_. Le dragon utilise l'un des souffles suivants :
 * _Souffle de glace_. Le dragon souffle de la glace sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20 ; elles subissent 58 (13d8) dégâts de froid en cas d'échec ou la moitié de ce montant en cas de réussite.
-* _Souffle paralysant_. Le dragon souffle du gaz paralysant sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20 pour ne pas être _paralysées_ pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+* _Souffle paralysant_. Le dragon souffle du gaz paralysant sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20 pour ne pas être [_paralysées_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 ## Actions légendaires
 Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.

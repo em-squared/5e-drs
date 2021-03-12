@@ -48,7 +48,7 @@ _**Incantation innée**_. La caractéristique d'incantation du diantrefosse est 
 * _**À volonté**_ : [_boule de feu_](/grimoire/boule-de-feu/), [_détection de la magie_](/grimoire/detection-de-la-magie/)
 * _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de feu_](/grimoire/mur-de-feu/)
 
-_**Résistance à la magie**_. Le diantrefosse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le diantrefosse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le diantrefosse effectue quatre attaques : une avec sa morsure, une avec sa griffe, une avec sa masse d'armes et une avec sa queue.

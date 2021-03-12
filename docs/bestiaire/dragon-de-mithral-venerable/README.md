@@ -52,15 +52,15 @@ source: "Livre des monstres"
 source_page: 131
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. Si le dragon rate un jet de sauvegarde, il peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.
 
-_**Incantation innée**_. La caractéristique d'incantation innée du dragon est l'Intelligence (DD du jet de sauvegarde contre les sorts 21). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée du dragon est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_langues_](/grimoire/langues/)
 * **5/jour chacun** : [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/), [_contresort_](/grimoire/contresort/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/)
 
 _**Éclats de mithral**_. Les vénérables dragons de mithral peuvent décider de conserver les éclats de mithral de leur souffle pour créer une dangereuse zone remplie de pointes. Considérez cette zone comme si elle avait été ciblée par [_croissance d'épines_](/grimoire/croissance-d-epines/), avec 2d8 dégâts tranchants magiques pour chaque tranche de 1,50 mètre parcourue.
 
-_**Incantation**_. Le dragon est un lanceur de sorts de niveau 15. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 21, +13 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien préparés par le dragon :
+_**Incantation**_. Le dragon est un lanceur de sorts de niveau 15. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21, +13 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien préparés par le dragon :
 * **Tour de magie (à volonté)** : [_aspersion acide_](/grimoire/aspersion-acide/), [_illusion mineure_](/grimoire/illusion-mineure/), [_lumière_](/grimoire/lumiere/), [_main du mage_](/grimoire/main-du-mage/), [_prestidigitation_](/grimoire/prestidigitation/)
 * **1er niveau (4 emplacements)** : [_charme-personne_](/grimoire/charme-personne/), [_projectile magique_](/grimoire/projectile-magique/), [_repli expéditif_](/grimoire/repli-expeditif/), [_serviteur invisible_](/grimoire/serviteur-invisible/)
 * **2e niveau (3 emplacements)** : [_flou_](/grimoire/flou/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/), [_voir l'invisible_](/grimoire/voir-l-invisible/)
@@ -83,9 +83,9 @@ _Touché_ : 18 (2d8 +9) dégâts tranchants et l'hémorragie fait perdre à la c
 _**Queue**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 6 m, une cible.  
 _Touché_ : 20 (2d10 + 9) dégâts contondants.
 
-_**Présence terrifiante**_. Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36 mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 21 ou être _terrorisées_ pendant 1 minute. Une créature peut refaire le jet de sauvegarde à la fin de son tour et elle met un terme à l'effet si elle le réussit. Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24 heures qui suivent.
+_**Présence terrifiante**_. Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36 mètres de lui et qui sont conscientes de sa présence doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 21 ou être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature peut refaire le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de son tour et elle met un terme à l'effet si elle le réussit. Si une créature réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24 heures qui suivent.
 
-_**Souffle (Recharge 5–6)**_. Un dragon de mithral peut cracher des éclats métalliques sur une ligne de 18 mètres de long sur 1,50 mètre de large. Les cibles qui se trouvent sur cette ligne subissent 59 (17d6) dégâts tranchants magiques et perdent 10 points de vie supplémentaires suite à l'hémorragie qui en découle au début de leur tour pendant 6 rounds ; les dégâts tranchants et hémorragiques subis par une cible sont diminués de moitié si elle réussit un jet de sauvegarde de Dextérité DD 21. Les soins magiques sont le seul moyen de mettre fin à l'hémorragie avant que les 6 rounds se soient écoulés. Les éclats se transforment en volutes de fumée 1 round après que le dragon a utilisé son souffle.
+_**Souffle (Recharge 5–6)**_. Un dragon de mithral peut cracher des éclats métalliques sur une ligne de 18 mètres de long sur 1,50 mètre de large. Les cibles qui se trouvent sur cette ligne subissent 59 (17d6) dégâts tranchants magiques et perdent 10 points de vie supplémentaires suite à l'hémorragie qui en découle au début de leur tour pendant 6 rounds ; les dégâts tranchants et hémorragiques subis par une cible sont diminués de moitié si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 21. Les soins magiques sont le seul moyen de mettre fin à l'hémorragie avant que les 6 rounds se soient écoulés. Les éclats se transforment en volutes de fumée 1 round après que le dragon a utilisé son souffle.
 
 ## Actions légendaires
 Le dragon peut faire trois actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, le dragon récupère les actions légendaires dépensées.
@@ -94,4 +94,4 @@ _**Détecter**_. Le dragon fait un test de Sagesse (Perception).
 
 _**Attaque avec la queue**_. Le dragon fait une attaque de _queue_.
 
-_**Attaque avec les ailes (coûte 2 actions)**_. Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un jet de sauvegarde de Dextérité DD 23 ou subir 18 (2d8 + 9) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
+_**Attaque avec les ailes (coûte 2 actions)**_. Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 23 ou subir 18 (2d8 + 9) dégâts contondants et se trouver jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.

@@ -50,11 +50,11 @@ source_page: 395
 ## Capacités
 _**Armes d'Asgard**_. Les attaques d'arme de la valkyrie sont magiques. Quand elle touche avec une arme, elle inflige 11 (2d10) dégâts radiants supplémentaires (y compris avec les attaques indiquées plus bas).
 
-_**Enveloppe funeste**_. Toute créature vivante qui commence son tour dans un rayon de 18 mètres autour d'une valkyrie perçoit son inquiétante aura et doit réussir un jet de sauvegarde de Charisme DD 16, sans quoi elle est _terrorisée_ pendant 1d4 rounds. Si elle réussit son jet, elle est immunisée contre cet effet pendant 24 heures. La valkyrie peut supprimer cette aura à volonté.
+_**Enveloppe funeste**_. Toute créature vivante qui commence son tour dans un rayon de 18 mètres autour d'une valkyrie perçoit son inquiétante aura et doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 16, sans quoi elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1d4 rounds. Si elle réussit son jet, elle est immunisée contre cet effet pendant 24 heures. La valkyrie peut supprimer cette aura à volonté.
 
 _**Don des langues**_. Une valkyrie parle couramment toute langue qu'elle entend parler pendant au moins une minute et conserve cette connaissance sa vie entière.
 
-_**Incantation innée**_. La valkyrie utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants sans composantes matérielles :
+_**Incantation innée**_. La valkyrie utilise la Sagesse comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16, +8 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants sans composantes matérielles :
 * **À volonté** : [_bénédiction_](/grimoire/benediction/), [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/), [_épargner les mourants_](/grimoire/epargner-les-mourants/), [_flamme sacrée_](/grimoire/flamme-sacree/), [_fléau_](/grimoire/fleau/), [_invisibilité_](/grimoire/invisibilite/), [_thaumaturgie_](/grimoire/thaumaturgie/)
 * **5/jour chacun** : [_lien de protection_](/grimoire/lien-de-protection/), [_mot de guérison_](/grimoire/mot-de-guerison/), [_doux repos_](/grimoire/doux-repos/)
 * **3/jour chacun** : [_lueur d'espoir_](/grimoire/lueur-d-espoir/), [_mot de guérison de groupe_](/grimoire/mot-de-guerison-de-groupe/), [_revigorer_](/grimoire/revigorer/)

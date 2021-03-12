@@ -46,7 +46,7 @@ source: "Créatures & Oppositions"
 source_page: 202
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. La liche peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. La liche peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 _**Reconstitution**_. Grâce à son phylactère, une liche détruite récupère un nouveau corps au bout de 1d10 jours, regagnant par la même occasion tous ses points de vie. Ce nouveau corps apparaît à 1,50 m de son phylactère.
 
@@ -62,7 +62,7 @@ _**Incantation**_. La liche est un lanceur de sorts de niveau 18. La caractéris
 * _**8e niveau (1 emplacement)**_ : [_dominer un monstre_](/grimoire/dominer-un-monstre/), [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/)
 * _**9e niveau (1 emplacement)**_ : [_mot de pouvoir mortel_](/grimoire/mot-de-pouvoir-mortel/)
 
-_**Résistance au renvoi**_. La liche obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde pour résister à tout effet de renvoi des morts-vivants.
+_**Résistance au renvoi**_. La liche obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour résister à tout effet de renvoi des morts-vivants.
 
 ## Actions
 _**Contact paralysant**_. _Attaque de sort au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  

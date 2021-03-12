@@ -35,7 +35,7 @@ source: "Créatures & Oppositions"
 source_page: 247
 ---
 ## Capacités
-_**Résistance à la magie**_. Le pseudodragon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le pseudodragon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Sens aiguisés**_. Le pseudodragon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue, l'odorat ou l'ouïe.
 

@@ -54,7 +54,7 @@ _**Pattes d'araignée**_. Le vampire peut escalader les surfaces difficiles, y c
 
 _**Régénération**_. Le vampire récupère 20 points de vie au début de son tour s'il lui reste au moins 1 point de vie et s'il n'est ni exposé à la lumière du soleil ni immergé dans de l'eau courante. S'il subit des dégâts radiants ou des dégâts infligés par de l'eau bénite, ce trait ne fonctionne pas au début du prochain tour du vampire.
 
-_**Résistance légendaire (3/jour)**_. Le vampire peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. Le vampire peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples (forme de vampire uniquement)**_. Le vampire effectue deux attaques, dont une seule peut être une attaque de morsure.

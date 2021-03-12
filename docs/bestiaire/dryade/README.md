@@ -41,7 +41,7 @@ _**Incantation innée**_. La caractéristique d'incantation de la dryade est le 
 
 _**Passage par les arbres**_. Une fois pendant son tour, la dryade peut dépenser 3 mètres de son déplacement pour entrer par magie dans un arbre vivant à sa portée d'allonge et sortir d'un deuxième arbre vivant situé à 18 mètres ou moins du premier. La dryade réapparaît dans un emplacement inoccupé situé à 1,50 mètre ou moins du deuxième arbre. Les deux arbres doivent être de taille G ou plus grands.
 
-_**Résistance à la magie**_. La dryade obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. La dryade obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Charme féerique**_. La dryade cible un humanoïde ou une bête situé dans son champ de vision à 9 mètres ou moins d'elle. Si la cible peut voir la dryade, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 pour ne pas être [_charmée_](/gerer-la-sante-du-personnage/#charme) par magie. La créature ainsi [_charmée_](/gerer-la-sante-du-personnage/#charme) considère la dryade comme une amie de confiance qu'il faut écouter et protéger. Même si la cible n'est pas sous le contrôle de la dryade, elle envisage les requêtes et les actions de la dryade de la manière la plus favorable.  

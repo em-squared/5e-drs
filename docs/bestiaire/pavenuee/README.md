@@ -40,9 +40,9 @@ source_page: 337
 ## Capacités
 _**Faux-semblant**_. Tant que la nuée reste immobile, il est impossible de la distinguer de pierres normales.
 
-_**Glissade et chute**_. Par une action bonus, la nuée peut pousser de 1,50 m une créature qui se trouve à terre et dont elle occupe l'emplacement.
+_**Glissade et chute**_. Par une action bonus, la nuée peut pousser de 1,50 m une créature qui se trouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et dont elle occupe l'emplacement.
 
-_**Sol instable**_. Quand une nuée se déplace dans l'emplacement d'une autre créature ou y commence son tour, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 13 ou tomber _à terre_. Une créature _à terre_ doit réussir un jet de sauvegarde de Dextérité DD 13 (Acrobaties) pour se relever dans un emplacement occupé par une nuée.
+_**Sol instable**_. Quand une nuée se déplace dans l'emplacement d'une autre créature ou y commence son tour, cette dernière doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13 ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Une créature [_à terre_](/gerer-la-sante-du-personnage/#a-terre) doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13 (Acrobaties) pour se relever dans un emplacement occupé par une nuée.
 
 _**Nuée**_. Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer une pierre de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
 

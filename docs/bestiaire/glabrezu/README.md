@@ -45,7 +45,7 @@ _**Incantation innée**_. La caractéristique d'incantation du glabrezu est l'In
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_ténèbres_](/grimoire/tenebres/)
 * _**1/jour chacun**_ : [_confusion_](/grimoire/confusion/), [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/), [_vol_](/grimoire/vol/)
 
-_**Résistance à la magie**_. Le glabrezu obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le glabrezu obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.

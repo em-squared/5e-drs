@@ -49,9 +49,9 @@ source: "Livre des monstres"
 source_page: 219
 ---
 ## Capacités
-_**Résistance légendaire (3/jour)**_. Si l'empereur rate un jet de sauvegarde, il peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si l'empereur rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.
 
-_**Incantation**_. L'empereur est un lanceur de sorts de niveau 17. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants :
+_**Incantation**_. L'empereur est un lanceur de sorts de niveau 17. Il utilise le Charisme comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19, +11 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants :
 * **Tours de magie (à volonté)** : _protection contre les armes_, [_contact glacial_](/grimoire/contact-glacial/), [_message_](/grimoire/message/), [_prestidigitation_](/grimoire/prestidigitation/), [_poigne électrique_](/grimoire/poigne-electrique/), [_viser juste_](/grimoire/viser-juste/)
 * **Niveau 1 (4 emplacements)** : [_projectile magique_](/grimoire/projectile-magique/), [_bouclier_](/grimoire/bouclier/)
 * **Niveau 2 (3 emplacements)** : [_image miroir_](/grimoire/image-miroir/), _force fantasmagorique_
@@ -63,18 +63,18 @@ _**Incantation**_. L'empereur est un lanceur de sorts de niveau 17. Il utilise l
 * **Niveau 8 (1 emplacement)** : [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/)
 * **Niveau 9 (1 emplacement)** : [_mot de pouvoir mortel_](/grimoire/mot-de-pouvoir-mortel/)
 
-_**Sensibilité à la lumière du soleil**_. L'empereur est _désavantagé_ sur les jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé directement à la lumière du soleil.
+_**Sensibilité à la lumière du soleil**_. L'empereur est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé directement à la lumière du soleil.
 
-_**Résistance contre le renvoi**_. L'empereur est _avantagé_ sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
+_**Résistance contre le renvoi**_. L'empereur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les effets renvoyant les morts-vivants.
 
 ## Actions
 _**Attaques multiples**_. L'empereur fait une attaque de _morsure_ et deux de _griffes_. Il peut faire une attaque de _sceptre_ au lieu d'une attaque de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 13 (2d8 + 4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
+_Touché_ : 13 (2d8 + 4) dégâts perforants. Une créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 18 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 11 (2d6 + 4) dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est _paralysée_ pendant 1 minute. Une créature _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
+_Touché_ : 11 (2d6 + 4) dégâts tranchants. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 18, sans quoi elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 minute. Une créature [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
 
 _**Sceptre**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 9 (1d10 + 4) dégâts contondants plus 17 (5d6) dégâts nécrotiques.
@@ -93,7 +93,7 @@ _**Source de puissance (3 actions)**_. Lancez 1d8. L'empereur récupère un empl
 
 §§§ .hero
 ## Fièvre du Darakhul
-Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu'elle n'a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de [_restauration supérieure_](/grimoire/restauration-superieure) ou d'une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. [_Restauration supérieure_](/grimoire/restauration-superieure) soigne la maladie tandis que [_restauration inférieure_](/grimoire/restauration-inferieure) _avantage_ la victime sur le jet de sauvegarde quotidien de Constitution.
+Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu'elle n'a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de [_restauration supérieure_](/grimoire/restauration-superieure) ou d'une magie similaire. La victime guérit de la maladie si elle réussit ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) deux jours de suite. [_Restauration supérieure_](/grimoire/restauration-superieure) soigne la maladie tandis que [_restauration inférieure_](/grimoire/restauration-inferieure) _avantage_ la victime sur le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) quotidien de Constitution.
 
 La maladie se répand surtout chez les humains, mais comme elle peut affecter les ogres, elle doit pouvoir toucher les autres géants.
 

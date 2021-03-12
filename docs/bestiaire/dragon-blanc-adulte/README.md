@@ -45,7 +45,7 @@ source_page: 81
 ## Capacités
 _**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.
 
-_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples**_. Le dragon peut utiliser sa _Présence terrifiante_. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.

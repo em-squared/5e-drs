@@ -39,7 +39,7 @@ source: "Livre des monstres"
 source_page: 195
 ---
 ## Capacités
-_**Coup puissant**_. Quand le férocien attaque sans se déplacer pendant son tour, son attaque de griffes est _avantagée_.
+_**Coup puissant**_. Quand le férocien attaque sans se déplacer pendant son tour, son attaque de griffes est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 _**Piquants**_. Une créature subit 4 (1d8) dégâts perforants au début de son tour tant qu'elle empoigne le férocien.
 

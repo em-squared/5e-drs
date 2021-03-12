@@ -46,7 +46,7 @@ source_page: 88
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.
 
-_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite.
+_**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
 
 ## Actions
 _**Attaques multiples**_. Le dragon peut utiliser sa _Présence terrifiante_. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.

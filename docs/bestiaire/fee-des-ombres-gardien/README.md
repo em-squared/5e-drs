@@ -36,16 +36,16 @@ source: "Livre des monstres"
 source_page: 169
 ---
 ## Capacités
-_**Ascendance féerique**_. Une fée des ombres est _avantagée_ lors de ses jets de sauvegarde contre l'état charmé et il est impossible de l'endormir par magie.
+_**Ascendance féerique**_. Une fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état [_charmé_](/gerer-la-sante-du-personnage/#charme) et il est impossible de l'endormir par magie.
 
 _**Incantation innée**_. La caractéristique d'incantation innée d'une fée des ombres est le Charisme. Elle peut lancer les sorts suivants de façon innée, sans composantes matérielles :
 * **1/jour** : [_pas brumeux_](/grimoire/pas-brumeux/) (seulement dans une zone d'ombre, de lumière faible ou de ténèbres)
 
-_**Vigile de l'ombre**_. La fée des ombres est _avantagée_ lors de ses tests de Sagesse (Perception) et les ténèbres magiques n'inhibent pas sa vision dans le noir.
+_**Vigile de l'ombre**_. La fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Sagesse (Perception) et les ténèbres magiques n'inhibent pas sa vision dans le noir.
 
-_**Sensibilité à la lumière du soleil**_. Une fée des ombres est _désavantagée_ lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue si elle est exposée à la lumière du soleil.
+_**Sensibilité à la lumière du soleil**_. Une fée des ombres est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue si elle est exposée à la lumière du soleil.
 
-_**Voyageur dans les ténèbres**_. Une fée des ombres est _avantagée_ lors de ses jets d'Intelligence (Arcanes) dont le but est d'en apprendre plus sur une route des ombres, un sort ou un objet des ombres.
+_**Voyageur dans les ténèbres**_. Une fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'Intelligence (Arcanes) dont le but est d'en apprendre plus sur une route des ombres, un sort ou un objet des ombres.
 
 ## Actions
 _**Attaques multiples**_. La fée des ombres fait deux attaques de _pique_.

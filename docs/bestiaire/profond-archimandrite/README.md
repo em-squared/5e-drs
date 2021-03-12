@@ -47,14 +47,14 @@ source_page: 343
 ## Capacités
 _**Amphibie**_. Un profond peut respirer aussi facilement dans l'eau que dans l'air.
 
-_**Fou de rage**_. Quand un archimandrite profond hybride subit 10 dégâts ou plus d'une unique attaque, il se trouve lors de son prochain tour _avantagé_ lors de ses attaques, ajoute +4 aux dégâts qu'il inflige et peut faire une attaque supplémentaire à l'aide de son _trident impie_.
+_**Fou de rage**_. Quand un archimandrite profond hybride subit 10 dégâts ou plus d'une unique attaque, il se trouve lors de son prochain tour [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses attaques, ajoute +4 aux dégâts qu'il inflige et peut faire une attaque supplémentaire à l'aide de son _trident impie_.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un archimandrite profond est le Charisme (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un archimandrite profond est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_bénédiction_](/grimoire/benediction/), [_flamme sacrée_](/grimoire/flamme-sacree/), [_poigne électrique_](/grimoire/poigne-electrique/), [_revigorer_](/grimoire/revigorer/), [_suggestion_](/grimoire/suggestion/)
 * **3/jour chacun** : [_briser_](/grimoire/briser/), [_charme-personne_](/grimoire/charme-personne/), [_éclair_](/grimoire/eclair/), [_sanctuaire_](/grimoire/sanctuaire/)
 * **1/jour chacun** : [_chaîne d'éclairs_](/grimoire/chaine-d-eclairs/), [_cône de froid_](/grimoire/cone-de-froid/), [_tempête de grêle_](/grimoire/tempete-de-grele/)
 
-_**Résistance légendaire (1/jour)**_. Si un archimandrite profond échoue à un jet de sauvegarde, il peut quand même le considérer comme une réussite.
+_**Résistance légendaire (1/jour)**_. Si un archimandrite profond échoue à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut quand même le considérer comme une réussite.
 
 _**Profondeurs ténébreuses**_. Un archimandrite profond est immunisé aux effets de la pression qui règne dans les profondeurs de l'océan.
 

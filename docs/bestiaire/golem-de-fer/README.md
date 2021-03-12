@@ -45,7 +45,7 @@ _**Armes magiques**_. Les attaques d'arme du golem sont magiques.
 
 _**Forme immuable**_. Le golem est immunisé contre les sorts et effets susceptibles d'altérer sa forme.
 
-_**Résistance à la magie**_. Le golem obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le golem obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 ## Actions
 _**Attaques multiples**_. Le golem effectue deux attaques au corps à corps.

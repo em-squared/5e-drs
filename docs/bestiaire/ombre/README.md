@@ -51,7 +51,7 @@ source: "Créatures & Oppositions"
 source_page: 237
 ---
 ## Capacités
-_**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil.
+_**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) lorsqu'elle est exposée à la lumière du soleil.
 
 _**Discrétion dans les ombres**_. Tant qu'elle se trouve dans une zone faiblement éclairée ou plongée dans l'obscurité totale, l'ombre peut effectuer l'action [_se cacher_](/combattre/#se-cacher) par une action bonus.
 

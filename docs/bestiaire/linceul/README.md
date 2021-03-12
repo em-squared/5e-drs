@@ -56,7 +56,7 @@ _**Évolution en ombre**_. Un linceul se change instantanément en [ombre](/best
 
 _**Discrétion du linceul**_. Quand le linceul se trouve dans les ténèbres ou sous une faible lumière, il peut accomplir l'action _se cacher_ par une action bonus.
 
-_**Faiblesse face à la lumière du soleil**_. Sous la lumière du soleil, le linceul est _désavantagé_ sur les jets d'attaque, les tests de caractéristiques et les jets de sauvegarde.
+_**Faiblesse face à la lumière du soleil**_. Sous la lumière du soleil, le linceul est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque, les tests de caractéristiques et les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 ## Actions
 _**Drain de force**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  
