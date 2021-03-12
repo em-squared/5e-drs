@@ -41,6 +41,7 @@
 <script>
 import { displaySchoolLevel } from '@theme/util/spellHelpers'
 import MarkdownIt from 'markdown-it'
+import { handleTooltips } from '@theme/util'
 
 export default {
   name: 'Spell',
@@ -61,6 +62,14 @@ export default {
 
   mounted () {
     // console.log(this.spell)
+    setTimeout(function () {
+      handleTooltips()
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips()
+      }, 100)
+    })
   }
 }
 </script>

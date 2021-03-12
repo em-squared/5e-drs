@@ -1,3 +1,40 @@
+#tooltip {
+  position: absolute;
+  display: none;
+  z-index: 1000;
+
+  text-align: left;
+  width: 50vw;
+  max-width: 555px;
+  min-width: 350px;
+  background-color: #fff;
+  color: #555;
+  box-shadow: 0 0 12px #333;
+  border-radius: 5px;
+
+  .tooltip-title {
+    background-color: $color-hero;
+    &.tooltip-spell {
+      background-color: $color-dragon;
+    }
+    // &.tooltip-condition {
+    // }
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    padding: 12px;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .tooltip-content {
+    padding: 12px;
+    ul {
+      margin: 0;
+      padding: 0 0 0 15px;
+    }
+  }
+}
+
 .v-tooltip__content {
   &.spell-tooltip-container,
   &.condition-tooltip-container {

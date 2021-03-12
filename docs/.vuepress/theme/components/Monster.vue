@@ -168,6 +168,8 @@ import {
   displayMonsterTypeSizeAlignment
 } from '@theme/util/monsterHelpers'
 
+import { handleTooltips } from '@theme/util'
+
 import {stats} from '../../data/stats.js'
 import {armorTypes} from '../../data/armorTypes.js'
 import MarkdownIt from 'markdown-it'
@@ -508,6 +510,14 @@ export default {
 
   mounted () {
     //console.log(this.$page)
+    setTimeout(function () {
+      handleTooltips()
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips()
+      }, 100)
+    })
   }
 }
 </script>

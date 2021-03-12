@@ -29,8 +29,8 @@
         <v-btn color="primary" class="d-print-none" fab bottom right fixed @click="toTop" v-show="toTopButton" v-scroll="onScroll">
           <v-icon class="d-print-none">mdi-chevron-up</v-icon>
         </v-btn>
-    </v-fab-transition>
-  </v-main>
+      </v-fab-transition>
+    </v-main>
 
     <v-bottom-sheet v-model="cookieConsentDialog" hide-overlay>
       <v-sheet class="" tile>
@@ -64,6 +64,13 @@
       </v-card>
     </v-dialog>
 
+    <div id="tooltip">
+      <div id="tooltip-title" class="tooltip-title">
+      </div>
+      <div id="tooltip-content" class="tooltip-content">
+      </div>
+    </div>
+
   </v-app>
 </template>
 
@@ -74,6 +81,7 @@ import NavDrawer from '@theme/components/NavDrawer.vue'
 import RightDrawer from '@theme/components/RightDrawer.vue'
 import Vue from 'vue'
 import Cookies from 'js-cookie'
+import { tooltips } from '../../data/ruleTooltips.js'
 
 export default {
   name: 'GlobalLayout',
@@ -188,7 +196,7 @@ export default {
       setTimeout(function () {
         self.hintCopied = ''
       }, 2000)
-    }
+    },
   }
 }
 </script>

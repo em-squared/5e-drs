@@ -7,9 +7,20 @@
 </template>
 
 <script>
+import { handleTooltips } from '@theme/util'
 export default {
   name: 'Page',
-  components: { }
+  components: { },
+  mounted () {
+    setTimeout(function () {
+      handleTooltips()
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips()
+      }, 100)
+    })
+  }
 }
 </script>
 

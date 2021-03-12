@@ -262,3 +262,57 @@ export function isResourceInLibrary (resource, library) {
   }
   return false
 }
+
+/*
+** Handles rule tooltips like conditions
+*/
+import { tooltips } from '../../data/ruleTooltips.js'
+export function handleTooltips (component) {
+  if (!component) {
+    component = document
+  }
+  // Gestion des tooltips
+  let tooltip = document.getElementById('tooltip')
+  let tooltipTitle = document.getElementById('tooltip-title')
+  let tooltipContent = document.getElementById('tooltip-content')
+  window.onmousemove = function (e) {
+    var x = e.pageX + 20,
+        y = e.pageY + 20;
+
+    tooltip.style.top = y + 'px';
+    tooltip.style.left = x + 'px';
+
+    // Get calculated tooltip coordinates and size
+    var tooltip_rect = tooltip.getBoundingClientRect();
+    // Corrections if out of window
+    if ((tooltip_rect.x + tooltip_rect.width) > window.innerWidth) // Out on the right
+      x = x - tooltip_rect.width - 20;  // Simulate a "right: tipX" position
+    if ((tooltip_rect.y + tooltip_rect.height) > window.innerHeight) // Out on the bottom
+      y = y - tooltip_rect.height - 20; // Align on the bottom
+
+    // Apply corrected position
+    tooltip.style.top = y + 'px';
+    tooltip.style.left = x + 'px';
+  }
+  // Arborescence des liens
+  let links = component.querySelectorAll("a")
+  for (var l of links) {
+    let hash = l.hash.replace('#', '')
+    if (hash != "" && tooltips[hash]) {
+      l.addEventListener("mouseover", function( event ) {
+        tooltipTitle.innerHTML = tooltips[hash].title
+        let tcontent = '<ul>'
+        for (var d of tooltips[hash].description) {
+          tcontent += '<li>' + d + '</li>'
+        }
+        tcontent += '</ul>'
+        tooltipContent.innerHTML = tcontent
+        tooltip.style.display = 'block'
+      }, false);
+
+      l.addEventListener("mouseout", function( event ) {
+        tooltip.style.display = 'none'
+      }, false);
+    }
+  }
+}

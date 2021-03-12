@@ -23,6 +23,7 @@
 <script>
 import {displayItemMeta} from '@theme/util/magicItemHelpers'
 import MarkdownIt from 'markdown-it'
+import { handleTooltips } from '@theme/util'
 
 export default {
   name: 'MagicItem',
@@ -39,6 +40,17 @@ export default {
     displayItemMeta () {
       return displayItemMeta(this.magicItem.frontmatter)
     }
+  },
+
+  mounted () {
+    setTimeout(function () {
+      handleTooltips()
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips()
+      }, 100)
+    })
   }
 }
 </script>
