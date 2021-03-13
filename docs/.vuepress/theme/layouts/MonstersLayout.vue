@@ -154,7 +154,7 @@ import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { displayChallenge } from '@theme/util/monsterHelpers'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
-import { isResourceInLibrary } from '@theme/util'
+import { isResourceInLibrary, handleTooltips } from '@theme/util'
 import Monster from '@theme/components/Monster'
 import MyMonstersButton from '@theme/global-components/MyMonstersButton'
 import { CHALLENGES } from '../../data/monsters'
@@ -387,6 +387,15 @@ export default {
     changePage (page) {
       // console.log(page)
       setUrlParams("page", [page])
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+      this.$router.afterEach(() => {
+        setTimeout(function () {
+          handleTooltips({pages:self.$site.pages})
+        }, 100)
+      })
     },
 
     onClickRow (row, item) {
@@ -416,6 +425,16 @@ export default {
     if (showColumn) {
       this.showColumn = JSON.parse(showColumn)
     }
+
+    let self = this
+    setTimeout(function () {
+      handleTooltips({pages:self.$site.pages})
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100)
+    })
   }
 }
 </script>

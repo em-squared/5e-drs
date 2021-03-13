@@ -28,8 +28,12 @@
     &.tooltip-spell {
       background-color: $color-dragon;
     }
-    // &.tooltip-condition {
-    // }
+    &.tooltip-monster {
+      background-color: $color-red;
+    }
+    &.tooltip-condition {
+      background-color: $color-purple;
+    }
     color: #fff;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -57,6 +61,11 @@
     }
     .spell-details {
       border-bottom: 2px solid $color-dragon;
+      margin-bottom: .5rem;
+      padding-bottom: .5rem;
+    }
+    .monster-details {
+      border-bottom: 2px solid $color-red;
       margin-bottom: .5rem;
       padding-bottom: .5rem;
     }

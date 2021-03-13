@@ -267,7 +267,8 @@ export function isResourceInLibrary (resource, library) {
 ** Handles rule tooltips like conditions
 */
 import { tooltips } from '../../data/ruleTooltips.js'
-import {displaySchoolLevel} from '@theme/util/spellHelpers'
+import { displaySchoolLevel } from '@theme/util/spellHelpers'
+import { displayMonsterTypeSizeAlignment, displayAC, displayHP, displayChallenge, displayAbilityScore } from '@theme/util/monsterHelpers'
 import MarkdownIt from 'markdown-it'
 export function handleTooltips (params = {}) {
   if (!params.component) {
@@ -318,11 +319,15 @@ export function handleTooltips (params = {}) {
         tooltip.style.display = 'none'
         tooltipTitle.classList.remove('tooltip-condition')
       }, false);
+      l.addEventListener("click", function( event ) {
+        tooltip.style.display = 'none'
+        tooltipTitle.classList.remove('tooltip-condition')
+      }, false);
     } else if (l.pathname.startsWith('/grimoire/')) {
       // console.log(l.pathname)
       if (params.pages) {
         let spell = params.pages.find((el) => el.path === l.pathname)
-        if (spell) {
+        if (spell && spell.frontmatter.school) {
           // console.log(spell)
           l.addEventListener("mouseover", function( event ) {
             let ttitle = '<div class="d-flex justify-space-between">'
@@ -381,6 +386,101 @@ export function handleTooltips (params = {}) {
           l.addEventListener("click", function( event ) {
             tooltip.style.display = 'none'
             tooltipTitle.classList.remove('tooltip-spell')
+          }, false);
+        }
+      }
+    } else if (l.pathname.startsWith('/bestiaire/')) {
+      // console.log(l.pathname)
+      if (params.pages) {
+        let monster = params.pages.find((el) => el.path === l.pathname)
+        if (monster && monster.frontmatter.challenge) {
+          // console.log(spell)
+          l.addEventListener("mouseover", function( event ) {
+            let ttitle = '<div class="d-flex justify-space-between">'
+            ttitle += '<div>' + monster.title + '</div>'
+            ttitle += '<div class="monster-type-size subtitle-2">' + displayMonsterTypeSizeAlignment(monster.frontmatter, true) + '</div>'
+            ttitle += '</div>'
+            tooltipTitle.innerHTML = ttitle
+            tooltipTitle.classList.add('tooltip-monster')
+            let tcontent = '<div>'
+
+            tcontent += '<div class="monster-details">'
+            tcontent += '<div class="d-flex justify-space-around">'
+            tcontent += '<div class="px-4 flex-grow-0 monster-hp"><div class="subtitle-2">Points de vie</div><div>' + displayHP(monster) + '</div></div>'
+            tcontent += '<div class="px-4 flex-grow-0 monster-ac"><div class="subtitle-2">Classe d\'armure</div><div>' + displayAC(monster) + '</div></div>'
+            tcontent += '<div class="px-4 flex-grow-0 monster-challenge"><div class="subtitle-2">Dangerosité</div><div>' + displayChallenge(monster.frontmatter.challenge, true) + '</div></div>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+
+            tcontent += '<div class="monster-ability-scores d-flex justify-space-around">'
+            tcontent += '<div class="monster-ability-scores-physical d-flex">'
+            tcontent += '<div class="ability-str text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>For</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.for) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-dex text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>Dex</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.dex) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-con text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>Con</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.con) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="monster-ability-scores-mental d-flex">'
+            tcontent += '<div class="ability-int text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>Int</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.int) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-wis text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>Sag</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.sag) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-cha text-center">'
+            tcontent += '<div class="ability-label-alt">'
+            tcontent += '<strong>Cha</strong>'
+            tcontent += '</div>'
+            tcontent += '<div class="ability-score">'
+            tcontent += '<span>' + displayAbilityScore(monster.frontmatter.abilityScores.cha) + '</span>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+
+            tcontent += '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="tooltip-overflow"></div>'
+            tooltipContent.innerHTML = tcontent
+            tooltip.style.display = 'block'
+          }, false);
+
+          l.addEventListener("mouseout", function( event ) {
+            tooltip.style.display = 'none'
+            tooltipTitle.classList.remove('tooltip-monster')
+          }, false);
+          l.addEventListener("click", function( event ) {
+            tooltip.style.display = 'none'
+            tooltipTitle.classList.remove('tooltip-monster')
           }, false);
         }
       }

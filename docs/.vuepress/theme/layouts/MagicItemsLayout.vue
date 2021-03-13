@@ -220,6 +220,15 @@ export default {
     changePage (page) {
       // console.log(page)
       setUrlParams("page", [page])
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+      this.$router.afterEach(() => {
+        setTimeout(function () {
+          handleTooltips({pages:self.$site.pages})
+        }, 100)
+      })
     },
 
     onClickRow (row, item) {
@@ -240,6 +249,16 @@ export default {
     if (page) {
       this.page = page
     }
+
+    let self = this
+    setTimeout(function () {
+      handleTooltips({pages:self.$site.pages})
+    }, 100);
+    this.$router.afterEach(() => {
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100)
+    })
   }
 }
 </script>
