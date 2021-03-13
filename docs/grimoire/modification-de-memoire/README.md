@@ -27,6 +27,6 @@ Vous devez parler à votre cible pour décrire comment ses souvenirs sont affect
 
 Les souvenirs modifiés ne changent pas forcément l'attitude de la créature, surtout s'ils entrent en contradiction avec ses penchants naturels, son alignement ou ses croyances. Un souvenir modifié illogique sera ignoré : par exemple, si la cible se souvient combien elle a aimé se baigner dans de l'acide, elle prendra cela pour un mauvais rêve. Le MJ peut estimer qu'un souvenir est modifié de manière tellement insensée qu'il n'affecte pas la cible de manière significative.
 
-Un sort <ST s="lever-une-malediction"/> ou <ST s="restauration-superieure"/> permet à la cible de retrouver ses véritables souvenirs.
+Un sort [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_restauration supérieure_](/grimoire/restauration-superieure/) permet à la cible de retrouver ses véritables souvenirs.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez modifier les souvenirs d'un événement remontant à 7 jours (niveau 6), 30 jours (niveau 7), 1 an (niveau 8) ou issus de n'importe quelle période du passé de la cible (niveau 9).

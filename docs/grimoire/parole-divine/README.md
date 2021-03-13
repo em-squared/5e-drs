@@ -25,4 +25,4 @@ Vous prononcez une parole divine, empreinte de la puissance qui a façonné le m
 * 30 points de vie ou moins : [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle), [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) et [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) pour 1 heure.
 * 20 points de vie ou moins : morte sur-le-champ.
 
-Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un <ST s="souhait"/>.
+Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un [_souhait_](/grimoire/souhait/).

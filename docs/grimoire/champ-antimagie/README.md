@@ -23,7 +23,7 @@ Une sphère d'antimagie invisible de 3 mètres de rayon vous entoure. La zone qu
 
 Les sorts et autres effets magiques, en dehors de ceux émanant d'un artefact ou d'une divinité, sont supprimés au sein de la sphère et ne peuvent pénétrer son espace. Un emplacement utilisé pour lancer un sort ainsi supprimé est tout de même consommé. L'effet ne fonctionne pas tant qu'il est supprimé, mais le temps passé sous suppression est tout de même décompté de sa durée d'efficacité.
 
-**Effets visant une cible**. Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme <ST s="projectile-magique"/> ou <ST s="charme-personne"/>, n'ont aucun effet sur cette cible.
+**Effets visant une cible**. Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme [_projecile magique_](/grimoire/projectile-magique/) ou [_charme-personne_](/grimoire/charme-personne/), n'ont aucun effet sur cette cible.
 
 **Zones de magie**. La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d'un mur de feu sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
 
@@ -33,8 +33,6 @@ Les sorts et autres effets magiques, en dehors de ceux émanant d'un artefact ou
 
 Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utilisateur la manie contre une cible située dans la sphère ou s'il se trouve dans la sphère. Si une arme ou une munition magique quitte entièrement la sphère (par exemple, si vous tirez une flèche magique ou projetez une lance magique en dehors de la sphère), la suppression de magie cesse d'affecter l'objet dès qu'il quitte la sphère.
 
-**Déplacement magique**. La téléportation et les voyages planaires échouent systématiquement au sein de la sphère, que cette dernière serve de destination ou de point de départ à ce type de déplacement. Un portail menant en un autre lieu, sur un autre monde ou sur un autre plan d'existence se ferme temporairement tant qu'il est englobé dans la sphère, de même que l'ouverture sur un espace extradimensionnel telle celle créée par le sort <ST s="corde-enchentee"/>.
+**Déplacement magique**. La téléportation et les voyages planaires échouent systématiquement au sein de la sphère, que cette dernière serve de destination ou de point de départ à ce type de déplacement. Un portail menant en un autre lieu, sur un autre monde ou sur un autre plan d'existence se ferme temporairement tant qu'il est englobé dans la sphère, de même que l'ouverture sur un espace extradimensionnel telle celle créée par le sort [_corde enchantée_](/grimoire/corde-enchantee/).
 
 **Créatures et objets**. Une créature ou un objet invoqués ou créés par magie disparaissent temporairement si la sphère les recouvre. Ils réapparaissent instantanément dès que l'espace qu'ils occupent ne se trouve plus au sein de la sphère.
-
-**Dissipation de la magie**. Les sorts et les effets magiques comme <ST s="dissipation-de-la-magie"/> n'ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de _champ antimagie_ ne s'annulent pas les unes les autres.

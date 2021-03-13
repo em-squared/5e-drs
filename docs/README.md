@@ -12,6 +12,18 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+# D'un coup d’œil
+Aujourd'hui, c'est une fonctionnalité qui améliore le confort que je vous propose : les détails des sorts et effets préjudiciables au survol !
+
+Dorénavant, tous les liens vers des effets préjudiciables comme [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou des sorts comme [_projectile magique_](/grimoire/projectile-magique/) feront apparaître une boîte avec les détails de l'effet ou du sort au survol pour avoir des précisions d'un simple coup d’œil sans avoir à changer de page. Les sorts avec une description trop longue comme [_souhait_](/grimoire/souhait/) seront tronqués, et il sera nécessaire de visiter la page dédiée pour consulter la description complète.
+
+Aussi, le calculateur de rencontre affiche désormais le total de points d'expérience de la rencontre et la quantité de points d'expérience à distribuer par PJ en cas de victoire. Les MJ n'ont plus à sortir la calculatrice !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 13 mars 2021_
+§§§
+
 # Une nouvelle ère
 Amis rôlistes,
 

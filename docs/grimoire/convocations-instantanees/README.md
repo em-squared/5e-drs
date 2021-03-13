@@ -24,4 +24,4 @@ Ensuite, vous pouvez utiliser une action quand vous le désirez pour prononcer l
 
 Si l'objet est actuellement porté ou transporté par quelqu'un d'autre, il n'arrive pas jusqu'à vous quand vous broyez le saphir, mais vous apprenez qui est la créature qui détient l'objet et vous savez à peu près où elle se trouve à ce moment-là.
 
-<ST s="dissipation-de-la-magie"/> ou un effet similaire appliqué sur le saphir met un terme à l'effet du sort.
+[_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) ou un effet similaire appliqué sur le saphir met un terme à l'effet du sort.

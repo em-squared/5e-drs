@@ -267,9 +267,11 @@ export function isResourceInLibrary (resource, library) {
 ** Handles rule tooltips like conditions
 */
 import { tooltips } from '../../data/ruleTooltips.js'
-export function handleTooltips (component) {
-  if (!component) {
-    component = document
+import {displaySchoolLevel} from '@theme/util/spellHelpers'
+import MarkdownIt from 'markdown-it'
+export function handleTooltips (params = {}) {
+  if (!params.component) {
+    params.component = document
   }
   // Gestion des tooltips
   let tooltip = document.getElementById('tooltip')
@@ -295,24 +297,89 @@ export function handleTooltips (component) {
     tooltip.style.left = x + 'px';
   }
   // Arborescence des liens
-  let links = component.querySelectorAll("a")
+  let links = params.component.querySelectorAll("a")
   for (var l of links) {
     let hash = l.hash.replace('#', '')
     if (hash != "" && tooltips[hash]) {
       l.addEventListener("mouseover", function( event ) {
         tooltipTitle.innerHTML = tooltips[hash].title
+        tooltipTitle.classList.add('tooltip-condition')
         let tcontent = '<ul>'
         for (var d of tooltips[hash].description) {
           tcontent += '<li>' + d + '</li>'
         }
         tcontent += '</ul>'
+        tcontent += '<div class="tooltip-overflow"></div>'
         tooltipContent.innerHTML = tcontent
         tooltip.style.display = 'block'
       }, false);
 
       l.addEventListener("mouseout", function( event ) {
         tooltip.style.display = 'none'
+        tooltipTitle.classList.remove('tooltip-condition')
       }, false);
+    } else if (l.pathname.startsWith('/grimoire/')) {
+      // console.log(l.pathname)
+      if (params.pages) {
+        let spell = params.pages.find((el) => el.path === l.pathname)
+        if (spell) {
+          // console.log(spell)
+          l.addEventListener("mouseover", function( event ) {
+            let ttitle = '<div class="d-flex justify-space-between">'
+            ttitle += '<div>' + spell.title + '</div>'
+            ttitle += '<div class="spell-school-level subtitle-2">' + displaySchoolLevel(spell.frontmatter) + '</div>'
+            ttitle += '</div>'
+            tooltipTitle.innerHTML = ttitle
+            tooltipTitle.classList.add('tooltip-spell')
+            let tcontent = '<div>'
+
+            tcontent += '<div class="spell-details">'
+            tcontent += '<div class="d-flex justify-space-around">'
+            tcontent += '<div class="px-4 flex-grow-0 spell-casting-time"><div class="subtitle-2">Temps d\'incantation</div><div>' + spell.frontmatter.casting_time + '</div></div>'
+            tcontent += '<div class="px-4 flex-grow-0 spell-range"><div class="subtitle-2">Portée</div><div>' + spell.frontmatter.range + '</div></div>'
+            tcontent += '<div class="px-4 flex-grow-0 spell-components"><div class="subtitle-2">Composantes</div><div>'
+            let components = ''
+            if (spell.frontmatter.components.verbal) {
+              components += 'V'
+              if (spell.frontmatter.components.somatic || spell.frontmatter.components.material) {
+                components += ', '
+              }
+            }
+            if (spell.frontmatter.components.somatic) {
+              components += 'S'
+              if (spell.frontmatter.components.material) {
+                components += ', '
+              }
+            }
+            if (spell.frontmatter.components.material) {
+              components += 'M'
+            }
+            tcontent += '<span>' + components + '</span>'
+            tcontent += '</div></div>'
+            let duration = ''
+            if (spell.frontmatter.concentration) {
+              duration += 'concentration, '
+            }
+            duration += spell.frontmatter.duration
+            tcontent += '<div class="px-4 flex-grow-0 spell-duration"><div class="subtitle-2">Durée</div><div>' + duration + '</div></div>'
+            tcontent += '</div>'
+            tcontent += '</div>'
+            var md = new MarkdownIt()
+            let content = md.render(spell.rawContent)
+            content = content.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
+            tcontent += '<div class="spell-description">' + content + '</div>'
+            tcontent += '</div>'
+            tcontent += '<div class="tooltip-overflow"></div>'
+            tooltipContent.innerHTML = tcontent
+            tooltip.style.display = 'block'
+          }, false);
+
+          l.addEventListener("mouseout", function( event ) {
+            tooltip.style.display = 'none'
+            tooltipTitle.classList.remove('tooltip-spell')
+          }, false);
+        }
+      }
     }
   }
 }

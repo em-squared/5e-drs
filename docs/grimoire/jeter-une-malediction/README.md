@@ -26,6 +26,6 @@ Vous touchez une créature qui doit réussir un [jet de sauvegarde](/utiliser-le
 * Tant que la cible est maudite, elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse au début de chacun de ses tours. Si elle le rate, elle gaspille son action du tour et ne fait rien.
 * Tant que la cible est maudite, vos sorts et vos attaques à son encontre lui infligent 1d8 dégâts nécrotiques supplémentaires.
 
-Le sort <ST s="lever-une-malediction"/> met un terme à cet effet. Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais il ne doit pas être plus puissant que ceux proposés ici. C'est au MJ de décider s'il accepte ou non le nouvel effet de malédiction.
+Le sort [_lever une malédiction_](/grimoire/lever-une-malediction/) met un terme à cet effet. Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais il ne doit pas être plus puissant que ceux proposés ici. C'est au MJ de décider s'il accepte ou non le nouvel effet de malédiction.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort fait effet tant que vous vous concentrez, sans dépasser un maximum de 10 minutes. Si vous utilisez un emplacement de niveau 5 ou supérieur, la durée est de 8 heures, tandis qu'elle passe à 24 heures si vous utilisez un emplacement de sort de niveau 7 ou plus. Si vous utilisez un emplacement de niveau 9, le sort persiste jusqu'à ce qu'il soit dissipé. L'utilisation d'un emplacement de niveau 5 ou plus vous dispense de vous concentrer.

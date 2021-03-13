@@ -27,7 +27,8 @@ Au moment de l'incantation, vous changez les conditions météorologiques actuel
 Quand vous modifiez les conditions météorologiques, cherchez les conditions actuelles dans les tables suivantes : vous pouvez les décaler d'un cran vers le haut ou le bas. Quand vous modifiez le vent, vous pouvez changer sa direction.
 
 ## Précipitations
-§§§ .table-container
+<div class="table-container">
+
 |Étape|Condition|
 |:-:|:-|
 |**1**|Ciel dégagé|
@@ -35,10 +36,12 @@ Quand vous modifiez les conditions météorologiques, cherchez les conditions ac
 |**3**|Ciel couvert ou brume au sol|
 |**4**|Pluie, grêle ou neige|
 |**5**|Pluies torrentielles, forte grêle ou blizzard|
-§§§
+
+</div>
 
 ## Température
-§§§ .table-container
+<div class="table-container">
+
 |Étape|Condition|
 |:-:|:-|
 |**1**|Chaleur insoutenable|
@@ -47,10 +50,12 @@ Quand vous modifiez les conditions météorologiques, cherchez les conditions ac
 |**4**|Frais|
 |**5**|Grand froid|
 |**6**|Froid polaire|
-§§§
+
+</div>
 
 ## Vent
-§§§ .table-container
+<div class="table-container">
+
 |Étape|Condition|
 |:-:|:-|
 |**1**|Temps calme|
@@ -58,4 +63,5 @@ Quand vous modifiez les conditions météorologiques, cherchez les conditions ac
 |**3**|Vent fort|
 |**4**|Grand vent|
 |**5**|Tempête|
-§§§
+
+</div>

@@ -23,7 +23,8 @@ Vous tirez des bribes de matière ombreuse du plan de l'ombre pour créer à por
 
 La durée du sort dépend du matériau choisi pour façonner l'objet. S'il est fait de plusieurs matières, c'est la durée la plus courte qui s'applique.
 
-§§§ .table-container
+<div class="table-container">
+
 |Matériau|Durée|
 |:-|:-:|
 |**Matière végétale**|1 jour|
@@ -31,7 +32,8 @@ La durée du sort dépend du matériau choisi pour façonner l'objet. S'il est f
 |**Métaux précieux**|1 heure|
 |**Gemmes**|10 minutes|
 |**Adamantium ou mithral**|1 minute|
-§§§
+
+</div>
 
 Si vous utilisez les matériaux créés via ce sort comme composantes matérielles pour un autre sort, ce dernier échoue.
 

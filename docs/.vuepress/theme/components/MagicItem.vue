@@ -43,12 +43,13 @@ export default {
   },
 
   mounted () {
+    let self = this
     setTimeout(function () {
-      handleTooltips()
+      handleTooltips({pages:self.$site.pages})
     }, 100);
     this.$router.afterEach(() => {
       setTimeout(function () {
-        handleTooltips()
+        handleTooltips({pages:self.$site.pages})
       }, 100)
     })
   }

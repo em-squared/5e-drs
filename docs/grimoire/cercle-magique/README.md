@@ -26,7 +26,7 @@ Vous créez un cylindre d'énergie magique de 3 mètres de rayon pour 6 mètres 
 Choisissez l'un des types de créatures suivants : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte une créature du type choisi de la manière suivante :
 * La créature ne peut pas entrer de son plein gré dans le cylindre par des moyens non magiques. Si elle tente d'utiliser la téléportation ou le voyage extraplanaire pour y pénétrer, elle doit auparavant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme.
 * La créature subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre les créatures se trouvant dans le cylindre.
-* Les créatures situées dans le cylindre ne peuvent pas être <RT l="charmées" t="charme"/>, <RT l="terrorisées" t="terrorise"/> ou _possédées_ par la créature.
+* Les créatures situées dans le cylindre ne peuvent pas être [_charmées_](/gerer-la-sante-du-personnage/#charme), [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) ou _possédées_ par la créature.
 
 Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, empêchant les créatures du type choisi de quitter le cercle et protégeant contre elles les individus situés à l'extérieur.
 

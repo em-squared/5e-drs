@@ -28,4 +28,4 @@ Quand vous lancez ce sort, chaque créature qui se trouve entièrement au sein d
 
 Une créature enfermée dans la cage ne peut pas la quitter par des moyens non-magiques. Si elle tente d'utiliser la téléportation ou les déplacements interplanaires pour s'échapper, elle doit d'abord effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Si elle le réussit, elle peut utiliser cette magie pour fuir, sinon elle ne parvient pas à quitter la cage, et l'utilisation du sort ou de l'effet est gaspillée. La cage s'étend aussi sur le plan éthéré, ce qui bloque les déplacements éthérés.
 
-La <ST s="dissipation-de-la-magie" /> est sans effet sur ce sort.
+La [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) est sans effet sur ce sort.

@@ -24,4 +24,4 @@ Rien ne peut franchir la barrière que forme la sphère : ni les objets physique
 
 La sphère ne pèse rien et elle est tout juste assez grande pour contenir la créature ou l'objet qu'elle renferme. Une créature enfermée dans la sphère peut utiliser son action pour exercer une poussée sur la paroi de la sphère et la faire rouler à la moitié de sa vitesse habituelle. De même, une tierce personne peut ramasser la sphère ou la déplacer.
 
-Un sort de <ST s="desintegration"/> visant la sphère la détruit sans endommager ce qu'elle contient.
+Un sort de [_désintégration_](/grimoire/desintegration/) visant la sphère la détruit sans endommager ce qu'elle contient.

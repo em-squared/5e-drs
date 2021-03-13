@@ -29,15 +29,15 @@ _Protections et sceaux_ produit les effets suivants dans la zone protégée.
 
 **Escaliers**. Des toiles d'araignées, comme le sort du même nom, emplissent tous les escaliers de la zone protégée, du sol au plafond. Tant que _protections et sceaux_ persiste, ces fils réapparaissent en 10 minutes si quelqu'un les brûle ou les arrache.
 
-**Portes**. Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un <ST s="verrou-magique"/>. De plus, vous pouvez recouvrir jusqu'à dix portes d'une illusion (comme la fonction d'objet illusoire du sort <ST s="illusion-mineure"/>), afin de les faire passer pour une section de mur ordinaire.
+**Portes**. Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un [_verrou magique_](/grimoire/verrou-magique/). De plus, vous pouvez recouvrir jusqu'à dix portes d'une illusion (comme la fonction d'objet illusoire du sort [_illusion mineure_](/grimoire/illusion-mineure/)), afin de les faire passer pour une section de mur ordinaire.
 
 **Autres effets de sort**. Vous pouvez placer l'un des effets suivants, au choix, dans la zone protégée par le sort.
-* Placer <ST s="lumieres-dansantes"/> dans quatre couloirs. Vous pouvez choisir un programme très simple que les lumières suivront pendant toute la durée de _protections et sceaux_.
-* Placer une <ST s="bouche-magique"/> en deux endroits.
-* Placer un <ST s="nuage-puant"/> en deux endroits. Les vapeurs apparaissent à l'endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
-* Placer une <ST s="bourrasque"/> constante dans un couloir ou une pièce.
-* Placer une <ST s="suggestion"/> en un endroit. Choisissez une zone d'au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
+* Placer [_lumières dansantes_](/grimoire/lumieres-dansantes/) dans quatre couloirs. Vous pouvez choisir un programme très simple que les lumières suivront pendant toute la durée de _protections et sceaux_.
+* Placer une [_bouche magique_](/grimoire/bouche-magique/) en deux endroits.
+* Placer un [_nuage puant_](/grimoire/nuage-puant/) en deux endroits. Les vapeurs apparaissent à l'endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
+* Placer une [_bourrasque_](/grimoire/bourrasque/) constante dans un couloir ou une pièce.
+* Placer une [_suggestion_](/grimoire/suggestion/) en un endroit. Choisissez une zone d'au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
 
-Toute la zone protégée émet une aura magique. Si quelqu'un lance avec succès une <ST s="dissipation-de-la-magie"/> sur un effet spécifique, il élimine seulement cet effet.
+Toute la zone protégée émet une aura magique. Si quelqu'un lance avec succès une [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) sur un effet spécifique, il élimine seulement cet effet.
 
 Vous pouvez protéger une structure en permanence si vous lancez ce sort tous les jours pendant un an.

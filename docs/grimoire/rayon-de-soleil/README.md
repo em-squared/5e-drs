@@ -20,7 +20,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-Un rayon de vive lumière jaillit de votre main sur une ligne de 18 mètres de long pour 1,50 mètre de large. Chaque créature située sur cette ligne doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 6d8 dégâts radiants et sont <RT l="aveuglées" t="aveugle"/> jusqu'à la fin de votre prochain tour. Les autres subissent seulement la moitié des dégâts et ne sont pas <RT l="aveuglées" t="aveugle"/>. Les vases et les morts-vivants sont affectés par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+Un rayon de vive lumière jaillit de votre main sur une ligne de 18 mètres de long pour 1,50 mètre de large. Chaque créature située sur cette ligne doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 6d8 dégâts radiants et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de votre prochain tour. Les autres subissent seulement la moitié des dégâts et ne sont pas [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle). Les vases et les morts-vivants sont affectés par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 Vous pouvez créer une nouvelle ligne de lumière en dépensant votre action à n'importe quel tour jusqu'à la fin du sort.
 

@@ -129,6 +129,7 @@ module.exports = {
     $page.rawContent = ($page._strippedContent)
   },
   markdown: {
+    html: true,
     extractHeaders: [ 'h1', 'h2', 'h3', 'h4', 'h5', 'h6' ],
     anchor: {
       permalinkBefore: false,
