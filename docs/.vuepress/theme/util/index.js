@@ -378,6 +378,10 @@ export function handleTooltips (params = {}) {
             tooltip.style.display = 'none'
             tooltipTitle.classList.remove('tooltip-spell')
           }, false);
+          l.addEventListener("click", function( event ) {
+            tooltip.style.display = 'none'
+            tooltipTitle.classList.remove('tooltip-spell')
+          }, false);
         }
       }
     }
