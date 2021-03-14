@@ -386,11 +386,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     changePage (page) {
@@ -400,11 +395,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     onClickRow (row, item) {
@@ -414,6 +404,15 @@ export default {
     setShowColumn () {
       Cookies.set('5e-drs-bestiaire-colonnes', this.showColumn, { expires: 365 })
     },
+  },
+
+  watch: {
+    monsters: function (newMonsters, oldMonsters) {
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+    }
   },
 
   mounted () {

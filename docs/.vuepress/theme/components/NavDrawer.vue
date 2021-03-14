@@ -41,7 +41,7 @@
                     </v-list-item-title>
                   </v-list-item-content>
                 </template>
-                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" exact>
+                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" >
                   <v-list-item-icon v-if="subchild.icon">
                     <v-icon v-text="subchild.icon"></v-icon>
                   </v-list-item-icon>
@@ -54,7 +54,7 @@
                 </v-list-item>
               </v-list-group>
               <v-divider v-else-if="child.type == 'divider'" />
-              <v-list-item v-else :key="child.title" link :to="{path: child.path}" exact>
+              <v-list-item v-else :key="child.title" link :to="{path: child.path}" >
                 <v-list-item-icon v-if="child.icon">
                   <v-icon v-text="child.icon"></v-icon>
                 </v-list-item-icon>
@@ -68,7 +68,7 @@
             </template>
           </v-list-group>
           <v-divider v-else-if="item.type == 'divider'" />
-          <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" exact>
+          <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" >
             <v-list-item-icon v-if="item.icon">
               <v-icon v-text="item.icon"></v-icon>
             </v-list-item-icon>

@@ -362,6 +362,15 @@ export default {
     }
   },
 
+  watch: {
+    spells: function (newSpells, oldSpells) {
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+    }
+  },
+
   methods: {
     isSpellInSpellBook (spell) {
       return isResourceInLibrary(spell, this.$store.state.mySpells.spells)
@@ -384,11 +393,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     changePage (page) {
@@ -398,11 +402,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     onClickRow (row, item) {

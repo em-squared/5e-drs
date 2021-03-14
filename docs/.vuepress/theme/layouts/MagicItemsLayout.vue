@@ -197,6 +197,15 @@ export default {
     }
   },
 
+  watch: {
+    magicItems: function (newMagicItems, oldMagicItems) {
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+    }
+  },
+
   methods: {
     isItemInTreasureChest (magicItem) {
       return isResourceInLibrary(magicItem, this.$store.state.myMagicItems.magicItems)
@@ -219,11 +228,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     changePage (page) {
@@ -233,11 +237,6 @@ export default {
       setTimeout(function () {
         handleTooltips({pages:self.$site.pages})
       }, 100);
-      this.$router.afterEach(() => {
-        setTimeout(function () {
-          handleTooltips({pages:self.$site.pages})
-        }, 100)
-      })
     },
 
     onClickRow (row, item) {
