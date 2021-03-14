@@ -171,7 +171,7 @@
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
-import { isResourceInLibrary } from '@theme/util'
+import { isResourceInLibrary, handleTooltips } from '@theme/util'
 import Spell from '@theme/components/Spell'
 import MySpellsButton from '@theme/global-components/MySpellsButton'
 import Cookies from 'js-cookie'
