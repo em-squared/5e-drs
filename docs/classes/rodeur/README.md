@@ -270,22 +270,22 @@ Source : Gazette Role'n Play #5
 Au niveau 3, vous apprenez le sort [_pas brumeux_](/grimoire/pas-brumeux/) et vous pouvez le lancer sans dépenser d'emplacement de sorts une fois entre deux repos courts ou longs. Si vous êtes sur votre terrain de prédilection, la distance parcourue par le sort est doublée.
 
 #### Attaque réflexe
-Au niveau 3 également, lorsque vous utilisez [_pas brumeux_](/grimoire/pas-brumeux/), vous pouvez faire usage de votre [_réaction_](/combattre/#reaction) afin de porter une unique attaque à distance ou au corps à corps juste après être réapparu.
+Au niveau 3 également, lorsque vous utilisez [_pas brumeux_](/grimoire/pas-brumeux/), vous pouvez faire usage de votre [réaction](/combattre/#reaction) afin de porter une unique attaque à distance ou au corps à corps juste après être réapparu.
 
 #### Saut collectif
-Au niveau 7, lorsque vous utilisez [_pas brumeux_](/grimoire/pas-brumeux/), vous pouvez emmener avec vous un nombre de personnes égal à votre [_bonus de maîtrise_](/utiliser-les-caracteristiques/#bonus-de-maitrise). Elles doivent se trouver dans un rayon de 1,5 mètre autour de vous.
+Au niveau 7, lorsque vous utilisez [_pas brumeux_](/grimoire/pas-brumeux/), vous pouvez emmener avec vous un nombre de personnes égal à votre [bonus de maîtrise](/utiliser-les-caracteristiques/#bonus-de-maitrise). Elles doivent se trouver dans un rayon de 1,5 mètre autour de vous.
 
 #### La tête en bas
 Au niveau 7 également, vous apprenez le sort [_pattes d'araignée_](/grimoire/pattes-d-araignee/) et vous pouvez le lancer, uniquement sur vous-même, sans dépenser d'emplacement de sorts une fois entre deux repos courts ou longs. Si vous êtes sur votre [_terrain de prédilection_](#terrain-de-predilection), la durée du sort est doublée.
 
 #### Maitre du déplacement
-À partir du niveau 11, vous apprenez le sort [_porte dimensionnelle_](/grimoire/porte-dimensionnelle) et vous pouvez le lancer sans dépenser d'emplacement de sorts une fois entre deux repos longs.
+À partir du niveau 11, vous apprenez le sort [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) et vous pouvez le lancer sans dépenser d'emplacement de sorts une fois entre deux repos longs.
 
 À partir du niveau 13, il rejoint votre liste de sorts (si vous êtes capable de lancer des sorts de niveau 4) et vous pouvez, au choix, le lancer sans dépenser d’emplacement de sorts une fois entre chaque repos long ou le lancer en dépensant un emplacement de sorts.
 
 #### Zone de repli
 Au niveau 15, vous apprenez à mettre en place des zones sécurisées. Vous pouvez passer une heure à tracer des symboles mystiques sur le sol d'un lieu que vous avez choisi. Ces symboles ne peuvent être dissimulés et recouverts sous peine de devenir inactifs.
 
-À tout moment durant les prochaines 24 heures, vous pouvez utiliser votre action pour vous transporter instantanément dans ce lieu, vous et un nombre d'alliés de votre choix égal à votre [_bonus de maîtrise_](/utiliser-les-caracteristiques/#bonus-de-maitrise) au maximum dans un rayon de 9 mètres autour de vous, tant que vous vous trouvez dans les 10 kilomètres de la zone – ou 20 si vous êtes sur votre terrain de prédilection.
+À tout moment durant les prochaines 24 heures, vous pouvez utiliser votre action pour vous transporter instantanément dans ce lieu, vous et un nombre d'alliés de votre choix égal à votre [bonus de maîtrise](/utiliser-les-caracteristiques/#bonus-de-maitrise) au maximum dans un rayon de 9 mètres autour de vous, tant que vous vous trouvez dans les 10 kilomètres de la zone – ou 20 si vous êtes sur votre terrain de prédilection.
 
 Une fois la capacité activée et le retour dans la zone sécurisée effectuée, les symboles s'effacent. Vous devez alors attendre d'avoir effectué un repos court ou long afin de pouvoir tracer de nouveau symboles et réutiliser cette capacité.
