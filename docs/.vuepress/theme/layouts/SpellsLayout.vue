@@ -380,6 +380,15 @@ export default {
 
     selectItemPerPage (value) {
       setUrlParams("lignes", [value])
+      let self = this
+      setTimeout(function () {
+        handleTooltips({pages:self.$site.pages})
+      }, 100);
+      this.$router.afterEach(() => {
+        setTimeout(function () {
+          handleTooltips({pages:self.$site.pages})
+        }, 100)
+      })
     },
 
     changePage (page) {
