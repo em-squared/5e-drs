@@ -12,6 +12,13 @@
   border-color: $color-hero;
 }
 
+.theme--dark {
+  .hero {
+    background-color: darken($color-hero, 20);
+    color: #ddd;
+  }
+}
+
 .dragon {
   @extend .block-highlight;
   background-color: $color-dragon;
@@ -19,6 +26,13 @@
   border-color: darken($color-dragon, 10);
   a {
     color: #fff;
+  }
+}
+
+.theme--dark {
+  .dragon {
+    background-color: darken($color-dragon, 20);
+    color: #ddd;
   }
 }
 
