@@ -12,6 +12,16 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+# Nouvel archétype de rôdeur : le passeur
+Un nouvel archétype de rôdeur vient s'ajouter à la liste : [le passeur](/classes/rodeur/#passeur). Expert de la magie du déplacement, il fera un excellent éclaireur ou pourra surprendre l'ennemi d'un claquement de doigts !
+
+Amélioration de mise en page : les archétypes des classes sont maintenant plus nettement délimités, ce qui permet de repérer plus facilement où un nouvel archétype commence sur une page de classe.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 16 mars 2021_
+§§§
+
 # D'un coup d’œil
 Aujourd'hui, c'est une fonctionnalité qui améliore le confort que je vous propose : les détails des sorts et effets préjudiciables au survol !
 
@@ -68,6 +78,8 @@ _le 10 mars 2021_
 ## Liens utiles
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN_v2.1.pdf), _par DHFTN_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN_.  
 
 ### Communauté
 &nbsp;
