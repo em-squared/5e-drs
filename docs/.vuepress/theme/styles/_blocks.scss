@@ -29,6 +29,13 @@
   }
 }
 
+.community {
+  @extend .block-highlight;
+  border-color: $color-gold;
+  border-left: 2px solid $color-gold;
+  border-right: 2px solid $color-gold;
+}
+
 .theme--dark {
   .dragon {
     background-color: darken($color-dragon, 20);

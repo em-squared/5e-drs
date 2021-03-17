@@ -12,7 +12,17 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
-# Nouvel archétype de rôdeur : le passeur
+## Ressources communautaires : les peuples humains d'Alarian
+_**5e DRS**_ va accueillir une sélection de créations de la communauté pour ajouter plus de choix et de personnalisation à vos parties de jeu de rôle. Et pour commencer, voici quelques nouvelles variantes techniques de la race des humains : les [peuples humains d'Alarian](/races/humain/#peuples-humains-d-alarian) avec les [gramlinois](/races/humain/#gramlinois), les [norvennois](/races/humain/#norvennois), les [smites](/races/humain/#smites), les [yelinois](/races/humain/#yelinois) et les [ystaadiens](/races/humain/#ystaadiens).
+
+Ces variantes sont parues dans les newsletters de [Scribes & Dragons](https://scribes-et-dragons.fr/).
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 17 mars 2021_
+§§§
+
+## Nouvel archétype de rôdeur : le passeur
 Un nouvel archétype de rôdeur vient s'ajouter à la liste : [le passeur](/classes/rodeur/#passeur). Expert de la magie du déplacement, il fera un excellent éclaireur ou pourra surprendre l'ennemi d'un claquement de doigts !
 
 Amélioration de mise en page : les archétypes des classes sont maintenant plus nettement délimités, ce qui permet de repérer plus facilement où un nouvel archétype commence sur une page de classe.
@@ -22,7 +32,7 @@ _**Em-squared**_,
 _le 16 mars 2021_
 §§§
 
-# D'un coup d’œil
+## D'un coup d’œil
 Aujourd'hui, c'est une fonctionnalité qui améliore le confort que je vous propose : les détails des sorts et effets préjudiciables au survol !
 
 Dorénavant, tous les liens vers des effets préjudiciables comme [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou des sorts comme [_projectile magique_](/grimoire/projectile-magique/) et même des créatures comme la [mimique](/bestiaire/mimique/) feront apparaître une boîte avec les détails de l'effet, du sort ou de la créature au survol pour avoir des précisions d'un simple coup d’œil sans avoir à changer de page. Les sorts avec une description trop longue comme [_souhait_](/grimoire/souhait/) seront tronqués, et il sera nécessaire de visiter la page dédiée pour consulter la description complète.
@@ -34,7 +44,7 @@ _**Em-squared**_,
 _le 13 mars 2021_
 §§§
 
-# Une nouvelle ère
+## Une nouvelle ère
 Amis rôlistes,
 
 Une ère s'achève, une autre commence. Voici _**5e DRS**_, le Document de Référence Système en ligne pour les jeux de rôle en OGL 5e !
@@ -78,7 +88,7 @@ _le 10 mars 2021_
 ## Liens utiles
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
-<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN_v2.1.pdf), _par DHFTN_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN_v2.2.pdf), _par DHFTN_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN_.  
 
 ### Communauté

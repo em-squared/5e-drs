@@ -7,7 +7,7 @@
             <span class="icon-bookmark breadcrumb-logo"></span>
           </template>
           <template v-else>
-            {{ item.text }}
+            <template v-if="item.community"><v-icon>mdi-account-group</v-icon>&nbsp;</template>{{ item.text }}
           </template>
         </v-breadcrumbs-item>
       </template>
@@ -60,7 +60,7 @@
             } else if (page.path == '/calculateur-de-rencontres/') {
               crumbs.push({to: page.path, disabled: disabled, text: 'Calculateur de rencontres'})
             } else {
-              crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title})
+              crumbs.push({to: page.path, disabled: disabled, text: page.frontmatter.breadcrumb || page.title, community: page.frontmatter.community})
             }
           }
         }

@@ -42,7 +42,7 @@
                   </v-list-item-content>
                 </template>
                 <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" >
-                  <v-list-item-icon v-if="subchild.icon">
+                  <v-list-item-icon class="mr-2" v-if="subchild.icon">
                     <v-icon v-text="subchild.icon"></v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
