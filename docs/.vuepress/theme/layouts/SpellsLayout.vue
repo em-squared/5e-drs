@@ -74,7 +74,7 @@
       <div class="schools-filter mb-1" v-if="selectedSchools.length > 0">
         <strong>Écoles de magie</strong> : <v-chip class="mr-1" v-for="(school, idx) in selectedSchools">{{ school }}</v-chip>
       </div>
-      <div class="compoments-filter mb-1" v-if="componentVerbal !== undefined || componentSomatic !== undefined || componentMaterial !== undefined">
+      <div class="components-filter mb-1" v-if="componentVerbal !== undefined || componentSomatic !== undefined || componentMaterial !== undefined">
         <strong>Composantes d'incantation</strong> :
         <v-chip class="mr-1" v-if="componentVerbal === true" dark color="green">verbales</v-chip>
         <v-chip class="mr-1" v-if="componentVerbal === false" dark color="red">verbales</v-chip>
@@ -357,6 +357,42 @@ export default {
           return selectedSchools.indexOf(item.frontmatter.school) > -1
         })
       }
+
+      // let csv = ''
+      // csv += "niveau;nom;école;temps d'incantation;rituel;durée;concentration;portée;composantes;classes;description\n"
+      // for (var spell of results) {
+      //   let components = ''
+      //   if (spell.frontmatter.components.verbal) {
+      //     components += 'V'
+      //     if (spell.frontmatter.components.somatic || spell.frontmatter.components.material) {
+      //       components += ', '
+      //     }
+      //   }
+      //   if (spell.frontmatter.components.somatic) {
+      //     components += 'S'
+      //     if (spell.frontmatter.components.material) {
+      //       components += ', '
+      //     }
+      //   }
+      //   if (spell.frontmatter.components.material) {
+      //     components += 'M'
+      //     if (spell.frontmatter.components.materials) {
+      //       components += ' (' + spell.frontmatter.components.materials + ')'
+      //     }
+      //   }
+      //   let concentration = ''
+      //   if (spell.frontmatter.concentration) {
+      //     concentration += 'concentration'
+      //   }
+      //   let ritual = ''
+      //   if (spell.frontmatter.ritual) {
+      //     ritual += 'rituel'
+      //   }
+      //   let classes = spell.frontmatter.classes.join(', ')
+      //
+      //   csv += spell.frontmatter.level + ';' + spell.title + ';' + spell.frontmatter.school + ';' + spell.frontmatter.casting_time + ';' + ritual + ';' + spell.frontmatter.duration + ';' + concentration + ';' + spell.frontmatter.range + ';' + components + ';' + classes + ';' + '"' + spell.rawContent + '"' + '\n'
+      // }
+      // console.log(csv)
 
       return results
     }
