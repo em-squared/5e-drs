@@ -41,19 +41,43 @@
                     </v-list-item-title>
                   </v-list-item-content>
                 </template>
-                <v-list-item v-for="subchild in child.children" link :to="{path: subchild.path}" >
-                  <v-list-item-icon class="mr-2" v-if="subchild.icon">
-                    <v-icon v-text="subchild.icon"></v-icon>
-                  </v-list-item-icon>
-                  <v-list-item-content>
-                    <v-list-item-title>
-                      {{ subchild.title }}
-                      <v-chip v-if="subchild.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(subchild.badge)"></v-chip>
-                    </v-list-item-title>
-                  </v-list-item-content>
-                </v-list-item>
+                <template v-for="subchild in child.children">
+                  <v-list-item v-if="subchild.external" link :href="subchild.path" target="_blank" >
+                    <v-list-item-icon class="mr-2" v-if="subchild.icon">
+                      <v-icon v-text="subchild.icon"></v-icon>
+                    </v-list-item-icon>
+                    <v-list-item-content>
+                      <v-list-item-title>
+                        {{ subchild.title }}
+                        <v-chip v-if="subchild.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(subchild.badge)"></v-chip>
+                      </v-list-item-title>
+                    </v-list-item-content>
+                  </v-list-item>
+                  <v-list-item v-else link :to="{path: subchild.path}" >
+                    <v-list-item-icon class="mr-2" v-if="subchild.icon">
+                      <v-icon v-text="subchild.icon"></v-icon>
+                    </v-list-item-icon>
+                    <v-list-item-content>
+                      <v-list-item-title>
+                        {{ subchild.title }}
+                        <v-chip v-if="subchild.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(subchild.badge)"></v-chip>
+                      </v-list-item-title>
+                    </v-list-item-content>
+                  </v-list-item>
+                </template>
               </v-list-group>
               <v-divider v-else-if="child.type == 'divider'" />
+              <v-list-item v-else-if="child.external" :key="child.title" link :href="child.path" target="_blank" >
+                <v-list-item-icon v-if="child.icon">
+                  <v-icon v-text="child.icon"></v-icon>
+                </v-list-item-icon>
+                <v-list-item-content>
+                  <v-list-item-title>
+                    {{ child.title }}
+                    <v-chip v-if="child.badge" class="ml-2" color="primary" x-small label v-html="displayBadge(child.badge)"></v-chip>
+                  </v-list-item-title>
+                </v-list-item-content>
+              </v-list-item>
               <v-list-item v-else :key="child.title" link :to="{path: child.path}" >
                 <v-list-item-icon v-if="child.icon">
                   <v-icon v-text="child.icon"></v-icon>
@@ -79,39 +103,6 @@
             </v-list-item-content>
           </v-list-item>
         </template>
-        <v-list-group key="community" color="accent">
-          <template v-slot:activator>
-            <v-list-item-icon>
-              <v-icon>mdi-account-group</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-              <v-list-item-title>
-                Communauté
-              </v-list-item-title>
-            </v-list-item-content>
-          </template>
-          <v-list-item v-if="$site.themeConfig.forum" link :href="$site.themeConfig.forum" target="_blank">
-            <v-list-item-icon>
-              <v-icon>mdi-forum</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-              <v-list-item-title>
-                Forum
-              </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-          <v-list-item v-if="$site.themeConfig.discord" link :href="$site.themeConfig.discord" target="_blank">
-            <v-list-item-icon>
-              <v-icon>mdi-discord</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-              <v-list-item-title>
-                Discord 5e DRS
-              </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
-          <v-divider/>
-        </v-list-group>
 
         <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
           <v-list-item-icon>

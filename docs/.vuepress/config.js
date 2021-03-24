@@ -638,7 +638,28 @@ module.exports = {
         title: "Licence OGL",
         path: '/licence-ogl/',
         icon: 'mdi-clipboard-text'
-      }
+      },
+      {type: 'divider'},
+      {
+        title: 'Communauté',
+        icon: 'mdi-account-group',
+        children: [
+          {
+            title: 'Créations de la communauté',
+            path: '/communaute/'
+          },
+          {
+            title: 'Forum',
+            path: 'https://www.black-book-editions.fr/forums.php?board_id=115',
+            external: true,
+          },
+          {
+            title: 'Discord 5e DRS',
+            path: 'https://discord.gg/mp6ECCs',
+            external: true,
+          },
+        ]
+      },
     ]
   }
 }

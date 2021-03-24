@@ -12,8 +12,18 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+## Ressources communautaires : encore des peuples humains d'Alarian
+De nouveaux peuples humains issus d'Alarian ont été ajoutés : les [rhoannais](/communaute/peuples-humains-d-alarian/#rhoannais) du Rhü et les [talbanais](/communaute/peuples-humains-d-alarian/#talbanais) du Talban. Ces variantes sont parues dans les newsletters de [Scribes & Dragons](https://scribes-et-dragons.fr/).
+
+Par ailleurs, les créations de la communauté compatibles 5e ont maintenant leur [page dédiée](/communaute/) pour éviter des les mélanger avec le DRS et ressources officielles.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 24 mars 2021_
+§§§
+
 ## Ressources communautaires : les peuples humains d'Alarian
-_**5e DRS**_ va accueillir une sélection de créations de la communauté pour ajouter plus de choix et de personnalisation à vos parties de jeu de rôle. Et pour commencer, voici quelques nouvelles variantes techniques de la race des humains : les [peuples humains d'Alarian](/races/humain/#peuples-humains-d-alarian) avec les [gramlinois](/races/humain/#gramlinois), les [norvennois](/races/humain/#norvennois), les [smites](/races/humain/#smites), les [yelinois](/races/humain/#yelinois) et les [ystaadiens](/races/humain/#ystaadiens).
+_**5e DRS**_ va accueillir une sélection de créations de la communauté pour ajouter plus de choix et de personnalisation à vos parties de jeu de rôle. Et pour commencer, voici quelques nouvelles variantes techniques de la race des humains : les [peuples humains d'Alarian](/communaute/peuples-humains-d-alarian/) avec les [gramlinois](/communaute/peuples-humains-d-alarian/#gramlinois), les [norvennois](/communaute/peuples-humains-d-alarian/#norvennois), les [smites](/communaute/peuples-humains-d-alarian/#smites), les [yelinois](/communaute/peuples-humains-d-alarian/#yelinois) et les [ystaadiens](/communaute/peuples-humains-d-alarian/#ystaadiens).
 
 Ces variantes sont parues dans les newsletters de [Scribes & Dragons](https://scribes-et-dragons.fr/).
 
@@ -95,7 +105,7 @@ _le 10 mars 2021_
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Casus Belli](https://www.black-book-editions.fr/forums.php?board_id=115)  
 <v-icon>mdi-discord</v-icon> [Discord Communautaire](https://discord.gg/KMZkEQhe8a), pour discuter du jeu, de ses règles et organiser des parties.  
-<v-icon>mdi-email</v-icon> [Scribes & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115), une newsletter hebdomadaire diffusant du contenu pour la 5e en général, portée par @Tibo.  
+<v-icon>mdi-email</v-icon> [Scribes & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115), une newsletter hebdomadaire diffusant du contenu pour la 5e en général, portée par @Quinn Jolinar.  
 
 ### À propos de ce site
 &nbsp;
