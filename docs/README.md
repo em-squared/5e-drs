@@ -105,7 +105,7 @@ _le 10 mars 2021_
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Casus Belli](https://www.black-book-editions.fr/forums.php?board_id=115)  
 <v-icon>mdi-discord</v-icon> [Discord Communautaire](https://discord.gg/KMZkEQhe8a), pour discuter du jeu, de ses règles et organiser des parties.  
-<v-icon>mdi-email</v-icon> [Scribes & Dragons](https://www.black-book-editions.fr/forums.php?board_id=115), une newsletter hebdomadaire diffusant du contenu pour la 5e en général, portée par @Quinn Jolinar.  
+<v-icon>mdi-email</v-icon> [Scribes & Dragons](https://scribes-et-dragons.fr/), une newsletter hebdomadaire diffusant du contenu pour la 5e en général, portée par @Quinn Jolinar.  
 
 ### À propos de ce site
 &nbsp;
