@@ -658,6 +658,11 @@ module.exports = {
             path: 'https://discord.gg/mp6ECCs',
             external: true,
           },
+          {
+            title: 'Facebook H&D',
+            path: 'https://www.facebook.com/groups/herosetdragons',
+            external: true,
+          }
         ]
       },
     ]

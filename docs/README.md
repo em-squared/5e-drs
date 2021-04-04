@@ -100,12 +100,14 @@ _le 10 mars 2021_
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN.pdf), _par DHFTN_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN_.  
+<v-icon>mdi-cards</v-icon> [Cartes de sorts](https://drive.google.com/drive/folders/1c6tRQWx2Wq2BR8AFkHDa9eMfm1_ZLOzX) _par DHFTN_.  
 
 ### Communauté
 &nbsp;
 <v-icon>mdi-forum</v-icon> [Forum Casus Belli](https://www.black-book-editions.fr/forums.php?board_id=115)  
 <v-icon>mdi-discord</v-icon> [Discord Communautaire](https://discord.gg/KMZkEQhe8a), pour discuter du jeu, de ses règles et organiser des parties.  
 <v-icon>mdi-email</v-icon> [Scribes & Dragons](https://scribes-et-dragons.fr/), une newsletter hebdomadaire diffusant du contenu pour la 5e en général, portée par @Quinn Jolinar.  
+<v-icon>mdi-facebook</v-icon> [H&D - non officiel](https://www.facebook.com/groups/herosetdragons), groupe Facebook autour de feu Héros & Dragons.  
 
 ### À propos de ce site
 &nbsp;
