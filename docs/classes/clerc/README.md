@@ -529,7 +529,7 @@ Vous et jusqu'à cinq alliés dans votre champ de vision, dans un rayon de 9 mè
 §§§
 §§§ .container
 ###### Canalisation d'énergie divine : Marche des brumes
-Vous pouvez lancer le sort pas brumeux en dépensant au choix une action bonus ou une réaction (et sans utiliser d'emplacement de sort) une fois par tour pendant un nombre de rounds égal à votre bonus de maîtrise.
+Vous pouvez lancer le sort [_pas brumeux_](/grimoire/pas-brumeux/) en dépensant au choix une action bonus ou une réaction (et sans utiliser d'emplacement de sort) une fois par tour pendant un nombre de rounds égal à votre bonus de maîtrise.
 §§§
 §§§
 
@@ -538,7 +538,7 @@ Vous pouvez lancer le sort pas brumeux en dépensant au choix une action bonus o
 Au niveau 6, vous pouvez lancer un sort de domaine en utilisant votre aptitude de canalisation d'énergie divine sans dépenser d'emplacement de sort. Lorsque vous lancez le sort de cette façon, s'il nécessite normalement une action pour être lancé, vous pouvez le lancer au prix d'une action bonus.
 
 #### Canalisation d'énergie divine : Aptitude de domaine
-Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisi au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent par comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
+Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisi au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent pas comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
 
 #### Aspect de l'avatar
 Lorsque vous atteignez le niveau 17, vous incarnez, au sens littéral, la puissance de votre divinité. Vous pouvez utiliser une canalisation d'énergie divine pour prendre l'aspect d'un avatar de votre dieu pendant 1 minute. Votre taille augmente d'une catégorie (de moyenne à grande, par exemple) et vous dégagez une aura de puissance quasi palpable. Votre voix porte sans peine à 100 mètres autour de vous et toutes les créatures qui vous entendent comprennent vos paroles, même celles qui n'ont pas habituellement de langage parlé. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Force et de Charisme, et les dégâts de vos attaques avec des armes augmentent d'1d4. Enfin, pendant toute la durée de la transformation, vous pouvez lancer une seule fois chacun de vos sorts de domaine (à leur niveau normal) sans utiliser d'emplacement de sort. Pour lancer un sort de domaine de cette façon, vous devez utiliser votre action à ce tour. Si vous n'avez qu'un seul domaine, vous pouvez lancer chaque sort deux fois.

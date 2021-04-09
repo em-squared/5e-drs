@@ -12,6 +12,18 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+## Nouvel archétype de Magicien : le Maître des études
+La magicien accueille un nouvel archétype : le [maître des études](/classes/magicien/#maitre-d-etudes). Ce magicien traditionnel se spécialise dans l'érudition et la confection d'un simulacre, une créature artificielle qui l'assiste dans ses recherches sinon dans ses aventures !
+
+Par ailleurs, vous pourrez trouver dans les [ressources communautaires](/communaute/) deux nouvelles aides de jeu :
+* Des [tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH) pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker par _DHFTN_.
+* La [conversion de la gigantesque campagne Anathazerïn](http://www.archaos-jdr.fr/medfan/index.php?page=Heros-Dragons), initialement écrite pour _Chroniques Oubliées Fantasy_, dans la système 5e par _Archaos331_
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 9 avril 2021_
+§§§
+
 ## Ressources communautaires : encore des peuples humains d'Alarian
 De nouveaux peuples humains issus d'Alarian ont été ajoutés : les [rhoannais](/communaute/peuples-humains-d-alarian/#rhoannais) du Rhü et les [talbanais](/communaute/peuples-humains-d-alarian/#talbanais) du Talban. Ces variantes sont parues dans les newsletters de [Scribes & Dragons](https://scribes-et-dragons.fr/).
 
@@ -96,11 +108,13 @@ _le 10 mars 2021_
 </v-row>
 
 ## Liens utiles
+### Téléchargements
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN.pdf), _par DHFTN_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN_.  
-<v-icon>mdi-cards</v-icon> [Cartes de sorts](https://drive.google.com/drive/folders/1c6tRQWx2Wq2BR8AFkHDa9eMfm1_ZLOzX) _par DHFTN_.  
+<v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://drive.google.com/drive/folders/1c6tRQWx2Wq2BR8AFkHDa9eMfm1_ZLOzX) _par DHFTN_.  
+<v-icon>mdi-poker-chip</v-icon> [Tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH), pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker, _par DHFTN_.  
 
 ### Communauté
 &nbsp;

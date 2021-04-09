@@ -1,7 +1,7 @@
 ---
 title: Utiliser les caractéristiques
 ---
-# Utiliser les caractéristique
+# Utiliser les caractéristiques
 Le profil physique et mental d'une créature est défini par six caractéristiques :
 * La <span class="text-capitalized">[Force](#force)</span> représente la puissance physique.
 * La <span class="text-capitalized">[Dextérité](#dexterite)</span> représente l'agilité.

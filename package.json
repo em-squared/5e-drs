@@ -10,7 +10,7 @@
     "check-md": "vuepress check-md docs"
   },
   "dependencies": {
-    "@mdi/font": "^5.0.45",
+    "@mdi/font": "^5.9.55",
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-google-analytics": "^1.4.1",
     "@vuepress/plugin-pwa": "^1.4.1",
