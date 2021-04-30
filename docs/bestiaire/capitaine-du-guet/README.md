@@ -15,7 +15,7 @@ abilityScores:
   cha: 13
 ac:
   armorType: "custom"
-  value: "17 (armure d’écailles)"
+  value: "17 (armure d'écailles)"
 skills:
   - name: "perception"
 movement:

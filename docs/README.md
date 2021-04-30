@@ -12,11 +12,23 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
-## Nouvel archétype de Magicien : le Maître des études
-La magicien accueille un nouvel archétype : le [maître des études](/classes/magicien/#maitre-d-etudes). Ce magicien traditionnel se spécialise dans l'érudition et la confection d'un simulacre, une créature artificielle qui l'assiste dans ses recherches sinon dans ses aventures !
+## Ressources communautaires : loup y es-tu ?
+La [page des ressources communautaires](/communaute/) de _**5e DRS**_ accueille maintenant un supplément sur la [thérianthropie](/communaute/therianthropie/) (bêtes-garou), avec une [classe de prestige](/communaute/therianthropie/#classe-de-therianthrope) pour les personnages thérianthropes.
+
+Les [peuples humains d'Alarian](/communaute/peuples-humains-d-alarian/) s'agrandissent également avec les [rhagaronnais d'argile](/communaute/peuples-humains-d-alarian/#rhagaronnais-d-argile) et [des toiles](/communaute/peuples-humains-d-alarian/#rhagaronnais-des-toiles).
+
+Ces suppléments sont parus dans la newsletter [_Scribes & Dragons_](https://scribes-et-dragons.fr/).
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 30 avril 2021_
+§§§
+
+## Nouvel archétype de Magicien : le Maître d'études
+La magicien accueille un nouvel archétype : le [maître d'études](/classes/magicien/#maitre-d-etudes). Ce magicien traditionnel se spécialise dans l'érudition et la confection d'un simulacre, une créature artificielle qui l'assiste dans ses recherches sinon dans ses aventures !
 
 Par ailleurs, vous pourrez trouver dans les [ressources communautaires](/communaute/) deux nouvelles aides de jeu :
-* Des [tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH) pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker par _DHFTN_.
+* Des [tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH) pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker par _DHFTN_ et _Wylandïr_.
 * La [conversion de la gigantesque campagne Anathazerïn](http://www.archaos-jdr.fr/medfan/index.php?page=Heros-Dragons), initialement écrite pour _Chroniques Oubliées Fantasy_, dans la système 5e par _Archaos331_
 
 §§§ .text-right
@@ -54,10 +66,10 @@ _**Em-squared**_,
 _le 16 mars 2021_
 §§§
 
-## D'un coup d’œil
+## D'un coup d'œil
 Aujourd'hui, c'est une fonctionnalité qui améliore le confort que je vous propose : les détails des sorts et effets préjudiciables au survol !
 
-Dorénavant, tous les liens vers des effets préjudiciables comme [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou des sorts comme [_projectile magique_](/grimoire/projectile-magique/) et même des créatures comme la [mimique](/bestiaire/mimique/) feront apparaître une boîte avec les détails de l'effet, du sort ou de la créature au survol pour avoir des précisions d'un simple coup d’œil sans avoir à changer de page. Les sorts avec une description trop longue comme [_souhait_](/grimoire/souhait/) seront tronqués, et il sera nécessaire de visiter la page dédiée pour consulter la description complète.
+Dorénavant, tous les liens vers des effets préjudiciables comme [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou des sorts comme [_projectile magique_](/grimoire/projectile-magique/) et même des créatures comme la [mimique](/bestiaire/mimique/) feront apparaître une boîte avec les détails de l'effet, du sort ou de la créature au survol pour avoir des précisions d'un simple coup d'œil sans avoir à changer de page. Les sorts avec une description trop longue comme [_souhait_](/grimoire/souhait/) seront tronqués, et il sera nécessaire de visiter la page dédiée pour consulter la description complète.
 
 Aussi, le calculateur de rencontre affiche désormais le total de points d'expérience de la rencontre et la quantité de points d'expérience à distribuer par PJ en cas de victoire. Les MJ n'ont plus à sortir la calculatrice !
 
@@ -71,7 +83,7 @@ Amis rôlistes,
 
 Une ère s'achève, une autre commence. Voici _**5e DRS**_, le Document de Référence Système en ligne pour les jeux de rôle en OGL 5e !
 
-Pour l'occasion, l'interface a bénéficié d'un nouveau coup de pinceau avec des couleurs plus douces et agréables à l’œil et une police plus lisible sur les écrans.
+Pour l'occasion, l'interface a bénéficié d'un nouveau coup de pinceau avec des couleurs plus douces et agréables à l'œil et une police plus lisible sur les écrans.
 
 Mais ce n'est pas la seule nouveauté ! En effet, pour l'occasion, je vous ai concocté un calculateur de rencontre sommaire pour vous permettre de construire des rencontres équilibrées pour vos joueurs. Il est accessible directement depuis le [bestiaire](/bestiaire/), la colonne "Rencontre" permet d'ajouter une créature à la liste prévue dans la colonne de droite depuis laquelle vous pouvez préciser le nombre de PJ et leur niveau moyen pour évaluer la difficulté de la rencontre.
 
@@ -111,10 +123,10 @@ _le 10 mars 2021_
 ### Téléchargements
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
-<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN.pdf), _par DHFTN_.  
-<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN.pdf), _par DHFTN et _Wylandïr_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN et _Wylandïr_.  
 <v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://drive.google.com/drive/folders/1c6tRQWx2Wq2BR8AFkHDa9eMfm1_ZLOzX) _par DHFTN_.  
-<v-icon>mdi-poker-chip</v-icon> [Tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH), pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker, _par DHFTN_.  
+<v-icon>mdi-poker-chip</v-icon> [Tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH), pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker, _par DHFTN  et _Wylandïr_.  
 
 ### Communauté
 &nbsp;

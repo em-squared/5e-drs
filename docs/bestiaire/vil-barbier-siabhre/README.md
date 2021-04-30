@@ -23,7 +23,7 @@ senses:
   darkvision: 18
 conditionImmunities:
   - "terrorise"
-customDamageTypeResistances: "contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas plaquées argent ou faite de fer froid"
+customDamageTypeResistances: "contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas plaquées argent ou faite de fer froid"
 languages:
   - "commun"
   - "gobelin"

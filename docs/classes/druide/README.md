@@ -389,18 +389,18 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 Source : Gazette Role'n Play #3
 §§§
 #### Pacifiste
-Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n’ajoutez plus votre bonus de maîtrises à vos [jets d’attaque](/combattre/#jets-d-attaque), qu’ils soient magiques ou non. De plus lorsque vous faites le résultat maximal d'un dé de dégâts vous devez lancer de nouveau ce dé et utiliser le nouveau résultat.
-En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d’emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n’est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort.
+Au niveau 2, vous décidez d'adopter une nouvelle attitude et de ne plus volontairement attaquer vos adversaires, car la violence ne résout rien. Vous n'ajoutez plus votre bonus de maîtrises à vos [jets d'attaque](/combattre/#jets-d-attaque), qu'ils soient magiques ou non. De plus lorsque vous faites le résultat maximal d'un dé de dégâts vous devez lancer de nouveau ce dé et utiliser le nouveau résultat.
+En échange, vous avez appris comment dissuader vos ennemis de vous attaquer. Vous pouvez lancer le sort [sanctuaire](/grimoire/sanctuaire/) sur vous-même sans dépenser d'emplacement de sort. Lorsque vous le lancez de la sorte, vous doublez votre bonus de maîtrise afin de déterminer la difficulté du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse nécessaire à y résister. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité. Le sort [sanctuaire](/grimoire/sanctuaire/) n'est cependant pas considéré comme faisant partie de votre liste de sorts et vous ne pouvez pas le lancer en utilisant un emplacement de sort.
 Au niveau 10, vous pouvez utiliser cette capacité sur un allié situé dans un rayon de 9 mètres.
 Au niveau 14, vous pouvez utiliser cette capacité une fois entre deux repos courts.
 
 #### Guérisseur émérite
-Toujours au niveau 2, vous obtenez la maîtrise de la compétence Médecine. Si vous l’avez déjà, vous doublez votre bonus de maîtrise quand vous l’utilisez.
-Vous pouvez dépenser une de vos métamorphoses afin de lancer le sort [_soin des blessures_](/grimoire/soin-des-blessures/). Il est considéré comme étant lancé avec un emplacement d’un niveau égal à la moitié de votre bonus de maîtrise, arrondi à l’inférieur.
+Toujours au niveau 2, vous obtenez la maîtrise de la compétence Médecine. Si vous l'avez déjà, vous doublez votre bonus de maîtrise quand vous l'utilisez.
+Vous pouvez dépenser une de vos métamorphoses afin de lancer le sort [_soin des blessures_](/grimoire/soin-des-blessures/). Il est considéré comme étant lancé avec un emplacement d'un niveau égal à la moitié de votre bonus de maîtrise, arrondi à l'inférieur.
 Enfin, quand vous lancez un sort de soins, vous ajoutez votre bonus de maîtrise au nombre de points de vie que vous rendez.
 
 #### Sorts de Vie
-Vous avez appris à canaliser la magie afin de régénérer les esprits, les corps et les plantes. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
+Vous avez appris à canaliser la magie afin de régénérer les esprits, les corps et les plantes. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
 
 §§§ .table-container
 | Niv. de druide | Sorts de vie |
@@ -419,27 +419,27 @@ Vous avez appris à canaliser la magie afin de régénérer les esprits, les cor
 Au niveau 6, lorsque que vous lancez un sort sur un allié et que ce dernier possède une durée supérieure à « instantanée », vous doublez sa durée. Si le sort requiert de maintenir votre concentration, vous devez toujours la maintenir pendant toute la durée du sort.
 
 #### Réaction rapide
-Au niveau 10, vous êtes toujours prompt à aider vos alliés. Quand l’un de vos alliés subit des dommages, vous pouvez utiliser votre [réaction](/lancer-des-sorts/#reaction) afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/) ou [_mot de guérison_](/grimoire/mot-de-guerison/). Si votre allié devait tomber à 0 PV, il serait alors considéré comme ayant un nombre de PV égal au résultat de votre sort de soins et ne tombe pas inconscient. Vous devez cependant utiliser un emplacement de sort. Vous pouvez, à la place, utiliser votre capacité guérisseur émérite et dépenser une métamorphose afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/).
+Au niveau 10, vous êtes toujours prompt à aider vos alliés. Quand l'un de vos alliés subit des dommages, vous pouvez utiliser votre [réaction](/lancer-des-sorts/#reaction) afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/) ou [_mot de guérison_](/grimoire/mot-de-guerison/). Si votre allié devait tomber à 0 PV, il serait alors considéré comme ayant un nombre de PV égal au résultat de votre sort de soins et ne tombe pas inconscient. Vous devez cependant utiliser un emplacement de sort. Vous pouvez, à la place, utiliser votre capacité guérisseur émérite et dépenser une métamorphose afin de lancer [_soin des blessures_](/grimoire/soin-des-blessures/).
 
 #### Esprit apaisé
 Au niveau 14, vous êtes immunisé aux états [charmé](/gerer-la-sante-du-personnage/#charme) et [terrorisé](/gerer-la-sante-du-personnage/#terrorise).
 
 #### Esprit de vie
-Au niveau 18, en plus que vos aptidudes de druide, vous pouvez canaliser la puissance vitale de la nature à travers votre corps. En utilisant votre action, vous commencez à vous nourrir de l’énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l’effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
+Au niveau 18, en plus que vos aptidudes de druide, vous pouvez canaliser la puissance vitale de la nature à travers votre corps. En utilisant votre action, vous commencez à vous nourrir de l'énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l'effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
 
 ### Cercle des Châtiments
 §§§ .source .font-italic
 Source : Gazette Role'n Play #4
 §§§
 #### Guérisseur de pacotille
-Au niveau 2, vous décidez de vous concentrer davantage sur les dégâts infligés par vos sorts que sur le soutien à vos alliés. Lorsque vous lancez les dés afin de déterminer le nombre de points de vie rendus par un sort de guérison rendant des PV (comme [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) ou [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) par exemple), vous ne pouvez pas ajouter votre bonus de caractéristique au nombre de points de vie rendus si le sort le permet. Vous devez en outre relancer les dés ayant obtenu le maximum (8 sur 1d8 par exemple) puis utiliser le nouveau résultat. De plus, tout sort rendant un nombre fixe de points de vie ne rend que la moitié du nombre prévu. Enfin, cette règle s’applique même aux sorts obtenus via des dons, des objets magiques ou un multiclassage.
+Au niveau 2, vous décidez de vous concentrer davantage sur les dégâts infligés par vos sorts que sur le soutien à vos alliés. Lorsque vous lancez les dés afin de déterminer le nombre de points de vie rendus par un sort de guérison rendant des PV (comme [_soin des blessures_](/grimoire/soin-des-blessures/), [_mot de guérison_](/grimoire/mot-de-guerison/) ou [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) par exemple), vous ne pouvez pas ajouter votre bonus de caractéristique au nombre de points de vie rendus si le sort le permet. Vous devez en outre relancer les dés ayant obtenu le maximum (8 sur 1d8 par exemple) puis utiliser le nouveau résultat. De plus, tout sort rendant un nombre fixe de points de vie ne rend que la moitié du nombre prévu. Enfin, cette règle s'applique même aux sorts obtenus via des dons, des objets magiques ou un multiclassage.
 
 #### Puissance vengeresse
 Toujours au niveau 2, lorsque vous lancez un tour de magie infligeant des dégâts, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par le sort.
-De plus, vous obtenez le tour de magie [_gourdin magique_](/grimoire/gourdin-magique/) s’il ne fait pas partie de votre liste de sorts. Vous pouvez aussi ajouter votre bonus de maîtrise aux dégâts infligés par un gourdin ou un bâton enchanté par ce tour de magie.
+De plus, vous obtenez le tour de magie [_gourdin magique_](/grimoire/gourdin-magique/) s'il ne fait pas partie de votre liste de sorts. Vous pouvez aussi ajouter votre bonus de maîtrise aux dégâts infligés par un gourdin ou un bâton enchanté par ce tour de magie.
 
 #### Sorts du Châtiment
-Vous avez appris à canaliser la magie afin de châtier les ennemis du monde naturel. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
+Vous avez appris à canaliser la magie afin de châtier les ennemis du monde naturel. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximal de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Druide' }}">sorts de druide</router-link>, considérez-le quand même comme un sort de druide.
 
 §§§ .table-container
 | Niv. de druide | Sorts de Châtiments |
@@ -455,12 +455,12 @@ Vous avez appris à canaliser la magie afin de châtier les ennemis du monde nat
 §§§
 
 #### Résistance naturelle
-Au niveau 6, votre corps s’est accoutumé aux substances empoisonnées émises par certaines créatures et plantes. Vous êtes immunisé aux dégâts de poison et à l’état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). De plus, vous obtenez la maîtrise des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution.
+Au niveau 6, votre corps s'est accoutumé aux substances empoisonnées émises par certaines créatures et plantes. Vous êtes immunisé aux dégâts de poison et à l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). De plus, vous obtenez la maîtrise des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution.
 
 #### Réaction violente
-Au niveau 10, vous pouvez utiliser un tour de magie au lieu d’une attaque de corps à corps lorsque vous obtenez une attaque d’opportunité.
-De plus, vous obtenez une attaque d’opportunité sur un ennemi quand ce dernier vous attaque avec une attaque d’arme ou de sort à distance et qu’il manque son attaque.
+Au niveau 10, vous pouvez utiliser un tour de magie au lieu d'une attaque de corps à corps lorsque vous obtenez une attaque d'opportunité.
+De plus, vous obtenez une attaque d'opportunité sur un ennemi quand ce dernier vous attaque avec une attaque d'arme ou de sort à distance et qu'il manque son attaque.
 
 #### Puissance de la nature
-Au niveau 14, vous pouvez utiliser une utilisation de votre forme sauvage afin de lancer le sort [_invoquer une fée_](/grimoire/invoquer-une-fee/) ou [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) à son niveau normal, et ce même si vous n’avez pas préparé ces sorts. Au niveau 20, vous ne pouvez le faire que trois fois entre deux repos courts ou longs.
+Au niveau 14, vous pouvez utiliser une utilisation de votre forme sauvage afin de lancer le sort [_invoquer une fée_](/grimoire/invoquer-une-fee/) ou [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) à son niveau normal, et ce même si vous n'avez pas préparé ces sorts. Au niveau 20, vous ne pouvez le faire que trois fois entre deux repos courts ou longs.
 De plus vous avez désormais l'avantage à vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour garder votre [_concentration_](/lancer-des-sorts/#concentration).

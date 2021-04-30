@@ -46,7 +46,7 @@ damageTypeImmunities:
   - "poison"
   - "c-p-t-non-magique"
 languages:
-  - "celles qu’il parlait de son vivant"
+  - "celles qu'il parlait de son vivant"
 telepathy: 36
 source: "Livre des monstres"
 source_page: 235

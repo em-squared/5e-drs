@@ -22,7 +22,7 @@ senses:
 conditionImmunities:
   - "assourdi"
   - "aveugle"
-customDamageTypeImmunities: "Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d’acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid."
+customDamageTypeImmunities: "Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d'acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid."
 languages:
   - "peut comprendre les mêmes langues que son créateur ou son maître désigné"
 environments:

@@ -281,7 +281,7 @@ Au niveau 7 également, vous apprenez le sort [_pattes d'araignée_](/grimoire/p
 #### Maitre du déplacement
 À partir du niveau 11, vous apprenez le sort [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) et vous pouvez le lancer sans dépenser d'emplacement de sorts une fois entre deux repos longs.
 
-À partir du niveau 13, il rejoint votre liste de sorts (si vous êtes capable de lancer des sorts de niveau 4) et vous pouvez, au choix, le lancer sans dépenser d’emplacement de sorts une fois entre chaque repos long ou le lancer en dépensant un emplacement de sorts.
+À partir du niveau 13, il rejoint votre liste de sorts (si vous êtes capable de lancer des sorts de niveau 4) et vous pouvez, au choix, le lancer sans dépenser d'emplacement de sorts une fois entre chaque repos long ou le lancer en dépensant un emplacement de sorts.
 
 #### Zone de repli
 Au niveau 15, vous apprenez à mettre en place des zones sécurisées. Vous pouvez passer une heure à tracer des symboles mystiques sur le sol d'un lieu que vous avez choisi. Ces symboles ne peuvent être dissimulés et recouverts sous peine de devenir inactifs.

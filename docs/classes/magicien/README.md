@@ -351,11 +351,11 @@ Source : Gazette Role'n Play #6
 §§§
 
 #### Simulacre
-Au niveau 2, vous apprenez à créer un simulacre, une créature ressemblant à un animal ou à un humanoïde miniature. La créature est faite d’argile et/ou de métal et/ou de bois, à l’intérieur duquel vous placez une fiole contenant un peu de votre sang faisant office de cœur : le réceptacle d’âme. Sa création vous coûte cependant des composantes matérielles et demande du temps, comme indiqué dans le tableau ci-dessous. Pour créer un simulacre d’un niveau donné, il est nécessaire de posséder au moins le bonus de maîtrise minimum, ainsi que d’être capable de lancer des sorts correspondant au niveau de sort minimum. Le temps, lui, correspond au nombre de jours nécessaires afin de créer un simulacre. Le personnage doit être capable d’y consacrer au moins la moitié de sa journée. Enfin, vous pouvez lui conférer des capacités d’un coût maximum correspondant à celui exposé dans le tableau ci-dessous.
+Au niveau 2, vous apprenez à créer un simulacre, une créature ressemblant à un animal ou à un humanoïde miniature. La créature est faite d'argile et/ou de métal et/ou de bois, à l'intérieur duquel vous placez une fiole contenant un peu de votre sang faisant office de cœur : le réceptacle d'âme. Sa création vous coûte cependant des composantes matérielles et demande du temps, comme indiqué dans le tableau ci-dessous. Pour créer un simulacre d'un niveau donné, il est nécessaire de posséder au moins le bonus de maîtrise minimum, ainsi que d'être capable de lancer des sorts correspondant au niveau de sort minimum. Le temps, lui, correspond au nombre de jours nécessaires afin de créer un simulacre. Le personnage doit être capable d'y consacrer au moins la moitié de sa journée. Enfin, vous pouvez lui conférer des capacités d'un coût maximum correspondant à celui exposé dans le tableau ci-dessous.
 
-Un personnage ne peut créer qu'un seul simulacre à la fois, et uniquement pour lui-même. La création d’un nouveau simulacre signifie la destruction de l’autre. Il peut aussi améliorer son simulacre en l’augmentant d’un niveau. Le temps nécessaire est le même que pour la création d’un simulacre du niveau visé, mais le coût est égal au coût du niveau donné moins celui du niveau inférieur. Un simulacre ne peut être amélioré que d’un niveau à la fois.
+Un personnage ne peut créer qu'un seul simulacre à la fois, et uniquement pour lui-même. La création d'un nouveau simulacre signifie la destruction de l'autre. Il peut aussi améliorer son simulacre en l'augmentant d'un niveau. Le temps nécessaire est le même que pour la création d'un simulacre du niveau visé, mais le coût est égal au coût du niveau donné moins celui du niveau inférieur. Un simulacre ne peut être amélioré que d'un niveau à la fois.
 
-Tant que le réceptacle d’âme d’un simulacre est intact, vous pouvez le retirer de ce dernier et le placer dans un nouveau simulacre, et il garde sa personnalité et sa mémoire. Cependant, le corps du simulacre précédent doit être détruit dans le processus : il est impossible de créer plusieurs corps avec réceptacle interchangeable.
+Tant que le réceptacle d'âme d'un simulacre est intact, vous pouvez le retirer de ce dernier et le placer dans un nouveau simulacre, et il garde sa personnalité et sa mémoire. Cependant, le corps du simulacre précédent doit être détruit dans le processus : il est impossible de créer plusieurs corps avec réceptacle interchangeable.
 
 ##### Création d'un simulacre
 §§§ .table-container
@@ -370,9 +370,9 @@ Tant que le réceptacle d’âme d’un simulacre est intact, vous pouvez le ret
 
 Les caractéristiques de simulacre sont les suivantes : Force 2 (-4), Dextérité 14 (+2), Constitution 8 (-1), Sagesse 10 (+0), Charisme 10 (+0). Il possède une Intelligence de 6 plus votre bonus de maîtrise et une vitesse de 6m. Son bonus de maîtrise est égal au vôtre.
 
-Le simulacre possède un nombre de points de vie égaux à vos points de vie maximum divisés par 4. Un simulacre est toujours de taille TP. Vous décidez de sa forme : celle d’un animal de très petite taille (comme un corbeau, un serpent, une araignée ou autre) ou d’un minuscule humanoïde.
+Le simulacre possède un nombre de points de vie égaux à vos points de vie maximum divisés par 4. Un simulacre est toujours de taille TP. Vous décidez de sa forme : celle d'un animal de très petite taille (comme un corbeau, un serpent, une araignée ou autre) ou d'un minuscule humanoïde.
 
-Votre simulacre agit indépendamment de vous, mais il obéit toujours à vos ordres. Lors d'un combat, il lance son propre dé d'initiative et agit à son tour. Il ne peut pas attaquer et ne possède pas de réaction. Il possède une action qu’il peut utiliser à sa guise, hors attaque.
+Votre simulacre agit indépendamment de vous, mais il obéit toujours à vos ordres. Lors d'un combat, il lance son propre dé d'initiative et agit à son tour. Il ne peut pas attaquer et ne possède pas de réaction. Il possède une action qu'il peut utiliser à sa guise, hors attaque.
 
 Vous pouvez communiquer par télépathie avec votre simulacre tant qu'il se trouve dans un rayon de 30 mètres autour de vous. Il comprend votre langue si vous lui parlez.
 
@@ -380,56 +380,56 @@ Vous pouvez renvoyer temporairement votre simulacre en utilisant une action. Il 
 
 Quand vous le créez, vous lui octroyez, en plus, un certain nombre de capacités. Ces dernières ont un coût en points de capacités. Vous possédez un nombre de points de capacité dépendant du niveau de votre simulacre.
 
-Sauf mention contraire, chaque capacité ne peut être sélectionnée qu’une seul fois.
+Sauf mention contraire, chaque capacité ne peut être sélectionnée qu'une seul fois.
 
 ##### Capacités de simulacre
 §§§ .table-container
 |Capacité|Description|Coût|
 |:-|:-|:-|
-|**Attaque**|En utilisant votre action bonus, vous ordonnez à votre simulacre d’utiliser son action afin de porter une attaque au corps à corps. Cette dernière inflige 1d4 points de dégâts contondants, tranchants ou perforants (à choisir au moment de la création du simulacre). Son score d’attaque correspond à votre modificateur d’attaque magique.|1|
-|**Attaque modérée**|L’attaque de votre familier inflige désormais 1d6 points de dégâts (nécessite Attaque)|2|
-|**Attaque réflexe**|Lorsque votre simulacre se trouve dans une situation où il devrait pouvoir porter une attaque d’opportunité, vous pouvez dépenser votre réaction afin qu’il en porte une. (nécessite Attaque)|2|
-|**Attaque supérieure**|L’attaque de votre familier inflige désormais 1d8 points de dégâts (nécessite Attaque modérée)|3|
-|**Attaques magiques**|L’attaque de votre familier est considérée comme magique|2|
+|**Attaque**|En utilisant votre action bonus, vous ordonnez à votre simulacre d'utiliser son action afin de porter une attaque au corps à corps. Cette dernière inflige 1d4 points de dégâts contondants, tranchants ou perforants (à choisir au moment de la création du simulacre). Son score d'attaque correspond à votre modificateur d'attaque magique.|1|
+|**Attaque modérée**|L'attaque de votre familier inflige désormais 1d6 points de dégâts (nécessite Attaque)|2|
+|**Attaque réflexe**|Lorsque votre simulacre se trouve dans une situation où il devrait pouvoir porter une attaque d'opportunité, vous pouvez dépenser votre réaction afin qu'il en porte une. (nécessite Attaque)|2|
+|**Attaque supérieure**|L'attaque de votre familier inflige désormais 1d8 points de dégâts (nécessite Attaque modérée)|3|
+|**Attaques magiques**|L'attaque de votre familier est considérée comme magique|2|
 |**Canal arcanique**|Quand vous lancez un sort avec une portée de « contact », votre simulacre peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser votre réaction pour transmettre le sort au moment où vous le lancez.|1|
-|**Caractéristiques renforcées**|Choisissez deux caractéristiques de votre simulacre. Elles augmentent chacune de 2. Vous pouvez alternativement n’en choisir qu’une seule qui augmentera de 4. Peut être sélectionné plusieurs fois. Aucune de ses caractéristiques ne peut augmenter de plus de 4, même en prenant plusieurs fois cette capacité.|1|
+|**Caractéristiques renforcées**|Choisissez deux caractéristiques de votre simulacre. Elles augmentent chacune de 2. Vous pouvez alternativement n'en choisir qu'une seule qui augmentera de 4. Peut être sélectionné plusieurs fois. Aucune de ses caractéristiques ne peut augmenter de plus de 4, même en prenant plusieurs fois cette capacité.|1|
 |**Compétent**|Choisissez deux compétences. Votre simulacre en obtient la maîtrise. Peut être sélectionné plusieurs fois.|1|
 |**Défenses renforcées**|Votre simulacre est particulièrement résistant. Il obtient une armure naturelle lui procurant un bonus de +2 à la CA. |1|
-|**Défenses renforcées améliorées**|Le bonus à la CA dû à l’armure naturelle de votre simulacre est désormais de +4 (nécessite Défenses renforcées)|2|
-|**Défenses renforcées supérieures**|Le bonus à la CA dû à l’armure naturelle de votre simulacre est désormais de +6 (nécessite Défenses renforcées améliorées)|3|
+|**Défenses renforcées améliorées**|Le bonus à la CA dû à l'armure naturelle de votre simulacre est désormais de +4 (nécessite Défenses renforcées)|2|
+|**Défenses renforcées supérieures**|Le bonus à la CA dû à l'armure naturelle de votre simulacre est désormais de +6 (nécessite Défenses renforcées améliorées)|3|
 |**Déplacement spécial**|Votre simulacre obtient une vitesse de fouissement ou de nage de 9m. Peut être sélectionné plusieurs fois, pour un type de déplacement différent à chaque fois.|1|
-|**Empoisonné**|L’attaque de votre familier provoque des dégâts de poison. La cible doit effectuer un jet de sauvegarde de Constitution (d’une difficulté égale à votre difficulté de sorts) ou être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pour un nombre de rounds égal à votre bonus de maîtrise.|3|
+|**Empoisonné**|L'attaque de votre familier provoque des dégâts de poison. La cible doit effectuer un jet de sauvegarde de Constitution (d'une difficulté égale à votre difficulté de sorts) ou être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pour un nombre de rounds égal à votre bonus de maîtrise.|3|
 |**Endurci**|Votre simulacre possède désormais un nombre de PV égal à la moitié de votre maximum de PV.|3|
 |**Invisibilité**|Votre familier peut lancer le sort [_invisibilité_](/grimoire/invisibilite/) sur lui-même, à volonté.|2|
 |**Lien renforcé**|Votre lien télépathique et votre capacité de Vision Partagée fonctionnent désormais dans un rayon de 5 km. (Nécessite Vision partagée)|2|
-|**Lien renforcé supérieur**|Votre lien télépathique et votre capacité de Vision Partagée (si vous l’avez sélectionnée) fonctionnent désormais sans limite tant que vous êtes sur le même plan d’existence. (nécessite Lien renforcé)|3|
-|**Liguiste**|Choisissez deux langues que vous maîtrisez. Votre simulacre en obtient la maîtrise. Il est désormais capable de parler. Peut être sélectionné plusieurs fois.|1|
-|**Manipulation**|Votre familier est capable de manipuler des objets comme s’il avait deux mains humaines.|2|
+|**Lien renforcé supérieur**|Votre lien télépathique et votre capacité de Vision Partagée (si vous l'avez sélectionnée) fonctionnent désormais sans limite tant que vous êtes sur le même plan d'existence. (nécessite Lien renforcé)|3|
+|**Linguiste**|Choisissez deux langues que vous maîtrisez. Votre simulacre en obtient la maîtrise. Il est désormais capable de parler. Peut être sélectionné plusieurs fois.|1|
+|**Manipulation**|Votre familier est capable de manipuler des objets comme s'il avait deux mains humaines.|2|
 |**Protecteur**|Lorsque votre simulacre est sur le même emplacement que vous et que vous êtes au corps à corps, vous ne subissez aucun [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos attaques de sorts à distance.|2|
-|**Réserve occulte**|Votre simulacre peut stocker des sorts afin de les relâcher au moment opportun. Vous pouvez lancer sur lui un nombre de sorts dont les niveaux cumulés ne dépassent pas votre bonus de maîtrise. Ils sont stockés. À tout moment, votre simulacre peut utiliser son action pour lancer le sort sur votre ordre. Par exemple un personnage possédant un bonus de maîtrise de +3 peut stocker un sort de niveau 3, ou un sort de niveau 1 et un sort de niveau 2, ou encore trois sorts de niveau 1. Les sorts restent stockés jusqu’à utilisation.|2|
-|**Réservoir de magie**|Une fois par jour, vous pouvez utiliser votre simulacre afin de régénérer l’un de vos emplacements de sort. Votre familier perd immédiatement un nombre de points de vie égal à deux fois le niveau de l’emplacement régénéré (maximum niveau 5/10 PV)|2|
+|**Réserve occulte**|Votre simulacre peut stocker des sorts afin de les relâcher au moment opportun. Vous pouvez lancer sur lui un nombre de sorts dont les niveaux cumulés ne dépassent pas votre bonus de maîtrise. Ils sont stockés. À tout moment, votre simulacre peut utiliser son action pour lancer le sort sur votre ordre. Par exemple un personnage possédant un bonus de maîtrise de +3 peut stocker un sort de niveau 3, ou un sort de niveau 1 et un sort de niveau 2, ou encore trois sorts de niveau 1. Les sorts restent stockés jusqu'à utilisation.|2|
+|**Réservoir de magie**|Une fois par jour, vous pouvez utiliser votre simulacre afin de régénérer l'un de vos emplacements de sort. Votre familier perd immédiatement un nombre de points de vie égal à deux fois le niveau de l'emplacement régénéré (maximum niveau 5/10 PV)|2|
 |**Résistance**|Choisissez deux types de dégâts (feu, froid, acide, tranchants, contondants, etc). Votre simulacre obtient la résistance à ces derniers. Vous pouvez choisir à la place deux états (charmé, empoisonné, etc) auquel il sera immunisé. Peut être sélectionné plusieurs fois.|2|
-|**Sens développés**|Choisissez un sens entre l’ouïe, l’odorat et la vue. Votre simulacre obtient l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests les concernant. Peut être sélectionné plusieurs fois.|1|
-|**Soutien indéfectible**|Choisissez deux compétences. Lorsque votre familier est avec vous, il vous aide et vous permet de mieux réussir. Vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de ces deux compétences.|2|
+|**Sens développés**|Choisissez un sens entre l'ouïe, l'odorat et la vue. Votre simulacre obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les tests les concernant. Peut être sélectionné plusieurs fois.|1|
+|**Soutien indéfectible**|Choisissez deux compétences. Lorsque votre familier est avec vous, il vous aide et vous permet de mieux réussir. Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de ces deux compétences.|2|
 |**Ventriloquie**|Vous pouvez parler par la bouche de votre familier (nécessite Vision partagée)|1|
 |**Vision partagée**|Vous pouvez dépenser votre action pour percevoir le monde par les yeux et les oreilles de votre familier jusqu'au début de votre prochain tour. Pendant ce temps, vos yeux et vos oreilles ne fonctionnent plus.|1|
-|**Vol**|Votre familier possède une paire d’ailes, et une vitesse de vol de 12m|1|
+|**Vol**|Votre familier possède une paire d'ailes, et une vitesse de vol de 12m|1|
 §§§
 
-Si votre simulacre arrive à 0 PV, il est irrémédiablement détruit. Vous subissez alors un nombre de points de dégâts égal à son nombre maximum de points de vie. Votre maximum de points de vie baisse de ce montant jusqu’à ce que vous ayez effectué un repos long.
+Si votre simulacre arrive à 0 PV, il est irrémédiablement détruit. Vous subissez alors un nombre de points de dégâts égal à son nombre maximum de points de vie. Votre maximum de points de vie baisse de ce montant jusqu'à ce que vous ayez effectué un repos long.
 
-Vous pouvez éventuellement récupérer le réceptacle d’âme. S’il est intact, une fois son nouveau corps construit, il conservera tous ses souvenirs d’avant (avec quelques trous de mémoire éventuels, au bon vouloir de votre MJ). Si le réceptacle est détruit, vous devrez créer un tout nouveau simulacre.  Quoiqu’il en soit, le coût et le temps nécessaire correspond à la création d’un simulacre du niveau voulu.
+Vous pouvez éventuellement récupérer le réceptacle d'âme. S'il est intact, une fois son nouveau corps construit, il conservera tous ses souvenirs d'avant (avec quelques trous de mémoire éventuels, au bon vouloir de votre MJ). Si le réceptacle est détruit, vous devrez créer un tout nouveau simulacre.  Quoiqu'il en soit, le coût et le temps nécessaire correspond à la création d'un simulacre du niveau voulu.
 
-Il est impossible de posséder un simulacre et un familier issu du sort Appel de familier en même temps. Ainsi, si le maître d’étude désire invoquer un familier via le sort approprié, il doit d’abord détruire son simulacre, et inversement.
+Il est impossible de posséder un simulacre et un familier issu du sort Appel de familier en même temps. Ainsi, si le maître d'étude désire invoquer un familier via le sort approprié, il doit d'abord détruire son simulacre, et inversement.
 
 #### Connaissances variées
-De même, au niveau 2, votre érudition vous permet de toucher à un nombre de sujets variés. Vous obtenez la maîtrise de deux compétences à choisir entre Arcanes, Histoire, Médecine, Nature, Religion, outils d’herboriste. Vous obtenez aussi la maîtrise de deux outils entre les outils de forgeron, de menuisier, de joailler, de potier. Ces derniers sont ceux que vous utilisez afin de créer votre simulacre.
+De même, au niveau 2, votre érudition vous permet de toucher à un nombre de sujets variés. Vous obtenez la maîtrise de deux compétences à choisir entre Arcanes, Histoire, Médecine, Nature, Religion, outils d'herboriste. Vous obtenez aussi la maîtrise de deux outils entre les outils de forgeron, de menuisier, de joailler, de potier. Ces derniers sont ceux que vous utilisez afin de créer votre simulacre.
 
 #### Expertise des sorts
-Au niveau 6, vous êtes si habitué à copier et recopier les sorts dans le cadre de vos recherches que vous êtes devenu expert en la matière. Quand vous effectuez un test afin de lancer un sort d’un niveau supérieur à votre niveau de sort maximum depuis un parchemin, ou afin de recopier le sort d’un parchemin dans votre grimoire, vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+Au niveau 6, vous êtes si habitué à copier et recopier les sorts dans le cadre de vos recherches que vous êtes devenu expert en la matière. Quand vous effectuez un test afin de lancer un sort d'un niveau supérieur à votre niveau de sort maximum depuis un parchemin, ou afin de recopier le sort d'un parchemin dans votre grimoire, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Érudition supérieure
-À partir du niveau 10, choisissez deux compétences entre Arcanes, Histoire, Médecine, Nature, Religion, outils d’herboriste. Quand vous lancez un d20 lors d’un test d’une des deux compétences choisies, si le dé indique un score inférieur à 10, considérez que vous avez obtenu le score de 10.
+À partir du niveau 10, choisissez deux compétences entre Arcanes, Histoire, Médecine, Nature, Religion, outils d'herboriste. Quand vous lancez un d20 lors d'un test d'une des deux compétences choisies, si le dé indique un score inférieur à 10, considérez que vous avez obtenu le score de 10.
 
 #### Mémoire parfaite
-Au niveau 14, vous connaissez si bien vos sorts et votre grimoire que vous pourriez presque vous en passer. Si vous perdez votre grimoire, ou si ce dernier a été détruit, vous êtes toujours capable de préparer vos sorts après un repos long, et ce pendant un nombre de jours égal à deux fois votre bonus de maîtrise. Pendant ce temps, vous pouvez, si vous en avez le temps, recopier vos sorts dans un nouveau grimoire. Faite un test d’Arcanes pour chaque sort que vous recopiez, d’une difficulté de 8 + le niveau du sort. Si le test est réussi, le sort est recopié de mémoire dans votre nouveau grimoire. Si le test échoue, vous perdez le sort à jamais, ou jusqu’à ce que vous le retrouviez dans un autre grimoire ou sur un parchemin magique.
+Au niveau 14, vous connaissez si bien vos sorts et votre grimoire que vous pourriez presque vous en passer. Si vous perdez votre grimoire, ou si ce dernier a été détruit, vous êtes toujours capable de préparer vos sorts après un repos long, et ce pendant un nombre de jours égal à deux fois votre bonus de maîtrise. Pendant ce temps, vous pouvez, si vous en avez le temps, recopier vos sorts dans un nouveau grimoire. Faite un test d'Arcanes pour chaque sort que vous recopiez, d'une difficulté de 8 + le niveau du sort. Si le test est réussi, le sort est recopié de mémoire dans votre nouveau grimoire. Si le test échoue, vous perdez le sort à jamais, ou jusqu'à ce que vous le retrouviez dans un autre grimoire ou sur un parchemin magique.

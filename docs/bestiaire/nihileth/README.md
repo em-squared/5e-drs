@@ -40,7 +40,7 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-customDamageTypeResistances: "d’acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée) ; contondants, perforants et tranchants infligés par des armes non magiques"
+customDamageTypeResistances: "d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée) ; contondants, perforants et tranchants infligés par des armes non magiques"
 customDamageTypeImmunities: "de froid, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)"
 languages:
   - "langue du Vide"

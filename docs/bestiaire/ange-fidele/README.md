@@ -26,7 +26,7 @@ skills:
   - name: "perspicacite"
 movement:
   walk: 12
-  special: "vol 12 m (forme d’ange), ou 3 m, vol 24 m (forme d’aigle)"
+  special: "vol 12 m (forme d'ange), ou 3 m, vol 24 m (forme d'aigle)"
 senses:
   darkvision: 18
 conditionImmunities:

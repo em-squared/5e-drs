@@ -108,10 +108,7 @@ export const tooltips = {
     basePath: '/gerer-la-sante-du-personnage/',
     title: 'Neutralisé',
     description: [
-      "Une créature <em>paralysée</em> est <em>neutralisée</em> (voir l'état) et ne peut ni parler ni se déplacer.",
-      "La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.",
-      "Les attaques visant la créature bénéficient d'un <em>avantage</em>.",
-      "Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle."
+      "Une créature <em>neutralisée</em> est incapable d'effectuer une action ou une réaction."
     ]
   },
   'paralyse': {

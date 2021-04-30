@@ -96,7 +96,7 @@ Au niveau 17, vous soulevez une véritable tempête, et lorsque le vent dépasse
 #### Voyageur des terres
 Les druides errent sur les terres et certains ont appris à ne faire qu'un avec la terre et les arbres. Lorsque vous prononcez un mot de pouvoir, les plantes et arbres s'écartent devant vous. Plus aucun terrain ne devient difficile pour un nombre d'heures égal à votre niveau. De plus, vous ne laissez aucune trace derrière vous.
 
-Au niveau 9, vous pouvez utiliser ce pouvoir afin de ne faire plus qu’un avec la terre pour une nuit entière. Vous fusionnez avec la terre et pouvez passer ainsi une nuit entière de repos.
+Au niveau 9, vous pouvez utiliser ce pouvoir afin de ne faire plus qu'un avec la terre pour une nuit entière. Vous fusionnez avec la terre et pouvez passer ainsi une nuit entière de repos.
 
 Au niveau 13, vous devenez capable, en utilisant ce pouvoir, de fusionner un instant avec un arbre et de l'utiliser comme un portail, ressortant d'un autre arbre que vous pouvez voir. Le tronc de ce dernier doit cependant être assez large pour vous laisser passer.
 
@@ -141,7 +141,7 @@ Tous les [cercles](/classes/druide/#cercle-druidique) issus des règles de base 
 ### Cercle des fées
 Le fonctionnement de ce cercle reste peu ou prou le même. Mais au vu du mystère qui tourne autour de la disparition des faës et de leur monde, certaines choses changent :
 
-**Tour de magie bonus** devient **secret ancestral bonus**. Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence de charisme et appliquez-lui le bonus de l’aptitude de classe [secrets ancestraux](#secrets-ancestraux).
+**Tour de magie bonus** devient **secret ancestral bonus**. Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence de charisme et appliquez-lui le bonus de l'aptitude de classe [secrets ancestraux](#secrets-ancestraux).
 
 La capacité **disparition instinctive** vous permet de disparaître et de devenir invisible en vous enveloppant du Voile entre les deux mondes. Il vous permet une fois entre chaque repos long de lancer l'équivalent du sort [_invisibilité_](/grimoire/invisibilite/). Au niveau 10 il peut être lancé une fois entre chaque repos court, mais le sort porte dimensionnelle n'est pas accessible.
 
