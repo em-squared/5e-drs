@@ -24,13 +24,14 @@
               ></v-progress-linear>
               <span class="subtitle-2">PX : </span>{{ totalXP }} ({{ Math.floor(totalXP / pc) }} par PJ)
             </div>
-            <v-row class="d-flex align-center my-0" v-for="c in creatures">
+            <v-row class="d-flex align-center my-0" v-for="(c, idx) in creatures">
               <v-col class="px-0 py-1">
                 <div class="subtitle-2">{{c.title}}</div>
                 <!-- <div><span class="subtitle-2">ID : </span>{{c.frontmatter.challenge}}</div> -->
               </v-col>
               <v-col class="px-0 py-1">
-                <v-btn dense icon small @click="removeCreatureInEncounter(c)">
+                <v-switch :value="c.ally" label="Allié" dense class="ma-0 d-inline-block" @click="switchCampCreatureInEncounter(idx)" color="accent"></v-switch>
+                <v-btn dense icon small @click="removeCreatureInEncounter(idx)">
                   <v-icon color="red">mdi-delete</v-icon>
                 </v-btn>
               </v-col>
@@ -58,6 +59,8 @@ export default {
       panels: [0],
       challenges: CHALLENGES,
       encounterLevels: ENCOUNTERLEVELS,
+      totalPC: 0,
+      totalXP: 0,
     }
   },
 
@@ -66,9 +69,9 @@ export default {
       creatures: state => state.encounterCalculator.creatures,
     }),
 
-    ...mapGetters({
-      totalPC: 'encounterCalculator/totalPC',
-    }),
+    // ...mapGetters({
+    //   totalPC: 'encounterCalculator/totalPC',
+    // }),
 
     pc: {
       get () {
@@ -110,25 +113,30 @@ export default {
       return {label, color}
     },
 
-    totalPC () {
-      let pc = 0
-      for (let c of this.creatures) {
-        pc += getPCbyChallenge(Number(c.frontmatter.challenge))
-      }
-      return pc
-    },
+    // totalPC () {
+    //   let pc = 0
+    //   for (let c of this.creatures) {
+    //     if (c.ally) {
+    //       pc -= getPCbyChallenge(Number(c.frontmatter.challenge))
+    //     } else {
+    //       pc += getPCbyChallenge(Number(c.frontmatter.challenge))
+    //     }
+    //     console.log(c)
+    //   }
+    //   return pc
+    // },
 
-    totalXP () {
-      let xp = 0
-      for (let c of this.creatures) {
-        if (c.frontmatter.challenge == 0) {
-          xp += 10
-        } else {
-          xp += stats.challenges[c.frontmatter.challenge].xp
-        }
-      }
-      return xp
-    },
+    // totalXP () {
+    //   let xp = 0
+    //   for (let c of this.creatures) {
+    //     if (c.frontmatter.challenge == 0) {
+    //       xp += 10
+    //     } else {
+    //       xp += stats.challenges[c.frontmatter.challenge].xp
+    //     }
+    //   }
+    //   return xp
+    // },
 
     challengeForGroup () {
       let level = this.encounterLevels[this.encounterLevels.findIndex((item) => { return item.level == this.level })]
@@ -146,13 +154,62 @@ export default {
   },
 
   methods: {
-    removeCreatureInEncounter (creature) {
-      this.$store.commit('encounterCalculator/removeCreature', creature)
-    }
+    removeCreatureInEncounter (idx) {
+      this.$store.commit('encounterCalculator/removeCreature', idx)
+    },
+
+    switchCampCreatureInEncounter (idx) {
+      this.$store.commit('encounterCalculator/switchCampCreature', idx)
+      this.setTotalPC()
+      this.setTotalXP()
+    },
+
+    setTotalPC () {
+      let pc = 0
+      for (let c of this.creatures) {
+        if (c.ally) {
+          pc -= getPCbyChallenge(Number(c.frontmatter.challenge))
+        } else {
+          pc += getPCbyChallenge(Number(c.frontmatter.challenge))
+        }
+        // console.log(c)
+      }
+      this.totalPC = pc
+    },
+
+    setTotalXP () {
+      let xp = 0
+      for (let c of this.creatures) {
+        if (c.frontmatter.challenge == 0) {
+          if (c.ally) {
+            xp -= 10
+          } else {
+            xp += 10
+          }
+        } else {
+          if (c.ally) {
+            xp -= stats.challenges[c.frontmatter.challenge].xp
+          } else {
+            xp += stats.challenges[c.frontmatter.challenge].xp
+          }
+        }
+      }
+      if (xp < 0) {
+        xp = 0
+      }
+      this.totalXP = xp
+    },
   },
 
   mounted () {
 
+  },
+
+  watch: {
+    creatures () {
+      this.setTotalPC()
+      this.setTotalXP()
+    }
   }
 }
 </script>

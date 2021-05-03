@@ -47,9 +47,12 @@ export default {
       state.creatures = []
     },
     addCreature: (state, payload) => {
-      payload.qty = 1
-      state.creatures.push(payload)
-      state.creatures.sort((a, b) => { return sortByString(a.title, b.title) })
+      // payload.qty = 1
+      let c = Object.assign({}, payload)
+      c.ally = false
+      state.creatures.push(c)
+      c = null
+      // state.creatures.sort((a, b) => { return sortByString(a.title, b.title) })
     },
     updateCreatures: (state, payload) => {
       let creatureIndex = getResourceIndexInLibrary(payload, state.creatures)
@@ -58,9 +61,13 @@ export default {
       }
     },
     removeCreature: (state, payload) => {
-      let creatureIndex = getResourceIndexInLibrary(payload, state.creatures)
-      if (creatureIndex >= 0) {
-        state.creatures.splice(creatureIndex, 1)
+      if (payload >= 0) {
+        state.creatures.splice(payload, 1)
+      }
+    },
+    switchCampCreature: (state, payload) => {
+      if (payload >= 0) {
+        state.creatures[payload].ally = !state.creatures[payload].ally
       }
     },
     setCreatureQty: (state, payload) => {
