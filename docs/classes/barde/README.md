@@ -100,7 +100,7 @@ Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devien
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
 ### Collège bardique
-Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts) ou le [collège des saltimbanques](#college-des-saltimbanques). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts), le [collège des saltimbanques](#college-des-saltimbanques) ou le [collège des taromanciens](#college-des-taromanciens). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
 ### Expertise
 Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout [test de caractéristiques](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui met en jeu ces compétences.
@@ -199,3 +199,46 @@ Au niveau 14, votre spécialité fait de vous un professionnel accompli et un ad
 * **Force de la nature** : Vous pouvez utiliser une action bonus pour dépenser une inspiration bardique et ajouter le résultat du dé à tous vos tests de Force du round et aux dégâts d'une attaque à votre tour. Le résultat est doublé lorsque vous utilisez une arme de corps-à-corps contondante.
 * **Jongleur** : lanceur de couteaux. À chacun de vos tours de jeu, vous pouvez utiliser une action bonus pour faire une attaque à distance avec une dague. Vous pouvez choisir de dépenser une inspiration bardique et ajouter le résultat du dé au test d'attaque (en utilisant la même et unique action bonus) ou remplacer le dé de dégâts par le dé d'inspiration.
 * **Voyante** : choisissez deux sorts parmi [_augure_](/grimoire/augure/), [_appel de familier_](/grimoire/appel-de-familier/), [_clairvoyance_](/grimoire/clairvoyance/), [_communication avec les morts_](/grimoire/communication-avec-les-morts/), [_communion_](/grimoire/communion/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_divination_](/grimoire/divination/), [_légende_](/grimoire/legende/), [_scrutation_](/grimoire/scrutation/), [_trouver un chemin_](/grimoire/trouver-un-chemin/), [_voir l'invisible_](/grimoire/voir-l-invisible/), [_vision suprême_](/grimoire/vision-supreme/). Ces sorts sont considérés comme des sorts de barde, mais ils ne comptent pas dans le nombre de sorts que vous connaissez. De plus, vous êtes désormais capable d'utiliser la magie rituelle pour tous les sorts qui le permettent, même issus d'une liste de sorts autre que celle de barde.
+
+### Collège des taromanciens
+§§§ .source .font-italic
+Source : Gazette Role'n Play #7
+§§§
+
+#### Le pouvoir des lames
+Au niveau 3, le taromancien enchante un jeu de 21 lames afin de s'en servir comme d'un outil et un support magique. Chaque fois que le taromancien utilise une de ses lames pour activer une capacité, elle disparaît de son jeu. Les lames ainsi utilisées réapparaissent dans le jeu après un repos long.
+
+Le taromancien considère son jeu comme un focaliseur de sort tant qu'il lui reste au moins une lame dans son jeu.
+
+Si un taromancien utilise l'intégralité de ses lames, son jeu est irrémédiablement détruit. Il en va de même si on détruit son jeu d'une manière ou d'une autre (en le brûlant, par exemple). Il doit alors s'en procurer un nouveau et passer une journée à ne rien faire d'autre que de l'infuser de sa propre magie et de se lier à lui. Il doit ensuite prendre un repos long. Une fois le repos long passé, son tarot est enchanté et peut être utilisé normalement.
+
+Si on lui vole ou s'il perd son jeu, il perd de son pouvoir après un nombre de jours égal à son bonus de maîtrise divisé par 2.
+
+Un taromancien ne peut posséder qu'un seul jeu de lames enchanté à la fois. Enchanter un nouveau jeu désenchante le précédent. Un jeu ainsi enchanté n'est utilisable que par le taromancien qui l'a enchanté. Si le tarot est un objet magique, il ne peut être enchanté de la sorte, l'essence magique du taromancien entrant en conflit avec celle de l'objet.
+
+Enfin, vous obtenez la maîtrise des jeux de carte, si vous ne l'avez pas déjà. Si vous maîtrisez déjà les jeux de carte, vous doublez votre bonus de maîtrise quand vous effectuez un test de caractéristique les concernant.
+
+#### Lames explosives
+Aussi niveau 3, le taromancien peut infuser un peu de sa magie dans l'une de ses lames et, en utilisant son action, la projeter sur ses ennemis. Choisissez une cible que vous pouvez voir à une distance maximale de 18 m. Utilisez votre action, et effectuez un test d'attaque magique. En cas de réussite, la carte atteint sa cible et explose, lui infligeant 1d8 dégâts de feu plus votre modificateur de Charisme.
+
+La puissance de vos lames augmente, infligeant 2d8 points de dégâts au niveau 6, et 4d8 au niveau 14.
+
+#### Conteneurs de sorts
+Au niveau 3 toujours, en utilisant votre action, vous pouvez utiliser une ou plusieurs lames de tarot afin d'y stocker un sort de votre choix que vous pouvez lancer. Le sort doit posséder un temps d'incantation égal à une action, une action bonus ou une réaction. Dépensez l'emplacement de sort approprié et utilisez un nombre de lames égal au niveau du sort stocké. Vous ne pouvez stocker de sort supérieur au niveau 6. Les lames fusionnent en une seule lame chargée. Le sort reste stocké jusqu'à votre prochain repos long.
+
+À tout instant, vous pouvez utiliser votre réaction afin de libérer le sort. S'il s'agit d'un sort possédant une portée (comme une [_boule de feu_](/grimoire/boule-de-feu/), par exemple), l'effet prend place exactement là où la lame chargée se trouve. Si une créature se trouve sur le même emplacement, c'est elle qui est affectée (ou qui en est l'épicentre, s'il s'agit d'un sort de zone). Si le sort a une portée « personnelle », il affecte la créature qui porte la lame chargée, même si elle n'en a pas conscience. La lame chargée doit se trouver à une distance maximale de 36 mètres du taromancien pour pouvoir être activée.
+
+Vous pouvez utiliser cette capacité un nombre de fois égal à votre bonus de maîtrise entre deux repos longs.
+
+#### Chance insolente
+Au niveau 6, lorsque vous effectuez un test de caractéristique, d'attaque, ou un jet de sauvegarde, vous pouvez utiliser votre réaction et sacrifier deux de vos lames afin de relancer le d20. Vous pouvez le faire après avoir lancé le d20 mais avant que le MJ ne vous annonce si le test est une réussite ou un échec.
+
+Vous pouvez utiliser cette capacité une fois entre deux repos courts ou longs. Au niveau 14, vous pouvez l'utiliser deux fois entre chaque repos court ou long.
+
+#### Bouclier de lames
+Également au niveau 6, lorsqu'une attaque devrait vous toucher, vous pouvez utiliser votre réaction afin de positionner une ou plusieurs lames entre vous et votre adversaire afin d'éviter l'attaque. Pour chaque lame dépensée, vous augmentez votre CA de 1. Si votre CA dépasse l'attaque de l'adversaire, l'attaque ne vous touche pas. Ces lames sont détruites dans le processus, jusqu'à ce que votre jeu se régénère.
+
+Vous pouvez utiliser cette capacité une fois entre deux repos courts ou longs.
+
+#### Lames puissantes
+Au niveau 14, votre tarot réapparaît après un repos long même si vous avez utilisé toutes vos lames.

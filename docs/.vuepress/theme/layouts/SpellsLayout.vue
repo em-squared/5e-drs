@@ -394,6 +394,27 @@ export default {
       // }
       // console.log(csv)
 
+      // let json = []
+      // for (var spell of results) {
+      //   let s = {}
+      //   s.name = spell.frontmatter.title
+      //   s.casting_time = spell.frontmatter.casting_time
+      //   s.classes = spell.frontmatter.classes
+      //   s.components = spell.frontmatter.components
+      //   s.concentration = spell.frontmatter.concentration
+      //   s.description = spell.frontmatter.description
+      //   s.duration = spell.frontmatter.duration
+      //   s.level = spell.frontmatter.level
+      //   s.range = spell.frontmatter.range
+      //   s.ritual = spell.frontmatter.ritual
+      //   s.school = spell.frontmatter.school
+      //   s.source = spell.frontmatter.source
+      //   s.content = spell.rawContent
+      //   json.push(s)
+      // }
+      //
+      // console.log(json)
+
       return results
     }
   },

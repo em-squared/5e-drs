@@ -1,5 +1,6 @@
 import {stats} from '../../data/stats'
 import {CHALLENGES} from '../../data/monsters'
+import {armorTypes} from '../../data/armorTypes.js'
 
 // Calcul du modificateur de caractéristique
 export function getModifier (score) {
@@ -175,6 +176,249 @@ export function displayHP (monster) {
     return averageHP + ' (' + monster.frontmatter.hitDiceCount + "d" + hitDieSize + conMod + ')'
   }
   return ""
+}
+
+// Affiche les vitesses de déplacement
+export function displayMovement (monster) {
+  if (monster.frontmatter.customMovement) {
+    return monster.frontmatter.customMovement
+  }
+  let result = ''
+  if (monster.frontmatter.movement.walk) {
+    result += monster.frontmatter.movement.walk + ' m'
+  } else {
+    result += '0 m'
+  }
+  if (monster.frontmatter.movement.climb) {
+    if (result != '') {
+      result += ', '
+    }
+    result += 'escalade ' + monster.frontmatter.movement.climb + ' m'
+  }
+  if (monster.frontmatter.movement.burrow) {
+    if (result != '') {
+      result += ', '
+    }
+    result += 'fouissement ' + monster.frontmatter.movement.burrow + ' m'
+  }
+  if (monster.frontmatter.movement.swim) {
+    if (result != '') {
+      result += ', '
+    }
+    result += 'nage ' + monster.frontmatter.movement.swim + ' m'
+  }
+  if (monster.frontmatter.movement.fly) {
+    if (result != '') {
+      result += ', '
+    }
+    result += 'vol ' + monster.frontmatter.movement.fly + ' m'
+    if (monster.frontmatter.movement.hover) {
+      result += ' (vol stationnaire)'
+    }
+  }
+  return result
+}
+
+export function getMonsterProficiencyBonus (monster) {
+  if (monster.frontmatter.proficiencyBonus) {
+    return parseInt(monster.frontmatter.proficiencyBonus)
+  }
+  return getProficiencyBonus(monster.frontmatter.challenge)
+}
+
+export function displaySavingThrowBonus (monster, ability) {
+  let result = stats.abilities[ability].abbr
+  let bonus = displayBonus(getModifier(monster.frontmatter.abilityScores[ability]) + getMonsterProficiencyBonus(monster))
+  result += ' ' + bonus
+  return result
+}
+
+export function displaySavingThrows(monster) {
+  if (monster.frontmatter.customSavingThrows) {
+    return monster.frontmatter.customSavingThrows
+  }
+  let savingThrows = []
+
+  if (monster.frontmatter.savingThrows && monster.frontmatter.savingThrows.length > 0) {
+    for (var st of monster.frontmatter.savingThrows) {
+      savingThrows.push(displaySavingThrowBonus(monster, st))
+    }
+  }
+
+  return savingThrows.join(', ')
+}
+
+export function displaySkillBonus (monster, skill) {
+  if (skill.name == 'custom') {
+    return skill.value
+  }
+  let result = stats.skills[skill.name].label
+  if (skill.invalid) {
+    result += ' ' + displayBonus(skill.value)
+    return result
+  }
+  let bonus = getModifier(monster.frontmatter.abilityScores[stats.skills[skill.name].ability]) + getMonsterProficiencyBonus(monster)
+  if (skill.isExpert) {
+    bonus += getMonsterProficiencyBonus(monster) // Bonus de maître doublé pour les experts
+  }
+  bonus  = displayBonus(bonus)
+  result += ' ' + bonus
+  return result
+}
+
+export function displaySkills(monster) {
+  if (monster.frontmatter.customSkills) {
+    return monster.frontmatter.customSkills
+  }
+
+  let skills = []
+
+  if (monster.frontmatter.skills && monster.frontmatter.skills.length > 0) {
+    for (var skill of monster.frontmatter.skills) {
+      skills.push(displaySkillBonus(monster, skill))
+    }
+  }
+
+  return skills.join(', ')
+}
+
+export function displayDamageTypes (damageTypes) {
+  let result = ''
+  damageTypes.forEach((damageType, idx) => {
+    if (result != '') {
+      if (idx == damageTypes.length - 1) {
+        result += ' et '
+      } else {
+        result += ', '
+      }
+    }
+    result += stats.damageTypes[damageType].label
+  })
+  return result
+}
+
+export function displayVulnerabilities(monster) {
+  if (monster.frontmatter.customDamageTypeVulnerabilities) {
+    return monster.frontmatter.customDamageTypeVulnerabilities
+  }
+
+  let vulnerabilities = ''
+
+  if (monster.frontmatter.damageTypeVulnerabilities && monster.frontmatter.damageTypeVulnerabilities.length > 0) {
+    vulnerabilities = displayDamageTypes(monster.frontmatter.damageTypeVulnerabilities)
+  }
+
+  return vulnerabilities
+}
+
+export function displayResistances(monster) {
+
+  let resistances = ''
+
+  if (monster.frontmatter.damageTypeResistances && monster.frontmatter.damageTypeResistances.length > 0) {
+    resistances = displayDamageTypes(monster.frontmatter.damageTypeResistances)
+  }
+
+  return resistances
+}
+
+export function displayImmunities(monster) {
+
+  let immunities = ''
+
+  if (monster.frontmatter.damageTypeImmunities && monster.frontmatter.damageTypeImmunities.length > 0) {
+    immunities = displayDamageTypes(monster.frontmatter.damageTypeImmunities)
+  }
+
+  return immunities
+}
+
+export function displayCondition (condition) {
+  return stats.conditions[condition].label
+}
+
+export function displayConditionImmunities(monster) {
+
+  let result = ''
+
+  if (monster.frontmatter.conditionImmunities && monster.frontmatter.conditionImmunities.length > 0) {
+    monster.frontmatter.conditionImmunities.forEach((condition, idx) => {
+      if (result != '') {
+        if (idx == monster.frontmatter.conditionImmunities.length - 1) {
+          result += ' et '
+        } else {
+          result += ', '
+        }
+      }
+      result += stats.conditions[condition].label
+    })
+  }
+
+  return result
+}
+
+export function getMonsterPassivePerception (monster) {
+  let result = 10 + getModifier(monster.frontmatter.abilityScores.sag)
+  if (monster.frontmatter.skills) {
+    monster.frontmatter.skills.forEach((skill, idx) => {
+      if (skill.name == 'perception') {
+        if (skill.isExpert) {
+          result += getMonsterProficiencyBonus(monster) * 2
+        } else {
+          result += getMonsterProficiencyBonus(monster)
+        }
+      }
+    })
+  }
+  return result
+}
+
+export function displaySenses (monster) {
+  let result = ''
+  if (monster.frontmatter.senses) {
+    if (monster.frontmatter.senses.tremorsense) {
+      result += 'perception des vibrations ' + monster.frontmatter.senses.tremorsense + ' m'
+    }
+    if (monster.frontmatter.senses.blindsight || monster.frontmatter.senses.customBlindSight) {
+      if (result != '') {
+        result += ', '
+      }
+      if (monster.frontmatter.senses.customBlindSight) {
+        result += 'vision aveugle ' + monster.frontmatter.senses.customBlindSight
+      } else {
+        result += 'vision aveugle ' + monster.frontmatter.senses.blindsight + ' m'
+      }
+    }
+    if (monster.frontmatter.senses.darkvision || monster.frontmatter.senses.customDarkvision) {
+      if (result != '') {
+        result += ', '
+      }
+      if (monster.frontmatter.senses.customDarkvision) {
+        result += 'vision dans le noir ' + monster.frontmatter.senses.customDarkvision
+      } else {
+        result += 'vision dans le noir ' + monster.frontmatter.senses.darkvision + ' m'
+      }
+    }
+    if (monster.frontmatter.senses.truesight || monster.frontmatter.senses.customTrueSight) {
+      if (result != '') {
+        result += ', '
+      }
+      if (monster.frontmatter.senses.customTrueSight) {
+        result += 'vision parfaite ' + monster.frontmatter.senses.customTrueSight
+      } else {
+        result += 'vision parfaite ' + monster.frontmatter.senses.truesight + ' m'
+      }
+    }
+    if (result != '') {
+      result += ', '
+    }
+  }
+  if (monster.frontmatter.senses && monster.frontmatter.senses.customPassivePerception) {
+    result += 'Perception passive ' + monster.frontmatter.senses.customPassivePerception
+  } else {
+    result += 'Perception passive ' + getMonsterPassivePerception(monster)
+  }
+  return result
 }
 
 

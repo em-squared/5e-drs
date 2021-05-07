@@ -12,6 +12,20 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+## Nouveaux archétypes pour les bardes et les guerriers
+Vous avez toujours rêvé de lancer des cartes de tarot tranchantes sur vos ennemis aux commandes de votre gondolfière enveloppé dans votre redingote de cuir* ? Alors jouez un barde du [collège des taromanciens](/classes/barde/#college-des-taromanciens) !
+
+Ou bien vous avez l'âme d'un meneur ? Optez pour l'[officier](/classes/guerrier/#officier) qui motive les troupes au milieu de la mêlée !
+
+§§§ .caption
+\* toute ressemblance avec un personnage de fiction n'est pas du tout fortuite
+§§§
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 7 mai 2021_
+§§§
+
 ## Ressources communautaires : loup y es-tu ?
 La [page des ressources communautaires](/communaute/) de _**5e DRS**_ accueille maintenant un supplément sur la [thérianthropie](/communaute/therianthropie/) (bêtes-garou), avec une [classe de prestige](/communaute/therianthropie/#classe-de-therianthrope) pour les personnages thérianthropes.
 
@@ -24,7 +38,7 @@ _**Em-squared**_,
 _le 30 avril 2021_
 §§§
 
-## Nouvel archétype de Magicien : le Maître d'études
+## Nouvel archétype de magicien : le maître d'études
 La magicien accueille un nouvel archétype : le [maître d'études](/classes/magicien/#maitre-d-etudes). Ce magicien traditionnel se spécialise dans l'érudition et la confection d'un simulacre, une créature artificielle qui l'assiste dans ses recherches sinon dans ses aventures !
 
 Par ailleurs, vous pourrez trouver dans les [ressources communautaires](/communaute/) deux nouvelles aides de jeu :

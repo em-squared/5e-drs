@@ -88,22 +88,22 @@ _Voici des variantes techniques des humains typés par régions du cadre de camp
 
 ## Rhagaronnais d'argile
 
-**Augmentation de caractéristiques**. La valeur de Force augmente de 2, et les valeurs de Constitution et d’Intelligence augmente de 1.  
+**Augmentation de caractéristiques**. La valeur de Force augmente de 2, et les valeurs de Constitution et d'Intelligence augmente de 1.  
 **Entraînement martial**. Vous avez la maîtrise des armures légères et de deux armes de votre choix.  
 **Savoir militaire**. Vous avez la maîtrise de la compétence Athlétisme ou de la compétence Histoire, au choix.  
 **Âge**. Les humains deviennent adultes à la fin de l'adolescence et vivent moins d'un siècle.  
-**Alignement**. Les rhagaronnais d’argile ont une plus forte tendance à la loyauté que l’humain moyen. Cela se traduit autant dans leur profond respect des lois que de leur aptitude naturelle à répondre présent en cas de mobilisation. D’aucun pourrait qualifier leur attachement à l’Empire et leur fidélité à une forme de soumission à l’autorité, mais les rhagaronnais savent bien faire la part des choses entre un régime fort au discours clair et engageant avec une dictature opaque et sans âme.  
+**Alignement**. Les rhagaronnais d'argile ont une plus forte tendance à la loyauté que l'humain moyen. Cela se traduit autant dans leur profond respect des lois que de leur aptitude naturelle à répondre présent en cas de mobilisation. D'aucun pourrait qualifier leur attachement à l'Empire et leur fidélité à une forme de soumission à l'autorité, mais les rhagaronnais savent bien faire la part des choses entre un régime fort au discours clair et engageant avec une dictature opaque et sans âme.  
 **Taille**. Les humains ont des tailles et des carrures très variées. Ils peuvent faire 1,50 mètre comme plus de 1,90 mètre. Vous êtes considéré comme une créature de taille moyenne, peu importe votre taille, votre poids ou votre carrure.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
-**Langues**. Vous pouvez parler, lire et écrire en alarien et en rhagaronnais. Les cités étant systématiquement pourvues d’académies et autres collèges, les rhagaronnais d’argile peuvent s’exprimer dans une langue supplémentaire de leur choix.
+**Langues**. Vous pouvez parler, lire et écrire en alarien et en rhagaronnais. Les cités étant systématiquement pourvues d'académies et autres collèges, les rhagaronnais d'argile peuvent s'exprimer dans une langue supplémentaire de leur choix.
 
 ## Rhagaronnais des toiles
 
-**Augmentation de caractéristiques**. La valeur de Constitution augmente de 2, et les valeurs d’Intelligence et de Sagesse augmente de 1.  
-**Résistant à la chaleur**. Vous avez l’_avantage_ aux jets de sauvegarde contre les effets infligeant des dégâts de feu ainsi que pour résister aux effets d’une chaleur extrême.  
+**Augmentation de caractéristiques**. La valeur de Constitution augmente de 2, et les valeurs d'Intelligence et de Sagesse augmente de 1.  
+**Résistant à la chaleur**. Vous avez l'_avantage_ aux jets de sauvegarde contre les effets infligeant des dégâts de feu ainsi que pour résister aux effets d'une chaleur extrême.  
 **Savoir du désert**. Vous avez la maîtrise de la compétence Nature ou de la compétence Survie, au choix.  
 **Âge**. Les humains deviennent adultes à la fin de l'adolescence et vivent moins d'un siècle.  
-**Alignement**. Les rhagaronnais de toile ont une faible notion de ce qui relève du bien et du mal et sont majoritairement neutre sur cet axe. S’ils devaient cependant exprimer une forme de loyauté, celle-ci s’adresserait en priorité, voire uniquement, envers leur famille, leur clan ou leur tribu. Bien que tout autant mobilisable que n’importe quel autre rhagaronnais, il est moins attendu de ces citoyens nomades qu’ils soient réactifs aux appels aux armes de l’Empire.  
+**Alignement**. Les rhagaronnais de toile ont une faible notion de ce qui relève du bien et du mal et sont majoritairement neutre sur cet axe. S'ils devaient cependant exprimer une forme de loyauté, celle-ci s'adresserait en priorité, voire uniquement, envers leur famille, leur clan ou leur tribu. Bien que tout autant mobilisable que n'importe quel autre rhagaronnais, il est moins attendu de ces citoyens nomades qu'ils soient réactifs aux appels aux armes de l'Empire.  
 **Taille**. Les humains ont des tailles et des carrures très variées. Ils peuvent faire 1,50 mètre comme plus de 1,90 mètre. Vous êtes considéré comme une créature de taille moyenne, peu importe votre taille, votre poids ou votre carrure.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
-**Langues**. Vous pouvez parler, lire et écrire en rhagaronnais. Leur vie de nomade permet aux rhagaronnais des toiles d’apprendre une langue supplémentaire.
+**Langues**. Vous pouvez parler, lire et écrire en rhagaronnais. Leur vie de nomade permet aux rhagaronnais des toiles d'apprendre une langue supplémentaire.

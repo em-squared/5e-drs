@@ -80,7 +80,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
 ### Archétype martial
-Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame) et [Kal'Thori](#kal-thori). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
+Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame), [Kal'Thori](#kal-thori) et [Officier](#officier). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -224,3 +224,37 @@ Au niveau 15, vous avez appris à optimiser votre défense et à utiliser toute 
 
 #### Riposte inattendue
 Au niveau 18, lorsqu'une attaque devrait vous toucher, vous pouvez utiliser votre réaction afin d'obtenir la résistance contre les dégâts de l'attaque. De plus, s'il s'agit d'une attaque de corps à corps, vous parvenez à dévier la puissance du coup pour la retourner contre votre adversaire en déportant son coup afin qu'il heurte le décor. Il subit la moitié des points de dégâts que vous avez subis.
+
+### Officier
+§§§ .source .font-italic
+Source : Gazette Role'n Play #7
+§§§
+
+#### Inspiration guerrière
+Au niveau 3, vous savez comment encourager vos hommes afin qu'ils donnent le meilleur d'eux-mêmes. Vous obtenez un nombre de dés de commandement égal à votre bonus de maîtrise. Ces dés sont des d6.
+
+En utilisant votre action bonus, vous pouvez encourager l'un de vos compagnons afin que son action soit plus performante. Dépensez un de vos dés de commandement. La créature que vous ciblez pourra, dans les 10 rounds, jeter votre dé de commandement et l'ajouter à un jet d'attaque, de sauvegarde, ou un test de caractéristique (initiative incluse).
+
+Une créature doit être capable de vous entendre et de vous comprendre afin de pouvoir bénéficier de toute aptitude impliquant la dépense de l'un de vos dés de commandement. Vous regagnez la totalité de vos dés de commandement après un repos long.
+
+Au niveau 7, vos dés de commandement deviennent des d8. Au niveau 15 ils deviennent des d10.
+
+À partir du niveau 10, une fois par jour, vous pouvez regagner un nombre de dés de commandement égal à la moitié de votre bonus de maîtrise après un repos court. Ceci ne vous permet cependant pas de posséder plus de dés de commandement que votre bonus de maîtrise.
+
+#### Meneur d'hommes
+Au niveau 3, toujours, vous obtenez la maîtrise d'une compétence entre Persuasion et Intimidation. Si vous en avez déjà la maîtrise, vous doublez le bonus de maîtrise quand vous l'utilisez.
+
+#### Maître d'armes
+Au niveau 7, vous avez appris à conseiller vos alliés avec une efficacité redoutable. En utilisant votre action bonus et en dépensant deux de vos dés de commandement, vous pouvez faire bénéficier de votre style de combat à un allié de votre choix pendant un nombre de rounds égal à votre bonus de maîtrise.
+
+#### Alerte réactive
+À partir du niveau 10, vous êtes si réactif que vous êtes capable de prévenir vos alliés avant qu'ils ne soient touchés par une attaque, atténuant ainsi les dégâts subis. Lorsqu'un allié est touché par une attaque, en utilisant votre réaction, vous pouvez dépenser un de vos dés de commandement. Jetez le dé et retranchez-en le résultat aux dégâts subis par votre allié.
+
+#### Secouer
+Au niveau 10, toujours, vous pouvez aussi utiliser votre réaction et un dé de commandement afin de secouer un allié dans un rayon de 18 m capable de vous entendre. Vous mettez fin à l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) ou [_charmé_](/gerer-la-sante-du-personnage/#charme) qui l'affecte.
+
+#### Regain de vitalité
+Au niveau 15, lorsque vous utilisez votre [second souffle](#second-souffle), vous pouvez utiliser votre réaction et dépenser deux dés de commandement. Tous les alliés dans un rayon de 9 m regagnent un nombre de points de vie égal au résultat de votre second souffle.
+
+#### Action coordonnée
+Au niveau 18, lorsque vous utilisez votre sursaut d'activité, désignez un allié dans un rayon de 18 m. Ce dernier doit être capable de vous entendre et de vous comprendre. Utilisez votre réaction et dépensez deux dés de commandement. Votre allié bénéficie aussi des effets de la capacité [Sursaut d'activité](#sursaut-d-activite). Cependant, il lui est impossible de lancer un sort grâce aux effets du sursaut d'activité.

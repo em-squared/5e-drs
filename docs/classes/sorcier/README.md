@@ -94,7 +94,7 @@ Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompens
 #### Pacte de la chaîne
 Vous apprenez le sort [_appel de familier_](/grimoire/appel-de-familier/), que pouvez lancer comme un rituel. Ce sort n'est pas comptabilisé parmi les sorts que vous connaissez.
 
-Quand vous lancez ce sort, vous pouvez choisir une forme classique pour votre familier ou l'une des formes spéciales suivantes : diablotin, quasit, stirge ou serpent volant.
+Quand vous lancez ce sort, vous pouvez choisir une forme classique pour votre familier ou l'une des formes spéciales suivantes : [diablotin](/bestiaire/diablotin/), [quasit](/bestiaire/quasit/), [strige](/bestiaire/strige/) ou [serpent volant](/bestiaire/serpent-volant/).
 
 De plus, quand vous choisissez l'action [_attaquer_](/combattre/#attaquer), vous pouvez renoncer à l'une de vos attaques pour permettre à votre familier d'utiliser sa réaction pour faire une attaque.
 

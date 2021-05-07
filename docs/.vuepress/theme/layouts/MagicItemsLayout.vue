@@ -193,6 +193,23 @@ export default {
         })
       }
 
+      // let json = []
+      // for (var magicItem of results) {
+      //   let mi = {}
+      //   mi.name = magicItem.frontmatter.title
+      //   mi.attunement = magicItem.frontmatter.attunement
+      //   mi.rarity = magicItem.frontmatter.rarity
+      //   mi.type = magicItem.frontmatter.type
+      //   mi.subtype = magicItem.frontmatter.subtype
+      //   mi.source = magicItem.frontmatter.source
+      //   mi.content = magicItem.rawContent
+      //   json.push(mi)
+      // }
+      //
+      // console.log(json)
+
+      // console.log(results)
+
       return results
     }
   },

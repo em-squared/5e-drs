@@ -152,7 +152,19 @@
 <script>
 import { mapState } from 'vuex'
 import Breadcrumb from '@theme/components/Breadcrumb'
-import { displayChallenge } from '@theme/util/monsterHelpers'
+import {
+  displayChallenge,
+  displayAC,
+  displayHP,
+  displayMovement,
+  displaySavingThrows,
+  displaySkills,
+  displayVulnerabilities,
+  displayResistances,
+  displayImmunities,
+  displayConditionImmunities,
+  displaySenses,
+} from '@theme/util/monsterHelpers'
 import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import { isResourceInLibrary, handleTooltips } from '@theme/util'
 import Monster from '@theme/components/Monster'
@@ -350,6 +362,40 @@ export default {
         }
         results = classFiltered
       }
+
+      // let json = []
+      // for (var monster of results) {
+      //   let m = {}
+      //   m.name = monster.frontmatter.title
+      //   m.size = monster.frontmatter.size
+      //   m.alignment = monster.frontmatter.alignment
+      //   m.type = monster.frontmatter.type
+      //   m.subtype = monster.frontmatter.subtype
+      //   m.swarm = monster.frontmatter.isSwarm
+      //   m.challenge = monster.frontmatter.challenge
+      //   m.ac = displayAC(monster)
+      //   m.hp = displayHP(monster)
+      //   m.speed = displayMovement(monster)
+      //   m.abilityScores = monster.frontmatter.abilityScores
+      //   m.savingThrows = displaySavingThrows(monster)
+      //   m.skills = displaySkills(monster)
+      //   m.vulnerabilities = displayVulnerabilities(monster)
+      //   m.resistances = displayResistances(monster)
+      //   m.immunities = displayImmunities(monster)
+      //   m.conditionImmunities = displayConditionImmunities(monster)
+      //   m.senses = displaySenses(monster)
+      //   m.languages = monster.frontmatter.languages
+      //   m.telepathy = monster.frontmatter.telepathy
+      //   m.source = monster.frontmatter.source
+      //   m.sourcePage = monster.frontmatter.source_page
+      //   m.content = monster.rawContent
+      //   m.environments = monster.frontmatter.environments
+      //   m.dungeon_types = monster.frontmatter.dungeonTypes
+      //   json.push(m)
+      // }
+      //
+      // console.log(json)
+      // console.log(results)
 
       return results
     }
