@@ -137,10 +137,9 @@ _le 10 mars 2021_
 ### Téléchargements
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
-<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable](/ressources/feuille_de_personnage_editable_par_DHFTN.pdf), _par DHFTN et _Wylandïr_.  
-<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e manuscrite](/ressources/feuille_de_personnage_version_manuscrite_par_DHFTN.pdf), _par DHFTN et _Wylandïr_.  
-<v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://drive.google.com/drive/folders/1c6tRQWx2Wq2BR8AFkHDa9eMfm1_ZLOzX) _par DHFTN_.  
-<v-icon>mdi-poker-chip</v-icon> [Tapis de personnages](https://drive.google.com/drive/folders/1WAB559H5gNPXYsCmS2Hkd6eFoS6qudUH), pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker, _par DHFTN  et _Wylandïr_.  
+<v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable et manuscrite](https://github.com/HippoAndElephant/Feuille_de_personnage-5E), _par DHFTN et _Wylandïr_.  
+<v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://github.com/HippoAndElephant/Cartes_Sorts_5E) _par DHFTN_.  
+<v-icon>mdi-poker-chip</v-icon> [Tapis de personnages](https://github.com/HippoAndElephant/Feuille_de_route_5e), pour avoir un suivi tangible des points de vie, des différentes utilisations de capacités et sorts, des consommables, etc, avec des jetons de poker, _par DHFTN  et _Wylandïr_.  
 
 ### Communauté
 &nbsp;
