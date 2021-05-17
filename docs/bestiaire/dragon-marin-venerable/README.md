@@ -3,7 +3,7 @@ title: "Dragon marin, vénérable"
 type: "Dragon"
 size: "Gig"
 alignment: "Chaotique Mauvais"
-challenge: "16"
+challenge: "22"
 hitDiceCount: 26
 abilityScores:
   for: 29

@@ -60,7 +60,9 @@ _**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde]
 
 _**Résistance à la magie**_. Le dragon est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Incontrôlable**_. Les déplacements du dragon ne sont jamais gênés par un terrain difficile et sa vitesse ne peut pas être réduite par des sorts ou des effets magiques. Il ne peut pas être dans l'état [_entravé_](/gerer-la-sante-du-personnage/#entrave) et il échappe automatiquement aux entraves (comme les chaînes, l'enchevêtrement ou les empoignades) en dépensant 1,50 m de mouvement. S'il se trouve sous l'eau, il ne possède aucun malus de déplacement ou d'attaque. Vents tourbillonnants. Le dragon est entouré d'un tourbillon de vents rugissants. Les attaques d'arme à distance qui le ciblent sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+_**Incontrôlable**_. Les déplacements du dragon ne sont jamais gênés par un terrain difficile et sa vitesse ne peut pas être réduite par des sorts ou des effets magiques. Il ne peut pas être dans l'état [_entravé_](/gerer-la-sante-du-personnage/#entrave) et il échappe automatiquement aux entraves (comme les chaînes, l'enchevêtrement ou les empoignades) en dépensant 1,50 m de mouvement. S'il se trouve sous l'eau, il ne possède aucun malus de déplacement ou d'attaque.
+
+_**Vents tourbillonnants**_. Le dragon est entouré d'un tourbillon de vents rugissants. Les attaques d'arme à distance qui le ciblent sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 ## Actions
 _**Attaques multiples**_. Le dragon du vent peut utiliser sa _présence terrifiante_ puis faire trois attaques : une de _morsure_ et deux de _griffes_.
