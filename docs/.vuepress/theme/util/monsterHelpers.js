@@ -26,6 +26,9 @@ export function displayAbilityScore (score) {
 
 // Calcul du bonus de maîtrise en fonction du niveau
 export function getProficiencyBonus (level) {
+  if (level <= 1) {
+    return 2
+  }
   return Math.ceil(level / 4) + 1
 }
 
