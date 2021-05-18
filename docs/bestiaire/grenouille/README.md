@@ -12,19 +12,17 @@ abilityScores:
   int: 1
   sag: 8
   cha: 3
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
-    isExpert: true
   - name: "perception"
-    isExpert: true
-movement: 
+movement:
   walk: 6
   swim: 6
-senses: 
+senses:
   darkvision: 9
-languages: 
+languages:
   - ""
 environments:
   - Mangrove / Marécage

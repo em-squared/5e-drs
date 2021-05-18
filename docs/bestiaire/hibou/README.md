@@ -12,17 +12,16 @@ abilityScores:
   int: 2
   sag: 15
   cha: 7
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "perception"
-    isExpert: true
-movement: 
+movement:
   walk: 3
   fly: 18
-senses: 
+senses:
   darkvision: 18
-languages: 
+languages:
   - ""
 environments:
   - Bois / Forêt

@@ -16,9 +16,7 @@ ac:
   armorType: null
 skills:
   - name: "discretion"
-    isExpert: true
   - name: "perception"
-    isExpert: true
 movement:
   walk: 1,50
   fly: 18

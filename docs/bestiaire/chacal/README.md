@@ -12,15 +12,14 @@ abilityScores:
   int: 3
   sag: 12
   cha: 6
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "perception"
-    isExpert: true
-movement: 
+movement:
   walk: 12
-senses: 
-languages: 
+senses:
+languages:
   - ""
 environments:
   - Désert chaud

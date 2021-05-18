@@ -12,18 +12,17 @@ abilityScores:
   int: 1
   sag: 8
   cha: 2
-ac: 
+ac:
   armorType: "armure naturelle"
   value: 1
-skills: 
+skills:
   - name: "discretion"
-    isExpert: true
-movement: 
+movement:
   walk: 6
   swim: 6
-senses: 
+senses:
   blindsight: 9
-languages: 
+languages:
   - ""
 environments:
   - Littoral

@@ -12,17 +12,16 @@ abilityScores:
   int: 1
   sag: 10
   cha: 2
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "discretion"
-    isExpert: true
-movement: 
+movement:
   walk: 6
   climb: 6
-senses: 
+senses:
   darkvision: 9
-languages: 
+languages:
   - ""
 environments:
   - Bois / Forêt

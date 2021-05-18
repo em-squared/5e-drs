@@ -12,16 +12,15 @@ abilityScores:
   int: 2
   sag: 14
   cha: 6
-ac: 
+ac:
   armorType: null
-skills: 
+skills:
   - name: "perception"
-    isExpert: true
-movement: 
+movement:
   walk: 3
   fly: 18
-senses: 
-languages: 
+senses:
+languages:
   - ""
 environments:
   - Collines / Vallées
