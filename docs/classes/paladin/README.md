@@ -109,7 +109,7 @@ Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos s
 Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 ### Serment sacré
-Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le [serment de dévotion](#serment-de-devotion), le [serment d'obédience](#serment-d-obedience), le [serment de perfection](#serment-de-perfection) et le [serment de piété](#serment-de-piete), détaillés à la fin de la section consacrée à cette classe.
+Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le [serment de dévotion](#serment-de-devotion), le [serment d'obédience](#serment-d-obedience), le [serment de perfection](#serment-de-perfection), le [serment de piété](#serment-de-piete) et le [serment d'aliénation](#serment-d-alienation), détaillés à la fin de la section consacrée à cette classe.
 
 Votre choix vous permet d'avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d'énergie divine.
 
@@ -389,3 +389,49 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 * Vous conservez votre bonus d'attaque et votre nombre d'attaques. Lorsque vous touchez un adversaire, vous lui infligez (2d6 + modificateur de Charisme) dégâts nécrotiques. De plus, il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (même DD que vos sorts de paladin) ou subir un niveau d'épuisement.
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+
+### Serment d'aliénation
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+
+#### Préceptes d’aliénation
+Les valeurs portées par le serment d’aliénation varient en fonction de l’objet Sire. Toutefois, on peut observer les constances suivantes :
+
+**Fidélité**. Ne trahissez jamais votre Sire.
+
+**Intransigeance**. Les valeurs de votre Sire sont les vôtres. Nul ne saurait les remettre en question. Ses ennemis sont vos ennemis.
+
+**Protection**. Ceux qui partagent les valeurs de votre Sire doivent être protégés. Ses alliés sont vos alliés.
+
+**Courage**. Vous ne connaîtrez pas la peur, car votre Sire vous protège.
+
+**Abnégation**. Vous ne connaîtrez pas le doute, car votre Sire vous porte.
+
+#### Sorts de serment
+Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
+|Niv. de paladin|Sorts|
+|:-:|:-:|
+|**3**|[_bouclier_](/grimoire/bouclier/), [_compréhension des langues_](/grimoire/comprehension-des-langues/)|
+|**5**|[_briser_](/grimoire/briser/), [_localiser un objet_](/grimoire/localiser-un-objet/)|
+|**9**|[_contresort_](/grimoire/contresort/), [_non-détection_](/grimoire/non-detection/)|
+|**13**|[_confusion_](/grimoire/confusion/), [_sanctuaire privé_](/grimoire/sanctuaire-prive/)|
+|**17**|[_communion_](/grimoire/communion/), [_jugement dernier_](/grimoire/jugement-dernier/)|
+
+#### Canalisation d’énergie divine
+Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de canalisation d’énergie divine suivantes. Si vous choisissez ce serment après le niveau 3, elles remplacent celles que vous possédez déjà par ces mêmes options.
+
+**Fusion**. En utilisant votre action ainsi qu’une canalisation d’énergie divine, vous pouvez fusionner l’objet avec lequel vous êtes lié par ce serment avec votre corps. Vous choisissez quelle partie du corps est concernée et l’objet l’intègre, ne laissant aucune trace de sa présence. La fusion peut durer jusqu’à un nombre d’heures égal à votre bonus de maîtrise. En utilisant une réaction, vous pouvez rappeler votre Sire, qui s’extirpe alors de votre corps et peut immédiatement être tenu en main.
+
+**Ennemi mortel**. En utilisant votre action bonus et en dépensant votre canalisation d’énergie divine, vous pouvez désigner une cible que vous voyez située au plus à 9 mètres et en faire l’ennemi mortel de votre Sire. Vous avez désormais l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques contre cette créature. Ce pouvoir prend fin au bout d’une minute, si vous tombez à 0 point de vie ou [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
+
+#### Frappe galvanisée
+À partir du niveau 7, vous pouvez invoquer la puissance de votre Sire afin qu’il vous donne la force de vaincre vos ennemis. Quand vous utilisez votre [_châtiment divin_](#chatiment-divin), vous pouvez décider de dépenser votre canalisation d’énergie divine dans le but de canaliser la puissance de votre lien dans une attaque dévastatrice. Dépensez jusqu’au quart de vos points d’imposition des mains. Vous les ajoutez alors aux dégâts de votre attaque.
+
+#### Inséparables
+À partir du niveau 15, si vous laissez votre Sire quelque part, vous pouvez utiliser une action pour lancer un sort de [_clairvoyance_](/grimoire/clairvoyance/) centré sur votre Sire en dépensant un emplacement de sort de niveau 3. De plus, vous pouvez utiliser une action bonus pour rappeler votre Sire dans votre main à tout moment. Alternativement, vous pouvez dépenser une canalisation divine et votre action pour vous téléporter auprès de votre Sire (sur son emplacement ou à 1,50 m au maximum).
+
+Vous ne pouvez pas utiliser les différentes versions de cette aptitude si votre Sire est emprisonné dans une masse solide d’au moins 1,50 m de diamètre, ou s’il est plongé dans un volume d’eau le séparant de vous et s’étendant sur au moins 6 mètres autour de lui.
+
+#### Avatar
+Au niveau 20, vous ne faite plus qu’un avec votre Sire. Vous devenez son avatar, c’est-à-dire la manifestation physique de son esprit. Si vous mourez, votre corps disparaît au round suivant. Huit heures plus tard, vous apparaissez aux côtés de votre Sire, à moins que l’objet n’ait été détruit entre-temps ou qu’un sort de souhait soit utilisé pour vous en empêcher. Vous revenez à la vie avec tous vos PV et en ayant complété un repos long. Toutes les mutilations qui ont pu être infligées à votre corps ou à votre cadavre depuis votre dernière réincarnation disparaissent.

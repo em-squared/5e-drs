@@ -105,7 +105,7 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l'emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L'équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d'équipement peut être portée de manière pratique par l'animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s'adapter à votre nouvelle forme et toute pièce d'équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L'équipement qui fusionne avec vous sous votre forme sauvage n'a aucun effet jusqu'à ce que vous retrouviez votre forme normale.
 
 ### Cercle druidique
-Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees), le [cercle des profondeurs](#cercle-des-profondeurs), le [cercle de la vie](#cercle-de-la-vie) ou  le [cercle des châtiments](#cercle-des-chatiments). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
+Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees), le [cercle des profondeurs](#cercle-des-profondeurs), le [cercle de la vie](#cercle-de-la-vie), le [cercle des châtiments](#cercle-des-chatiments) ou le [cercle sans nom](#cercle-sans-nom). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -464,3 +464,36 @@ De plus, vous obtenez une attaque d'opportunité sur un ennemi quand ce dernier 
 #### Puissance de la nature
 Au niveau 14, vous pouvez utiliser une utilisation de votre forme sauvage afin de lancer le sort [_invoquer une fée_](/grimoire/invoquer-une-fee/) ou [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) à son niveau normal, et ce même si vous n'avez pas préparé ces sorts. Au niveau 20, vous ne pouvez le faire que trois fois entre deux repos courts ou longs.
 De plus vous avez désormais l'avantage à vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour garder votre [_concentration_](/lancer-des-sorts/#concentration).
+
+### Cercle sans nom
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Magie des morts
+Au niveau 2, vous apprenez les tours de magie [_contact glacial_](/grimoire/contact-glacial/) et [_épargner les mourants_](/grimoire/epargner-les-mourants/). De plus, vous pouvez dépenser une utilisation de votre forme sauvage pour lancer un sort de cercle (cf. ci-après) sans dépenser d’emplacement de sort. Enfin, vous bénéficiez d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des morts-vivants.
+
+À partir du niveau 20, vous pouvez utiliser une de vos utilisations de forme sauvage afin de lancer un sort de cercle trois fois, au maximum, entre deux repos courts ou longs.
+
+#### Sorts de cercle
+Votre connexion mystique avec les esprits des morts vous donne la capacité de lancer certains sorts. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
+
+|Niveau de druide|Sort de cercle|
+|:-:|:-|
+|**2**|[_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)|
+|**3**|[_doux repos_](/grimoire/doux-repos/)|
+|**4**|[_flamme éternelle_](/grimoire/flamme-eternelle/)|
+|**5**|[_communication avec les morts_](/grimoire/communication-avec-les-morts/)|
+|**6**|[_catalepsie_](/grimoire/catalepsie/)|
+|**7**|[_protection contre la mort_](/grimoire/protection-contre-la-mort/)|
+|**8**|[_bannissement_](/grimoire/bannissement/)|
+|**9**|[_sanctification_](/grimoire/sanctification/)|
+
+#### Forme d’ombre
+À partir du niveau 6, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [ombre](/bestiaire/ombre/). Lorsque vous êtes sous forme d’ombre, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.
+
+#### Repose en paix
+À partir du niveau 10, tous les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu’ils vous attaquent. De plus, vous pouvez lancer le sort [_invisibilité_](/grimoire/invisibilite/) une fois entre deux repos courts, mais il n’affecte que les morts-vivants. Les autres créatures vous voient normalement.
+
+#### Forme d’esprit
+À partir du niveau 14, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [feu follet](/bestiaire/feu-follet/). Lorsque vous êtes sous forme d’esprit, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.

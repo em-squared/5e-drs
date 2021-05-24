@@ -88,7 +88,7 @@ Vous pouvez dépenser 1 point de ki pour utiliser l'action [_se désengager_](/c
 Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surfaces verticales ou sur des liquides pendant votre tour, tant que vous finissez votre mouvement sur une surface plane et solide.
 
 ### Tradition monacale
-Quand vous atteignez le niveau 3, vous devez vous engager dans une [tradition monacale](#traditions-monacales) parmi les quatre suivantes : la [voie de la main ouverte](#voie-de-la-main-ouverte), la [voie des cinq animaux](#voie-des-cinq-animaux), la [voie de l'illumination](#voie-de-l-illumination) et la [voie de la souplesse](#voie-de-la-souplesse). Toutes sont détaillées à la fin du descriptif de cette classe. La tradition que vous avez choisie vous donne accès à des aptitudes spécifiques aux niveaux 3, 6, 11 et 17.
+Quand vous atteignez le niveau 3, vous devez vous engager dans une [tradition monacale](#traditions-monacales) parmi les quatre suivantes : la [voie de la main ouverte](#voie-de-la-main-ouverte), la [voie des cinq animaux](#voie-des-cinq-animaux), la [voie de l'illumination](#voie-de-l-illumination), la [voie de la souplesse](#voie-de-la-souplesse) et la [voie des fleurs](#voie-des-fleurs). Toutes sont détaillées à la fin du descriptif de cette classe. La tradition que vous avez choisie vous donne accès à des aptitudes spécifiques aux niveaux 3, 6, 11 et 17.
 
 ### Parade de projectiles
 À partir du niveau 3, vous pouvez utiliser votre réaction pour parer ou attraper un projectile quand vous êtes touché par une attaque venant d'une arme à distance. Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits de 1d10 + votre modificateur de Dextérité + votre niveau de moine.
@@ -206,3 +206,31 @@ Lorsque vous atteignez le niveau 11, vous avez endurci votre corps et appris à 
 À partir du niveau 17, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'[inconscience](/gerer-la-sante-du-personnage/#inconscient).
 
 Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
+
+### Voie des fleurs
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Magie des plantes
+Lorsque vous choisissez cette tradition au niveau 3, vous devenez capable de lancer des sorts de druide issus de la liste ci-après en dépensant des points de ki. Chaque sort lancé vous coûte un nombre de points de ki égal à son niveau. Le nombre maximal de points de ki que vous pouvez dépenser pour lancer un sort ne doit pas dépasser votre bonus de maîtrise. La Sagesse est votre caractéristique d’incantation pour lancer vos sorts. La difficulté des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est égale à celle de vos aptitudes de ki.
+
+Chaque matin après un repos long, vous préparez les sorts de druide que vous pourrez lancer pendant la journée. Il vous faut dix minutes de méditation (ou d’art floral ou de jardinage) par sort que vous préparez et vous pouvez préparer un nombre de sorts égal à votre bonus de maîtrise parmi les sorts que vous pouvez lancer.
+* Niveau 1 : [_baies nourricières_](/grimoire/baies-nourricieres/), [_enchevêtrement_](/grimoire/enchevetrement/).
+* Niveau 2 : [_croissance d’épines_](/grimoire/croissance-d-epines/), [_peau d’écorce_](/grimoire/peau-d-ecorce/).
+* Niveau 3 : [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/), [_croissance végétale_](/grimoire/croissance-vegetale/).
+* Niveau 4 : [_liane chasseresse_](/grimoire/liane-chasseresse/), [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/).
+* Niveau 5 : [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_passage par les arbres_](/grimoire/passage-par-les-arbres/).
+* Niveau 6 : [_mur d’épines_](/grimoire/mur-d-epines/), [_transport végétal_](/grimoire/transport-vegetal/).
+
+#### Pacifisme
+Également au niveau 3, votre immobilité est trompeuse : car vous êtes pleinement conscient de la présence de vos ennemis. Si vous n’avez pas réalisé d’action offensive lors de votre tour, vous pouvez utiliser votre réaction pour lancer votre dé d’arts martiaux et l’ajouter à votre CA contre une attaque jusqu’à votre prochain tour.
+
+#### Enraciné
+À partir du niveau 6, votre équilibre plonge ses racines dans les courants telluriques du monde : vous ne pouvez plus être mis [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ni [_repoussé_](/gerer-la-sante-du-personnage/#repousse) (subir un déplacement) contre votre gré.
+
+#### Maître de la taille
+Le bonsaï peut être aussi vieux que le chêne majestueux. Vous avez appris des plantes que la force intérieure n’est pas liée à la taille et que l’espace occupé par un être vivant peut être plié par la volonté. À partir du niveau 11, vous pouvez lancer le sort [_agrandir/rétrécir_](/grimoire/agrandir-retrecir/) sur vous-même en dépensant 2 points de Ki. Lorsque vous lancez ce sort via cette aptitude, il ne nécessite pas de concentration. Lorsque vous utilisez la possibilité de rétrécissement du sort, vous gagnez +1 en CA et obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité.
+
+#### Régénération
+À partir du niveau 17, vous pouvez régénérer votre énergie vitale en laissant l’énergie du sol remonter à travers vos pieds et circuler en vous, à la façon dont un arbre fait repousser les branches taillées lorsque le printemps arrive. En dépensant 6 points de Ki, vous pouvez lancer le sort [_régénération_](/grimoire/regeneration/) sur vous-même tant que vous avez les pieds en contact avec la terre. Le sort cesse de faire effet si vous vous déplacez. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.

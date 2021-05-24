@@ -108,7 +108,7 @@ Vous avez appris comment regagner une partie de votre énergie magique en étudi
 Par exemple, si vous êtes un magicien de niveau 4, vous pouvez récupérer l'équivalent de deux niveaux d'emplacements de sorts, soit un emplacement de sort de niveau 2 ou deux emplacements de sorts de niveau 1.
 
 ### Tradition arcanique
-Quand vous atteignez le niveau 2, vous choisissez une [tradition arcanique](#traditions-arcaniques) qui définit votre manière de pratiquer la magie. Les traditions disponibles sont celles de l'[académicien](#academicien), de l'[arpenteur](#arpenteur), de l'[élémentaliste](#elementaliste), de l'[éminence grise](#eminence-grise) et de l'[école d'évocation](#ecole-d-evocation).
+Quand vous atteignez le niveau 2, vous choisissez une [tradition arcanique](#traditions-arcaniques) qui définit votre manière de pratiquer la magie. Les traditions disponibles sont celles de l'[académicien](#academicien), de l'[arpenteur](#arpenteur), de l'[élémentaliste](#elementaliste), de l'[éminence grise](#eminence-grise), de l'[école d'évocation](#ecole-d-evocation), du [maître d'études](#maitre-d-etudes) et du [mage de guerre](#mage-de-guerre).
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -433,3 +433,29 @@ Au niveau 6, vous êtes si habitué à copier et recopier les sorts dans le cadr
 
 #### Mémoire parfaite
 Au niveau 14, vous connaissez si bien vos sorts et votre grimoire que vous pourriez presque vous en passer. Si vous perdez votre grimoire, ou si ce dernier a été détruit, vous êtes toujours capable de préparer vos sorts après un repos long, et ce pendant un nombre de jours égal à deux fois votre bonus de maîtrise. Pendant ce temps, vous pouvez, si vous en avez le temps, recopier vos sorts dans un nouveau grimoire. Faite un test d'Arcanes pour chaque sort que vous recopiez, d'une difficulté de 8 + le niveau du sort. Si le test est réussi, le sort est recopié de mémoire dans votre nouveau grimoire. Si le test échoue, vous perdez le sort à jamais, ou jusqu'à ce que vous le retrouviez dans un autre grimoire ou sur un parchemin magique.
+
+### Mage de guerre
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Puissance de feu
+À partir du niveau 2, lorsque vous utilisez un tour de magie qui inflige des dégâts ([_aspersion acide_](/grimoire/aspersion-acide/), [_bouffée de poison_](/grimoire/bouffee-de-poison/), [_contact glacial_](/grimoire/contact-glacial/), [_poigne électrique_](/grimoire/poigne-electrique/), [_rayon de givre_](/grimoire/rayon-de-givre/) ou [_trait de feu_](/grimoire/trait-de-feu/)), vous pouvez utiliser une action bonus pour affecter un nombre de cibles supplémentaires égal à votre bonus de maîtrise. Vous devez réaliser un test d’attaque magique pour chacune des cibles. Vous devez prendre un repos court avant de pouvoir à nouveau utiliser cette aptitude sans vous épuiser. Si vous utilisez à nouveau cette aptitude sans avoir pris un repos court, vous subissez un niveau d’épuisement.
+
+#### Pavois
+Également au niveau 2, lorsque vous lancez le sort de [_bouclier_](/grimoire/bouclier/), vous pouvez étendre sa durée à un round complet par point de bonus de maîtrise. Vous devez prendre un repos court avant de pouvoir à nouveau utiliser cette aptitude sans vous épuiser. Si vous utilisez à nouveau cette aptitude sans avoir pris un repos court, vous subissez un niveau d’épuisement.
+
+#### Artillerie lourde
+À partir du niveau 6, lorsque vous lancez un sort avec un effet de zone, vous pouvez le lancer avec un emplacement de sort d’un niveau au-dessus pour doubler la surface du sort. Les zones doivent être au contact l’une de l’autre (par exemple une [_boule de feu_](/grimoire/boule-de-feu/) affecte deux zones adjacente de 12 mètres). Vous devez prendre un repos court avant de pouvoir à nouveau utiliser cette aptitude sans vous épuiser. Dans le cas contraire, vous subissez un niveau d’épuisement.
+
+#### Soutien
+Également au niveau 6, lorsqu’un allié en vue subit une attaque de corps àcorps qui devrait l’amener à 0 PV, vous pouvez utiliser votre réaction pour lancer un tour de magie sur l’auteur de cette attaque. Si vous réussissez à infliger des dégâts, l’attaque échoue. Vous ne pouvez pas tenter cette manœuvre plus d’une fois pour sauver le même allié entre deux repos courts.
+
+#### Dominer le terrain
+Au niveau 10, une fois entre chaque repos court, vous pouvez lancer le sort [_lévitation_](/grimoire/levitation/) sur vous-même sans dépenser d’emplacement de sort (vous n’avez pas besoin de connaître le sort). Votre concentration ne peut pas être brisée lorsque vous lancez [_lévitation_](/grimoire/levitation/) grâce à cette aptitude. À partir du niveau 14 vous pouvez choisir de remplacer [_lévitation_](/grimoire/levitation/) par [_vol_](/grimoire/vol/).
+
+#### Chair à canon
+Au niveau 14, lorsqu’un adversaire vous attaque au corps-à corps, si vous êtes à moins de 1,50 mètre d’un allié, vous pouvez utiliser votre réaction pour que ce soit votre allié qui subisse l’attaque à votre place. Vous devez annoncer que vous utilisez cette aptitude avant de connaître le résultat de l’attaque.
+
+#### Sacrifice ultime
+Également à partir du niveau 14, lorsque vous tombez à 0 PV, vous pouvez utiliser votre réaction pour lancer un dernier sort de votre choix. Vous bénéficiez d’un bonus de deux niveaux d’emplacement de sort pour augmenter la puissance de ce sort. Vous devez prendre un repos long avant de pouvoir à nouveau utiliser cette aptitude.

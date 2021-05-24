@@ -74,7 +74,7 @@ Quand vous atteignez le niveau 2, vous développez la capacité instinctive de r
 Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 ### Voie primitive
-Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la <a href="#voie-du-berserker">voie du berserker</a>, la <a href="#voie-des-esprits">voie des esprits</a>, la <a href="#voie-de-l-acier">voie de l'acier</a> ou la <a href="#voie-du-hurlement">voie du hurlement</a>. Toutes sont détaillées à la fin de la section consacrée à cette classe.
+Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), la [voie du hurlement](#voie-du-hurlement), la [voie de la bête](#voie-de-la-bete) ou la [voie des glaces](#voie-des-glaces). Toutes sont détaillées à la fin de la section consacrée à cette classe.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -198,3 +198,51 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 #### Hurlement terrifiant
 À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Force au choix (difficulté 8 + modificateur de Force + bonus de maîtrise) ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Si vous êtes en rage, les cibles subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
+
+### Voie de la bête
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+
+#### Forme animale
+Au niveau 3, vous pouvez dépenser une action bonus et une utilisation de votre rage pour prendre la forme de l’animal qui correspond à votre famille d’adoption. Vous devez choisir dès la création du personnage si vous vous transformez en [loup sanguinaire](/bestiaire/loup-sanguinaire/), en [ours brun](/bestiaire/ours-brun/), en [lion](/bestiaire/lion/) ou en un autre mammifère autorisé par votre MJ et dont l’indice de dangerosité ne dépasse pas 1.
+
+Vous adoptez le profil technique de l’animal dont vous prenez la forme en suivant les mêmes règles qu’un [druide](/classes/druide/#forme-sauvage). Votre transformation dure 10 rounds (1 minute). Si vous êtes réduit à 0 PV sous cette forme avant que la transformation ne soit complète, vous reprenez votre forme humaine, comme c’est le cas pour un druide.
+
+Vous devez prendre un repos court avant de pouvoir effectuer une nouvelle transformation.
+
+#### Élevé par les bêtes
+Au niveau 3, vous faites l’acquisition de la compétence Survie – si vous l’avez déjà, votre bonus de maîtrise est doublé. De plus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests d’interaction avec les animaux (comprendre leurs postures, leurs motivations, tenter de les calmer, etc.) et les animaux ne vous attaquent jamais, sauf si vous les provoquez.
+
+#### Forme alternative
+Au niveau 6, vous devenez capable de communiquer avec plusieurs esprits totems ; vous êtes également capable de prendre une nouvelle forme animale dont l’indice de dangerosité ne dépasse pas 1. Enfin, vous pouvez conserver une forme animale pendant un maximum de 10 minutes par utilisation.
+
+Désormais, il vous est possible d’utiliser votre capacité de transformation animale plus d’une fois entre deux repos courts, mais si vous le faites, vous subissez un niveau d’épuisement après chaque utilisation au-delà de la première.
+
+#### Forme majeure
+Au niveau 10, vous apprenez à endosser une forme animale majeure, soit celle de l’[ours polaire](/bestiaire/ours-polaire/), soit celle du [tigre à dents de sabre](/bestiaire/tigre-a-dents-de-sabre/). Enfin, vous pouvez conserver une forme animale pendant un maximum de 1 heure par utilisation.
+
+#### Forme étrange
+Au niveau 14, vous savez prendre une nouvelle forme animale à choisir entre celle du [loup arctique](/bestiaire/loup-arctique/), de l’[aigle géant](/bestiaire/aigle-geant/) ou du [requin chasseur](/bestiaire/requin-chasseur/). De plus, vous pouvez désormais conserver une forme animale pendant aussi longtemps que vous le souhaitez.
+
+### Voie des glaces
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Enfant des steppes glacées
+Au niveau 3, vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre des attaques infligeant des dégâts de froid. De plus, vous n’êtes pas ralenti par les terrains difficiles lorsqu’ils sont recouverts de neige ou de glace.
+
+#### Rage froide
+Au niveau 3 également, vous pouvez maintenir votre rage sur sa durée totale (1 minute) même si vous n’avez pas attaqué de créature ou subi de dégât lors de ce tour. De plus, lorsque vous êtes en rage vous obtenez la résistance à tous les dégâts de froid.
+
+#### Lame de givre
+À partir du niveau 6, lorsque vous entrez en rage, vous pouvez faire givrer une arme de corps à corps que vous tenez en main. Elle inflige 1d6 dégâts de froid par attaque durant tout le temps où vous êtes en rage. Le dé de dégât passe à 1d8 au niveau 10, puis à 1d10 au niveau 14.
+
+#### Froid comme la mort
+Au niveau 10, votre corps devient si résilient qu’il est capable d’endurer le froid glacial de la mort. Votre résistance au froid (voir [_Rage froide_](#rage-froide)) s’étend aux dégâts nécrotiques. De plus, les morts-vivants ont des difficultés à vous distinguer des morts et subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vous attaquer.
+
+#### Souffle de givre
+Au niveau 14, vous pouvez mettre fin prématurément à votre rage pour produire un souffle glacial. Toutes les créatures présentes dans un cône de 18 mètres doivent effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui le ratent subissent 8d8 dégâts de froid, les autres la moitié seulement.
+
+À partir du niveau 18, vous infligez 8d10 dégâts de froid au lieu de 8d8.

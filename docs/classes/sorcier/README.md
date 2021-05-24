@@ -51,7 +51,7 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 * une armure de cuir, n'importe quelle arme courante et deux dagues
 
 ### Protecteur de l'outre-monde
-Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un [fiélon](#le-fielon), un [seigneur immortel](#le-seigneur-immortel), une [puissance des profondeurs](#la-puissance-des-profondeurs) ou une [entité extra-dimensionnelle](#l-entite-extra-dimensionnelle). Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
+Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un [fiélon](#le-fielon), un [seigneur immortel](#le-seigneur-immortel), une [puissance des profondeurs](#la-puissance-des-profondeurs), une [entité extra-dimensionnelle](#l-entite-extra-dimensionnelle) ou le [seigneur Deux-visages](#le-seigneur-deux-visages). Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
 
 ### Magie de pacte
 Vos recherches ésotériques ainsi que la magie dont vous a fait don votre protecteur vous permettent de lancer des sorts avec facilité.
@@ -246,6 +246,54 @@ Au niveau 1, vous apprenez le sort de [_déguisement_](/grimoire/deguisement/), 
 
 #### Bond temporel
 Au niveau 14, votre compréhension de l'espace-temps se renforce et vous permet de vous téléporter à la fois dans l'espace et le futur proche. Vous utilisez votre action et vous disparaissez immédiatement. Vous réapparaissez au début de votre tour après un nombre de rounds de votre choix, égal au maximum à la somme de votre bonus de maîtrise et de votre modificateur de Charisme. Vous pouvez réapparaître à l'endroit que vous avez quitté ou en tout point visible dans un rayon maximum de 100 mètres autour de cet endroit. Si aucun espace libre n'existe à portée, vous êtes perdu dans les limbes et considéré comme mort. Vous pouvez observer et entendre ce qui se passe sur les lieux que vous avez quittés comme si vous y étiez et vous pouvez décider où et quand vous allez réapparaître dans les limites fixées précédemment. Lorsque vous réapparaissez, vous pouvez utiliser une réaction pour interrompre n'importe quelle action en cours. Vous devez terminer un repos court ou long pour pouvoir de nouveau utiliser cette aptitude.
+
+### Le seigneur Deux-visages
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+§§§ .hero
+#### Les spécificités des pactes
+Deux-visages possède ses propres particularités pour chaque pacte.
+
+**Pour le pacte de la chaîne**, le familier de Deux-visages peut être un [_parasite arcanique_](/bestiaire/parasite-arcanique/) ou un [dref](/bestiaire/dref/).
+
+**Pour le pacte de la lame**, votre arme change chaque jour de manière aléatoire. Lancez 1d6 :
+1. l’arme est une arme dont les dégâts sont de 1d4 ;
+2. l’arme est une arme dont les dégâts sont de 1d6 ;
+3. l’arme est une arme dont les dégâts sont de 1d8 ;
+4. l’arme est une arme dont les dégâts sont de 1d10 ;
+5. l’arme est une arme dont les dégâts sont de 1d12 ;
+6. l’arme est une arme dont les dégâts sont de 2d6 ;
+
+**Pour le pacte du grimoire**, le grimoire prend la forme tantôt d’un livre ancien et usé, tantôt d’un tube rempli de vieux parchemins, tantôt d’une simple tablette de pierre ou d’argile gravée de symboles mystiques... Quelle qu’elle soit vous n’avez pas de contrôle sur la forme.
+§§§
+
+#### Liste de sorts étendue
+Votre protecteur vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
+|Niveau|Sort|
+|:-:|:-|
+|**1**|[_blessure_](/grimoire/blessure/), [_soin des blessures_](/grimoire/soin-des-blessures/)|
+|**2**|[_modifier son apparence_](/grimoire/modifier-son-apparence/), [_voir l’invisible_](/grimoire/voir-l-invisible/)|
+|**3**|[_hâte_](/grimoire/hate/), [_lenteur_](/grimoire/lenteur/)|
+|**4**|[_bouclier de feu_](/grimoire/bouclier-de-feu/), [_tempête de grêle_](/grimoire/tempete-de-grele/)|
+|**5**|[_légende_](/grimoire/legende/), [_tromperie_](/grimoire/tromperie/)|
+
+#### Pièce aux deux visages
+Dès le niveau 1, votre protecteur vous donne une pièce de métal forgée dans un métal inconnu. L’une des faces est gravée d’un visage souriant (pile) et l’autre d’un visage grimaçant (face). Vous pouvez utiliser votre action pour lancer la pièce. Si vous obtenez pile, vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test effectué avant le prochain repos court. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude. De plus, vous pouvez transformer cette pièce en monnaie du pays de votre choix et n’avez qu’à claquer des doigts en utilisant une action bonus pour qu’elle revienne dans votre poche, où qu’elle se trouve à ce moment-là. Lorsque vous faites l’acquisition de cette pièce, vous pouvez la transformer en pièce d’argent, au niveau 6 en pièce d’or et au niveau 10 en pièce de platine. Au niveau 14 vous pouvez la transformer en une gemme de votre choix d’une valeur de 100 po.
+
+#### Dé magique
+Au niveau 6, Deux-visages vous offre un dé à 8 faces, simple cube d’un métal inconnu aux reflets irisés. À tout moment, vous pouvez ajouter le résultat du dé à un test ou à un jet, y compris un jet de dégâts en dépensant votre réaction, et ce même une fois le résultat connu. Vous pouvez utiliser cette capacité une fois entre deux repos courts. La forme de votre dé évolue avec votre niveau : au niveau 10, il devient un d10, au niveau 14 un d12.
+
+#### Consulter Deux-visages
+À partir du niveau 10, vous pouvez vous en remettre à votre pièce pour décider de faire ou de ne pas faire une action. Les termes employés doivent définir une action claire et précise : tuer X ou sauver Y, enfoncer une porte (mais pas devenir plus fort). Prenez une pièce et lancez la (ou utilisez un dé de votre choix : pile = pair, face = impair). Si vous obtenez pile, vous bénéficiez d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests servant à faire cette action jusqu’à votre prochain repos long. Si vous obtenez face, vous souffrez d’un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous persistez tout de même dans ce projet. Vous devez terminer un repos long avant de pouvoir à nouveau utiliser cette aptitude.
+
+#### Protection aux deux visages
+Au niveau 14, vous êtes devenu un serviteur puissant et Deux-visages vous protège... mais d’une façon très aléatoire. Après avoir pris un repos long, vous devez lancer un d6 et un d10. Le résultat de chaque dé indique l’un des deux types de dégâts pour lesquels vous obtenez la résistance jusqu’à la fin de votre prochain repos long.
+
+D6 : 1-2 contondants, 3-4 perforants, 5-6 tranchants.
+
+D10 : 1 acide, 2 feu, 3 force, 4 foudre, 5 froid, 6 nécrotiques, 7 poison, 8 psychiques, 9 radiants, 10 tonnerre.
 
 ## Liste des invocations occultes
 Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c'est le cas, vous êtes en mesure d'apprendre l'invocation en question. Si une des conditions est un niveau, il s'agit du niveau que vous possédez dans la classe de sorcier.

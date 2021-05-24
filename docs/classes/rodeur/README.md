@@ -113,7 +113,7 @@ La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur es
 **Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse**
 
 ### Archétype de rôdeur
-Au niveau 3, vous choisissez un [archétype](#archetypes-de-rodeur) auquel vous vous efforcez d'adhérer : [chasseur](#chasseur), [archer arcanique](#archer-arcanique), [exilé](#exile), [traqueur](#traqueur) ou [passeur](#passeur). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
+Au niveau 3, vous choisissez un [archétype](#archetypes-de-rodeur) auquel vous vous efforcez d'adhérer : [chasseur](#chasseur), [archer arcanique](#archer-arcanique), [exilé](#exile), [traqueur](#traqueur), [passeur](#passeur) ou [ombrelin](#ombrelin). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
 
 ### Vigilance primitive
 À partir du niveau 3, vous pouvez utiliser une action et dépenser un emplacement de sort de rôdeur pour exacerber votre vigilance et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes équivalent au niveau de l'emplacement de sort que vous avez dépensé, vous pouvez déterminer si les créatures des types suivants se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres) : aberrations, célestes, dragons, élémentaires, fées, fiélons et morts-vivants. Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.
@@ -289,3 +289,35 @@ Au niveau 15, vous apprenez à mettre en place des zones sécurisées. Vous pouv
 À tout moment durant les prochaines 24 heures, vous pouvez utiliser votre action pour vous transporter instantanément dans ce lieu, vous et un nombre d'alliés de votre choix égal à votre [bonus de maîtrise](/utiliser-les-caracteristiques/#bonus-de-maitrise) au maximum dans un rayon de 9 mètres autour de vous, tant que vous vous trouvez dans les 10 kilomètres de la zone – ou 20 si vous êtes sur votre terrain de prédilection.
 
 Une fois la capacité activée et le retour dans la zone sécurisée effectuée, les symboles s'effacent. Vous devez alors attendre d'avoir effectué un repos court ou long afin de pouvoir tracer de nouveau symboles et réutiliser cette capacité.
+
+### Ombrelin
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Vision dans le noir
+Au niveau 3, lorsque vous choisissez cet archétype, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de faible luminosité comme s’il s’agissait d’une lumière vive et dans l’obscurité comme s’il s’agissait d’une lumière faible. En revanche, vous ne distinguez pas les couleurs dans l’obscurité, seulement des nuances de gris.
+
+Si vous possédez déjà la vision dans le noir (ou la vision dans le noir améliorée), vous augmentez la portée de celle-ci de 9 mètres.
+
+#### Tous les chats sont gris
+Vous êtes passé maître dans l’analyse et l’utilisation des nuances de gris que perçoivent les créatures douées de vision dans l’obscurité afin de mieux vous cacher. Également au niveau 3, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Dextérité (Discrétion) pour vous dissimuler dans l’obscurité ou par faible luminosité, et ce même contre des créatures qui disposent de vision nocturne. De plus, votre valeur de Perception passive augmente de votre bonus de maîtrise lorsque vous êtes dans l’obscurité. Si vous maîtrisez déjà la compétence Perception, vous ajoutez une seconde fois votre bonus de maîtrise à votre Perception passive, sans pouvoir cumuler cela avec l’Expertise.
+
+#### Un coup dans le noir
+À partir du niveau 7, vous savez profiter des ténèbres pour frapper subtilement et exploiter les ombres. Une fois par tour, lorsque vous êtes dans l’obscurité, vous pouvez infliger 3d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque.
+
+Vous n’avez pas besoin d’avoir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d’elle, que cet ennemi n’est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et que vous ne subissez pas un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque.
+
+Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux : ils sont égaux à 1d6 par point de votre bonus de maîtrise.
+
+#### Sensibilité à la lumière
+Également au niveau 7, vos yeux commencent à devenir sensibles aux lumières vives. Si vous êtes en plein soleil en milieu de journée ou avec un soleil rasant dans les yeux, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Sagesse (Perception).
+
+#### Ruse
+À partir du niveau 11, votre aisance dans l’obscurité vous permet de vous déplacer et d’agir rapidement. Vous pouvez bénéficier d’une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
+
+#### Maître des ombres
+À partir du niveau 15, votre maîtrise des ténèbres s’étend aux zones de lumière faible (pénombre) et même à toutes celles où la visibilité est réduite (brume légère, végétation luxuriante). Désormais vous pouvez y utiliser vos aptitude un coup dans le noir et ruse.
+
+#### Hypersensible
+Également au niveau 15, votre sensibilité à la lumière s’aggrave. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Sagesse (Perception) dans une zone de lumière vive. Si vous êtes en plein soleil en milieu de journée ou avec un soleil rasant dans les yeux, vous subissez aussi un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos jets d’attaque à distance.

@@ -71,7 +71,7 @@ De plus, vous comprenez un ensemble de signes et de symboles qui permettent de t
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 
 ### Archétype de roublard
-Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion) ou [ombrelame](#ombrelame). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
+Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion), [ombrelame](#ombrelame), [mistheos](#mistheos) ou [kalanthe](#kalanthe). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -203,3 +203,52 @@ Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points 
 #### Maître de l'ombre
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : [_apparence trompeuse_](/grimoire/apparence-trompeuse/), [_passage dimensionnel_](/grimoire/porte-dimensionnelle/) ou [_tromperie_](/grimoire/tromperie/). Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
+
+### Mistheos
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+
+#### Pisteur émérite
+À partir du niveau 3, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Survie) destinés à pister et aux tests de Sagesse (Perception) destinés à prélever des traces de passage dans un lieu.
+
+#### Entraver
+Également au niveau 3, vous pouvez tenter d’entraver une créature lorsque vous infligez une attaque sournoise. Au lieu d’occasionner des dégâts supplémentaires, la victime doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution de difficulté 8 + votre bonus de maîtrise + votre Mod. de Dextérité. En cas d’échec, elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave) pendant 1 round.
+
+#### Limier
+Au niveau 9, vous pouvez désigner une créature comme étant votre cible à tout moment. Vous n’avez pas besoin de voir ou de connaître cette cible, il vous suffit de connaître son existence. Vous ne pourrez pas changer de cible avant d’avoir pris un repos long. Vous bénéficiez d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests d’Intelligence (Investigation) destinés à trouver des indices laissés par cette cible.
+
+#### Neutraliser
+Également au niveau 9, vous pouvez tenter de neutraliser une créature lorsque vous infligez une attaque sournoise. Au lieu d’occasionner des dégâts supplémentaires, la victime doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution de difficulté 8 + votre bonus de maîtrise + votre Mod. de Dextérité. En cas d’échec, elle est [neutralisée](/gerer-la-sante-du-personnage/#neutralise) pendant 1 round.
+
+#### Intimidant
+Au niveau 13, vous savez jouer de votre réputation pour obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Charisme (Intimidation) destinés à obtenir des aveux ou des renseignements.
+
+#### Étourdir
+Également au niveau 13, vous pouvez tenter d’étourdir une créature lorsque vous infligez une attaque sournoise. Au lieu d’occasionner des dégâts supplémentaires, la victime doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution de difficulté 8 + votre bonus de maîtrise + votre Mod. de Dextérité. En cas d’échec, elle est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) pendant 1 round.
+
+#### Paralyser
+Au niveau 17, vous pouvez tenter de paralyser une créature lorsque vous infligez une attaque sournoise. Au lieu d’occasionner des dégâts supplémentaires, la victime doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution de difficulté 8 + votre bonus de maîtrise + votre Mod. de Dextérité. En cas d'échec, elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 round.
+
+### Kalanthe
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+#### Compétences supplémentaires
+Au niveau 3, choisissez deux maîtrises parmi Dextérité (Discrétion), Charisme (Intimidation), Charisme (Supercherie), le matériel d’empoisonneur ou les accessoires de déguisement.
+
+#### Attaque par surprise
+Également au niveau 3, lorsque vous attaquez un adversaire [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre attaque. En cas de réussite, vous infligez +2d6 dégâts qui peuvent se cumuler aux dés acquis par une attaque sournoise.
+
+#### Faire taire
+Au niveau 9, lorsque vous utilisez l'action attaquer afin de porter une attaque au corps à corps, vous pouvez viser la gorge de votre victime et tenter de faire taire une cible humanoïde. Si l’attaque est réussie, la victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution difficulté (8 + votre bonus de maîtrise + votre Mod. de Dextérité). En cas de succès, la cible ne peut plus émettre que des chuchottements malhabiles jusqu'à la fin de votre prochain tour. La cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets d'attaque magique destinés à lancer des sorts. De plus, vous pouvez infliger les dégâts normaux de votre attaque si vous le désirez.
+
+#### Impitoyable
+Également au niveau 9, vous pouvez utiliser votre action bonus pour porter une attaque de corps à corps contre une cible [_surprise_](/gerer-la-sante-du-personnage/#surpris).
+
+#### Guerrier du silence
+À partir du niveau 13, lorsque vous utilisez votre aptitude _faire taire_, votre cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). De plus, soit vous obtenez la maîtrise du matériel d’empoisonneur ou des accessoires de déguisement, soit (si vous les maîtrisez déjà) vous doublez votre bonus de maîtrise.
+
+#### Assassinat
+Au niveau 17, lorsque vous utilisez votre aptitude _impitoyable_ pour porter une attaque au corps à corps, vous bénéficiez une seconde fois des effets d’une attaque sournoise dans le même tour (si vous remplissez les critères de l’attaque sournoise).

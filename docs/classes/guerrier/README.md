@@ -80,7 +80,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
 ### Archétype martial
-Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame), [Kal'Thori](#kal-thori) et [Officier](#officier). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
+Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame), [Kal'Thori](#kal-thori), [officier](#officier) et [philaxien](#philaxien). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -258,3 +258,26 @@ Au niveau 15, lorsque vous utilisez votre [second souffle](#second-souffle), vou
 
 #### Action coordonnée
 Au niveau 18, lorsque vous utilisez votre sursaut d'activité, désignez un allié dans un rayon de 18 m. Ce dernier doit être capable de vous entendre et de vous comprendre. Utilisez votre réaction et dépensez deux dés de commandement. Votre allié bénéficie aussi des effets de la capacité [Sursaut d'activité](#sursaut-d-activite). Cependant, il lui est impossible de lancer un sort grâce aux effets du sursaut d'activité.
+
+### Philaxien
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+
+#### Sans peur
+Au niveau 3, lorsque vous choisissez cet archétype, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) destinés à résister à la peur ou à l’état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
+
+#### Défense en phalange
+Également au niveau 3, vous avez appris à serrer les rangs et à vous couvrir mutuellement avec vos compagnons d’arme. Lorsque vous combattez au corps-à-corps à moins de 1,50 m d’un allié, vous pouvez utiliser votre réaction à chaque tour pour donner un bonus de +1 en CA à cet allié.
+
+#### Détermination sans faille
+Au niveau 7, vous devenez capable de faire preuve d’une détermination sans faille, rien ne devant vous empêcher de vaincre. Tant que votre valeur actuelle de PV est située sous la moitié de votre valeur maximale, vous gagnez un bonus de +1 aux dégâts de vos attaques de corps-à-corps. Votre bonus de détermination sans faille passe à 1d4 au niveau 10, 1d6 au niveau 15 et enfin 1d8 au niveau 18. Les dégâts sont du même type que ceux infligés par votre arme.
+
+#### Attaque de second rang
+À partir du niveau 10, lorsque vous utilisez une lance ou une arme dotée de la propriété allonge, vous pouvez attaquer depuis une position située derrière un allié de taille moyenne ou inférieure. Vous ne devez pas être à plus de 1,50 m de la cible et devez attaquer la même cible que l’allié derrière lequel vous êtes placé. Cette attaque est réalisée avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Vous êtes considéré comme bénéficiant d’un [abri partiel](/combattre/#abri) contre la créature que vous attaquez. Si vous portez un bouclier, vous êtes considéré comme bénéficiant d’un [abri important](/combattre/#abri).
+
+#### Attaque en phalange
+Au niveau 15, lorsque vous attaquez au corps-à-corps la même cible qu’un allié vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+
+#### Général
+Au niveau 18, vous êtes un général reconnu et respecté parmi les combattants du monde entier. Tous les alliés situés dans un rayon de 12 mètres autour de vous bénéficient d’un bonus de +1d6 aux dégâts de leurs attaques de corps-à-corps. De plus, vous pouvez une fois par round accorder l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un allié à portée sur un jet d’attaque au contact.
