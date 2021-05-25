@@ -108,13 +108,15 @@
             <span v-if="monsterStats.customDamageTypeVulnerabilities">{{ monsterStats.customDamageTypeVulnerabilities }}</span>
             <span v-else v-html="displayDamageTypes(monsterStats.damageTypeVulnerabilities)"></span>
           </div>
-          <div class="monster-damage-type-resistances" v-if="monsterStats.damageTypeResistances && monsterStats.damageTypeResistances.length > 0">
+          <div class="monster-damage-type-resistances" v-if="monsterStats.customDamageTypeResistances || (monsterStats.damageTypeResistances && monsterStats.damageTypeResistances.length > 0)">
             <strong>Résistance aux dégâts</strong>
+            <span v-if="monsterStats.customDamageTypeResistances">{{ monsterStats.customDamageTypeResistances }}</span>
             <span v-html="displayDamageTypes(monsterStats.damageTypeResistances)"></span>
           </div>
-          <div class="monster-damage-type-immunities" v-if="monsterStats.damageTypeImmunities && monsterStats.damageTypeImmunities.length > 0">
+          <div class="monster-damage-type-immunities" v-if="monsterStats.customDamageTypeImmunities || (monsterStats.damageTypeImmunities && monsterStats.damageTypeImmunities.length > 0)">
             <strong>Immunité contre les dégâts</strong>
-            <span v-html="displayDamageTypes(monsterStats.damageTypeImmunities)"></span>
+            <span v-if="monsterStats.customDamageTypeImmunities">{{ monsterStats.customDamageTypeImmunities }}</span>
+            <span v-else v-html="displayDamageTypes(monsterStats.damageTypeImmunities)"></span>
           </div>
           <div class="monster-condition-immunities" v-if="monsterStats.conditionImmunities && monsterStats.conditionImmunities.length > 0">
             <strong>Immunité contre <template v-if="monsterStats.conditionImmunities.length == 1">l'état</template><template v-else>les états</template></strong>
