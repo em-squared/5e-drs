@@ -111,7 +111,7 @@
           <div class="monster-damage-type-resistances" v-if="monsterStats.customDamageTypeResistances || (monsterStats.damageTypeResistances && monsterStats.damageTypeResistances.length > 0)">
             <strong>Résistance aux dégâts</strong>
             <span v-if="monsterStats.customDamageTypeResistances">{{ monsterStats.customDamageTypeResistances }}</span>
-            <span v-html="displayDamageTypes(monsterStats.damageTypeResistances)"></span>
+            <span v-else v-html="displayDamageTypes(monsterStats.damageTypeResistances)"></span>
           </div>
           <div class="monster-damage-type-immunities" v-if="monsterStats.customDamageTypeImmunities || (monsterStats.damageTypeImmunities && monsterStats.damageTypeImmunities.length > 0)">
             <strong>Immunité contre les dégâts</strong>
