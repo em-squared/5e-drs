@@ -17,7 +17,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 |D100|Effet|
 |:-:|:-|
 |**01-05**|Vous lancez [_lenteur_](/grimoire/lenteur/).|
-|**06-10**|Vous lancez [_leurs féeriques_](/grimoire/lueurs-feeriques/).|
+|**06-10**|Vous lancez [_lueurs féeriques_](/grimoire/lueurs-feeriques/).|
 |**11-15**|Vous êtes étourdi jusqu'à la fin de votre prochain tour, mais vous croyez que quelque chose d'incroyable vient tout juste d'arriver.|
 |**16-20**|Vous lancez [_bourrasque_](/grimoire/bourrasque/).|
 |**21-25**|Vous lancez [_détection des pensées_](/grimoire/detection-des-pensees/) sur la cible de votre choix. Vous subissez 1d6 dégâts psychiques si vous ne ciblez aucune créature.|

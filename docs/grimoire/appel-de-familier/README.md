@@ -18,7 +18,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous vous attachez les services d'un familier, un esprit qui prend la forme d'un animal de votre choix : une chauve-souris, un chat, un crabe, une grenouille (ou un crapaud), un faucon, un lézard, une pieuvre, une chouette, un serpent venimeux, un poisson (un piranha), un rat, un corbeau, un hippocampe, une araignée ou une belette. Le familier apparaît dans un emplacement inoccupé à portée et possède le même profil technique que l'animal dont il revêt la forme, bien qu'il soit un céleste, une fée ou un fiélon (à vous de choisir) au lieu d'une bête.
+Vous vous attachez les services d'un familier, un esprit qui prend la forme d'un animal de votre choix : une [chauve-souris](/bestiaire/chauve-souris/), un [chat](/bestiaire/chat/), un [crabe](/bestiaire/crabe/), une [grenouille](/bestiaire/grenouille/) (ou un crapaud), un [faucon](/bestiaire/faucon/), un [lézard](/bestiaire/lezard/), une [pieuvre](/bestiaire/pieuvre/), une [chouette](/bestiaire/chouette/), un [serpent venimeux](/bestiaire/serpent-venimeux/), un poisson (un [piranha](/bestiaire/piranha/)), un [rat](/bestiaire/rat/), un [corbeau](/bestiaire/corbeau/), un [hippocampe](/bestiaire/hippocampe/), une [araignée](/bestiaire/araignee/) ou une [belette](/bestiaire/belette/). Le familier apparaît dans un emplacement inoccupé à portée et possède le même profil technique que l'animal dont il revêt la forme, bien qu'il soit un céleste, une fée ou un fiélon (à vous de choisir) au lieu d'une bête.
 
 Votre familier agit indépendamment de vous, mais il obéit toujours à vos ordres. Lors d'un combat, il lance son propre dé d'initiative et agit à son tour. Il ne peut pas attaquer, mais il peut effectuer d'autres actions.
 
