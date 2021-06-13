@@ -345,7 +345,7 @@ Dès que vous choisissez cette école au niveau 2, l'argent et le temps que vous
 
 Vous pouvez utiliser une fois cette aptitude sans ressentir d'effet indésirable. Mais si vous l'utilisez une nouvelle fois avant de terminer un repos long, vous subissez 2d12 dégâts nécrotiques pour chaque niveau de ce sort immédiatement après l'avoir lancé. Et, à chaque fois que vous réutilisez cette aptitude avant d'avoir terminé un repos long, la quantité de dégâts nécrotique par niveau de sort que vous subissez est augmentée d'1d12. Ces dégâts ne tiennent pas compte de vos résistances ou de vos immunités.
 
-### Maître d'études
+### <span class="icon-hexagon"></span> Maître d'études
 §§§ .source .font-italic
 Source : Gazette Role'n Play #6
 §§§
@@ -434,7 +434,7 @@ Au niveau 6, vous êtes si habitué à copier et recopier les sorts dans le cadr
 #### Mémoire parfaite
 Au niveau 14, vous connaissez si bien vos sorts et votre grimoire que vous pourriez presque vous en passer. Si vous perdez votre grimoire, ou si ce dernier a été détruit, vous êtes toujours capable de préparer vos sorts après un repos long, et ce pendant un nombre de jours égal à deux fois votre bonus de maîtrise. Pendant ce temps, vous pouvez, si vous en avez le temps, recopier vos sorts dans un nouveau grimoire. Faite un test d'Arcanes pour chaque sort que vous recopiez, d'une difficulté de 8 + le niveau du sort. Si le test est réussi, le sort est recopié de mémoire dans votre nouveau grimoire. Si le test échoue, vous perdez le sort à jamais, ou jusqu'à ce que vous le retrouviez dans un autre grimoire ou sur un parchemin magique.
 
-### Mage de guerre
+### <span class="icon-gondolfiere"></span> Mage de guerre
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

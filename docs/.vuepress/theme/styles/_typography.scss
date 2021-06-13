@@ -17,6 +17,12 @@ $srd-font-family: "srd" !default;
 $srd-font-path: "/fonts" !default;
 
 $icon-bookmark: "\e900";
+$icon-zeppelin: "\e901";
+$icon-hexagon: "\e902";
+$icon-gondolfiere: "\e903";
+$icon-laelith: "\e904";
+$icon-dragon: "\e905";
+$icon-kobold: "\e906";
 
 @font-face {
   font-family: '#{$srd-font-family}';
@@ -48,6 +54,36 @@ $icon-bookmark: "\e900";
 .icon-bookmark {
   &:before {
     content: $icon-bookmark;
+  }
+}
+.icon-zeppelin {
+  &:before {
+    content: $icon-zeppelin;
+  }
+}
+.icon-hexagon {
+  &:before {
+    content: $icon-hexagon;
+  }
+}
+.icon-gondolfiere {
+  &:before {
+    content: $icon-gondolfiere;
+  }
+}
+.icon-laelith {
+  &:before {
+    content: $icon-laelith;
+  }
+}
+.icon-dragon {
+  &:before {
+    content: $icon-dragon;
+  }
+}
+.icon-kobold {
+  &:before {
+    content: $icon-kobold;
   }
 }
 
@@ -180,14 +216,14 @@ ul, ol {
 
 .theme--light {
   .v-icon {
-    .orn {
+    .orn, .icon-zeppelin, .icon-hexagon, .icon-gondolfiere, .icon-laelith, .icon-dragon, .icon-kobold {
       color:rgba(0, 0, 0, 0.54);
     }
   }
 
   .v-list-item--active {
     .v-icon {
-      .orn {
+      .orn, .icon-zeppelin {
         color: $color-hero;
       }
     }
@@ -195,7 +231,7 @@ ul, ol {
 }
 
 .v-btn {
-  .orn {
+  .orn, .icon-zeppelin, .icon-hexagon, .icon-gondolfiere, .icon-laelith, .icon-dragon, .icon-kobold {
     font-size: 1.5rem;
     margin-right: 0.5rem;
   }

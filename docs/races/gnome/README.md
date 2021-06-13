@@ -36,3 +36,19 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 **Maître des illusions**. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.  
 **Amphibie**. Vous êtes capable de respirer sous l'eau pendant une durée de 10 minutes au maximum. Au bout de ces 10 minutes, vous devez reprendre votre souffle à l'air libre.  
 **Magie instinctive**. Vous connaissez deux tours de magie que vous choisissez parmi la liste de sorts du barde. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
+
+### <span class="icon-gondolfiere"></span> Vaesenkaebae
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+**Augmentation de caractéristique**. Votre valeur de Sagesse augmente de 1.  
+**Artisan émérite**. Vous obtenez la maîtrise d’un type d’outils d’artisan de votre choix.  
+**Ami des animaux**. Vous avez depuis tout petit un rapport particulier aux animaux et à votre idhayoba. Vous avez appris à entendre et à comprendre leur langage. Une fois par jour, vous pouvez lancer le sort [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/). Ce sort, lancé de cette façon, n’utilise aucun emplacement de sort. Si vous choisissez une classe de personnage capable de lancer ce sort, il est alors considéré comme connu ou comme toujours préparé (en plus des sorts que vous connaissez ou que vous êtes normalement capable de préparer). Vous pouvez alors le lancer de cette manière ou en dépensant un emplacement de sort, selon votre préférence. Votre caractéristique d'incantation pour ces tours de magie est le Charisme. S'ils intègrent vos tours de magie connus grâce à votre classe, elle devient la caractéristique d'incantation de votre classe.
+
+### <span class="icon-gondolfiere"></span> Vaesenhudak
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+**Augmentation de caractéristique**. Votre valeur de Charisme augmente de 1.  
+**Vie solitaire**. Lorsque vous effectuez un test avec la compétence Survie, et si vous maîtrisez cette compétence, vous pouvez ajouter au test le double de votre bonus de maîtrise au lieu de votre bonus normal.  
+**Survivant**. Vous avez appris à survivre seul, loin des autres. Une fois par jour, vous pouvez lancer le sort [_baies nourricières_](/grimoire/baies-nourricieres/). Ce sort, lancé de cette façon, n’utilise aucun emplacement de sort. Si vous choisissez une classe de personnage capable de lancer ce sort, il est alors considéré comme connu ou comme toujours préparé (en plus des sorts que vous êtes normalement capable de préparer). Vous pouvez alors le lancer de cette manière ou en dépensant un emplacement de sort, selon votre préférence.

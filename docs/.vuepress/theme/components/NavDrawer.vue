@@ -32,7 +32,10 @@
               <v-list-group v-if="child.children" :key="child.title" sub-group :value="isExpanded(child)" color="accent">
                 <template v-slot:activator>
                   <v-list-item-icon v-if="child.icon">
-                    <v-icon v-text="child.icon"></v-icon>
+                    <span class="v-icon" v-if="child.customIcon" v-html="child.icon"></span>
+                    <template v-else>
+                      <v-icon v-text="child.icon"></v-icon>
+                    </template>
                   </v-list-item-icon>
                   <v-list-item-content>
                     <v-list-item-title>
@@ -44,7 +47,10 @@
                 <template v-for="subchild in child.children">
                   <v-list-item v-if="subchild.external" link :href="subchild.path" target="_blank" >
                     <v-list-item-icon class="mr-2" v-if="subchild.icon">
-                      <v-icon v-text="subchild.icon"></v-icon>
+                      <span class="v-icon" v-if="subchild.customIcon" v-html="subchild.icon"></span>
+                      <template v-else>
+                        <v-icon v-text="subchild.icon"></v-icon>
+                      </template>
                     </v-list-item-icon>
                     <v-list-item-content>
                       <v-list-item-title>
@@ -55,7 +61,10 @@
                   </v-list-item>
                   <v-list-item v-else link :to="{path: subchild.path}" >
                     <v-list-item-icon class="mr-2" v-if="subchild.icon">
-                      <v-icon v-text="subchild.icon"></v-icon>
+                      <span class="v-icon" v-if="subchild.customIcon" v-html="subchild.icon"></span>
+                      <template v-else>
+                        <v-icon v-text="subchild.icon"></v-icon>
+                      </template>
                     </v-list-item-icon>
                     <v-list-item-content>
                       <v-list-item-title>
@@ -69,7 +78,10 @@
               <v-divider v-else-if="child.type == 'divider'" />
               <v-list-item v-else-if="child.external" :key="child.title" link :href="child.path" target="_blank" >
                 <v-list-item-icon v-if="child.icon">
-                  <v-icon v-text="child.icon"></v-icon>
+                  <span class="v-icon" v-if="child.customIcon" v-html="child.icon"></span>
+                  <template v-else>
+                    <v-icon v-text="child.icon"></v-icon>
+                  </template>
                 </v-list-item-icon>
                 <v-list-item-content>
                   <v-list-item-title>
@@ -80,7 +92,10 @@
               </v-list-item>
               <v-list-item v-else :key="child.title" link :to="{path: child.path}" >
                 <v-list-item-icon v-if="child.icon">
-                  <v-icon v-text="child.icon"></v-icon>
+                  <span class="v-icon" v-if="child.customIcon" v-html="child.icon"></span>
+                  <template v-else>
+                    <v-icon v-text="child.icon"></v-icon>
+                  </template>
                 </v-list-item-icon>
                 <v-list-item-content>
                   <v-list-item-title>
@@ -94,7 +109,10 @@
           <v-divider v-else-if="item.type == 'divider'" />
           <v-list-item v-else :key="item.title" link :to="{path: item.path}" color="accent" >
             <v-list-item-icon v-if="item.icon">
-              <v-icon v-text="item.icon"></v-icon>
+              <span class="v-icon" v-if="item.customIcon" v-html="item.icon"></span>
+              <template v-else>
+                <v-icon v-text="item.icon"></v-icon>
+              </template>
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>

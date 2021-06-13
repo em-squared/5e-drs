@@ -502,3 +502,212 @@ Nul ne peut vous empêcher de recourir à votre magie lorsque vous le décidez, 
 * Lorsque vous perdez votre concentration alors que vous maintenez un sort actif, vous pouvez utiliser votre réaction et dépenser un emplacement de sort approprié pour le relancer sans interruption. Son effet continue comme s'il n'avait pas été relancé ni interrompu.
 * Lorsque vous cessez volontairement de vous concentrer sur un sort, ou à la fin de sa durée légale, vous pouvez prolonger son effet d'un round supplémentaire en sacrifiant 1 point de vie. À chaque round suivant, le nombre de points de vie nécessaire pour maintenir l'effet du sort est égal au nombre de round de prolongation : 2 points de vie au deuxième round (pour un total de 1 + 2 = 3 pv), 3 points au troisième (pour un total de 1 + 2 + 3 = 6 pv), etc. Vous ne pouvez pas prolonger un sort de cette façon au-delà du double de sa durée légale.
 * Lorsque vous tombez à 0 point de vie ou que vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), si vous mainteniez un sort, il dure encore jusqu'à la fin de votre prochain tour.
+
+## <span class="icon-gondolfiere"></span> Dons de compétence
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+
+Les dons de la 5E couvrent un grand nombre de situations, mais aucun d’entre eux ne met réellement en valeur l’utilisation des compétences. C’est dans cet esprit qu'ont été conçus les dons de compétences. Tous ont pour prérequis la maîtrise de la compétence concernée.
+
+### Liste des dons de compétence
+§§§ .column-count-3 .d-print-none
+* [Expert en acrobaties](#expert-en-acrobaties)
+* [Expert en arcanes](#expert-en-arcanes)
+* [Expert en athlétisme](#expert-en-athletisme)
+* [Expert en discrétion](#expert-en-discretion)
+* [Expert en dressage](#expert-en-dressage)
+* [Expert en escamotage](#expert-en-escamotage)
+* [Expert en histoire](#expert-en-histoire)
+* [Expert en intimidation](#expert-en-intimidation)
+* [Expert en investigation](#expert-en-investigation)
+* [Expert en médecine](#expert-en-medecine)
+* [Expert en nature](#expert-en-nature)
+* [Expert en perception](#expert-en-perception)
+* [Expert en perspicacité](#expert-en-perspicacite)
+* [Expert en persuasion](#expert-en-persuasion)
+* [Expert en religion](#expert-en-religion)
+* [Expert en représentation](#expert-en-representation)
+* [Expert en supercherie](#expert-en-supercherie)
+* [Expert en survie](#expert-en-survie)
+§§§
+
+#### Expert en acrobaties
+_Prérequis :_ maîtrise de la compétence Acrobatie.
+
+Vous êtes un acrobate exceptionnel. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Dextérité de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* lorsque vous chutez vous pouvez retrancher votre bonus de maîtrise aux dégâts subis ;
+* si vous ne portez pas d’armure plus encombrante qu’une armure légère, lorsque vous êtes la cible d’une attaque d’opportunité, vous pouvez utiliser votre réaction afin d’effectuer une acrobatie et d’annuler ladite attaque.
+
+#### Expert en arcanes
+_Prérequis :_ maîtrise de la compétence Arcanes.
+
+Vous êtes un spécialiste des arts occultes. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur d’Intelligence de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous pouvez utiliser votre réaction pour tenter d’identifier un sort que vous voyez lancé par un test d’Intelligence (Arcanes) DD de [10 + niveau du sort]. En cas de succès, si ce sort vous inflige des dégâts, vous en retranchez votre bonus de maîtrise ;
+* vous apprenez un tour de magie de votre choix issu de la liste des [sorts de magicien](/grimoire/?classes=Magicien&niveaux=0). Vous pouvez le lancer une seule fois après chaque repos court ou long. Votre caractéristique d’incantation pour ce sort est l’Intelligence.
+
+#### Expert en athlétisme
+_Prérequis :_ maîtrise de la compétence Athlétisme.
+
+Vous êtes un athlète exceptionnel. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Force de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* lorsque vous portez une armure intermédiaire, votre modificateur de Dextérité est limité à +3 au lieu de +2 (CA 18 max.) ;
+* lorsque vous avez un ou deux niveaux d’épuisement, vous ne subissez pas de _désavantage_ à vos tests de Force et de Constitution. Vous ne subissez un _désavantage_ sur ces deux caractéristiques qu’à partir de trois niveaux d’épuisement.
+
+#### Expert en discrétion
+_Prérequis :_ maîtrise de la compétence Discrétion.
+
+Vous êtes d’une discrétion exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Dextérité de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* tant que vous utilisez votre action pour rester immobile dans un milieu naturel, vous obtenez l’_avantage_ à vos tests de Dextérité (Discrétion) ;
+* une fois par round, vous pouvez ajouter votre bonus de maîtrise aux dégâts lorsque vous attaquez une cible [_surprise_](/gerer-la-sante-du-personnage/#surpris).
+
+#### Expert en dressage
+_Prérequis :_ maîtrise de la compétence Dressage.
+
+Vous êtes un dresseur exceptionnel. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Sagesse de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test sur cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* une fois par round, lorsque vous êtes en selle, vous pouvez utiliser votre réaction pour ajouter +2 en CA contre une attaque de corps à corps ;
+* vous pouvez utiliser une action bonus pour accorder l’_avantage_ sur une attaque au corps à corps à un animal sous votre contrôle (un compagnon animal, votre chien, votre monture, etc.).
+
+#### Expert en escamotage
+_Prérequis :_ maîtrise de la compétence Escamotage.
+
+Vous êtes un maître de l’escamotage. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Dextérité de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10 même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous pouvez utiliser une action bonus pour saisir d’une seule main deux fléchettes ou deux dagues. Vous pouvez alors utiliser votre action pour faire un test d’attaque à distance et lancer les deux armes sur la même cible. Si elle touche, votre attaque inflige 1d4 dégâts supplémentaires. ;
+* lorsqu’une créature vous attaque au corps à corps, vous pouvez utiliser votre réaction pour faire un test de Dextérité (Escamotage) contre un DD égal à (8 + son bonus de maîtrise + son modificateur de Sagesse) et réussir à voler un petit objet qu’elle porte sur elle sans vous faire remarquer.
+
+#### Expert en histoire
+_Prérequis :_ maîtrise de la compétence Histoire.
+
+Vous êtes une sommité en histoire. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur d’Intelligence de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* lorsque vous interagissez avec un personnage qui marque l’histoire (leader, roi, chef de guilde), vous obtenez un _avantage_ à tous vos tests de Charisme ;
+* votre connaissance de l’histoire des conflits du passé vous permet d’obtenir un _avantage_ à vos tests d’Intelligence ou de Charisme destinés à établir un plan de de bataille ou d’invasion, à battre en retraite ou encore négocier une trêve ou un traité de paix.
+
+#### Expert en intimidation
+_Prérequis :_ maîtrise de la compétence Intimidation.
+
+Vous êtes d’une discrétion exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Charisme de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous pouvez utiliser une action bonus pour déstabiliser un adversaire en vue et situé à moins de 6 mètres de vous. Si vous réussissez un test de Charisme DD (8 + son bonus de maîtrise + son modificateur de Sagesse), il subit l’état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) pendant un round. Si la cible n’est pas humanoïde, vous subissez un _désavantage_ à votre test. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cet effet ;
+* lorsque vous faîtes un test de Charisme (Intimidation) contre une créature humanoïde, vous pouvez choisir de subir un _désavantage_. Si vous réussissez votre test, la créature subit l’état [_charmé_](/gerer-la-sante-du-personnage/#charme) tant qu’elle reste dans votre champ de vision.
+
+#### Expert en investigation
+_Prérequis :_ maîtrise de la compétence Investigation.
+
+Vous êtes un enquêteur hors pair. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur d’Intelligence de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* si vous passez au moins une heure sur un lieu à rechercher d’indices, vous obtenez automatiquement un indice s’il y en avait un à trouver ;
+* vous pouvez observer un adversaire pendant 1 minute s’il ne combat pas ou pendant 3 rounds s’il combat en utilisant une action bonus à chaque round. Après ce laps de temps, vous déduisez ses points faibles et ses points forts et gagnez deux d20. Vous pouvez utiliser chacun de ces d20 pour obtenir l’_avantage_ sur un test d’attaque ou lui imposer un _désavantage_ sur une attaque. Vous devez terminer un repos court si vous voulez utiliser de nouveau cet effet sur la même cible.
+
+#### Expert en médecine
+_Prérequis :_ maîtrise de la compétence Médecine.
+
+Vous êtes un médecin exceptionnel. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Sagesse de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* après une minute de traitement, vous pouvez enlever un niveau de fatigue ou soigner l’état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) en réussissant un test de Sagesse (Médecine) DD 15. Un patient ne peut bénéficier d’un de ces effets qu’une seule fois entre deux repos longs ;
+* lorsque vous réussissez à stabiliser une créature à 0 PV, vous lui rendez immédiatement un nombre de PV égal à votre bonus de maîtrise. Une créature ne peut bénéficier de cet effet qu’une fois entre deux repos courts.
+
+#### Expert en nature
+_Prérequis :_ maîtrise de la compétence Nature.
+
+Vous êtes un spécialiste de la nature. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur d’Intelligence de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence ou en utilisant le matériel d’herboriste, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous pouvez passer une heure en milieu naturel non désertique pour trouver des plantes et réaliser une infusion qui produit les effets d’une [potion de soins](/liste-objets-magiques/potion-de-soins/) ou une [antitoxine](/equipement-d-aventurier/#antitoxine). Vous pouvez produire chaque jour un nombre maximal de potions égal à votre bonus de maîtrise. Ces plantes sont considérées comme périmées au bout de 24 heures ;
+* lorsque vous combattez une bête, vous pouvez analyser ses points faibles en utilisant une action bonus. Vous gagnez au choix +1 en attaque ou +1 en CA pour tout le reste du combat contre cette bête.
+
+#### Expert en perception
+_Prérequis :_ maîtrise de la compétence Perception.
+
+Vos sens sont d’une acuité exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Sagesse de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* lorsque vous attaquez à distance à une portée d’au moins 12 mètres, vous pouvez choisir de remplacer votre modificateur de Dextérité par votre modificateur de Sagesse à vos dégâts. Vous pouvez choisir d’utiliser une action bonus pour ajouter votre modificateur de Sagesse en plus du modificateur de Dextérité sur une attaque à distance pendant ce round ;
+* lorsque vous êtes [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) (mais pas [_assourdi_](/gerer-la-sante-du-personnage/#assourdi)), vous ne subissez plus de _désavantage_ en attaque, mais à la place vous subissez un malus de -2. Votre adversaire n'obtient plus un _avantage_ pour vous attaquer, mais bénéficie en échange d’un bonus de +2.
+
+#### Expert en perspicacité
+_Prérequis :_ maîtrise de la compétence Perspicacité.
+
+Vous êtes d’une perspicacité exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Sagesse de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* votre analyse du langage corporel vous permet d’anticiper le moment ou une créature va vous attaquer. Si vous n’êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous imposez un _désavantage_ à la première attaque au corps à corps que vous porte chaque créature ;
+* une fois par jour, vous pouvez demander au MJ de vous donner l’angle d’attaque pour une conversation avec un PNJ : séduction, compassion, corruption, intimidation, persuasion, supercherie, etc. Vous obtenez un _avantage_ à vos tests de Charisme, lorsque vous utilisez la méthode appropriée.
+
+#### Expert en persuasion
+_Prérequis :_ maîtrise de la compétence Persuasion.
+
+Vous êtes d’une force de conviction exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Charisme de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* lorsque vous faîtes un test de Charisme (Persuasion) contre une créature humanoïde, vous pouvez choisir de subir un _désavantage_. Si vous réussissez votre test, la créature subit l’état [_charmé_](/gerer-la-sante-du-personnage/#charme) pendant 10 minutes moins son modificateur d’Intelligence ;
+* vous êtes capable de convaincre vos adversaires de ne pas vous attaquer de façon quasi surnaturelle. Vous pouvez lancer le sort [_sanctuaire_](/grimoire/sanctuaire/) une fois entre deux repos courts. Le DD du jet de sauvegarde est égal à (8 + votre bonus de maîtrise + votre modificateur de Charisme). Cet effet n’affecte que les créatures avec lesquelles vous pouvez communiquer.
+
+#### Expert en religion
+_Prérequis :_ maîtrise de la compétence Religion.
+
+Vous êtes devenu maître dans la connaissance des religions mais aussi des pouvoirs que les divinités procurent à leurs adeptes. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur d’Intelligence de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous gagnez l’_avantage_ sur un jet de sauvegarde contre un sort de magie divine. Vous devez terminer un repos court ou long avant de pouvoir bénéficier à nouveau de cet effet ;
+* vous apprenez un tour de magie de votre choix issu de la liste des [sorts de clerc](/grimoire/?classes=Clerc&niveaux=0). Vous pouvez le lancer une seule fois après chaque repos court ou long. Votre caractéristique d’incantation pour ce sort est la Sagesse.
+
+#### Expert en représentation
+_Prérequis :_ maîtrise de la compétence Représentation.
+
+Vous êtes exceptionnellement habile quand il s’agit de captiver votre audience. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Charisme de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* vous pouvez utiliser une action bonus pour distraire un adversaire humanoïde. Faites un test de Charisme contre un DD égal à [8 + bonus de maîtrise + modificateur d’Intelligence de votre cible]. En cas de succès la cible est _neutralisée_ pendant 1 round. Vous pouvez tenter une seule distraction contre chaque adversaire par combat ;
+* vous apprenez un tour de magie de votre choix issu de la liste des [sorts de barde](/grimoire/?classes=Barde&niveaux=0). Vous pouvez le lancer une seule fois après chaque repos court ou long. Votre caractéristique d’incantation pour ce sort est le Charisme.
+
+#### Expert en supercherie
+_Prérequis :_ maîtrise de la compétence Supercherie.
+
+Vous êtes d’une fourberie exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Charisme de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;
+* en combat, vous pouvez exécuter une feinte contre un adversaire humanoïde. Vous utilisez une action bonus pour faire un test de Charisme (Supercherie) contre un DD égal à [8 + bonus de maîtrise + modificateur de Dextérité de votre cible]. En cas de succès vous obtenez l’_avantage_ sur une attaque au corps à corps contre cet adversaire à ce round. Vous pouvez tenter une seule feinte contre chaque adversaire par combat ;
+* lorsque vous êtes en milieu urbain peuplé, vous pouvez remplacer un test de Dextérité (Discrétion) par un test de Charisme (Supercherie) pour vous approcher d’une cible sans vous faire remarquer. En cas de succès, la cible est [_surprise_](/gerer-la-sante-du-personnage/#surpris).
+
+#### Expert en survie
+_Prérequis :_ maîtrise de la compétence Survie.
+
+Vous êtes un maître de la survie. Choisissez trois bénéfices parmi les cinq présentés :
+* vous augmentez votre valeur de Sagesse de +1 ;
+* vous gagnez l’expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l’expertise ;
+* lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d’un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet. ;
+* chaque jour, vous pouvez marcher durant [8 + votre bonus de maîtrise] heures sans fatigue. De plus, lorsque vous utilisez un déplacement rapide, vous ne subissez pas de pénalité à votre valeur passive de Sagesse (Perception) ;
+* vous apprenez un tour de magie de votre choix issu de la liste des [sorts de druide](/grimoire/?classes=Druide&niveaux=0). Vous pouvez le lancer une seule fois après chaque repos court ou long. Votre caractéristique d’incantation pour ce sort est la Sagesse.

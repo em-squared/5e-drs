@@ -204,7 +204,7 @@ Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un quatrième tour de magie de la liste d'ensorceleur.
 
-### Kal'Thori
+### <span class="icon-hexagon"></span> Kal'Thori
 §§§ .source .font-italic
 Source : Gazette Role'n Play #2
 §§§
@@ -225,7 +225,7 @@ Au niveau 15, vous avez appris à optimiser votre défense et à utiliser toute 
 #### Riposte inattendue
 Au niveau 18, lorsqu'une attaque devrait vous toucher, vous pouvez utiliser votre réaction afin d'obtenir la résistance contre les dégâts de l'attaque. De plus, s'il s'agit d'une attaque de corps à corps, vous parvenez à dévier la puissance du coup pour la retourner contre votre adversaire en déportant son coup afin qu'il heurte le décor. Il subit la moitié des points de dégâts que vous avez subis.
 
-### Officier
+### <span class="icon-hexagon"></span> Officier
 §§§ .source .font-italic
 Source : Gazette Role'n Play #7
 §§§
@@ -259,7 +259,7 @@ Au niveau 15, lorsque vous utilisez votre [second souffle](#second-souffle), vou
 #### Action coordonnée
 Au niveau 18, lorsque vous utilisez votre sursaut d'activité, désignez un allié dans un rayon de 18 m. Ce dernier doit être capable de vous entendre et de vous comprendre. Utilisez votre réaction et dépensez deux dés de commandement. Votre allié bénéficie aussi des effets de la capacité [Sursaut d'activité](#sursaut-d-activite). Cependant, il lui est impossible de lancer un sort grâce aux effets du sursaut d'activité.
 
-### Philaxien
+### <span class="icon-gondolfiere"></span> Philaxien
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§

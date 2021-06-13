@@ -204,7 +204,7 @@ Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points 
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : [_apparence trompeuse_](/grimoire/apparence-trompeuse/), [_passage dimensionnel_](/grimoire/porte-dimensionnelle/) ou [_tromperie_](/grimoire/tromperie/). Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
-### Mistheos
+### <span class="icon-gondolfiere"></span> Mistheos
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
@@ -230,7 +230,7 @@ Au niveau 13, vous savez jouer de votre réputation pour obtenir un [_avantage_]
 #### Paralyser
 Au niveau 17, vous pouvez tenter de paralyser une créature lorsque vous infligez une attaque sournoise. Au lieu d’occasionner des dégâts supplémentaires, la victime doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution de difficulté 8 + votre bonus de maîtrise + votre Mod. de Dextérité. En cas d'échec, elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 round.
 
-### Kalanthe
+### <span class="icon-gondolfiere"></span> Kalanthe
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

@@ -384,7 +384,7 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 #### Déplacement souterrain
 À partir du niveau 14, vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale, que ce soit sous votre forme normale ou sous forme sauvage. Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15.
 
-### Cercle de la vie
+### <span class="icon-hexagon"></span> Cercle de la vie
 §§§ .source .font-italic
 Source : Gazette Role'n Play #3
 §§§
@@ -427,7 +427,7 @@ Au niveau 14, vous êtes immunisé aux états [charmé](/gerer-la-sante-du-perso
 #### Esprit de vie
 Au niveau 18, en plus que vos aptidudes de druide, vous pouvez canaliser la puissance vitale de la nature à travers votre corps. En utilisant votre action, vous commencez à vous nourrir de l'énergie tellurique autour de vous. Au début de chacun de vos tours, et durant une minute, vous regagnez un nombre de points de vie égal à la moitié de votre bonus de maîtrise. Si vous tombez inconscient, l'effet continue. Si vous étiez à 0 PV, vous êtes automatiquement stabilisé au début de votre tour suivant et vous redevenez conscient en plus de regagner des points de vie. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
 
-### Cercle des Châtiments
+### <span class="icon-hexagon"></span> Cercle des Châtiments
 §§§ .source .font-italic
 Source : Gazette Role'n Play #4
 §§§
@@ -465,7 +465,7 @@ De plus, vous obtenez une attaque d'opportunité sur un ennemi quand ce dernier 
 Au niveau 14, vous pouvez utiliser une utilisation de votre forme sauvage afin de lancer le sort [_invoquer une fée_](/grimoire/invoquer-une-fee/) ou [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) à son niveau normal, et ce même si vous n'avez pas préparé ces sorts. Au niveau 20, vous ne pouvez le faire que trois fois entre deux repos courts ou longs.
 De plus vous avez désormais l'avantage à vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour garder votre [_concentration_](/lancer-des-sorts/#concentration).
 
-### Cercle sans nom
+### <span class="icon-gondolfiere"></span> Cercle sans nom
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

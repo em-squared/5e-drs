@@ -16,3 +16,28 @@ sidebarDepth: 0
 **Regard dérangeant**. Votre corps, votre visage et vos yeux ont quelque chose de clairement froid et étrange, effrayant pour les uns, fascinant pour les autres. Vous maîtrisez, au choix, la compétence Intimidation ou la compétence Persuasion.  
 **Sang froid**. Votre sang froid ne vous apporte pas que des bénéfices. Vous êtes vulnérable aux dégâts de froid.  
 **Langues**. Vous pouvez lire, écrire et parler le commun. Vous parlez le Sseslish, le dialecte homme serpent qui n'a pas de forme écrite.
+
+# <span class="icon-gondolfiere"></span> Homme serpent de Pangée
+§§§ .source .font-italic
+Source : Pangée - l'Âge du changement
+§§§
+## Traits des hommes serpents de Pangée
+**Augmentation de caractéristique**. Votre valeur de Sagesse augmente de 2.  
+**Âge**. Les hommes serpents peuvent vivre bien plus longtemps qu’un être humain. Ils atteignent leur maturité à l’âge de 13 ans environ, mais peuvent vivre jusqu’à 150 ans. Cependant, ils peuvent prolonger leur durée de vie en se plongeant dans de longues hibernations qui leur permettent de survivre des dizaines, parfois des centaines, d’années avant de se réveiller de nouveau. Néanmoins, seuls les plus sages des hommes serpents sont capables d’un tel exploit.  
+**Taille**. Les hommes serpents sont légèrement plus grands que des humains et mesurent de 1,70 à 2 mètres. Bien que filiforme, leur corps est dense. Ils pèsent rarement moins de 75 kilos et peuvent aller jusqu’à 130 kilos.  
+**Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
+**Langage des émotions**. Vous maîtrisez l’imssugassma. Vous pouvez communiquer avec d’autres hommes serpents dans un rayon de 36 mètres. Il faut cependant pour cela que vous et votre interlocuteur vous regardiez droit dans les yeux. Vous ne pouvez échanger de mots, uniquement des émotions et des sensations.  
+**Regard dérangeant**. Votre corps, votre visage et vos yeux ont quelque chose de clairement froid et étrange, effrayant pour les uns, fascinant pour les autres. Vous maîtrisez, au choix, la compétence Charisme (Intimidation) ou la compétence Charisme (Persuasion).  
+**Sang froid**. Votre sang froid ne vous apporte pas que des bénéfices. Vous êtes vulnérable aux dégâts de froid.  
+**Langues**. Vous pouvez parler le commercial. Vous parlez l’uru-uraca, la langue des hommes serpents. Vous pouvez, au choix, parler une autre langue ou lire et écrire l’uru-uraca.
+
+### Kubea ssyere
+**Augmentation de caractéristique**. Votre valeur de Constitution augmente de 1.  
+**Hypnose**. Comme tous les vôtres, vous avez appris à colorer votre regard d’une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d’hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort [_charme-personne_](/grimoire/charme-personne/) comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d’incantation pour lancer ce sort est le Charisme.  
+**Métamorphe**. Vous êtes capable de transformer votre corps afin de recouvrer momentanément votre forme primale. Vous pouvez utiliser une action afin de vous métamorphoser. Vos jambes deviennent un corps de serpent, mais vous conservez votre tronc, votre tête et vos bras. Sous cette forme, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos tests de Charisme (Intimidation) et de Force (Athlétisme). De plus, lorsque vous escaladez une surface, votre vitesse de déplacement correspond à votre vitesse de déplacement normale. Conserver cette forme vous demande de maintenir votre concentration. Une fois la concentration brisée, vous reprenez votre forme humanoïde. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
+
+### Kubea ghinduk
+**Augmentation de caractéristique**. Votre valeur de Charisme augmente de 1.  
+**Artisan émérite**. Vous maîtrisez deux outils d’artisans de votre choix.  
+**Révélation**. Vous avez parfois des intuitions, comme si la Mère des œufs vous murmurait à l’oreille quelques mots pour vous aider, anticiper une situation difficile. Lorsqu’une créature ou un PNJ effectue un test de caractéristique en opposition avec vous ou un test d’attaque, vous pouvez décider de demander au MJ de refaire ce test. Vous devez effectuer un repos long avant de pouvoir réutiliser cette capacité.  
+**Métamorphe**. Vous êtes capable de transformer votre corps afin de de ressembler à un être humain normal. Vous pouvez utiliser une action afin de vous métamorphoser. Votre visage devient humain et votre queue disparaît. Votre transformation n’est pas parfaite : un individu peut dépenser une action pour vous examiner et effectuer un test d’Intelligence (Investigation) contre une difficulté de 8 + votre modificateur de Charisme + votre bonus de maîtrise. S’il le réussit, il réalise que quelque chose ne va pas, aperçoit l’espace d’un instant vos pupilles fendues, remarque furtivement des écailles sur votre main, etc. Votre forme humaine est constante : vous ne pouvez changer de visage ou de couleur de cheveux, par exemple, et encore moins prendre l’apparence d’une autre personne. Conserver cette forme vous demande de maintenir votre concentration. Une fois la concentration brisée, vous reprenez votre forme humanoïde. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.

@@ -207,7 +207,7 @@ Lorsque vous atteignez le niveau 11, vous avez endurci votre corps et appris à 
 
 Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
 
-### Voie des fleurs
+### <span class="icon-gondolfiere"></span> Voie des fleurs
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

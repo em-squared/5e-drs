@@ -390,7 +390,7 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-### Serment d'aliénation
+### <span class="icon-gondolfiere"></span> Serment d'aliénation
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§

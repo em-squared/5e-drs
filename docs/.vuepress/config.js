@@ -589,6 +589,12 @@ module.exports = {
           }
         ]
       },
+      {
+        title: 'Pangée',
+        customIcon: true,
+        icon: '<span class="icon-gondolfiere"></span>',
+        path: '/pangee/'
+      },
       {type: 'divider'},
       {
         title: 'Bibliothèques',

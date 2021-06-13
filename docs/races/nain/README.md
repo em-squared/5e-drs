@@ -33,3 +33,11 @@ sidebarDepth: 0
 **Vision dans le noir améliorée**. Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.  
 **Sensibilité à la lumière**. Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) s'ils vous attaquent au corps à corps. L'effet dure 3 rounds.  
 **Résistance à la chaleur**. Vous bénéficiez d'une résistance aux dégâts de feu.
+
+### <span class="icon-gondolfiere"></span> Taïvastotta
+§§§ .source .font-italic
+Source : Pangée - l'Âge des Héros
+§§§
+**Augmentation de caractéristique**. Votre valeur de Charisme augmente de 1.  
+**Maître marchand**. Quand vous faites un test afin d’évaluer la valeur d’un objet ou de négocier son prix, et que vous disposez de la maîtrise de la compétence que vous utilisez, vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise simple.  
+**Insaisissable**. Vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests d’Athlétisme ou d’Acrobaties afin d’éviter d’être [_empoigné_](/gerer-la-sante-du-personnage/#empoigne) ou [_entravé_](/gerer-la-sante-du-personnage/#entrave) quand la créature tentant la manœuvre est de taille G ou plus.

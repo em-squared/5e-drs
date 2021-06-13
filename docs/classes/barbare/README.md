@@ -199,7 +199,7 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 #### Hurlement terrifiant
 À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Force au choix (difficulté 8 + modificateur de Force + bonus de maîtrise) ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Si vous êtes en rage, les cibles subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
 
-### Voie de la bête
+### <span class="icon-gondolfiere"></span> Voie de la bête
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
@@ -225,7 +225,7 @@ Au niveau 10, vous apprenez à endosser une forme animale majeure, soit celle de
 #### Forme étrange
 Au niveau 14, vous savez prendre une nouvelle forme animale à choisir entre celle du [loup arctique](/bestiaire/loup-arctique/), de l’[aigle géant](/bestiaire/aigle-geant/) ou du [requin chasseur](/bestiaire/requin-chasseur/). De plus, vous pouvez désormais conserver une forme animale pendant aussi longtemps que vous le souhaitez.
 
-### Voie des glaces
+### <span class="icon-gondolfiere"></span> Voie des glaces
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

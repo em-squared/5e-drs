@@ -12,6 +12,33 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+## Héros du changement
+§§§ .text-center .text-h1
+
+<span class="icon-gondolfiere primary--text"></span>
+
+§§§
+Peut-être suivez-vous assiduement l'émission Role'n Play ? Ou peut-être pas ? Dans tous les cas, les nouveautés ajoutées sur _**5e DRS**_ devraient vous intéresser. Il s'agit de nouvelles règles issues des livres du cadre de campagne Pangée, le théâtre des aventures de Role'n Play.
+
+**Nouvelles variantes de races :** les [elfes du souffle](/races/elfe/#elfe-du-souffle), les [elfes des vagues](/races/elfe/#elfe-des-vagues), les [elfes des roches](/races/elfe/#elfe-des-roches), les [gnomes vaesenkaebae](/races/gnome/#vaesenkaebae), les [gnomes vaesenhudak](/races/gnome/#vaesenhudak), les [halfelins de maison](/races/halfelin/#halfelin-de-maison), les [halfelins p'relinne](/races/halfelin/#halfelin-p-relinne) et les [nains taïvastotta](/races/nain/#taivastotta).
+
+**Une revisite des races extraordinaires** avec les [aasimars](/races/aasimar/#aasimar-de-pangee) et leurs variantes [exori](/races/aasimar/#aasimar-exori), [agramnon](/races/aasimar/#aasimar-agramnon) et [dekrâ](/races/aasimar/#aasimar-dekra) ; les [demi-ogres](/races/demi-ogre/#demi-ogre-de-pangee) et leurs variantes [sulchin](/races/demi-ogre/#sulchin), [delchin](/races/demi-ogre/#delchin) et [kahchin](/races/demi-ogre/#kahchin) ; les [félys](/races/felys/#traits-des-felys-de-pangee) et leurs variantes [muqadal'wali](/races/felys/#muqadal-wali), [mushtaral'wali](/races/felys/#mushtaral-wali) et [feilh'hyss](/races/felys/#feilh-hyss) ; les [hommes serpents](/races/homme-serpent/#homme-serpent-de-pangee) et leurs variantes [kubea ssyere](/races/homme-serpent/#kubea-ssyere) et [kubea ghinduk](/races/homme-serpent/#kubea-ghinduk) ; les [sangdragons](/races/sangdragon/#sangdragon-de-pangee) et leurs variantes [phelun-kheun](/races/sangdragon/#phelun-kheun) et [kehay-kheun](/races/sangdragon/#phelun-kheun) ; et enfin les [tieffelins](/races/tieffelin/#tieffelin-de-pangee) et leurs variantes [gel'absu](/races/tieffelin/#gel-absu), [na'saqwu](/races/tieffelin/#na-saqwu) et [uttuk'emu](/races/tieffelin/#uttuk-emu).
+
+**Nouveaux archétypes de classe :** la [voie de la bête](/classes/barbare/#voie-de-la-bete) et la [voie des glaces](/classes/barbare/#voie-des-glaces) pour les barbares, le [collège des rêves](/classes/barde/#college-des-reves) pour les bardes, le [mortifié](/classes/clerc/#mortifie) et l'[oracle](/classes/clerc/#oracle) pour les clercs, le [cercle sans nom](/classes/druide/#cercle-sans-nom) pour les druides, la [lignée protéenne](/classes/ensorceleur/#lignee-proteenne) pour les ensorceleurs, le [phylaxien](/classes/guerrier/#phylaxien) pour les guerriers, la [mage de guerre](/classes/magicien/#mage-de-guerre) pour les magiciens, la [voie des fleurs](/classes/moine/#voie-des-fleurs) pour les moines, le [serment d'aliénation](/classes/paladin/#serment-d-alienation) pour les paladins, l'[ombrelin](/classes/rodeur/#ombrelin) pour les rôdeurs, le [mistheos](/classes/roublard/#mistheos) et le [kalanthe](/classes/roublard/#kalanthe) pour les roublards et le [seigneur Deux-visages](/classes/sorcier/#seigneur-deux-visages) accompagné de nouvelles invocations occultes pour les sorciers.
+
+**Nouveaux dons :** les [dons de compétence](/options-de-personnalisation/#dons-de-competence) qui mettent en valeur chacune des compétences des personnages et les rendent un peu plus uniques.
+
+**Nouvelles règles :** [Un monde plus dur](/pangee/). Ces règles présentent un monde où la magie est fluctuante. Parfois abondante, parfois chaotique. La vie des aventuriers y est aussi plus éprouvante avec des repos moins réparateurs et des blessures plus handicapantes. La résurrection est bien plus coûteuse et sujette aux fluctuations de la magie. Enfin, de nouvelles règles sur les réussites et échecs critiques inspirées d'un autre jeu bien connu.
+
+Avec la multiplication des sources, difficile de s'y retrouver. Vous pouvez maintenant identifier d'un coup d'œil la source d'une section grâce à des icônes : un dragon pour le tryptique de base (<span class="icon-dragon accent--text"></span>), un kobold pour le Livre des monstres (<span class="icon-kobold accent--text"></span>), un hexagone pour les gazettes Role'n Play (<span class="icon-hexagon accent--text"></span>) et une gondolfière pour Pangée (<span class="icon-gondolfiere accent--text"></span>).
+
+Un grand merci à Julien Dutel pour tout ça !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le XX juin 2021_
+§§§
+
 ## Nouveaux archétypes pour les bardes et les guerriers
 Vous avez toujours rêvé de lancer des cartes de tarot tranchantes sur vos ennemis aux commandes de votre gondolfière enveloppé dans votre redingote de cuir* ? Alors jouez un barde du [collège des taromanciens](/classes/barde/#college-des-taromanciens) !
 

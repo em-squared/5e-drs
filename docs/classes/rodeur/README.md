@@ -261,7 +261,7 @@ Au niveau 13, vous pouvez choisir un deuxième style de combat.
 #### Attaque supplémentaire
 À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.
 
-### Passeur
+### <span class="icon-hexagon"></span> Passeur
 §§§ .source .font-italic
 Source : Gazette Role'n Play #5
 §§§
@@ -290,7 +290,7 @@ Au niveau 15, vous apprenez à mettre en place des zones sécurisées. Vous pouv
 
 Une fois la capacité activée et le retour dans la zone sécurisée effectuée, les symboles s'effacent. Vous devez alors attendre d'avoir effectué un repos court ou long afin de pouvoir tracer de nouveau symboles et réutiliser cette capacité.
 
-### Ombrelin
+### <span class="icon-gondolfiere"></span> Ombrelin
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§

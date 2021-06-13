@@ -200,7 +200,7 @@ Au niveau 14, votre spécialité fait de vous un professionnel accompli et un ad
 * **Jongleur** : lanceur de couteaux. À chacun de vos tours de jeu, vous pouvez utiliser une action bonus pour faire une attaque à distance avec une dague. Vous pouvez choisir de dépenser une inspiration bardique et ajouter le résultat du dé au test d'attaque (en utilisant la même et unique action bonus) ou remplacer le dé de dégâts par le dé d'inspiration.
 * **Voyante** : choisissez deux sorts parmi [_augure_](/grimoire/augure/), [_appel de familier_](/grimoire/appel-de-familier/), [_clairvoyance_](/grimoire/clairvoyance/), [_communication avec les morts_](/grimoire/communication-avec-les-morts/), [_communion_](/grimoire/communion/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_divination_](/grimoire/divination/), [_légende_](/grimoire/legende/), [_scrutation_](/grimoire/scrutation/), [_trouver un chemin_](/grimoire/trouver-un-chemin/), [_voir l'invisible_](/grimoire/voir-l-invisible/), [_vision suprême_](/grimoire/vision-supreme/). Ces sorts sont considérés comme des sorts de barde, mais ils ne comptent pas dans le nombre de sorts que vous connaissez. De plus, vous êtes désormais capable d'utiliser la magie rituelle pour tous les sorts qui le permettent, même issus d'une liste de sorts autre que celle de barde.
 
-### Collège des taromanciens
+### <span class="icon-hexagon"></span> Collège des taromanciens
 §§§ .source .font-italic
 Source : Gazette Role'n Play #7
 §§§
@@ -243,7 +243,7 @@ Vous pouvez utiliser cette capacité une fois entre deux repos courts ou longs.
 #### Lames puissantes
 Au niveau 14, votre tarot réapparaît après un repos long même si vous avez utilisé toutes vos lames.
 
-### Collège des rêves
+### <span class="icon-gondolfiere"></span> Collège des rêves
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§

@@ -702,7 +702,7 @@ Au niveau 8, vous gagnez la capacité d'insuffler de l'énergie divine dans les 
 #### Guérison suprême
 À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points de vie à une créature, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points de vie à une créature, vous lui redonnez automatiquement 12 points de vie.
 
-### Mortifié
+### <span class="icon-gondolfiere"></span> Mortifié
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
@@ -730,7 +730,7 @@ Au niveau 6, lorsque vous lancez un sort sur une créature dont l’alignement e
 #### Par la chair, la révélation
 Au niveau 17, pendant un repos court, vous vous infligez des blessures et cicatrices plus profondes et douloureuses, mettant votre volonté à l’épreuve. Vous récupérez un emplacement de sort de niveau 4 ou 5 que vous avez dépensé. Le châtiment corporel peut être infligé par vous-même ou par un officiant de votre choix. Vous perdez 1d8 PV, qui sont retranchés sur votre valeur maximale de PV. Vous ne récupérerez ses PV qu’après un repos long. Vous n’obtenez aucun autre bénéfice durant ce repos court. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
 
-### Oracle
+### <span class="icon-gondolfiere"></span> Oracle
 §§§ .source .font-italic
 Source : Pangée - l'Âge du changement
 §§§
