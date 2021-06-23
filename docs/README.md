@@ -30,7 +30,7 @@ Peut-être suivez-vous assiduement l'émission Role'n Play ? Ou peut-être pas ?
 
 **Nouvelles règles :** [Un monde plus dur](/pangee/). Ces règles présentent un monde où la magie est fluctuante. Parfois abondante, parfois chaotique. La vie des aventuriers y est aussi plus éprouvante avec des repos moins réparateurs et des blessures plus handicapantes. La résurrection est bien plus coûteuse et sujette aux fluctuations de la magie. Enfin, de nouvelles règles sur les réussites et échecs critiques inspirées d'un autre jeu bien connu.
 
-Avec la multiplication des sources, difficile de s'y retrouver. Vous pouvez maintenant identifier d'un coup d'œil la source d'une section grâce à des icônes : un dragon pour le tryptique de base (<span class="icon-dragon accent--text"></span>), un kobold pour le Livre des monstres (<span class="icon-kobold accent--text"></span>), un hexagone pour les gazettes Role'n Play (<span class="icon-hexagon accent--text"></span>) et une gondolfière pour Pangée (<span class="icon-gondolfiere accent--text"></span>).
+Avec la multiplication des sources, difficile de s'y retrouver. Vous pouvez maintenant identifier d'un coup d'œil la source d'une section grâce à des icônes : un hexagone pour les gazettes Role'n Play (<span class="icon-hexagon accent--text"></span>) et une gondolfière pour Pangée (<span class="icon-gondolfiere accent--text"></span>).
 
 Un grand merci à Julien Dutel pour tout ça !
 

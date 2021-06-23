@@ -16,13 +16,12 @@
 $srd-font-family: "srd" !default;
 $srd-font-path: "/fonts" !default;
 
-$icon-bookmark: "\e900";
-$icon-zeppelin: "\e901";
+$icon-bookmark: "\e901";
 $icon-hexagon: "\e902";
 $icon-gondolfiere: "\e903";
 $icon-laelith: "\e904";
 $icon-dragon: "\e905";
-$icon-kobold: "\e906";
+$icon-kobold: "\e900";
 
 @font-face {
   font-family: '#{$srd-font-family}';
@@ -54,11 +53,6 @@ $icon-kobold: "\e906";
 .icon-bookmark {
   &:before {
     content: $icon-bookmark;
-  }
-}
-.icon-zeppelin {
-  &:before {
-    content: $icon-zeppelin;
   }
 }
 .icon-hexagon {
