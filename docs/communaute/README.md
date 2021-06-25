@@ -7,6 +7,7 @@ Ici est présentée une sélection de créations de la communauté compatibles _
 
 ## Aides de jeu
 &nbsp;
+<v-icon>mdi-content-paste</v-icon> [Dossier de personnage complet](https://onedrive.live.com/?authkey=%21AL6P6Wr9DH7NTGs&cid=0E48B58570ACBE42&id=E48B58570ACBE42%2120133&parId=E48B58570ACBE42%212575&o=OneUp), _par Ludi Tery_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable et manuscite](https://github.com/HippoAndElephant/Feuille_de_personnage-5E), _par DHFTN et _Wylandïr_.  
 <v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://github.com/HippoAndElephant/Cartes_Sorts_5E) _par DHFTN_.  
@@ -28,3 +29,4 @@ Ici est présentée une sélection de créations de la communauté compatibles _
 
 ## Classes
 * [Personnages thérianthropes](/communaute/therianthropie/)
+* [Le rôdeur révisé](/communaute/rodeur-revise/)
