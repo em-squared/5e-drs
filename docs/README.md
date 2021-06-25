@@ -39,6 +39,20 @@ _**Em-squared**_,
 _le XX juin 2021_
 §§§
 
+## Ressources communautaires : le rôdeur révisé
+Une [nouvelle version du rôdeur](/communaute/rodeur-revise/) est maintenant disponible dans la section des [ressources communautaires](/communaute/) de _**5e DRS**_. Il s'agit d'un rééquilibrage de la classe accompagné de plusieurs nouveaux archétypes : le [brise-sorts](/communaute/rodeur-revise/#brise-sorts) spécialisé dans la traque des mages, le [chasseur](/communaute/rodeur-revise/#chasseur), le [chasseur de primes](/communaute/rodeur-revise/#chasseur-de-primes) qui ne laisse aucune chance de fuite à ses proies, le [dompteur](/communaute/rodeur-revise/#dompteur) qui apprivoise les bêtes sauvages d'une volonté de fer, le [guide stellaire](/communaute/rodeur-revise/#guide-stellaire) versé dans la divination, le [nomade](/communaute/rodeur-revise/#nomade) qui maîtrise une magie étrange et le [traqueur sinistre](/communaute/rodeur-revise/#traqueur-sinistre) qui devient lui-même un monstre pour mieux les combattre.
+
+Ce supplément est paru dans la newsletter [_Scribes & Dragons_](https://scribes-et-dragons.fr/).
+
+Une nouvelle ressource a également été ajoutée dans les liens utiles : un magnifique [dossier de personnages complet](https://onedrive.live.com/?authkey=%21AL6P6Wr9DH7NTGs&cid=0E48B58570ACBE42&id=E48B58570ACBE42%2120133&parId=E48B58570ACBE42%212575&o=OneUp) réalisé par _Ludi Tery_
+
+Bon jeu, et à très vite pour plein de nouveautés compatibles _**5e**_ !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 24 juin 2021_
+§§§
+
 ## Nouveaux archétypes pour les bardes et les guerriers
 Vous avez toujours rêvé de lancer des cartes de tarot tranchantes sur vos ennemis aux commandes de votre gondolfière enveloppé dans votre redingote de cuir* ? Alors jouez un barde du [collège des taromanciens](/classes/barde/#college-des-taromanciens) !
 
@@ -163,6 +177,7 @@ _le 10 mars 2021_
 ## Liens utiles
 ### Téléchargements
 &nbsp;
+<v-icon>mdi-content-paste</v-icon> [Dossier de personnage complet](https://onedrive.live.com/?authkey=%21AL6P6Wr9DH7NTGs&cid=0E48B58570ACBE42&id=E48B58570ACBE42%2120133&parId=E48B58570ACBE42%212575&o=OneUp), _par Ludi Tery_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage "Graphic Color"](https://www.black-book-editions.fr/forums.php?topic_id=12619&nbp=13&nop=0), _par DarKDinDoN et GhorGhor Blue_.  
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage 5e éditable et manuscrite](https://github.com/HippoAndElephant/Feuille_de_personnage-5E), _par DHFTN et _Wylandïr_.  
 <v-icon>mdi-cards-outline</v-icon> [Cartes de sorts](https://github.com/HippoAndElephant/Cartes_Sorts_5E) _par DHFTN_.  
