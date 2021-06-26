@@ -12,6 +12,14 @@ toc: false
 
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
+## Nouvel archétype pour le barbare
+Vous avez prouvé votre valeur à un animal gardien ? Vous avez fait un pacte avec les esprits de la nature qu'ils vous prêtent leur force ? Votre clan vénère l'un de ces esprits gardiens qui le protège des dangers des terres sauvages ? Vous suivez la [voie des steppes](/classes/barbare/#voie-des-steppes), un nouvel archétype pour le barbare !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 26 juin 2021_
+§§§
+
 ## Ressources communautaires : le rôdeur révisé
 Une [nouvelle version du rôdeur](/communaute/rodeur-revise/) est maintenant disponible dans la section des [ressources communautaires](/communaute/) de _**5e DRS**_. Il s'agit d'un rééquilibrage de la classe accompagné de plusieurs nouveaux archétypes : le [brise-sorts](/communaute/rodeur-revise/#brise-sorts) spécialisé dans la traque des mages, le [chasseur](/communaute/rodeur-revise/#chasseur), le [chasseur de primes](/communaute/rodeur-revise/#chasseur-de-primes) qui ne laisse aucune chance de fuite à ses proies, le [dompteur](/communaute/rodeur-revise/#dompteur) qui apprivoise les bêtes sauvages d'une volonté de fer, le [guide stellaire](/communaute/rodeur-revise/#guide-stellaire) versé dans la divination, le [nomade](/communaute/rodeur-revise/#nomade) qui maîtrise une magie étrange et le [traqueur sinistre](/communaute/rodeur-revise/#traqueur-sinistre) qui devient lui-même un monstre pour mieux les combattre.
 
