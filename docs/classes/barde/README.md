@@ -249,7 +249,7 @@ Source : Pangée - l'Âge des Héros
 §§§
 
 #### Message
-Au niveau 3, vous apprenez le tour de magie [_message_](/grimoire/message/). Si vous l’avez déjà choisi, vous multipliez sa portée par 10 (360 mètres). Vous devez fermer les yeux lorsque vous lancez ce sort.
+Au niveau 3, vous apprenez le tour de magie [_message_](/grimoire/message/). Si vous l'avez déjà choisi, vous multipliez sa portée par 10 (360 mètres). Vous devez fermer les yeux lorsque vous lancez ce sort.
 
 #### Rêves reposants
 Au niveau 3, vous pouvez utiliser une version onirique de votre capacité [_chant reposant_](#chant-reposant). Vous influencez les rêves des dormeurs dans un rayon de 18 mètres autour de vous (vous devez vous-même dormir),et les bénéficiaires qui dépensent un ou plusieurs dés de vie durant ce repos gagnent 2d6 PV supplémentaires.
@@ -257,10 +257,10 @@ Au niveau 3, vous pouvez utiliser une version onirique de votre capacité [_chan
 Plus votre niveau de barde est élevé, plus le nombre de PV récupérés augmente : 2d8 au niveau 9, 2d10 au niveau 13 et 2d12 au niveau 17.
 
 #### Rêves prémonitoires
-Au niveau 6, une fois par repos long et alors que vous dormez, vous pouvez utiliser un sort au choix parmi [_clairvoyance_](/grimoire/clairvoyance/), [_envoi de message_](/grimoire/envoi-de-message/) ou [_localiser une créature_](/grimoire/localiser-une-creature/). Vous pouvez utiliser ces sorts même si vous ne les connaissez pas et sans dépenser d’emplacement de sort.
+Au niveau 6, une fois par repos long et alors que vous dormez, vous pouvez utiliser un sort au choix parmi [_clairvoyance_](/grimoire/clairvoyance/), [_envoi de message_](/grimoire/envoi-de-message/) ou [_localiser une créature_](/grimoire/localiser-une-creature/). Vous pouvez utiliser ces sorts même si vous ne les connaissez pas et sans dépenser d'emplacement de sort.
 
 #### Repos récupérateur
-Également au niveau 6, lorsqu’une créature bénéficie de votre aptitude [_rêves reposants_](#reves-resposants) et dépense au moins un dé de vie, elle récupère aussi un niveau d’épuisement. Vous devez toutefois dépenser une utilisation de votre [_inspiration bardique_](#inspiration-bardique) pour chaque créature qui bénéficie de cet effet. Ces inspirations bardiques seront déduites de votre total habituel à votre réveil.
+Également au niveau 6, lorsqu'une créature bénéficie de votre aptitude [_rêves reposants_](#reves-resposants) et dépense au moins un dé de vie, elle récupère aussi un niveau d'épuisement. Vous devez toutefois dépenser une utilisation de votre [_inspiration bardique_](#inspiration-bardique) pour chaque créature qui bénéficie de cet effet. Ces inspirations bardiques seront déduites de votre total habituel à votre réveil.
 
 #### Rêves destructeurs
-Au niveau 14, lorsque vous dormez, une fois par repos long, vous pouvez utiliser le sort [_rêve_](/grimoire/reve/) ou le sort [_modification de mémoire_](/grimoire/modification-de-memoire/). Si vous utilisez [_modification de mémoire_](/grimoire/modification-de-memoire/), vous pouvez affecter une cible qui n’est pas en vue, mais située à une portée maximale de 36 mètres. Si vous possédez une composante biologique de votre cible (une mèche de cheveux, un ongle, une goutte de sang), la portée maximale passe à 3 km. Vous pouvez utiliser ces sorts même si vous ne les connaissez pas et sans dépenser d’emplacement de sort.
+Au niveau 14, lorsque vous dormez, une fois par repos long, vous pouvez utiliser le sort [_rêve_](/grimoire/reve/) ou le sort [_modification de mémoire_](/grimoire/modification-de-memoire/). Si vous utilisez [_modification de mémoire_](/grimoire/modification-de-memoire/), vous pouvez affecter une cible qui n'est pas en vue, mais située à une portée maximale de 36 mètres. Si vous possédez une composante biologique de votre cible (une mèche de cheveux, un ongle, une goutte de sang), la portée maximale passe à 3 km. Vous pouvez utiliser ces sorts même si vous ne les connaissez pas et sans dépenser d'emplacement de sort.

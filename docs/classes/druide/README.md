@@ -471,12 +471,12 @@ Source : Pangée - l'Âge du changement
 §§§
 
 #### Magie des morts
-Au niveau 2, vous apprenez les tours de magie [_contact glacial_](/grimoire/contact-glacial/) et [_épargner les mourants_](/grimoire/epargner-les-mourants/). De plus, vous pouvez dépenser une utilisation de votre forme sauvage pour lancer un sort de cercle (cf. ci-après) sans dépenser d’emplacement de sort. Enfin, vous bénéficiez d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des morts-vivants.
+Au niveau 2, vous apprenez les tours de magie [_contact glacial_](/grimoire/contact-glacial/) et [_épargner les mourants_](/grimoire/epargner-les-mourants/). De plus, vous pouvez dépenser une utilisation de votre forme sauvage pour lancer un sort de cercle (cf. ci-après) sans dépenser d'emplacement de sort. Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des morts-vivants.
 
 À partir du niveau 20, vous pouvez utiliser une de vos utilisations de forme sauvage afin de lancer un sort de cercle trois fois, au maximum, entre deux repos courts ou longs.
 
 #### Sorts de cercle
-Votre connexion mystique avec les esprits des morts vous donne la capacité de lancer certains sorts. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
+Votre connexion mystique avec les esprits des morts vous donne la capacité de lancer certains sorts. Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
 
 |Niveau de druide|Sort de cercle|
 |:-:|:-|
@@ -489,11 +489,11 @@ Votre connexion mystique avec les esprits des morts vous donne la capacité de l
 |**8**|[_bannissement_](/grimoire/bannissement/)|
 |**9**|[_sanctification_](/grimoire/sanctification/)|
 
-#### Forme d’ombre
-À partir du niveau 6, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [ombre](/bestiaire/ombre/). Lorsque vous êtes sous forme d’ombre, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.
+#### Forme d'ombre
+À partir du niveau 6, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [ombre](/bestiaire/ombre/). Lorsque vous êtes sous forme d'ombre, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.
 
 #### Repose en paix
-À partir du niveau 10, tous les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu’ils vous attaquent. De plus, vous pouvez lancer le sort [_invisibilité_](/grimoire/invisibilite/) une fois entre deux repos courts, mais il n’affecte que les morts-vivants. Les autres créatures vous voient normalement.
+À partir du niveau 10, tous les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu'ils vous attaquent. De plus, vous pouvez lancer le sort [_invisibilité_](/grimoire/invisibilite/) une fois entre deux repos courts, mais il n'affecte que les morts-vivants. Les autres créatures vous voient normalement.
 
-#### Forme d’esprit
-À partir du niveau 14, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [feu follet](/bestiaire/feu-follet/). Lorsque vous êtes sous forme d’esprit, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.
+#### Forme d'esprit
+À partir du niveau 14, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [feu follet](/bestiaire/feu-follet/). Lorsque vous êtes sous forme d'esprit, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.

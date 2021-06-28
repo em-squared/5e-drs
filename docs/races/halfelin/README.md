@@ -30,12 +30,12 @@ sidebarDepth: 0
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
-**Augmentation de caractéristique**. Votre valeur d’Intelligence augmente de 1.  
-**Petit mais imposant**. Vous avez appris à vous imposer et à ne jamais vous laisser marcher sur les pieds, mais toujours avec tact. Quand vous utilisez la compétence Persuasion, vous pouvez décider de relancer votre jet, mais vous devez le faire avant de savoir si c’est un échec ou une réussite. Si vous aviez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le test, vous effectuez la relance avec celui-ci. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
+**Augmentation de caractéristique**. Votre valeur d'Intelligence augmente de 1.  
+**Petit mais imposant**. Vous avez appris à vous imposer et à ne jamais vous laisser marcher sur les pieds, mais toujours avec tact. Quand vous utilisez la compétence Persuasion, vous pouvez décider de relancer votre jet, mais vous devez le faire avant de savoir si c'est un échec ou une réussite. Si vous aviez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le test, vous effectuez la relance avec celui-ci. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
 
-### <span class="icon-gondolfiere"></span> Halfelin p’relinne
+### <span class="icon-gondolfiere"></span> Halfelin p'relinne
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
 **Augmentation de caractéristique**. Votre valeur de Charisme augmente de 1.  
-**Inflexible**. Porté par la conviction que vous êtes investi d’une mission presque sacrée, plus rien ne peut vous effrayer. Une fois par jour, vous pouvez lancer le sort [_héroïsme_](/grimoire/heroisme/) sur vous-même. Votre caractéristique d’incantation pour ce sort est le Charisme. Ce sort, lancé de cette façon, n’utilise aucun emplacement de sort. Si vous choisissez une classe de personnage capable de lancer ce sort, il est alors considéré comme connu ou comme toujours préparé (en plus des sorts que vous êtes normalement capable de préparer). Vous pouvez alors le lancer de cette manière ou en dépensant un emplacement de sort, selon votre préférence.
+**Inflexible**. Porté par la conviction que vous êtes investi d'une mission presque sacrée, plus rien ne peut vous effrayer. Une fois par jour, vous pouvez lancer le sort [_héroïsme_](/grimoire/heroisme/) sur vous-même. Votre caractéristique d'incantation pour ce sort est le Charisme. Ce sort, lancé de cette façon, n'utilise aucun emplacement de sort. Si vous choisissez une classe de personnage capable de lancer ce sort, il est alors considéré comme connu ou comme toujours préparé (en plus des sorts que vous êtes normalement capable de préparer). Vous pouvez alors le lancer de cette manière ou en dépensant un emplacement de sort, selon votre préférence.

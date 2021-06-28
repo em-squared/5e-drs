@@ -264,45 +264,45 @@ Source : Pangée - l'Âge des Héros
 §§§
 
 #### Sang protéen
-Dès le niveau 1, la magie qui coule dans vos veines vous permet d’augmenter la puissance de vos sorts. Hélas, vous n’avez pas encore accès à la formidable source de puissance qui sommeille en vous et subissez de terribles brûlures de magie lorsque vous y faites appel.
+Dès le niveau 1, la magie qui coule dans vos veines vous permet d'augmenter la puissance de vos sorts. Hélas, vous n'avez pas encore accès à la formidable source de puissance qui sommeille en vous et subissez de terribles brûlures de magie lorsque vous y faites appel.
 
-Lorsque vous lancez un sort que vous avez appris via la classe d’ensorceleur, vous pouvez utiliser une action bonus pour sacrifiez 1d6 PV afin d’augmenter l’emplacement de sort que vous utilisez d’un niveau (ce qui correspond à la rubrique « À plus haut niveau » de certains sorts). Vous ne pouvez pas lancer un sort de niveau supérieur mais seulement augmenter le niveau auquel le sort est lancé (il est possible de dépasser le niveau d’emplacement du sort auquel vous avez normalement accès de cette façon). Lorsque vous utilisez cette capacité, vous ne pouvez sacrifier de PV temporaires, comme ceux obtenus grâce au sort [_simulacre de vie_](/grimoire/simulacre-de-vie/), par exemple.
+Lorsque vous lancez un sort que vous avez appris via la classe d'ensorceleur, vous pouvez utiliser une action bonus pour sacrifiez 1d6 PV afin d'augmenter l'emplacement de sort que vous utilisez d'un niveau (ce qui correspond à la rubrique « À plus haut niveau » de certains sorts). Vous ne pouvez pas lancer un sort de niveau supérieur mais seulement augmenter le niveau auquel le sort est lancé (il est possible de dépasser le niveau d'emplacement du sort auquel vous avez normalement accès de cette façon). Lorsque vous utilisez cette capacité, vous ne pouvez sacrifier de PV temporaires, comme ceux obtenus grâce au sort [_simulacre de vie_](/grimoire/simulacre-de-vie/), par exemple.
 
-Par exemple, si vous sacrifiez 1d6 PV sur un sort de [_projectile magique_](/grimoire/projectile-magique/), vous lancez deux fléchettes qui infligent 1d4+1 dégâts au lieu d’une seule (vous avez alors lancé le sort comme si vous aviez utilisé un emplacement de sort de niveau 2).
+Par exemple, si vous sacrifiez 1d6 PV sur un sort de [_projectile magique_](/grimoire/projectile-magique/), vous lancez deux fléchettes qui infligent 1d4+1 dégâts au lieu d'une seule (vous avez alors lancé le sort comme si vous aviez utilisé un emplacement de sort de niveau 2).
 
-Vous pouvez augmenter le niveau de l’emplacement de sort d’un maximum égal à votre bonus de maîtrise.
+Vous pouvez augmenter le niveau de l'emplacement de sort d'un maximum égal à votre bonus de maîtrise.
 
 Par exemple, au niveau 1, vous pouvez lancer trois projectiles magiques pour un total de 3d4+3 dégâts en vous infligeant 2d6 dégâts (emplacement de sort de niveau 1 plus bonus de maîtrise de +2). Ce qui est probablement suffisant pour vous tuer.
 
 #### Puissance brute
-Également au niveau 1, vous pouvez utiliser une action bonus et sacrifier 1d6 PV pour augmenter d’une catégorie le niveau auquel vous lancez un tour de magie.
+Également au niveau 1, vous pouvez utiliser une action bonus et sacrifier 1d6 PV pour augmenter d'une catégorie le niveau auquel vous lancez un tour de magie.
 
 Par exemple, si vous utilisez [_trait de feu_](/grimoire/trait-de-feu/), vous le lancez comme si vous étiez de niveau 5, soit 2d10 dégâts de feu (puis 3d10 lorsque vous serez au niveau 5, etc.).
 
 #### Premier verrou
-Au niveau 6, vous réussissez à libérer une partie de votre pouvoir intérieur. Désormais, vous pouvez utiliser vos points de sorcellerie pour augmenter le niveau d’emplacement d’un sort afin de le rendre plus puissant (ce qui correspond à la rubrique « À plus haut niveau » de certains sorts). Chaque point de sorcellerie dépensé permet d’augmenter le niveau effectif d’emplacement du sort de 1 point. Vous êtes toujours limité à une augmentation égale au maximum à votre bonus de maîtrise. Lorsque vous lancez un sort d’ensorceleur, vous pouvez mélanger les sources d’énergie entre vos points de sorcellerie et le sacrifice de vos PV. Vous pouvez aussi choisir de dépenser 1 point de sorcellerie au lieu de 1d6 PV lorsque vous utilisez votre aptitude [_puissance brute_](#puissance-brute).
+Au niveau 6, vous réussissez à libérer une partie de votre pouvoir intérieur. Désormais, vous pouvez utiliser vos points de sorcellerie pour augmenter le niveau d'emplacement d'un sort afin de le rendre plus puissant (ce qui correspond à la rubrique « À plus haut niveau » de certains sorts). Chaque point de sorcellerie dépensé permet d'augmenter le niveau effectif d'emplacement du sort de 1 point. Vous êtes toujours limité à une augmentation égale au maximum à votre bonus de maîtrise. Lorsque vous lancez un sort d'ensorceleur, vous pouvez mélanger les sources d'énergie entre vos points de sorcellerie et le sacrifice de vos PV. Vous pouvez aussi choisir de dépenser 1 point de sorcellerie au lieu de 1d6 PV lorsque vous utilisez votre aptitude [_puissance brute_](#puissance-brute).
 
 #### Lâcher prise
-Également au niveau 6, Vous pouvez décider de libérer l’énergie qui sommeille en vous... avec le risque d’en perdre le contrôle. Lorsque vous lancez un sort, vous pouvez choisir de bénéficier d’un nombre de points de sorcellerie de votre choix dans la mesure où il reste inférieur à votre bonus de maîtrise. Ces points de sorcellerie doivent être immédiatement dépensés par une action bonus. Lancez un d6 : si le résultat est inférieur ou égal au nombre de points de sorcellerie dépensés, vous subissez un effet néfaste à déterminer sur la table ci-dessous **(lancez 2d6) :**
+Également au niveau 6, Vous pouvez décider de libérer l'énergie qui sommeille en vous... avec le risque d'en perdre le contrôle. Lorsque vous lancez un sort, vous pouvez choisir de bénéficier d'un nombre de points de sorcellerie de votre choix dans la mesure où il reste inférieur à votre bonus de maîtrise. Ces points de sorcellerie doivent être immédiatement dépensés par une action bonus. Lancez un d6 : si le résultat est inférieur ou égal au nombre de points de sorcellerie dépensés, vous subissez un effet néfaste à déterminer sur la table ci-dessous **(lancez 2d6) :**
 * 2. Vous devenez aveugle.
-* 3. Vos cheveux blanchissent d’un coup.
+* 3. Vos cheveux blanchissent d'un coup.
 * 4. Votre peau devient froide ou au contraire brûlante (au choix). Vous obtenez une vulnérabilité aux dégâts de feu ou de froid et une résistance à son opposé.
 * 5. Vous perdez conscience pour 1d6 minutes.
-* 6. Épuisé : Vous subissez un niveau d’épuisement.
+* 6. Épuisé : Vous subissez un niveau d'épuisement.
 * 7. Vous ne pouvez plus lancer ce sort pendant 24 heures.
-* 8. Affaibli : vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos actions jusqu’à ce que vous preniez un repos court.
+* 8. Affaibli : vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos actions jusqu'à ce que vous preniez un repos court.
 * 9. Retour de flammes. Vous subissez 1d10 dégâts par point de sorcellerie utilisé pour lancer ce sort.
 * 10. Dérèglement : vous développez au choix un tic facial, une phobie ou une allergie.
 * 11. Vos yeux deviennent rouges, légèrement phosphorescents dans le noir.
 * 12. Votre peau devient transparente, vos veines sont visibles à travers elle et deviennent lumineuses lorsque vous faites appel à vos points de sorcellerie ou si vous sacrifiez des PV. Vous développez une vulnérabilité aux dégâts contondants.
 
-La première fois que vous obtenez les résultats 2 à 4 ou 10 à 12, l’effet dure 24 heures. Cochez-le pour en garder la trace. La seconde fois, l’effet devient permanent. L'effet peut cependant être supprimé grâce à un sort de [_souhait_](/grimoire/souhait/) uniquement.
+La première fois que vous obtenez les résultats 2 à 4 ou 10 à 12, l'effet dure 24 heures. Cochez-le pour en garder la trace. La seconde fois, l'effet devient permanent. L'effet peut cependant être supprimé grâce à un sort de [_souhait_](/grimoire/souhait/) uniquement.
 
 #### Second verrou
-À partir du niveau 14, vous devenez capable de nourrir votre énergie intérieure par votre vitalité. Vous pouvez utiliser une action bonus pour récupérer autant de point de sorcellerie que vous le désirez. Vous subissez immédiatement autant d6 de dégâts que le nombre de points de sorcellerie récupérés. Vous ne pouvez pas dépasser le nombre maximal de points de sorcellerie fixé par votre niveau d’ensorceleur de cette façon.
+À partir du niveau 14, vous devenez capable de nourrir votre énergie intérieure par votre vitalité. Vous pouvez utiliser une action bonus pour récupérer autant de point de sorcellerie que vous le désirez. Vous subissez immédiatement autant d6 de dégâts que le nombre de points de sorcellerie récupérés. Vous ne pouvez pas dépasser le nombre maximal de points de sorcellerie fixé par votre niveau d'ensorceleur de cette façon.
 
 #### Dernier verrou
-Au niveau 18, vous débloquez l’ultime verrou. Vous pouvez tremper votre âme dans le feu de votre pouvoir pour produire une énergie qui défie l’entendement. Lorsque vous lancez un sort, vous pouvez sacrifier un nombre de PV de votre choix pour produire autant de points de sorcellerie. Les points de vie ainsi sacrifiés sont retirés de votre valeur maximale de points de vie et ne peuvent pas être récupérés via des soins ou du repos. En revanche, vous récupérez jusqu’à 10 points en changeant de niveau. Une énergie à consommer avec modération...
+Au niveau 18, vous débloquez l'ultime verrou. Vous pouvez tremper votre âme dans le feu de votre pouvoir pour produire une énergie qui défie l'entendement. Lorsque vous lancez un sort, vous pouvez sacrifier un nombre de PV de votre choix pour produire autant de points de sorcellerie. Les points de vie ainsi sacrifiés sont retirés de votre valeur maximale de points de vie et ne peuvent pas être récupérés via des soins ou du repos. En revanche, vous récupérez jusqu'à 10 points en changeant de niveau. Une énergie à consommer avec modération...
 
 #### Puissance brutale
-Également au niveau 18, vous pouvez utiliser une action bonus pour augmenter les dégâts d’un tour de magie sans sacrifier de PV ou de point(s) de sorcellerie. Vous obtenez un dé de dégât supplémentaire du même type que celui utilisé pour ce tour de magie (1d10 pour [_trait de feu_](/grimoire/trait-de-feu/) ou 1d8 pour [_rayon de givre_](/grimoire/rayon-de-givre/) par exemple).
+Également au niveau 18, vous pouvez utiliser une action bonus pour augmenter les dégâts d'un tour de magie sans sacrifier de PV ou de point(s) de sorcellerie. Vous obtenez un dé de dégât supplémentaire du même type que celui utilisé pour ce tour de magie (1d10 pour [_trait de feu_](/grimoire/trait-de-feu/) ou 1d8 pour [_rayon de givre_](/grimoire/rayon-de-givre/) par exemple).

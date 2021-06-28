@@ -39,7 +39,7 @@ Source : Pangée - l'Âge des Héros
 §§§
 **Augmentation de caractéristique**. Votre valeur de Sagesse augmente de 1.  
 **Entraînement elfique**. Vous maîtrisez les cimeterres, les fouets, les arcs longs et les arcs courts.  
-**Murmures animaux**. Vous pouvez lancer les sorts [_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) et [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/). Vous devez prendre un repos long avant de pouvoir lancer de nouveau l’un ou l’autre de ces sorts. Si vous optez pour une classe de lanceur de sorts possédant, dans sa liste, ces deux sorts, vous les connaissez alors automatiquement et les considérez comme étant toujours préparés (en plus des sorts que vous connaissez ou que vous êtes normalement capable de préparer). Vous pouvez alors décider de les lancer gratuitement comme cette capacité le permet, ou en dépensant un emplacement de sort. Votre caractéristique d'incantation pour ces tours de magie est le Charisme. S'ils intègrent vos tours de magie connus grâce à votre classe, elle devient la caractéristique d'incantation de votre classe.
+**Murmures animaux**. Vous pouvez lancer les sorts [_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) et [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/). Vous devez prendre un repos long avant de pouvoir lancer de nouveau l'un ou l'autre de ces sorts. Si vous optez pour une classe de lanceur de sorts possédant, dans sa liste, ces deux sorts, vous les connaissez alors automatiquement et les considérez comme étant toujours préparés (en plus des sorts que vous connaissez ou que vous êtes normalement capable de préparer). Vous pouvez alors décider de les lancer gratuitement comme cette capacité le permet, ou en dépensant un emplacement de sort. Votre caractéristique d'incantation pour ces tours de magie est le Charisme. S'ils intègrent vos tours de magie connus grâce à votre classe, elle devient la caractéristique d'incantation de votre classe.
 
 ### <span class="icon-gondolfiere"></span> Elfe des vagues
 §§§ .source .font-italic
@@ -47,12 +47,12 @@ Source : Pangée - l'Âge des Héros
 §§§
 **Augmentation de caractéristique**. Votre valeur de Constitution augmente de 1.  
 **Entraînement elfique**. Vous maîtrisez les tridents, les sarbacanes, les arcs longs et les arcs courts.  
-**Comme un poisson dans l’eau**. Vous êtes capable de respirer sous l’eau comme sur terre pendant une durée de 10 minutes. De plus, quand vous nagez, vous ne subissez aucun [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos manœuvres sous-marines et pouvez nager à votre vitesse normale.
+**Comme un poisson dans l'eau**. Vous êtes capable de respirer sous l'eau comme sur terre pendant une durée de 10 minutes. De plus, quand vous nagez, vous ne subissez aucun [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos manœuvres sous-marines et pouvez nager à votre vitesse normale.
 
 ### <span class="icon-gondolfiere"></span> Elfe des roches
 §§§ .source .font-italic
 Source : Pangée - l'Âge des Héros
 §§§
-**Augmentation de caractéristique**. Votre valeur d’Intelligence augmente de 1.  
+**Augmentation de caractéristique**. Votre valeur d'Intelligence augmente de 1.  
 **Entraînement elfique**. Vous maîtrisez les cimeterres, les sarbacanes, les arcs longs et les arcs courts.  
-**Résistant comme la roche**. Vous êtes résistant aux dégâts contondants et aux dégâts d’acide.
+**Résistant comme la roche**. Vous êtes résistant aux dégâts contondants et aux dégâts d'acide.

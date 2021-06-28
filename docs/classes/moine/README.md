@@ -213,24 +213,24 @@ Source : Pangée - l'Âge du changement
 §§§
 
 #### Magie des plantes
-Lorsque vous choisissez cette tradition au niveau 3, vous devenez capable de lancer des sorts de druide issus de la liste ci-après en dépensant des points de ki. Chaque sort lancé vous coûte un nombre de points de ki égal à son niveau. Le nombre maximal de points de ki que vous pouvez dépenser pour lancer un sort ne doit pas dépasser votre bonus de maîtrise. La Sagesse est votre caractéristique d’incantation pour lancer vos sorts. La difficulté des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est égale à celle de vos aptitudes de ki.
+Lorsque vous choisissez cette tradition au niveau 3, vous devenez capable de lancer des sorts de druide issus de la liste ci-après en dépensant des points de ki. Chaque sort lancé vous coûte un nombre de points de ki égal à son niveau. Le nombre maximal de points de ki que vous pouvez dépenser pour lancer un sort ne doit pas dépasser votre bonus de maîtrise. La Sagesse est votre caractéristique d'incantation pour lancer vos sorts. La difficulté des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est égale à celle de vos aptitudes de ki.
 
-Chaque matin après un repos long, vous préparez les sorts de druide que vous pourrez lancer pendant la journée. Il vous faut dix minutes de méditation (ou d’art floral ou de jardinage) par sort que vous préparez et vous pouvez préparer un nombre de sorts égal à votre bonus de maîtrise parmi les sorts que vous pouvez lancer.
+Chaque matin après un repos long, vous préparez les sorts de druide que vous pourrez lancer pendant la journée. Il vous faut dix minutes de méditation (ou d'art floral ou de jardinage) par sort que vous préparez et vous pouvez préparer un nombre de sorts égal à votre bonus de maîtrise parmi les sorts que vous pouvez lancer.
 * Niveau 1 : [_baies nourricières_](/grimoire/baies-nourricieres/), [_enchevêtrement_](/grimoire/enchevetrement/).
-* Niveau 2 : [_croissance d’épines_](/grimoire/croissance-d-epines/), [_peau d’écorce_](/grimoire/peau-d-ecorce/).
+* Niveau 2 : [_croissance d'épines_](/grimoire/croissance-d-epines/), [_peau d'écorce_](/grimoire/peau-d-ecorce/).
 * Niveau 3 : [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/), [_croissance végétale_](/grimoire/croissance-vegetale/).
 * Niveau 4 : [_liane chasseresse_](/grimoire/liane-chasseresse/), [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/).
 * Niveau 5 : [_communion avec la nature_](/grimoire/communion-avec-la-nature/), [_passage par les arbres_](/grimoire/passage-par-les-arbres/).
-* Niveau 6 : [_mur d’épines_](/grimoire/mur-d-epines/), [_transport végétal_](/grimoire/transport-vegetal/).
+* Niveau 6 : [_mur d'épines_](/grimoire/mur-d-epines/), [_transport végétal_](/grimoire/transport-vegetal/).
 
 #### Pacifisme
-Également au niveau 3, votre immobilité est trompeuse : car vous êtes pleinement conscient de la présence de vos ennemis. Si vous n’avez pas réalisé d’action offensive lors de votre tour, vous pouvez utiliser votre réaction pour lancer votre dé d’arts martiaux et l’ajouter à votre CA contre une attaque jusqu’à votre prochain tour.
+Également au niveau 3, votre immobilité est trompeuse : car vous êtes pleinement conscient de la présence de vos ennemis. Si vous n'avez pas réalisé d'action offensive lors de votre tour, vous pouvez utiliser votre réaction pour lancer votre dé d'arts martiaux et l'ajouter à votre CA contre une attaque jusqu'à votre prochain tour.
 
 #### Enraciné
 À partir du niveau 6, votre équilibre plonge ses racines dans les courants telluriques du monde : vous ne pouvez plus être mis [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ni [_repoussé_](/gerer-la-sante-du-personnage/#repousse) (subir un déplacement) contre votre gré.
 
 #### Maître de la taille
-Le bonsaï peut être aussi vieux que le chêne majestueux. Vous avez appris des plantes que la force intérieure n’est pas liée à la taille et que l’espace occupé par un être vivant peut être plié par la volonté. À partir du niveau 11, vous pouvez lancer le sort [_agrandir/rétrécir_](/grimoire/agrandir-retrecir/) sur vous-même en dépensant 2 points de Ki. Lorsque vous lancez ce sort via cette aptitude, il ne nécessite pas de concentration. Lorsque vous utilisez la possibilité de rétrécissement du sort, vous gagnez +1 en CA et obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité.
+Le bonsaï peut être aussi vieux que le chêne majestueux. Vous avez appris des plantes que la force intérieure n'est pas liée à la taille et que l'espace occupé par un être vivant peut être plié par la volonté. À partir du niveau 11, vous pouvez lancer le sort [_agrandir/rétrécir_](/grimoire/agrandir-retrecir/) sur vous-même en dépensant 2 points de Ki. Lorsque vous lancez ce sort via cette aptitude, il ne nécessite pas de concentration. Lorsque vous utilisez la possibilité de rétrécissement du sort, vous gagnez +1 en CA et obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité.
 
 #### Régénération
-À partir du niveau 17, vous pouvez régénérer votre énergie vitale en laissant l’énergie du sol remonter à travers vos pieds et circuler en vous, à la façon dont un arbre fait repousser les branches taillées lorsque le printemps arrive. En dépensant 6 points de Ki, vous pouvez lancer le sort [_régénération_](/grimoire/regeneration/) sur vous-même tant que vous avez les pieds en contact avec la terre. Le sort cesse de faire effet si vous vous déplacez. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
+À partir du niveau 17, vous pouvez régénérer votre énergie vitale en laissant l'énergie du sol remonter à travers vos pieds et circuler en vous, à la façon dont un arbre fait repousser les branches taillées lorsque le printemps arrive. En dépensant 6 points de Ki, vous pouvez lancer le sort [_régénération_](/grimoire/regeneration/) sur vous-même tant que vous avez les pieds en contact avec la terre. Le sort cesse de faire effet si vous vous déplacez. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.

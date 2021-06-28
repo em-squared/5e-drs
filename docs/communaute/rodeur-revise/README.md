@@ -53,7 +53,7 @@ _(a)_ Un arc long et un carquois avec 20 flèches ou _(b)_ une arme de guerre
 _(a)_ un paquetage d'exploration souterraine ou _(b)_ un paquetage d'explorateur
 
 ### Expert des étendues sauvages
-Vos aptitudes d’explorateur et de survivaliste sont inégalables. Au premier niveau, choisissez une des compétences que vous maîtrisez dans la liste des compétences des rôdeurs. Votre bonus de maîtrise est doublé pour tout test de compétence que vous faites et qui utilise cette compétence. Vous apprenez également à parler, lire et écrire une langue supplémentaire de votre choix. La plupart des rôdeurs choisissent d'apprendre une langue parlée par leurs ennemis jurés.
+Vos aptitudes d'explorateur et de survivaliste sont inégalables. Au premier niveau, choisissez une des compétences que vous maîtrisez dans la liste des compétences des rôdeurs. Votre bonus de maîtrise est doublé pour tout test de compétence que vous faites et qui utilise cette compétence. Vous apprenez également à parler, lire et écrire une langue supplémentaire de votre choix. La plupart des rôdeurs choisissent d'apprendre une langue parlée par leurs ennemis jurés.
 
 Lorsque vous atteignez le niveau 10, vous sélectionnez une deuxième compétence de rôdeur et lui appliquez cette aptitude, et vous apprenez à parler, lire et écrire une autre langue supplémentaire de votre choix.
 
@@ -62,9 +62,9 @@ Votre séjour dans la nature vous a permis d'accumuler des connaissances primiti
 
 Au niveau 1, vous apprenez une technique de votre choix. La liste des techniques de survie est détaillée après la description de cette classe.
 
-Lorsque vous atteignez certains niveaux de rôdeur, vous pouvez apprendre de nouvelles techniques de survie de votre choix, comme indiqué dans la colonne techniques de survie du tableau d’[évolution du rôdeur](#evolution-du-rodeur).
+Lorsque vous atteignez certains niveaux de rôdeur, vous pouvez apprendre de nouvelles techniques de survie de votre choix, comme indiqué dans la colonne techniques de survie du tableau d'[évolution du rôdeur](#evolution-du-rodeur).
 
-Si une technique demande un prérequis, comme un certain niveau de rôdeur, vous pouvez l’apprendre dès que vous remplissez les critères requis.
+Si une technique demande un prérequis, comme un certain niveau de rôdeur, vous pouvez l'apprendre dès que vous remplissez les critères requis.
 
 De plus, lorsque vous gagnez un niveau de rôdeur, vous pouvez choisir l'une des techniques de survie que vous connaissez et la remplacer par une autre pour laquelle vous remplissez les conditions requises.
 
@@ -84,7 +84,7 @@ La créature reste votre ennemi juré pendant une minute, ou jusqu'à ce qu'elle
 
 §§§ .hero
 #### Ennemi juré et Marque du chasseur
-La capacité ennemi juré de cette révision a été créée pour permettre aux rôdeurs d’utiliser des sorts de concentration autres que [_marque du chasseur_](/grimoire/marque-du-chasseur/). Si un personnage-joueur utilise cette révision, il est recommandé de supprimer le sort [_marque du chasseur_](/grimoire/marque-du-chasseur/) de la liste des sorts de rôdeur de ce personnage.
+La capacité ennemi juré de cette révision a été créée pour permettre aux rôdeurs d'utiliser des sorts de concentration autres que [_marque du chasseur_](/grimoire/marque-du-chasseur/). Si un personnage-joueur utilise cette révision, il est recommandé de supprimer le sort [_marque du chasseur_](/grimoire/marque-du-chasseur/) de la liste des sorts de rôdeur de ce personnage.
 §§§
 
 ### Incantations
@@ -93,14 +93,14 @@ Quand vous arrivez au niveau 2, vous apprenez à utiliser l'essence magique qui 
 #### Préparer et lancer des sorts
 Vous trouverez dans le tableau d'[évolution du rôdeur](#evolution-du-rodeur) ci-dessus le nombre d'emplacements de sorts que vous avez et qui vous permettent de lancer des sorts de niveau 1 ou supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement de sort d'un niveau équivalent ou supérieur au sort que vous voulez lancer. Vous regagnez tous les emplacements de sort que vous avez dépensés après un repos long.
 
-Choisissez dans la liste des sorts de rôdeur des sorts que vous pouvez lancer afin de les préparer. Choisissez un nombre de sorts de rôdeur égal à votre modificateur de Sagesse + la moitié de votre niveau de rôdeur, arrondi à l’inférieur. Vous devez choisir des sorts pour lesquels vous disposez d'un emplacement de sort.
+Choisissez dans la liste des sorts de rôdeur des sorts que vous pouvez lancer afin de les préparer. Choisissez un nombre de sorts de rôdeur égal à votre modificateur de Sagesse + la moitié de votre niveau de rôdeur, arrondi à l'inférieur. Vous devez choisir des sorts pour lesquels vous disposez d'un emplacement de sort.
 
-Par exemple, un rôdeur de niveau 5 a quatre emplacements de sorts de niveau 1 et deux de niveau 2. Avec une valeur de Sagesse de 14, sa liste de sorts préparés peut inclure quatre sorts de niveau 1 et 2, qu'il peut combiner comme il le souhaite. Si vous préparez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures/), vous pouvez le lancer en utilisant un emplacement de sort de niveau 1 ou de niveau 2. Lancer le sort ne l’efface pas de votre liste de sorts préparés.
+Par exemple, un rôdeur de niveau 5 a quatre emplacements de sorts de niveau 1 et deux de niveau 2. Avec une valeur de Sagesse de 14, sa liste de sorts préparés peut inclure quatre sorts de niveau 1 et 2, qu'il peut combiner comme il le souhaite. Si vous préparez le sort de niveau 1 [_soin des blessures_](/grimoire/soin-des-blessures/), vous pouvez le lancer en utilisant un emplacement de sort de niveau 1 ou de niveau 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés en prenant un repos long.
 
-#### Caractéristique d’incantation
-La Sagesse est votre caractéristique d'incantation pour vos sorts de rôdeur, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort de rôdeur requiert votre caractéristique d’incantation pour être lancé. De plus, votre modificateur de Sagesse détermine le DD du jet de sauvegarde de vos sorts de rôdeur, ainsi que vos jets d'attaque de sorts.
+#### Caractéristique d'incantation
+La Sagesse est votre caractéristique d'incantation pour vos sorts de rôdeur, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort de rôdeur requiert votre caractéristique d'incantation pour être lancé. De plus, votre modificateur de Sagesse détermine le DD du jet de sauvegarde de vos sorts de rôdeur, ainsi que vos jets d'attaque de sorts.
 
 DD de sauvegarde des sorts = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
 
@@ -130,13 +130,13 @@ Lorsque vous attaquez avec une arme disposant de la propriété polyvalente, vou
 De plus, si l'arme est tenue à une main, vous pouvez utiliser votre action bonus pour réaliser une attaque à mains nues, une bousculade ou bien équiper ou déséquiper un bouclier.
 
 #### Combat sans armes
-Vos coups à mains nues infligent 1d6 + votre modificateur de Force dégâts contondants. Si vous ne maniez pas d’arme ou de bouclier quand vous réalisez l’attaque, vous lancez un d8 au lieu du d6. De plus, au début de chacun de vos tours, vous pouvez infliger 1d4 dégâts contondants à une créature que vous agrippez.
+Vos coups à mains nues infligent 1d6 + votre modificateur de Force dégâts contondants. Si vous ne maniez pas d'arme ou de bouclier quand vous réalisez l'attaque, vous lancez un d8 au lieu du d6. De plus, au début de chacun de vos tours, vous pouvez infliger 1d4 dégâts contondants à une créature que vous agrippez.
 
 #### Défense
-Votre entraînement s’est axé sur la défense. Lorsque vous portez une armure, vous obtenez un bonus de +1 à votre classe d'armure.
+Votre entraînement s'est axé sur la défense. Lorsque vous portez une armure, vous obtenez un bonus de +1 à votre classe d'armure.
 
 #### Duel
-Vous avez peaufiné l’art du combat avec une seule arme. Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme.
+Vous avez peaufiné l'art du combat avec une seule arme. Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme.
 
 #### Guerrier druidique
 Votre lien avec les esprits de la nature est plus fort que pour la plupart des autres rôdeurs.
@@ -146,17 +146,17 @@ Vous apprenez deux tours de magie de druide de votre choix. Vous considérez ces
 Chaque fois que vous gagnez un niveau dans cette classe, vous pouvez remplacer l'un de ces sorts mineurs par un autre tour de magie de druide.
 
 #### Lanceur expert
-Vous pouvez dégainer une arme disposant de la propriété lancer dans le cadre de l’action _Attaquer_ que vous réalisez avec. De plus, quand vous attaquez avec une arme de lancer, vous bénéficiez d’un bonus aux dégâts de +2.
+Vous pouvez dégainer une arme disposant de la propriété lancer dans le cadre de l'action _Attaquer_ que vous réalisez avec. De plus, quand vous attaquez avec une arme de lancer, vous bénéficiez d'un bonus aux dégâts de +2.
 
 #### Marin
-Vous êtes entraîné à vous battre dans des environnements aquatiques. Du moment que vous ne portez pas d’armure intermédiaire ou lourde et n’utilisez pas de bouclier, votre vitesse de nage est égale à votre vitesse de déplacement, et vous bénéficiez d’un bonus de +1 à votre CA.
+Vous êtes entraîné à vous battre dans des environnements aquatiques. Du moment que vous ne portez pas d'armure intermédiaire ou lourde et n'utilisez pas de bouclier, votre vitesse de nage est égale à votre vitesse de déplacement, et vous bénéficiez d'un bonus de +1 à votre CA.
 
 ### Archétype de rôdeur
-Au niveau 3, vous choisissez un archétype qui représente le mieux l’entraînement de rôdeur que vous avez suivi : le [brise-sorts](#brise-sorts), le [chasseur](#chasseur), le [chasseur de primes](#chasseur-de-primes), le [dompteur](#dompteur), le [guide stellaire](#guide-stellaire), le [nomade](#nomade) et le [traqueur sinistre](#traqueur-sinistre). Chacun d’entre eux est détaillé après la description de cette classe.
+Au niveau 3, vous choisissez un archétype qui représente le mieux l'entraînement de rôdeur que vous avez suivi : le [brise-sorts](#brise-sorts), le [chasseur](#chasseur), le [chasseur de primes](#chasseur-de-primes), le [dompteur](#dompteur), le [guide stellaire](#guide-stellaire), le [nomade](#nomade) et le [traqueur sinistre](#traqueur-sinistre). Chacun d'entre eux est détaillé après la description de cette classe.
 
-Vous pouvez aussi utiliser, sans adaptation particulière, les archétypes issus du _Guide complet de Xanathar_ : l’arpenteur de l’horizon, le traqueur des ténèbres et le tueur de monstres.
+Vous pouvez aussi utiliser, sans adaptation particulière, les archétypes issus du _Guide complet de Xanathar_ : l'arpenteur de l'horizon, le traqueur des ténèbres et le tueur de monstres.
 
-Votre choix d’archétype vous accorde des aptitudes aux niveaux 3, 7, 11 et 15.
+Votre choix d'archétype vous accorde des aptitudes aux niveaux 3, 7, 11 et 15.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous gagnez un bonus de +2 ou deux bonus de +1 aux valeurs de caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -165,9 +165,9 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous gagnez un bonus de +2 
 À partir du niveau 5 et à votre tour, vous pouvez attaquer deux fois quand vous choisissez l'action attaquer.
 
 ### Sens sauvages
-Au niveau 18, vos jets d’attaque contre toute créature à moins de 9m de vous ne peuvent subir de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+Au niveau 18, vos jets d'attaque contre toute créature à moins de 9m de vous ne peuvent subir de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
-### Tueur d’ennemis
+### Tueur d'ennemis
 Au niveau 20, vous devenez un chasseur hors pair face à vos ennemis. Quand vous touchez une créature marquée comme votre ennemi juré avec une attaque avec arme, vous gagnez un bonus aux dégâts égal à votre modificateur de Sagesse (minimum 1).
 
 ## Liste de sorts du rôdeur
@@ -190,7 +190,7 @@ _collet_ (XGTE)
 _frappe du zéphyr_ (XGTE)  
 _frappe piégeante_ (PHB)  
 [_grande foulée_](/grimoire/grande-foulee/)  
-_grêle d’épines_ (PHB)  
+_grêle d'épines_ (PHB)  
 _lien avec une bête_ (XGTE)  
 [_nappe de brouillard_](/grimoire/nappe-de-brouillard/)  
 [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-l-eau/) (rituel)  
@@ -205,7 +205,7 @@ _lien avec une bête_ (XGTE)
 [_bourrasque_](/grimoire/bourrasque/)  
 [_compagnon animal_](/grimoire/compagnon-animal/)  
 _cordon de flèches_ (PHB)  
-[_croissance d’épines_](/grimoire/croissance-d-epines/)  
+[_croissance d'épines_](/grimoire/croissance-d-epines/)  
 _esprit guérisseur_ (XGTE)  
 [_flamme éternelle_](/grimoire/flamme-eternelle/)  
 [_lien de protection_](/grimoire/lien-de-protection/)  
@@ -213,7 +213,7 @@ _esprit guérisseur_ (XGTE)
 [_localiser un objet_](/grimoire/localiser-un-objet/)  
 [_messager animal_](/grimoire/messager-animal/) (rituel)  
 [_passage sans trace_](/grimoire/passage-sans-trace/)  
-[_peau d’écorce_](/grimoire/peau-d-ecorce/)  
+[_peau d'écorce_](/grimoire/peau-d-ecorce/)  
 [_protection contre le poison_](/grimoire/protection-contre-le-poison/)  
 [_restauration inférieure_](/grimoire/restauration-inferieure/)  
 _sens animal_ (rituel) (PHB)  
@@ -235,7 +235,7 @@ _flèches enflammées_ (XGTE)
 _invocation de tir de barrage_ (PHB)  
 [_langues_](/grimoire/langues/)  
 [_lumière du jour_](/grimoire/lumiere-du-jour/)  
-[_marche sur l’eau_](/grimoire/marche-sur-l-eau/) (rituel)  
+[_marche sur l'eau_](/grimoire/marche-sur-l-eau/) (rituel)  
 [_mur de vent_](/grimoire/mur-de-vent/)  
 [_non-détection_](/grimoire/non-detection/)  
 [_petite hutte_](/grimoire/petite-hutte/)  
@@ -260,7 +260,7 @@ _liane agrippeuse_ (PHB)
 [_communion avec la nature_](/grimoire/communion-avec-la-nature/) (rituel)  
 [_contagion_](/grimoire/contagion/)  
 [_éveil_](/grimoire/eveil/)  
-_frappe du vent d’acier_ (XGTE)  
+_frappe du vent d'acier_ (XGTE)  
 _fureur de la nature_ (XGTE)  
 [_nuée de projectiles_](/grimoire/nuee-de-projectiles/)  
 [_passage par les arbres_](/grimoire/passage-par-les-arbres/)  
@@ -274,22 +274,22 @@ Vous trouverez ici les techniques de survie disponibles pour le rôdeur.
 
 ### Alpiniste
 _Prérequis : rôdeur niveau 6_  
-Vous escaladez les sommets montagneux comme les bêtes les plus infaillibles de la région. Vous obtenez une vitesse d’escalade de 9 mètres, et vous pouvez utiliser votre réaction pour réduire les dégâts de chute que vous pouvez subir d’un montant égal à votre niveau de rôdeur.
+Vous escaladez les sommets montagneux comme les bêtes les plus infaillibles de la région. Vous obtenez une vitesse d'escalade de 9 mètres, et vous pouvez utiliser votre réaction pour réduire les dégâts de chute que vous pouvez subir d'un montant égal à votre niveau de rôdeur.
 
-Si vous bénéficiez déjà d'une vitesse d’escalade grâce à une autre capacité, vous augmentez celle-ci de 3 mètres.
+Si vous bénéficiez déjà d'une vitesse d'escalade grâce à une autre capacité, vous augmentez celle-ci de 3 mètres.
 
 ### Arpenteur I
-Peu d’obstacles naturels arrivent à vous freiner et vous savez guider n'importe qui au travers. Vous ignorez les effets des terrains difficiles imposés par les environnements naturels, tels que la forêt, les sous-bois, les terrains neigeux ou les marécages.
+Peu d'obstacles naturels arrivent à vous freiner et vous savez guider n'importe qui au travers. Vous ignorez les effets des terrains difficiles imposés par les environnements naturels, tels que la forêt, les sous-bois, les terrains neigeux ou les marécages.
 
-De plus, vous et jusqu’à cinq personnes qui vous accompagnent n’êtes pas ralentis par le terrain difficile.
+De plus, vous et jusqu'à cinq personnes qui vous accompagnent n'êtes pas ralentis par le terrain difficile.
 
 ### Arpenteur II
 _Prérequis : rôdeur niveau 3, Arpenteur I_  
-Une fois repérées, vous traquez vos proies sans relâche. Vous pouvez choisir l’action _Se précipiter_ en tant qu’action bonus à votre tour.
+Une fois repérées, vous traquez vos proies sans relâche. Vous pouvez choisir l'action _Se précipiter_ en tant qu'action bonus à votre tour.
 
 ### Arpenteur III
 _Prérequis : rôdeur niveau 6, Arpenteur I, II_  
-Vous pouvez surmonter à peu près n’importe quel obstacle sur votre route. Votre mouvement de base au sol augmente de 3 mètres, et vous ignorez les effets des terrains difficiles imposés par les sorts, les phénomènes magiques, et tout autre effet d’origine magique.
+Vous pouvez surmonter à peu près n'importe quel obstacle sur votre route. Votre mouvement de base au sol augmente de 3 mètres, et vous ignorez les effets des terrains difficiles imposés par les sorts, les phénomènes magiques, et tout autre effet d'origine magique.
 
 ### Arpenteur IV
 _Prérequis : rôdeur niveau 14, Arpenteur I, II, III_  
@@ -297,7 +297,7 @@ Vous vous déplacez à travers le monde sans être retenu même par la plus puis
 
 ### Chasseur I
 _Prérequis : rôdeur niveau 3_  
-Une fois que vous avez une cible en vue, il est rare qu’elle s’échappe. Vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) et Sagesse (Survie) ayant pour but de pister votre ennemi juré.
+Une fois que vous avez une cible en vue, il est rare qu'elle s'échappe. Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) et Sagesse (Survie) ayant pour but de pister votre ennemi juré.
 
 ### Chasseur II
 _Prérequis : rôdeur niveau 6, Chasseur I_  
@@ -305,35 +305,35 @@ Vos capacités de pistage sont devenues extraordinairement précises. Vous savez
 
 ### Chasseur III
 _Prérequis : rôdeur niveau 14, Chasseur I, II_  
-Une fois par tour, lorsque vous attaquez votre ennemi juré avec une arme, vous pouvez le forcer à réaliser un jet de sauvegarde de Constitution en plus des dégâts normaux de l’attaque. Le DD du jet de sauvegarde est le même que pour résister à vos sorts de rôdeur. En cas d'échec, l'ennemi juré est [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_entravé_](/gerer-la-sante-du-personnage/#entrave) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) (à votre guise) jusqu’au début de votre prochain tour.
+Une fois par tour, lorsque vous attaquez votre ennemi juré avec une arme, vous pouvez le forcer à réaliser un jet de sauvegarde de Constitution en plus des dégâts normaux de l'attaque. Le DD du jet de sauvegarde est le même que pour résister à vos sorts de rôdeur. En cas d'échec, l'ennemi juré est [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_entravé_](/gerer-la-sante-du-personnage/#entrave) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) (à votre guise) jusqu'au début de votre prochain tour.
 
 ### Explorateur I
-Les étendues sauvages n'ont pas de secrets pour vous, il est donc rare que vous perdiez votre route. Vous et vos compagnons ne pouvez vous perdre dans des environnements naturels, à moins que vous ne soyez victimes d’effets magiques.
+Les étendues sauvages n'ont pas de secrets pour vous, il est donc rare que vous perdiez votre route. Vous et vos compagnons ne pouvez vous perdre dans des environnements naturels, à moins que vous ne soyez victimes d'effets magiques.
 
 ### Explorateur II
 _Prérequis : rôdeur niveau 6, Explorateur I_  
-À la fin de chaque repos long, vous pouvez vous lier à l’environnement dans lequel vous êtes (arctique, désert, forêt, littoral, marais, montagne ou plaine). Une fois fait, vous bénéficiez de ce qui suit :
+À la fin de chaque repos long, vous pouvez vous lier à l'environnement dans lequel vous êtes (arctique, désert, forêt, littoral, marais, montagne ou plaine). Une fois fait, vous bénéficiez de ce qui suit :
 
-* Vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d’Intelligence et de Sagesse ayant trait aux plantes, aux animaux et à l’écosystème local.
+* Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'Intelligence et de Sagesse ayant trait aux plantes, aux animaux et à l'écosystème local.
 * Quand vous cherchez de la nourriture, vous trouvez deux fois plus de nourriture que normalement.
 * Vous ne pouvez être [_surpris_](/gerer-la-sante-du-personnage/#surpris) tant que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
-* Vous bénéficiez d’un bonus à l’initiative égal à votre modificateur de Sagesse (minimum 1)
+* Vous bénéficiez d'un bonus à l'initiative égal à votre modificateur de Sagesse (minimum 1)
 
 ### Herboriste I
-Vous en savez beaucoup sur les plantes et leurs propriétés curatives. Vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d’Intelligence (Nature) visant à identifier les propriétés médicinales des plantes, et aux tests de Sagesse (Médecine) réalisés pour stabiliser des êtres vivants.
+Vous en savez beaucoup sur les plantes et leurs propriétés curatives. Vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d'Intelligence (Nature) visant à identifier les propriétés médicinales des plantes, et aux tests de Sagesse (Médecine) réalisés pour stabiliser des êtres vivants.
 
 ### Herboriste II
 _Prérequis : rôdeur niveau 3, Herboriste I_  
-Vous avez appris à utiliser plantes et fruits pour créer des cataplasmes curatifs. Vous obtenez la maîtrise du matériel d’herboriste.
+Vous avez appris à utiliser plantes et fruits pour créer des cataplasmes curatifs. Vous obtenez la maîtrise du matériel d'herboriste.
 
-À la fin d’un repos long, vous pouvez utiliser ce matériel et des plantes locales pour créer une [potion de soins](/liste-objets-magiques/potion-de-soins/). La potion conserve son efficacité pendant un nombre de jours égal à votre bonus de maîtrise, après quoi elle perd ses effets.
+À la fin d'un repos long, vous pouvez utiliser ce matériel et des plantes locales pour créer une [potion de soins](/liste-objets-magiques/potion-de-soins/). La potion conserve son efficacité pendant un nombre de jours égal à votre bonus de maîtrise, après quoi elle perd ses effets.
 
 ### Herboriste III
 _Prérequis : rôdeur niveau 6, Herboriste I, II_  
-Vous pouvez utiliser votre connaissance de la flore locale pour apaiser vos alliés. Pendant un repos court, vous et jusqu’à cinq créatures que vous pouvez toucher récupérez 1d8 points de vie supplémentaires lorsque vous utilisez au moins l'un de vos dés de vie.
+Vous pouvez utiliser votre connaissance de la flore locale pour apaiser vos alliés. Pendant un repos court, vous et jusqu'à cinq créatures que vous pouvez toucher récupérez 1d8 points de vie supplémentaires lorsque vous utilisez au moins l'un de vos dés de vie.
 
 ### Instinct naturel I
-Vous savez y faire avec les animaux sauvages. Vous pouvez communiquer des idées simples aux bêtes en utilisant des gestes et des sons, et vous obtenez l’avantage à vos tests de Sagesse (Dressage) réalisés avec des animaux amicaux à votre égard.
+Vous savez y faire avec les animaux sauvages. Vous pouvez communiquer des idées simples aux bêtes en utilisant des gestes et des sons, et vous obtenez l'avantage à vos tests de Sagesse (Dressage) réalisés avec des animaux amicaux à votre égard.
 
 ### Instinct naturel II
 _Prérequis : rôdeur niveau 3, Instinct naturel I_
@@ -341,15 +341,15 @@ Votre proximité avec le monde sauvage vous a permis de vous lier avec un esprit
 
 ### Nageur d'expérience
 _Prérequis : rôdeur niveau 6_  
-Vous vous déplacez dans l’eau comme les plus vives créatures marines. Vous obtenez une vitesse de nage de 9 mètres, et vous pouvez retenir votre souffle pendant 1 heure quand vous êtes sous l’eau.
+Vous vous déplacez dans l'eau comme les plus vives créatures marines. Vous obtenez une vitesse de nage de 9 mètres, et vous pouvez retenir votre souffle pendant 1 heure quand vous êtes sous l'eau.
 
 Si vous bénéficiez déjà d'une vitesse de nage grâce à une autre capacité, vous augmentez celle-ci de 3 mètres.
 
 ### Régénération naturelle
 _Prérequis : rôdeur niveau 14_  
-Vous pouvez tirer de votre environnement les énergies nécessaires pour recharger votre réserve mystique. À la fin d’un repos court, vous pouvez récupérer des emplacements de sorts utilisés. Le niveau total de ces emplacements de sort doit être inférieur ou égal à votre modificateur de Sagesse (minimum 1).
+Vous pouvez tirer de votre environnement les énergies nécessaires pour recharger votre réserve mystique. À la fin d'un repos court, vous pouvez récupérer des emplacements de sorts utilisés. Le niveau total de ces emplacements de sort doit être inférieur ou égal à votre modificateur de Sagesse (minimum 1).
 
-Une fois cette capacité utilisée, vous devez terminer un repos long pour pouvoir l’utiliser de nouveau.
+Une fois cette capacité utilisée, vous devez terminer un repos long pour pouvoir l'utiliser de nouveau.
 
 ### Survivaliste I
 _Prérequis : rôdeur niveau 6_  
@@ -364,11 +364,11 @@ _Prérequis : rôdeur niveau 14, Survivaliste I, II_
 Vous tenez bon, même face à la mort. Vous ajoutez votre modificateur de Sagesse (minimum 1) à vos jets de sauvegarde contre la mort. Si le résultat total est égal ou supérieur à 20, vous obtenez les mêmes effets que si vous aviez obtenu un 20 naturel sur le d20.
 
 ### Traqueur furtif I
-Vous êtes passé maître dans l’art de couvrir vos traces. Lorsque vous et jusqu’à cinq autres créatures avec lesquelles vous voyagez vous déplacez à un rythme normal, vous ne laissez ni traces ni odeur derrière vous, et vous ne pouvez être suivis par des méthodes conventionnelles contre votre gré.
+Vous êtes passé maître dans l'art de couvrir vos traces. Lorsque vous et jusqu'à cinq autres créatures avec lesquelles vous voyagez vous déplacez à un rythme normal, vous ne laissez ni traces ni odeur derrière vous, et vous ne pouvez être suivis par des méthodes conventionnelles contre votre gré.
 
 ### Traqueur furtif II
 _Prérequis : rôdeur niveau 3, Traqueur I_  
-Vous avez appris à chasser votre proie tout en restant invisible. Vous pouvez choisir l’action Se cacher à votre tour en tant qu’action bonus.
+Vous avez appris à chasser votre proie tout en restant invisible. Vous pouvez choisir l'action Se cacher à votre tour en tant qu'action bonus.
 
 ### Traqueur furtif III
 _Prérequis : rôdeur niveau 9, Traqueur I, II_  
@@ -376,15 +376,15 @@ Vous pouvez vous dissimuler même des sorts les plus puissants. Vous êtes const
 
 ### Traqueur furtif IV
 _Prérequis : rôdeur niveau 14, Traqueur I, II, III_  
-Vous pouvez brièvement vous lier à la magie naturelle pour disparaître. Lorsque vous choisissez l’action Se cacher à votre tour, vous et tout ce que vous portez devenez [_invisibles_](/gerer-la-sante-du-personnage/#invisible) jusqu’au début de votre prochain tour.
+Vous pouvez brièvement vous lier à la magie naturelle pour disparaître. Lorsque vous choisissez l'action Se cacher à votre tour, vous et tout ce que vous portez devenez [_invisibles_](/gerer-la-sante-du-personnage/#invisible) jusqu'au début de votre prochain tour.
 
-L’invisibilité s’arrête immédiatement si vous attaquez ou lancez un sort.
+L'invisibilité s'arrête immédiatement si vous attaquez ou lancez un sort.
 
 ## Archétypes de rôdeur
-Au niveau 3 le rôdeur doit choisir un archétype. Les options suivantes s’ajoutent à celles disponibles dans le _Guide complet de Xanathar_.
+Au niveau 3 le rôdeur doit choisir un archétype. Les options suivantes s'ajoutent à celles disponibles dans le _Guide complet de Xanathar_.
 
 ### Brise-sorts
-Là où il y a du pouvoir, il y aura toujours quelqu’un pour en abuser. Les brise-sorts forment une discrète fraternité spécialisée dans la chasse des lanceurs de sorts qui utiliseraient leurs pouvoirs pour nuire à autrui. La plupart de ces rôdeurs suivent la voie du brise-sorts pour des raisons louables, mais certains cherchent tout simplement à détruire ceux qui manipulent la magie. Les brise-sorts opèrent souvent dans l’ombre, ne se révélant qu’au moment adéquat, quand les chances sont de leur côté.
+Là où il y a du pouvoir, il y aura toujours quelqu'un pour en abuser. Les brise-sorts forment une discrète fraternité spécialisée dans la chasse des lanceurs de sorts qui utiliseraient leurs pouvoirs pour nuire à autrui. La plupart de ces rôdeurs suivent la voie du brise-sorts pour des raisons louables, mais certains cherchent tout simplement à détruire ceux qui manipulent la magie. Les brise-sorts opèrent souvent dans l'ombre, ne se révélant qu'au moment adéquat, quand les chances sont de leur côté.
 
 #### Magie du brise-sorts
 Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau [Magie du brise-sorts](#magie-du-brise-sorts). Ils comptent comme des sorts de rôdeur en ce qui vous concerne, sont toujours préparés et ne comptent pas dans le total de sorts que vous pouvez préparer chaque jour.
@@ -399,26 +399,26 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 |**17**|[_mur de force_](/grimoire/mur-de-force/)|
 
 #### Chasseur de mage
-Au niveau 3, vous obtenez les compétences nécessaires à votre mission. Vous obtenez la maîtrise de la compétence Arcanes et, chaque fois que vous réalisez un test d’Intelligence (Arcanes) pour vous rappeler d’informations à propos d’un lanceur de sorts ou des effets d’un sort particulier, votre bonus de maîtrise est doublé.
+Au niveau 3, vous obtenez les compétences nécessaires à votre mission. Vous obtenez la maîtrise de la compétence Arcanes et, chaque fois que vous réalisez un test d'Intelligence (Arcanes) pour vous rappeler d'informations à propos d'un lanceur de sorts ou des effets d'un sort particulier, votre bonus de maîtrise est doublé.
 
-De plus, vous pouvez lancer le sort _absorption des éléments_ comme un sort de niveau 1, sans dépenser d’emplacement de sort, autant de fois que votre modificateur de Sagesse (minimum 1). Vous en récupérez toutes les utilisations en terminant un repos long.
+De plus, vous pouvez lancer le sort _absorption des éléments_ comme un sort de niveau 1, sans dépenser d'emplacement de sort, autant de fois que votre modificateur de Sagesse (minimum 1). Vous en récupérez toutes les utilisations en terminant un repos long.
 
 Si vous lancez ce sort et que votre prochaine attaque avec une arme de corps-à-corps est effectuée contre la créature dont vous avez absorbé le sort, vous infligez le maximum de dégâts supplémentaires possible (6).
 
 #### Vigilance arcanique
 Votre entraînement vous permet de détecter les pouvoirs magiques, innés ou acquis, des autres créatures.
 
-À partir du niveau 3 et à votre tour, vous pouvez utiliser une action pour examiner une créature visible à moins de 18 mètres de vous. Vous apprenez immédiatement sa caractéristique d’incantation (si elle en a une), le plus haut niveau de sort qu’elle peut lancer, et la nature de sa magie (divine ou profane).
+À partir du niveau 3 et à votre tour, vous pouvez utiliser une action pour examiner une créature visible à moins de 18 mètres de vous. Vous apprenez immédiatement sa caractéristique d'incantation (si elle en a une), le plus haut niveau de sort qu'elle peut lancer, et la nature de sa magie (divine ou profane).
 
 Une fois cette capacité utilisée, vous devez terminer un repos court ou long avant de pouvoir la réutiliser.
 
 #### Défense arcanique
-Vous avez appris à renforcer votre esprit et votre corps pour vous protéger de la magie offensive. À partir du niveau 7, lorsque vous êtes contraints de lancer un jet de sauvegarde pour résister aux effets d’un sort ou d’une quelconque magie, vous obtenez un bonus à ce jet de sauvegarde égal à votre modificateur de Sagesse (minimum 1).
+Vous avez appris à renforcer votre esprit et votre corps pour vous protéger de la magie offensive. À partir du niveau 7, lorsque vous êtes contraints de lancer un jet de sauvegarde pour résister aux effets d'un sort ou d'une quelconque magie, vous obtenez un bonus à ce jet de sauvegarde égal à votre modificateur de Sagesse (minimum 1).
 
 #### Brise-mages
-À partir du niveau 11, vous avez appris la technique spéciale de neutralisation de mage d’un brise-sort accompli. Par une action bonus, vous pouvez infuser les attaques de votre arme d’une magie primordiale d’abjuration. Jusqu’au début de votre prochain tour, chaque fois que vous touchez une créature avec cette arme, tous les dégâts infligés sont des dégâts de force, et vous obtenez un bonus aux dégâts égal à votre modificateur de Sagesse (minimum 1).
+À partir du niveau 11, vous avez appris la technique spéciale de neutralisation de mage d'un brise-sort accompli. Par une action bonus, vous pouvez infuser les attaques de votre arme d'une magie primordiale d'abjuration. Jusqu'au début de votre prochain tour, chaque fois que vous touchez une créature avec cette arme, tous les dégâts infligés sont des dégâts de force, et vous obtenez un bonus aux dégâts égal à votre modificateur de Sagesse (minimum 1).
 
-Si la cible de l’attaque se concentrait sur un sort, elle subit 1d8 dégâts de force supplémentaires, et doit faire un jet de sauvegarde de Constitution avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour maintenir sa concentration.
+Si la cible de l'attaque se concentrait sur un sort, elle subit 1d8 dégâts de force supplémentaires, et doit faire un jet de sauvegarde de Constitution avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour maintenir sa concentration.
 
 Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1), et vous récupérez toutes les utilisations après avoir pris un repos long.
 
@@ -426,7 +426,7 @@ Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificate
 Quand vous atteignez le niveau 15, votre entraînement de brise-sort a atteint son summum, et votre sang a muté, vous donnant une protection naturelle contre la magie. Vous avez une résistance aux dégâts infligés par les sorts et tous les autres effets magiques.
 
 ### Chasseur
-Les rôdeurs peuvent endossent de nombreux rôles : guide, naturaliste, pisteur, protecteur, mais au fond, ils restent des chasseurs. Ceux qui embrassent complètement ce rôle de prédateur acceptent d’être le rempart entre la civilisation et les terreurs de l’extérieur. Cette voie leur permet de maîtriser des techniques de combat spécialisées pour mieux exterminer les menaces qu’ils affrontent. Les vrais chasseurs ne reculent devant aucun ennemi : maraudeurs gnolls, trolls grotesques ou dragons terrifiants.
+Les rôdeurs peuvent endossent de nombreux rôles : guide, naturaliste, pisteur, protecteur, mais au fond, ils restent des chasseurs. Ceux qui embrassent complètement ce rôle de prédateur acceptent d'être le rempart entre la civilisation et les terreurs de l'extérieur. Cette voie leur permet de maîtriser des techniques de combat spécialisées pour mieux exterminer les menaces qu'ils affrontent. Les vrais chasseurs ne reculent devant aucun ennemi : maraudeurs gnolls, trolls grotesques ou dragons terrifiants.
 
 #### Magie du chasseur
 Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau [Magie du chasseur](#magie-du-chasseur). Ils comptent comme des sorts de rôdeur en ce qui vous concerne, sont toujours préparés et ne comptent pas dans le total de sorts que vous pouvez préparer chaque jour.
@@ -445,7 +445,7 @@ Au niveau 3, vous pouvez choisir l'une des quatre aptitudes suivantes :
 
 _**Briseur de hordes.**_ Une fois par tour, quand vous faites une attaque avec une arme, vous pouvez attaquer une seconde fois avec la même arme en ciblant une autre créature, dans la mesure où celle-ci se trouve dans un rayon de 1,50 mètre autour de la première créature et à portée de votre arme.
 
-_**Frappes ralentissantes.**_ Chaque fois que vous touchez une créature avec un attaque avec une arme, vous la blessez de telle façon que sa vitesse est réduite de 1,5 m jusqu’au début de votre prochain tour.
+_**Frappes ralentissantes.**_ Chaque fois que vous touchez une créature avec un attaque avec une arme, vous la blessez de telle façon que sa vitesse est réduite de 1,5 m jusqu'au début de votre prochain tour.
 
 _**Tueur de colosses.**_ Votre ténacité vous permet de venir à bout des plus terribles ennemis. Quand vous réussissez à toucher une créature avec une arme, vous lui infligez 1d8 dégâts supplémentaires si elle possède moins de points de vie que son maximum. Vous ne pouvez infliger ces dégâts supplémentaires qu'une fois par tour.
 
@@ -454,7 +454,7 @@ _**Tueur de géants.**_ Quand une créature de taille grande ou supérieure qui 
 #### Tactiques défensives
 Au niveau 7, vous pouvez choisir l'une des quatre aptitudes suivantes :
 
-_**Carrure robuste.**_ Quand vous êtes touché par une attaque qui inflige des dégâts contondants, perforants ou tranchants, vous pouvez utiliser votre réaction pour réduire ces dégâts d’un nombre égal à votre modificateur de Constitution (minimum 1).
+_**Carrure robuste.**_ Quand vous êtes touché par une attaque qui inflige des dégâts contondants, perforants ou tranchants, vous pouvez utiliser votre réaction pour réduire ces dégâts d'un nombre égal à votre modificateur de Constitution (minimum 1).
 
 _**Défense contre les attaques multiples.**_ Quand une créature vous touche avec une attaque, vous gagnez un bonus de CA de +4 contre toutes les autres attaques que peut faire cette créature pour le reste du tour.
 
@@ -467,7 +467,7 @@ Au niveau 11, vous pouvez choisir l'une des quatre aptitudes suivantes :
 
 _**Attaque tourbillonnante.**_ Vous pouvez utiliser votre action pour faire une attaque de corps-à-corps contre autant de créatures que vous le souhaitez dans la mesure où elles se trouvent dans un rayon de 1,50 mètre autour de vous, en faisant un jet d'attaque séparé pour chaque créature.
 
-_**Frappe rapide.**_ Si lorsque vous prenez l’action Attaquer vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet d’attauqe contre l’une de vos cibles, vous pouvez échanger cet _avantage_ contre une attaque avec une arme supplémentaire contre cette cible, dans le cadre de la même action. Vous ne pouvez effectuer ceci qu’une fois par tour.
+_**Frappe rapide.**_ Si lorsque vous prenez l'action Attaquer vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet d'attauqe contre l'une de vos cibles, vous pouvez échanger cet _avantage_ contre une attaque avec une arme supplémentaire contre cette cible, dans le cadre de la même action. Vous ne pouvez effectuer ceci qu'une fois par tour.
 
 _**Salve.**_ Vous pouvez utiliser votre action pour faire une attaque à distance contre autant de créatures que vous le voulez, dans la mesure où elles se trouvent dans un rayon de 3 mètres autour d'un point que vous avez défini dans la zone de portée de votre arme. Vous devez avoir une munition pour chaque cible, bien entendu, et vous lancez un jet d'attaque séparé pour chaque cible.
 
@@ -482,15 +482,15 @@ _**Retour de bâton.**_ Quand une créature hostile vous cible et rate son attaq
 
 ### Chasseur de primes
 
-#### À l’écoute de la rue
-Au niveau 3, vous obtenez la maîtrise de la compétence Investigation. Quand vous réalisez un test d’Intelligence (Investigation) dans une zone urbaine, vous doublez votre bonus de maîtrise sur ce jet.
+#### À l'écoute de la rue
+Au niveau 3, vous obtenez la maîtrise de la compétence Investigation. Quand vous réalisez un test d'Intelligence (Investigation) dans une zone urbaine, vous doublez votre bonus de maîtrise sur ce jet.
 
-De plus, si vous passez la nuit dans un endroit habité, vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tout test de caractéristique fait pour établir un contact, obtenir des informations ou vous orienter.
+De plus, si vous passez la nuit dans un endroit habité, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tout test de caractéristique fait pour établir un contact, obtenir des informations ou vous orienter.
 
 #### Supériorité martiale
 Au niveau 3, vous gagnez les aptitudes suivantes de chasseur de primes :
 
-_**Manoeuvres.**_ Vous apprenez deux manœuvres de votre choix, dans la liste des [Manœuvres des chasseurs de primes](#manœuvres-des-chasseurs-de-primes). Vous ne pouvez utiliser qu’une seule manœuvre par attaque. Quand vous gagnez un niveau, vous pouvez remplacer une manœuvre que vous connaissez par une autre de votre choix.
+_**Manoeuvres.**_ Vous apprenez deux manœuvres de votre choix, dans la liste des [Manœuvres des chasseurs de primes](#manœuvres-des-chasseurs-de-primes). Vous ne pouvez utiliser qu'une seule manœuvre par attaque. Quand vous gagnez un niveau, vous pouvez remplacer une manœuvre que vous connaissez par une autre de votre choix.
 
 Vous apprenez une manœuvre de votre choix supplémentaire aux niveaux 7, 11 et 15.
 
@@ -506,10 +506,10 @@ _**Jets de sauvegarde.**_ Certaines de vos manœuvres obligent votre cible à ef
 De plus, vous obtenez un dé de supériorité supplémentaire et ceux-ci deviennent des d8. Vous apprenez également deux nouvelles manœuvres de la la liste des [Manœuvres des chasseurs de primes](#manœuvres-des-chasseurs-de-primes).
 
 #### Implacable
-Vous êtes passé maître de la neutralisation des plus dangereux adversaires. Au niveau 11, quand une créature de taille G ou inférieure rate une attaque au corps-à-corps avec une arme contre vous, vous pouvez utiliser votre réaction pour l’obliger à faire un jet de sauvegarde de Dextérité. Sur un échec, la créature est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), et si vous avez une main libre, vous pouvez tenter de l’[_empoigner_](/gerer-la-sante-du-personnage/#empoigne) dans le cadre de votre réaction.
+Vous êtes passé maître de la neutralisation des plus dangereux adversaires. Au niveau 11, quand une créature de taille G ou inférieure rate une attaque au corps-à-corps avec une arme contre vous, vous pouvez utiliser votre réaction pour l'obliger à faire un jet de sauvegarde de Dextérité. Sur un échec, la créature est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), et si vous avez une main libre, vous pouvez tenter de l'[_empoigner_](/gerer-la-sante-du-personnage/#empoigne) dans le cadre de votre réaction.
 
 #### Redoutable
-Votre instinct lorsque vous traquez une cible est presque surnaturel, vous permettant de prédire ses attaques et d’en réduire les dégâts. À partir du niveau 15, si vous frappez une créature avec une attaque avec une arme, chaque fois que celle-ci vous infligera des dégâts, jusqu’au début de votre prochain tour, vous pourrez réduire les dégâts qui vous sont infligés d’un nombre égal à votre modificateur de Sagesse (minimum 1).
+Votre instinct lorsque vous traquez une cible est presque surnaturel, vous permettant de prédire ses attaques et d'en réduire les dégâts. À partir du niveau 15, si vous frappez une créature avec une attaque avec une arme, chaque fois que celle-ci vous infligera des dégâts, jusqu'au début de votre prochain tour, vous pourrez réduire les dégâts qui vous sont infligés d'un nombre égal à votre modificateur de Sagesse (minimum 1).
 
 De plus, vous gagnez un nouveau dé de supériorité (pour un total de 5) et ceux-ci deviennent des d10. Vous apprenez également deux nouvelles manœuvres de la liste des [Manœuvres des chasseurs de primes](#manœuvres-des-chasseurs-de-primes).
 
@@ -518,15 +518,15 @@ Les manœuvres listées ci-dessous sont accessibles aux rôdeurs chasseurs de pr
 
 _**Attaque renversante.**_ Quand vous touchez une créature avec une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour la mettre [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Vous ajoutez le résultat du dé à votre jet de dégâts et la cible, si elle de taille G ou inférieure, doit faire un jet de sauvegarde de Force. Sur un échec, elle est [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
-_**Coup en traître.**_ Quand vous touchez une créature avec une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour viser un de ses points faibles. Vous ajoutez le résultat du dé à votre jet de dégâts et la cible doit faire un jet de sauvegarde de Constitution. Sur un échec, elle ne peut utiliser de réactions et sa vitesse est réduite de moitié jusqu’au début de votre prochain tour.
+_**Coup en traître.**_ Quand vous touchez une créature avec une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour viser un de ses points faibles. Vous ajoutez le résultat du dé à votre jet de dégâts et la cible doit faire un jet de sauvegarde de Constitution. Sur un échec, elle ne peut utiliser de réactions et sa vitesse est réduite de moitié jusqu'au début de votre prochain tour.
 
-_**Embuscade.**_ Quand vous réalisez un test de Dextérité (Discrétion) ou un jet d’initiative, vous pouvez dépenser un dé de supériorité et ajouter le résultat au total, à condition que vous ne soyez ni [_surpris_](/gerer-la-sante-du-personnage/#surpris) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
+_**Embuscade.**_ Quand vous réalisez un test de Dextérité (Discrétion) ou un jet d'initiative, vous pouvez dépenser un dé de supériorité et ajouter le résultat au total, à condition que vous ne soyez ni [_surpris_](/gerer-la-sante-du-personnage/#surpris) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
-_**Frappe assommante.**_ Quand vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser un dé de supériorité et obliger la créature à faire un jet de sauvegarde de Constitution. Sur un échec, la créature est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu’au début de votre prochain tour.
+_**Frappe assommante.**_ Quand vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser un dé de supériorité et obliger la créature à faire un jet de sauvegarde de Constitution. Sur un échec, la créature est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'au début de votre prochain tour.
 
-_**Frappe handicapante.**_ Quand vous touchez une créature avec une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour l’empêcher de bouger. Vous ajoutez le résultat du dé à votre jet de dégâts et la cible doit faire un jet de sauvegarde de Constitution. Sur un échec, sa vitesse est réduite à 0 jusqu’au début de votre prochain tour.
+_**Frappe handicapante.**_ Quand vous touchez une créature avec une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour l'empêcher de bouger. Vous ajoutez le résultat du dé à votre jet de dégâts et la cible doit faire un jet de sauvegarde de Constitution. Sur un échec, sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
-_**Tir aveuglant.**_ Par une action bonus, vous pouvez dépenser un dé de supériorité pour jeter des détritus à la figure d’une créature à moins de 1,5 m de vous. Elle doit faire un jet de sauvegarde de Constitution et, sur un échec, elle subit autant de dégâts que le résultat du dé de supériorité et est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu’au début de votre prochain tour.
+_**Tir aveuglant.**_ Par une action bonus, vous pouvez dépenser un dé de supériorité pour jeter des détritus à la figure d'une créature à moins de 1,5 m de vous. Elle doit faire un jet de sauvegarde de Constitution et, sur un échec, elle subit autant de dégâts que le résultat du dé de supériorité et est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'au début de votre prochain tour.
 
 ### Dompteur
 Alors que tous les rôdeurs ont une certaine affinité pour ce qui touche au règne animal, les dompteurs poussent cet aspect au-delà. Grâce à leurs connaissances du comportement des bêtes, sauvages comme domestiques, les dompteurs sont capables de les dresser et les contrôler pour en faire des créatures extraordinaires.
@@ -534,14 +534,14 @@ Alors que tous les rôdeurs ont une certaine affinité pour ce qui touche au rè
 Ces rudes et sauvages rôdeurs sont toujours à la recherche de monstres étranges et exotiques avec qui se lier.
 
 #### Dresseur de monstres
-Quand vous prenez cet archétype au niveau 3, vos connaissances des créatures sauvages vous offrent des capacités exceptionnelles. Vous obtenez la maîtrise de la compétence Dressage si vous ne l’avez pas déjà, et vous pouvez doubler votre bonus de maîtrise à tout test de Sagesse (Dressage) que vous effectuez.
+Quand vous prenez cet archétype au niveau 3, vos connaissances des créatures sauvages vous offrent des capacités exceptionnelles. Vous obtenez la maîtrise de la compétence Dressage si vous ne l'avez pas déjà, et vous pouvez doubler votre bonus de maîtrise à tout test de Sagesse (Dressage) que vous effectuez.
 
-De plus, quand vous devez stopper des animaux, votre savoir vous permet de frapper au moment où ils sont les plus vulnérables. Vous obtenez une réussite critique à vos jets d’attaque avec une arme contre les bêtes et les créatures monstrueuses sur un 19 ou un 20 au d20.
+De plus, quand vous devez stopper des animaux, votre savoir vous permet de frapper au moment où ils sont les plus vulnérables. Vous obtenez une réussite critique à vos jets d'attaque avec une arme contre les bêtes et les créatures monstrueuses sur un 19 ou un 20 au d20.
 
 #### Magie du dompteur
 Vous obtenez certains sorts aux niveaux de rôdeur indiqués dans le tableau [Magie du dompteur](#magie-du-dompteur). Ils comptent comme des sorts de rôdeur pour vous, sont toujours préparés, mais ne comptent pas dans le total de sorts que vous pouvez préparer chaque jour.
 
-De plus, vous pouvez cibler les bêtes et les créatures monstrueuses avec des sorts d’enchantement qui sont normalement limités aux humanoïdes.
+De plus, vous pouvez cibler les bêtes et les créatures monstrueuses avec des sorts d'enchantement qui sont normalement limités aux humanoïdes.
 
 ##### Magie du chasseur
 |Niveau de rôdeur|Sort|
@@ -553,29 +553,29 @@ De plus, vous pouvez cibler les bêtes et les créatures monstrueuses avec des s
 |**17**|[_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/)|
 
 #### Poigne téméraire
-Votre souhait impérieux de soumettre les monstres sauvages stimule vos talents. À partir du niveau 7, vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos tests de Force (Athlétisme) pour empoigner, escalader, lutter ou soumettre les bêtes et créatures monstrueuses.
+Votre souhait impérieux de soumettre les monstres sauvages stimule vos talents. À partir du niveau 7, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos tests de Force (Athlétisme) pour empoigner, escalader, lutter ou soumettre les bêtes et créatures monstrueuses.
 
-Vous avez également l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos jets d’attaque contre les bêtes et créatures monstrueuses que vous êtes en train d’empoigner ou escalader.
+Vous avez également l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos jets d'attaque contre les bêtes et créatures monstrueuses que vous êtes en train d'empoigner ou escalader.
 
-#### Rappel à l’ordre
-Vous savez soumettre les créatures sauvages à votre volonté. À partir du niveau 7 également, quand une bête ou une créature monstrueuse que vous [_charmez_](/gerer-la-sante-du-personnage/#charme) doit réaliser un jet de sauvegarde pour mettre fin à la condition, vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet de la créature, tant que vous êtes à 9 m ou moins d’elle et qu’elle peut vous entendre.
+#### Rappel à l'ordre
+Vous savez soumettre les créatures sauvages à votre volonté. À partir du niveau 7 également, quand une bête ou une créature monstrueuse que vous [_charmez_](/gerer-la-sante-du-personnage/#charme) doit réaliser un jet de sauvegarde pour mettre fin à la condition, vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet de la créature, tant que vous êtes à 9 m ou moins d'elle et qu'elle peut vous entendre.
 
-De plus, vous apprenez à donner des ordres aux monstres que vous dressez. Les bêtes et créatures monstrueuses que vous vous [_charmez_](/gerer-la-sante-du-personnage/#charme) agissent pendant votre tour, et si elles sont à moins de 9 m de vous et en mesure de vous entendre, vous pouvez utiliser une action pour leur ordonner d’effectuer une de leurs actions de leur profil technique.
+De plus, vous apprenez à donner des ordres aux monstres que vous dressez. Les bêtes et créatures monstrueuses que vous vous [_charmez_](/gerer-la-sante-du-personnage/#charme) agissent pendant votre tour, et si elles sont à moins de 9 m de vous et en mesure de vous entendre, vous pouvez utiliser une action pour leur ordonner d'effectuer une de leurs actions de leur profil technique.
 
 #### Dresseur de monstres supérieur
-Il existe peu de créatures que vous ne pouvez dresser. Au niveau 11, vos aptitudes de dompteur s’appliquent à toute créature non-humanoïde avec un score d’Intelligence inférieur ou égal à votre niveau de classe.
+Il existe peu de créatures que vous ne pouvez dresser. Au niveau 11, vos aptitudes de dompteur s'appliquent à toute créature non-humanoïde avec un score d'Intelligence inférieur ou égal à votre niveau de classe.
 
-De plus, si vous êtes à moins de 9 m d’une créature non-humanoïde que vous [_charmez_](/gerer-la-sante-du-personnage/#charme), vous pouvez utiliser une action bonus à votre tour pour lui ordonner d’effectuer une des actions de son bloc de statistiques.
+De plus, si vous êtes à moins de 9 m d'une créature non-humanoïde que vous [_charmez_](/gerer-la-sante-du-personnage/#charme), vous pouvez utiliser une action bonus à votre tour pour lui ordonner d'effectuer une des actions de son bloc de statistiques.
 
 #### Dompteur de légendes
-Une fois que vous avez une créature sous votre contrôle, elle a peu de chances d’échapper à votre emprise. En atteignant le niveau 15, vos sorts d’enchantement lancés contre des créatures non-humanoïdes durent jusqu’à ce que votre concentration soit rompue.
+Une fois que vous avez une créature sous votre contrôle, elle a peu de chances d'échapper à votre emprise. En atteignant le niveau 15, vos sorts d'enchantement lancés contre des créatures non-humanoïdes durent jusqu'à ce que votre concentration soit rompue.
 
 Les repos courts et longs ne mettent pas fin à votre concentration.
 
 ### Guide stellaire
 Depuis la nuit des temps, les peuples mortels ont observé les étoiles pour y chercher les récits du passé et des indices concernant le futur. La plupart croient que la connaissance des mouvements des astres sert à prédire le futur, et ainsi modifier son destin.
 
-Des rôdeurs solitaires et un peu étranges connus sous le nom de guides stellaires passent leur vie à scruter le ciel nocturne dans ce but. Ils harmonisent leur âme avec les constellations, et apprennent à en tirer une certaine forme de magie, à prédire l’avenir et à faire pencher la balance de la destinée.
+Des rôdeurs solitaires et un peu étranges connus sous le nom de guides stellaires passent leur vie à scruter le ciel nocturne dans ce but. Ils harmonisent leur âme avec les constellations, et apprennent à en tirer une certaine forme de magie, à prédire l'avenir et à faire pencher la balance de la destinée.
 
 #### Guidage céleste
 Vous vous laissez guider par les constellations visibles la nuit. À partir du niveau 3, vous obtenez la maîtrise des outils de navigateur, et vous ne pouvez pas vous perdre, même par des moyens magiques, tant que vous pouvez voir le ciel nocturne.
@@ -605,21 +605,21 @@ Vous obtenez certains sorts aux niveaux de rôdeur indiqués dans le tableau [Ma
 |**17**|[_scrutation_](/grimoire/scrutation/)|
 
 #### Trame du destin
-Votre affinité avec les étoiles vous permet d’altérer le cours du destin. À partir du niveau 7, lorsque vous ou une créature que vous pouvez voir à moins de 9 mètres devez réaliser un test de compétence ou de sauvegarde, vous pouvez utiliser votre réaction pour ajouter votre modificateur de Sagesse (avec un minimum de 1) au résultat de ce test. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (avec un minimum de 1), et vous récupérez toutes les utilisations après avoir pris un repos long.
+Votre affinité avec les étoiles vous permet d'altérer le cours du destin. À partir du niveau 7, lorsque vous ou une créature que vous pouvez voir à moins de 9 mètres devez réaliser un test de compétence ou de sauvegarde, vous pouvez utiliser votre réaction pour ajouter votre modificateur de Sagesse (avec un minimum de 1) au résultat de ce test. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (avec un minimum de 1), et vous récupérez toutes les utilisations après avoir pris un repos long.
 
 #### Frappe Stellaire
 À partir du niveau 11, vous pouvez utiliser une action bonus pour entrer en transe, et permettre aux astres stellaires nocturnes de guider vos coups. Lorsque vous êtes en transe, vos yeux brillent tels des étoiles, et une fois par tour, lorsque vous attaquez, vous traitez tout résultat de 9 ou moins sur le jet de dé comme étant un 10.
 
-Cette transe dure une minute, à moins que vous choisissiez d’y mettre fin par une action bonus, ou soyez [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Lorsque vous avez utilisé cette aptitude, vous ne pouvez plus y avoir recours avant d’avoir pris un repos long.
+Cette transe dure une minute, à moins que vous choisissiez d'y mettre fin par une action bonus, ou soyez [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Lorsque vous avez utilisé cette aptitude, vous ne pouvez plus y avoir recours avant d'avoir pris un repos long.
 
 #### Âme resplendissante
-En atteignant le niveau 15, vous êtes imprégné de lumière stellaire. Par une réaction, lorsque’une créature que vous pouvez voir dans un rayon de 9 m vous touche avec une attaque, vous pouvez générer un flash de lumière aveuglante et forcer l’attaquant à réaliser un jet de sauvegarde de Constitution. En cas d’échec, elle subit 2d8 dégâts radiant et est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu’au début de son prochain tour. En cas de succès, elle subit la moitié des dégâts mais n’est pas [aveuglée](/gerer-la-sante-du-personnage/#aveugle).
+En atteignant le niveau 15, vous êtes imprégné de lumière stellaire. Par une réaction, lorsque'une créature que vous pouvez voir dans un rayon de 9 m vous touche avec une attaque, vous pouvez générer un flash de lumière aveuglante et forcer l'attaquant à réaliser un jet de sauvegarde de Constitution. En cas d'échec, elle subit 2d8 dégâts radiant et est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'au début de son prochain tour. En cas de succès, elle subit la moitié des dégâts mais n'est pas [aveuglée](/gerer-la-sante-du-personnage/#aveugle).
 
 ### Nomade
-Les nomades adorent les voyages, l’exploration et la découverte. Ils souhaitent apprendre le plus possible, révéler des secrets et connaissances cachées. Ils s’efforcent à garder leur esprit dans un état méditatif, leur permettant d’accéder à la noosphère, une étrange toile vivante de l’ensemble des savoirs connus. Cette toile relie tous ceux qui se revendiquent comme nomades et leur offre l’occasion d’accéder à des connaissances et savoirs distants.
+Les nomades adorent les voyages, l'exploration et la découverte. Ils souhaitent apprendre le plus possible, révéler des secrets et connaissances cachées. Ils s'efforcent à garder leur esprit dans un état méditatif, leur permettant d'accéder à la noosphère, une étrange toile vivante de l'ensemble des savoirs connus. Cette toile relie tous ceux qui se revendiquent comme nomades et leur offre l'occasion d'accéder à des connaissances et savoirs distants.
 
 #### Frappe de l'oubli
-À partir du niveau 3, vous pouvez effacer votre présence de l’esprits de vos adversaires en les attaquant. Une fois par tout, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez lui imposer de réaliser un jet de sauvegarde d’Intelligence. Sur un échec, elle subit 1d4 dégâts psychiques supplémentaires à ceux de l’attaque, et elle ne peut plus vous percevoir jusqu’au début de votre prochain tour.
+À partir du niveau 3, vous pouvez effacer votre présence de l'esprits de vos adversaires en les attaquant. Une fois par tout, lorsque vous touchez une créature avec une attaque avec une arme, vous pouvez lui imposer de réaliser un jet de sauvegarde d'Intelligence. Sur un échec, elle subit 1d4 dégâts psychiques supplémentaires à ceux de l'attaque, et elle ne peut plus vous percevoir jusqu'au début de votre prochain tour.
 
 À partir du niveau 11, les dégâts psychiques passent à 2d4.
 
@@ -636,27 +636,27 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 |**17**|[_apparence trompeuse_](/grimoire/apparence-trompeuse/)|
 
 #### Toile des connaissances
-Lorsque vous choisissez l’archétype du nomade au niveau 3, vous obtenez l’accès à l’étrange toile vivante de connaissances appelée noosphère. À la fin d’un repos long, vous obtenez la maîtrise de deux compétences ou deux outils de votre choix, jusqu’à la fin de votre prochain repos long. Vous pouvez aussi apprendre une ou deux langues au lieu des maîtrises.
+Lorsque vous choisissez l'archétype du nomade au niveau 3, vous obtenez l'accès à l'étrange toile vivante de connaissances appelée noosphère. À la fin d'un repos long, vous obtenez la maîtrise de deux compétences ou deux outils de votre choix, jusqu'à la fin de votre prochain repos long. Vous pouvez aussi apprendre une ou deux langues au lieu des maîtrises.
 
 #### Souvenir des mille pas
 Vous commencez à vous fondre dans la noosphère. En atteignant le niveau 7, vous obtenez la résistance aux dégâts psychiques.
 
-De plus, lorsque vous êtes ciblé pas une attaque, vous pouvez utiliser votre réaction pour disparaître dans la noosphère ; l’attaque échoue. Vous réapparaissez immédiatement dans un espace inoccupé de votre choix que vous avez occupé ou traversé à partir du début du tour précédent.
+De plus, lorsque vous êtes ciblé pas une attaque, vous pouvez utiliser votre réaction pour disparaître dans la noosphère ; l'attaque échoue. Vous réapparaissez immédiatement dans un espace inoccupé de votre choix que vous avez occupé ou traversé à partir du début du tour précédent.
 
-Une fois que vous avez utilisé cette capacité, vous devez attendre d’avoir terminé un repos court ou long pour l’utiliser à nouveau, à moins de dépenser un emplacement de sort de niveau 2 ou supérieur.
+Une fois que vous avez utilisé cette capacité, vous devez attendre d'avoir terminé un repos court ou long pour l'utiliser à nouveau, à moins de dépenser un emplacement de sort de niveau 2 ou supérieur.
 
 #### Déplacement étrange
-Au niveau 11, votre capacité à voyager au travers de la noosphère s’est développée. Si vous n’avez pas encore bougé à votre tour, vous pouvez utiliser une action bonus pour annuler votre action de mouvement et vous téléporter d’une distance égale à deux fois votre vitesse vers un espace inoccupé que vous voyez.
+Au niveau 11, votre capacité à voyager au travers de la noosphère s'est développée. Si vous n'avez pas encore bougé à votre tour, vous pouvez utiliser une action bonus pour annuler votre action de mouvement et vous téléporter d'une distance égale à deux fois votre vitesse vers un espace inoccupé que vous voyez.
 
 Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1), et vous regagnez toutes les utilisations effectuées après un repos long.
 
 #### Rafale mystique
-Vous avez appris à tirer l’énergie psychique de la noosphère pour la retourner contre vos adversaires. À partir du niveau 15, à chaque fois que vous vous téléportez grâce à un sort de Magie nomade ou une de vos aptitudes d’archétype, vous pouvez obliger des créatures de votre choix à 3 m ou moins de votre point d’apparition à effectuer un jet de sauvegarde d’Intelligence. Sur un échec, elles subissent 2d8 dégâts psychiques.
+Vous avez appris à tirer l'énergie psychique de la noosphère pour la retourner contre vos adversaires. À partir du niveau 15, à chaque fois que vous vous téléportez grâce à un sort de Magie nomade ou une de vos aptitudes d'archétype, vous pouvez obliger des créatures de votre choix à 3 m ou moins de votre point d'apparition à effectuer un jet de sauvegarde d'Intelligence. Sur un échec, elles subissent 2d8 dégâts psychiques.
 
 ### Traqueur sinistre
-Parfois, il faut un monstre pour détruire un autre monstre. Certains rôdeurs rejoignent les Traqueurs sinistres, un conclave reposant sur un rituel alchimique lugubre, pour développer leurs capacités physiques. Ils sacrifient leurs chances d’une vie normale en mêlant leur sang à celui de monstres, et gagnent ainsi des pouvoirs défiant la nature pour détruire leurs adversaires.
+Parfois, il faut un monstre pour détruire un autre monstre. Certains rôdeurs rejoignent les Traqueurs sinistres, un conclave reposant sur un rituel alchimique lugubre, pour développer leurs capacités physiques. Ils sacrifient leurs chances d'une vie normale en mêlant leur sang à celui de monstres, et gagnent ainsi des pouvoirs défiant la nature pour détruire leurs adversaires.
 
-En puisant dans la magie noire qui court dans leurs veines, les traqueurs sinistres poursuivent inexorablement tout ce qui hante les nuits. Pour eux, la fin justifie les moyens lorsqu’il s’agit d’affronter le mal. Une fois trouvé, ils sont impitoyables, éradiquant toute trace de leurs ennemis.
+En puisant dans la magie noire qui court dans leurs veines, les traqueurs sinistres poursuivent inexorablement tout ce qui hante les nuits. Pour eux, la fin justifie les moyens lorsqu'il s'agit d'affronter le mal. Une fois trouvé, ils sont impitoyables, éradiquant toute trace de leurs ennemis.
 
 #### Magie des traqueurs sinistres
 Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau [Magie des traqueurs sinistres](#magie-des-traqueurs-sinistres). Ils comptent comme des sorts de rôdeur en ce qui vous concerne, sont toujours préparés et ne comptent pas dans le total de sorts que vous pouvez préparer chaque jour.
@@ -673,10 +673,10 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 #### Marque cramoisie
 À partir du niveau 3, vous pouvez puiser dans la magie noire dans votre sang pour renforcer vos attaques. Lorsque vous touchez une créature avec une attaque avec une arme au corps-à-corps, vous pouvez dépenser un de vos dés de vie pour infliger 2d10 dégâts nécrotiques supplémentaires.
 
-Les dégâts nécrotiques supplémentaires de cette aptitude augmente d’1d10 si la cible est un fiélon ou un mort-vivant.
+Les dégâts nécrotiques supplémentaires de cette aptitude augmente d'1d10 si la cible est un fiélon ou un mort-vivant.
 
 #### Rite de traque
-Au niveau 3, vous suivez le Rite de traque, un rituel alchimique qui mêle votre sang à une magie sinistre. Vous gagnez la maîtrise du matériel d’alchimiste et de la compétence Religion, et dès que vous réalisez un test d’Intelligence (Religion) en lien avec les fiélons ou les morts-vivants, vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au test.
+Au niveau 3, vous suivez le Rite de traque, un rituel alchimique qui mêle votre sang à une magie sinistre. Vous gagnez la maîtrise du matériel d'alchimiste et de la compétence Religion, et dès que vous réalisez un test d'Intelligence (Religion) en lien avec les fiélons ou les morts-vivants, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au test.
 
 #### Augmentation sinistre
 Vous avez appris à exercer un contrôle accru sur la magie noire qui court dans vos veines, développant encore plus vos capacités physiques. À partir du niveau 7, lorsque vous faîtes un test de compétence basé sur la Force, la Dextérité ou la Constitution, vous obtenez un bonus à ce test égal à votre modificateur de Sagesse (minimum 1).
@@ -687,7 +687,7 @@ De plus, votre vitesse augmente de 1,5 m.
 Au niveau 11, la magie noire dans votre sang suinte au travers de vos attaques armées. Une fois par tour, lorsque vous touchez une créature avec une attaque avec une arme au corps-à-corps, vous pouvez infliger 1d10 dégâts nécrotiques supplémentaires à la cible.
 
 #### Maîtrise du sang
-La magie noire issue du Rite de traque atteint son plein potentiel. À partir du niveau 15, vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde pour résister aux effets de [_charme_](/gerer-la-sante-du-personnage/#charme) et de [_terreur_](/gerer-la-sante-du-personnage/#terrorise), et vous êtes toujours sous les effets du sort [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/) tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
+La magie noire issue du Rite de traque atteint son plein potentiel. À partir du niveau 15, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde pour résister aux effets de [_charme_](/gerer-la-sante-du-personnage/#charme) et de [_terreur_](/gerer-la-sante-du-personnage/#terrorise), et vous êtes toujours sous les effets du sort [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/) tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 
 §§§ .source
 Crédits : Texte original de [_Laserllama_](https://www.gmbinder.com/profile/laserllama).  

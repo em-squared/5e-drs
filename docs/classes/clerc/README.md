@@ -716,19 +716,19 @@ Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
 Dès le niveau 1, lorsque vous utilisez un sort de soins sur une créature du même alignement que le vôtre, celle-ci récupère un nombre de PV supplémentaires égal à votre bonus de maîtrise.
 
 #### Par le sang, la puissance
-À partir du niveau 2, lorsque vous utilisez votre action pour lancer un sort, il est possible d’utiliser votre action bonus pour vous scarifier et ainsi l’améliorer. Au choix, vous pouvez soit dépenser une canalisation d’énergie divine ou sacrifier 1d6 PV : cela vous permet de lancer le sort avec un emplacement de sort d’un niveau au-dessus de son niveau normal. Vous ne pouvez jamais utiliser cette aptitude pour augmenter le niveau d’un sort qui produit des soins. Vous ne pouvez pas augmenter de plus d’un niveau l’emplacement du sort de cette façon.
+À partir du niveau 2, lorsque vous utilisez votre action pour lancer un sort, il est possible d'utiliser votre action bonus pour vous scarifier et ainsi l'améliorer. Au choix, vous pouvez soit dépenser une canalisation d'énergie divine ou sacrifier 1d6 PV : cela vous permet de lancer le sort avec un emplacement de sort d'un niveau au-dessus de son niveau normal. Vous ne pouvez jamais utiliser cette aptitude pour augmenter le niveau d'un sort qui produit des soins. Vous ne pouvez pas augmenter de plus d'un niveau l'emplacement du sort de cette façon.
 
 #### Par la volonté, le châtiment
-Au niveau 6, lorsque vous lancez un sort sur une créature dont l’alignement est strictement opposé au vôtre, vous lui imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son jet de sauvegarde.
+Au niveau 6, lorsque vous lancez un sort sur une créature dont l'alignement est strictement opposé au vôtre, vous lui imposez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son jet de sauvegarde.
 
 #### Par la punition, le renouveau
-À partir du niveau 8, pendant un repos court, vous vous infligez de multiples et légères scarifications tout en entrant dans un état méditatif profond. Certains mortifiés ne se scarifient pas mais s’infligent brûlures et autres punitions corporelles visibles. Vous récupérez un emplacement de sort de niveau 2 ou 3 que vous avez dépensé. Vous n’obtenez aucun autre bénéfice durant ce repos court. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
+À partir du niveau 8, pendant un repos court, vous vous infligez de multiples et légères scarifications tout en entrant dans un état méditatif profond. Certains mortifiés ne se scarifient pas mais s'infligent brûlures et autres punitions corporelles visibles. Vous récupérez un emplacement de sort de niveau 2 ou 3 que vous avez dépensé. Vous n'obtenez aucun autre bénéfice durant ce repos court. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
 
 #### Par la voix, les esprits
-Également au niveau 8, votre zèle et votre rigueur spirituelle vous rapprochent du royaume des morts. Désormais vous bénéficiez de l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme ou de Sagesse lorsque vous tentez de communiquer avec un mort ou un mort-vivant.
+Également au niveau 8, votre zèle et votre rigueur spirituelle vous rapprochent du royaume des morts. Désormais vous bénéficiez de l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme ou de Sagesse lorsque vous tentez de communiquer avec un mort ou un mort-vivant.
 
 #### Par la chair, la révélation
-Au niveau 17, pendant un repos court, vous vous infligez des blessures et cicatrices plus profondes et douloureuses, mettant votre volonté à l’épreuve. Vous récupérez un emplacement de sort de niveau 4 ou 5 que vous avez dépensé. Le châtiment corporel peut être infligé par vous-même ou par un officiant de votre choix. Vous perdez 1d8 PV, qui sont retranchés sur votre valeur maximale de PV. Vous ne récupérerez ses PV qu’après un repos long. Vous n’obtenez aucun autre bénéfice durant ce repos court. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
+Au niveau 17, pendant un repos court, vous vous infligez des blessures et cicatrices plus profondes et douloureuses, mettant votre volonté à l'épreuve. Vous récupérez un emplacement de sort de niveau 4 ou 5 que vous avez dépensé. Le châtiment corporel peut être infligé par vous-même ou par un officiant de votre choix. Vous perdez 1d8 PV, qui sont retranchés sur votre valeur maximale de PV. Vous ne récupérerez ses PV qu'après un repos long. Vous n'obtenez aucun autre bénéfice durant ce repos court. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
 
 ### <span class="icon-gondolfiere"></span> Oracle
 §§§ .source .font-italic
@@ -736,10 +736,10 @@ Source : Pangée - l'Âge du changement
 §§§
 
 #### Anticiper
-Dès le niveau 1, lorsque vous obtenez un bonus de +5 à votre valeur passive de Sagesse (Perception) – lorsqu’il s’agit d’éviter d’être surpris (ou si le MJ vous demande un test) –, vous obtenez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ce test.
+Dès le niveau 1, lorsque vous obtenez un bonus de +5 à votre valeur passive de Sagesse (Perception) – lorsqu'il s'agit d'éviter d'être surpris (ou si le MJ vous demande un test) –, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ce test.
 
 #### Domaine de la divination
-Au niveau 1, l’oracle obtient l’accès aux sorts du domaine de la divination :
+Au niveau 1, l'oracle obtient l'accès aux sorts du domaine de la divination :
 |Niveau de clerc|Sorts|
 |:-:|:-|
 |**1**|[_détection du poison et des maladies_](/grimoire/detection-du-poison-et-des-maladies/)|
@@ -749,13 +749,13 @@ Au niveau 1, l’oracle obtient l’accès aux sorts du domaine de la divination
 |**9**|[communion](/grimoire/communion/)|
 
 #### Champs des possibles
-À partir du niveau 2, l’oracle peut dépenser une canalisation d’énergie divine pour obtenir un d20 par point de bonus de maîtrise. Chacun de ces d20 peut être utilisé pour obtenir l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet de dé de votre choix. Tous les dés non utilisés sont perdus dès que vous prenez un nouveau repos court ou long.
+À partir du niveau 2, l'oracle peut dépenser une canalisation d'énergie divine pour obtenir un d20 par point de bonus de maîtrise. Chacun de ces d20 peut être utilisé pour obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet de dé de votre choix. Tous les dés non utilisés sont perdus dès que vous prenez un nouveau repos court ou long.
 
 #### Prémonition
-La prémonition d’un événement qui risque de vous affecter vous permet d’augmenter vos chances d’y échapper. À partir du niveau 6, vous pouvez utiliser les dés acquis par l’aptitude _champ des possibles_, pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test d’attaque réalisé contre vous par le MJ.
+La prémonition d'un événement qui risque de vous affecter vous permet d'augmenter vos chances d'y échapper. À partir du niveau 6, vous pouvez utiliser les dés acquis par l'aptitude _champ des possibles_, pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test d'attaque réalisé contre vous par le MJ.
 
 #### In extremis
 À partir du niveau 8, lorsque vous obtenez un résultat de 1 sur le d20, vous pouvez utiliser votre réaction et dépenser un dé obtenu par votre aptitude du _champ des possibles_ pour ignorer cet échec critique et relancer le dé.
 
 #### Choix des possibles
-Au niveau 17, vous pouvez choisir l’issue d’un événement depuis le _champ des possibles_. Lorsque vous dépensez une canalisation d’énergie divine pour utiliser votre aptitude du _champ des possibles_, vous pouvez immédiatement dépenser de un à trois d20 parmi les six obtenus. Vous devez les lancer et consigner le résultat. Il est alors possible d’utiliser ces résultats au moment de votre choix pour remplacer le résultat d’un dé dans les mêmes conditions que si vous utilisiez un dé de vos aptitudes précédentes.
+Au niveau 17, vous pouvez choisir l'issue d'un événement depuis le _champ des possibles_. Lorsque vous dépensez une canalisation d'énergie divine pour utiliser votre aptitude du _champ des possibles_, vous pouvez immédiatement dépenser de un à trois d20 parmi les six obtenus. Vous devez les lancer et consigner le résultat. Il est alors possible d'utiliser ces résultats au moment de votre choix pour remplacer le résultat d'un dé dans les mêmes conditions que si vous utilisiez un dé de vos aptitudes précédentes.

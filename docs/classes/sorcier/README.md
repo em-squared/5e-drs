@@ -259,14 +259,14 @@ Deux-visages possède ses propres particularités pour chaque pacte.
 **Pour le pacte de la chaîne**, le familier de Deux-visages peut être un [parasite arcanique](/bestiaire/parasite-arcanique/) ou un [dref](/bestiaire/dref/).
 
 **Pour le pacte de la lame**, votre arme change chaque jour de manière aléatoire. Lancez 1d6 :
-1. l’arme est une arme dont les dégâts sont de 1d4 ;
-2. l’arme est une arme dont les dégâts sont de 1d6 ;
-3. l’arme est une arme dont les dégâts sont de 1d8 ;
-4. l’arme est une arme dont les dégâts sont de 1d10 ;
-5. l’arme est une arme dont les dégâts sont de 1d12 ;
-6. l’arme est une arme dont les dégâts sont de 2d6 ;
+1. l'arme est une arme dont les dégâts sont de 1d4 ;
+2. l'arme est une arme dont les dégâts sont de 1d6 ;
+3. l'arme est une arme dont les dégâts sont de 1d8 ;
+4. l'arme est une arme dont les dégâts sont de 1d10 ;
+5. l'arme est une arme dont les dégâts sont de 1d12 ;
+6. l'arme est une arme dont les dégâts sont de 2d6 ;
 
-**Pour le pacte du grimoire**, le grimoire prend la forme tantôt d’un livre ancien et usé, tantôt d’un tube rempli de vieux parchemins, tantôt d’une simple tablette de pierre ou d’argile gravée de symboles mystiques... Quelle qu’elle soit vous n’avez pas de contrôle sur la forme.
+**Pour le pacte du grimoire**, le grimoire prend la forme tantôt d'un livre ancien et usé, tantôt d'un tube rempli de vieux parchemins, tantôt d'une simple tablette de pierre ou d'argile gravée de symboles mystiques... Quelle qu'elle soit vous n'avez pas de contrôle sur la forme.
 §§§
 
 #### Liste de sorts étendue
@@ -274,22 +274,22 @@ Votre protecteur vous permet de choisir des sorts dans une liste de sorts étend
 |Niveau|Sort|
 |:-:|:-|
 |**1**|[_blessure_](/grimoire/blessure/), [_soin des blessures_](/grimoire/soin-des-blessures/)|
-|**2**|[_modifier son apparence_](/grimoire/modifier-son-apparence/), [_voir l’invisible_](/grimoire/voir-l-invisible/)|
+|**2**|[_modifier son apparence_](/grimoire/modifier-son-apparence/), [_voir l'invisible_](/grimoire/voir-l-invisible/)|
 |**3**|[_hâte_](/grimoire/hate/), [_lenteur_](/grimoire/lenteur/)|
 |**4**|[_bouclier de feu_](/grimoire/bouclier-de-feu/), [_tempête de grêle_](/grimoire/tempete-de-grele/)|
 |**5**|[_légende_](/grimoire/legende/), [_tromperie_](/grimoire/tromperie/)|
 
 #### Pièce aux deux visages
-Dès le niveau 1, votre protecteur vous donne une pièce de métal forgée dans un métal inconnu. L’une des faces est gravée d’un visage souriant (pile) et l’autre d’un visage grimaçant (face). Vous pouvez utiliser votre action pour lancer la pièce. Si vous obtenez pile, vous avez l’[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test effectué avant le prochain repos court. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude. De plus, vous pouvez transformer cette pièce en monnaie du pays de votre choix et n’avez qu’à claquer des doigts en utilisant une action bonus pour qu’elle revienne dans votre poche, où qu’elle se trouve à ce moment-là. Lorsque vous faites l’acquisition de cette pièce, vous pouvez la transformer en pièce d’argent, au niveau 6 en pièce d’or et au niveau 10 en pièce de platine. Au niveau 14 vous pouvez la transformer en une gemme de votre choix d’une valeur de 100 po.
+Dès le niveau 1, votre protecteur vous donne une pièce de métal forgée dans un métal inconnu. L'une des faces est gravée d'un visage souriant (pile) et l'autre d'un visage grimaçant (face). Vous pouvez utiliser votre action pour lancer la pièce. Si vous obtenez pile, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur un test effectué avant le prochain repos court. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude. De plus, vous pouvez transformer cette pièce en monnaie du pays de votre choix et n'avez qu'à claquer des doigts en utilisant une action bonus pour qu'elle revienne dans votre poche, où qu'elle se trouve à ce moment-là. Lorsque vous faites l'acquisition de cette pièce, vous pouvez la transformer en pièce d'argent, au niveau 6 en pièce d'or et au niveau 10 en pièce de platine. Au niveau 14 vous pouvez la transformer en une gemme de votre choix d'une valeur de 100 po.
 
 #### Dé magique
-Au niveau 6, Deux-visages vous offre un dé à 8 faces, simple cube d’un métal inconnu aux reflets irisés. À tout moment, vous pouvez ajouter le résultat du dé à un test ou à un jet, y compris un jet de dégâts en dépensant votre réaction, et ce même une fois le résultat connu. Vous pouvez utiliser cette capacité une fois entre deux repos courts. La forme de votre dé évolue avec votre niveau : au niveau 10, il devient un d10, au niveau 14 un d12.
+Au niveau 6, Deux-visages vous offre un dé à 8 faces, simple cube d'un métal inconnu aux reflets irisés. À tout moment, vous pouvez ajouter le résultat du dé à un test ou à un jet, y compris un jet de dégâts en dépensant votre réaction, et ce même une fois le résultat connu. Vous pouvez utiliser cette capacité une fois entre deux repos courts. La forme de votre dé évolue avec votre niveau : au niveau 10, il devient un d10, au niveau 14 un d12.
 
 #### Consulter Deux-visages
-À partir du niveau 10, vous pouvez vous en remettre à votre pièce pour décider de faire ou de ne pas faire une action. Les termes employés doivent définir une action claire et précise : tuer X ou sauver Y, enfoncer une porte (mais pas devenir plus fort). Prenez une pièce et lancez la (ou utilisez un dé de votre choix : pile = pair, face = impair). Si vous obtenez pile, vous bénéficiez d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests servant à faire cette action jusqu’à votre prochain repos long. Si vous obtenez face, vous souffrez d’un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous persistez tout de même dans ce projet. Vous devez terminer un repos long avant de pouvoir à nouveau utiliser cette aptitude.
+À partir du niveau 10, vous pouvez vous en remettre à votre pièce pour décider de faire ou de ne pas faire une action. Les termes employés doivent définir une action claire et précise : tuer X ou sauver Y, enfoncer une porte (mais pas devenir plus fort). Prenez une pièce et lancez la (ou utilisez un dé de votre choix : pile = pair, face = impair). Si vous obtenez pile, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests servant à faire cette action jusqu'à votre prochain repos long. Si vous obtenez face, vous souffrez d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous persistez tout de même dans ce projet. Vous devez terminer un repos long avant de pouvoir à nouveau utiliser cette aptitude.
 
 #### Protection aux deux visages
-Au niveau 14, vous êtes devenu un serviteur puissant et Deux-visages vous protège... mais d’une façon très aléatoire. Après avoir pris un repos long, vous devez lancer un d6 et un d10. Le résultat de chaque dé indique l’un des deux types de dégâts pour lesquels vous obtenez la résistance jusqu’à la fin de votre prochain repos long.
+Au niveau 14, vous êtes devenu un serviteur puissant et Deux-visages vous protège... mais d'une façon très aléatoire. Après avoir pris un repos long, vous devez lancer un d6 et un d10. Le résultat de chaque dé indique l'un des deux types de dégâts pour lesquels vous obtenez la résistance jusqu'à la fin de votre prochain repos long.
 
 D6 : 1-2 contondants, 3-4 perforants, 5-6 tranchants.
 

@@ -296,17 +296,17 @@ Source : Pangée - l'Âge du changement
 §§§
 
 #### Vision dans le noir
-Au niveau 3, lorsque vous choisissez cet archétype, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de faible luminosité comme s’il s’agissait d’une lumière vive et dans l’obscurité comme s’il s’agissait d’une lumière faible. En revanche, vous ne distinguez pas les couleurs dans l’obscurité, seulement des nuances de gris.
+Au niveau 3, lorsque vous choisissez cet archétype, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de faible luminosité comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. En revanche, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 
 Si vous possédez déjà la vision dans le noir (ou la vision dans le noir améliorée), vous augmentez la portée de celle-ci de 9 mètres.
 
 #### Tous les chats sont gris
-Vous êtes passé maître dans l’analyse et l’utilisation des nuances de gris que perçoivent les créatures douées de vision dans l’obscurité afin de mieux vous cacher. Également au niveau 3, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Dextérité (Discrétion) pour vous dissimuler dans l’obscurité ou par faible luminosité, et ce même contre des créatures qui disposent de vision nocturne. De plus, votre valeur de Perception passive augmente de votre bonus de maîtrise lorsque vous êtes dans l’obscurité. Si vous maîtrisez déjà la compétence Perception, vous ajoutez une seconde fois votre bonus de maîtrise à votre Perception passive, sans pouvoir cumuler cela avec l’Expertise.
+Vous êtes passé maître dans l'analyse et l'utilisation des nuances de gris que perçoivent les créatures douées de vision dans l'obscurité afin de mieux vous cacher. Également au niveau 3, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Dextérité (Discrétion) pour vous dissimuler dans l'obscurité ou par faible luminosité, et ce même contre des créatures qui disposent de vision nocturne. De plus, votre valeur de Perception passive augmente de votre bonus de maîtrise lorsque vous êtes dans l'obscurité. Si vous maîtrisez déjà la compétence Perception, vous ajoutez une seconde fois votre bonus de maîtrise à votre Perception passive, sans pouvoir cumuler cela avec l'Expertise.
 
 #### Un coup dans le noir
-À partir du niveau 7, vous savez profiter des ténèbres pour frapper subtilement et exploiter les ombres. Une fois par tour, lorsque vous êtes dans l’obscurité, vous pouvez infliger 3d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque.
+À partir du niveau 7, vous savez profiter des ténèbres pour frapper subtilement et exploiter les ombres. Une fois par tour, lorsque vous êtes dans l'obscurité, vous pouvez infliger 3d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d'attaque.
 
-Vous n’avez pas besoin d’avoir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d’elle, que cet ennemi n’est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et que vous ne subissez pas un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d’attaque.
+Vous n'avez pas besoin d'avoir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et que vous ne subissez pas un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet d'attaque.
 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux : ils sont égaux à 1d6 par point de votre bonus de maîtrise.
 
@@ -314,10 +314,10 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 Également au niveau 7, vos yeux commencent à devenir sensibles aux lumières vives. Si vous êtes en plein soleil en milieu de journée ou avec un soleil rasant dans les yeux, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Sagesse (Perception).
 
 #### Ruse
-À partir du niveau 11, votre aisance dans l’obscurité vous permet de vous déplacer et d’agir rapidement. Vous pouvez bénéficier d’une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
+À partir du niveau 11, votre aisance dans l'obscurité vous permet de vous déplacer et d'agir rapidement. Vous pouvez bénéficier d'une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 
 #### Maître des ombres
-À partir du niveau 15, votre maîtrise des ténèbres s’étend aux zones de lumière faible (pénombre) et même à toutes celles où la visibilité est réduite (brume légère, végétation luxuriante). Désormais vous pouvez y utiliser vos aptitude un coup dans le noir et ruse.
+À partir du niveau 15, votre maîtrise des ténèbres s'étend aux zones de lumière faible (pénombre) et même à toutes celles où la visibilité est réduite (brume légère, végétation luxuriante). Désormais vous pouvez y utiliser vos aptitude un coup dans le noir et ruse.
 
 #### Hypersensible
-Également au niveau 15, votre sensibilité à la lumière s’aggrave. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Sagesse (Perception) dans une zone de lumière vive. Si vous êtes en plein soleil en milieu de journée ou avec un soleil rasant dans les yeux, vous subissez aussi un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos jets d’attaque à distance.
+Également au niveau 15, votre sensibilité à la lumière s'aggrave. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Sagesse (Perception) dans une zone de lumière vive. Si vous êtes en plein soleil en milieu de journée ou avec un soleil rasant dans les yeux, vous subissez aussi un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos jets d'attaque à distance.
