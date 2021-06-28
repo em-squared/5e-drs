@@ -13,7 +13,7 @@ toc: false
 Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
 ## Nouvel archétype pour le barbare
-Vous avez prouvé votre valeur à un animal gardien ? Vous avez fait un pacte avec les esprits de la nature qu'ils vous prêtent leur force ? Votre clan vénère l'un de ces esprits gardiens qui le protège des dangers des terres sauvages ? Vous suivez la [voie des steppes](/classes/barbare/#voie-des-steppes), un nouvel archétype pour le barbare !
+Vous avez prouvé votre valeur à un animal gardien ? Vous avez fait un pacte avec les esprits de la nature pour qu'ils vous prêtent leur force ? Votre clan vénère l'un de ces esprits gardiens qui le protège des dangers des terres sauvages ? Vous suivez la [voie des steppes](/classes/barbare/#voie-des-steppes), un nouvel archétype pour le barbare !
 
 §§§ .text-right
 _**Em-squared**_,  
