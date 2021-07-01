@@ -74,11 +74,7 @@ Quand vous atteignez le niveau 2, vous développez la capacité instinctive de r
 Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 ### Voie primitive
-<<<<<<< HEAD
-Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), la [voie du hurlement](#voie-du-hurlement), la [voie de la bête](#voie-de-la-bete) ou la [voie des glaces](#voie-des-glaces). Toutes sont détaillées à la fin de la section consacrée à cette classe.
-=======
-Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), [voie du hurlement](#voie-du-hurlement) ou la [voie des steppes](#voie-des-steppes). Toutes sont détaillées à la fin de la section consacrée à cette classe.
->>>>>>> master
+Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), la [voie du hurlement](#voie-du-hurlement), la [voie des steppes](#voie-des-steppes), la [voie de la bête](#voie-de-la-bete) ou la [voie des glaces](#voie-des-glaces). Toutes sont détaillées à la fin de la section consacrée à cette classe.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -203,7 +199,7 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 #### Hurlement terrifiant
 À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Force au choix (difficulté 8 + modificateur de Force + bonus de maîtrise) ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Si vous êtes en rage, les cibles subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
 
-### Voie des steppes
+### <span class="icon-hexagon"></span> Voie des steppes
 §§§ .source .font-italic
 Source : Gazette Role'n Play #8
 §§§
