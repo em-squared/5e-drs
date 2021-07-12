@@ -605,7 +605,7 @@ Vous êtes une sommité en histoire. Choisissez trois bénéfices parmi les cinq
 #### Expert en intimidation
 _Prérequis :_ maîtrise de la compétence Intimidation.
 
-Vous êtes d'une discrétion exceptionnelle. Choisissez trois bénéfices parmi les cinq présentés :
+Choisissez trois bénéfices parmi les cinq présentés :
 * vous augmentez votre valeur de Charisme de +1 ;
 * vous gagnez l'expertise dans cette compétence (votre bonus de maîtrise est doublé lorsque vous utilisez cette compétence). Vous ne pouvez pas choisir ce bénéfice si vous avez déjà l'expertise ;
 * lorsque vous faîtes un test de cette compétence, vous pouvez choisir de remplacer le résultat du d20 par la valeur 10, même après avoir vu le résultat du dé. Si vous avez lancé deux dés (_avantage_ ou _désavantage_), vous remplacez seulement le résultat d'un dé. Vous devez terminer un repos long avant de pouvoir utiliser à nouveau cet effet ;

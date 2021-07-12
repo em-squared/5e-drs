@@ -18,7 +18,9 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 <span class="icon-gondolfiere primary--text"></span>
 
 §§§
-Peut-être suivez-vous assiduement l'émission Role'n Play ? Ou peut-être pas ? Dans tous les cas, les nouveautés ajoutées sur _**5e DRS**_ devraient vous intéresser. Il s'agit de nouvelles règles issues des livres du cadre de campagne Pangée, le théâtre des aventures de Role'n Play.
+_**Mise à jour 12 juillet 2021 :** la page des règles additionnelles de Pangée a été supprimée. Elle n'entrait pas dans les termes de l'OGL._
+
+Peut-être suivez-vous assidûment l'émission Role'n Play ? Ou peut-être pas ? Dans tous les cas, les nouveautés ajoutées sur _**5e DRS**_ devraient vous intéresser. Il s'agit de nouvelles règles issues des livres du cadre de campagne Pangée, le théâtre des aventures de l'émission Role'n Play.
 
 **Nouvelles variantes de races :** les [elfes du souffle](/races/elfe/#elfe-du-souffle), les [elfes des vagues](/races/elfe/#elfe-des-vagues), les [elfes des roches](/races/elfe/#elfe-des-roches), les [gnomes vaesenkaebae](/races/gnome/#vaesenkaebae), les [gnomes vaesenhudak](/races/gnome/#vaesenhudak), les [halfelins de maison](/races/halfelin/#halfelin-de-maison), les [halfelins p'relinne](/races/halfelin/#halfelin-p-relinne) et les [nains taïvastotta](/races/nain/#taivastotta).
 
@@ -30,15 +32,13 @@ Toutes ces nouvelles variantes sont prises en compte dans le [calculateur de car
 
 **Nouveaux dons :** les [dons de compétence](/options-de-personnalisation/#dons-de-competence) qui mettent en valeur chacune des compétences des personnages et les rendent un peu plus uniques.
 
-**Nouvelles règles :** [Un monde plus dur](/pangee/). Ces règles présentent un monde où la magie est fluctuante. Parfois abondante, parfois chaotique. La vie des aventuriers y est aussi plus éprouvante avec des repos moins réparateurs et des blessures plus handicapantes. La résurrection est bien plus coûteuse et sujette aux fluctuations de la magie. Enfin, de nouvelles règles sur les réussites et échecs critiques inspirées d'un autre jeu bien connu.
-
 Avec la multiplication des sources, difficile de s'y retrouver. Vous pouvez maintenant identifier d'un coup d'œil la source d'une section grâce à des icônes : un hexagone pour les gazettes Role'n Play (<span class="icon-hexagon accent--text"></span>) et une gondolfière pour Pangée (<span class="icon-gondolfiere accent--text"></span>).
 
 Un grand merci à Julien Dutel, l'équipe Role'n Play et Black Book Editions pour tout ça, et surtout à vous qui faites exister le jeu !
 
 §§§ .text-right
 _**Em-squared**_,  
-_le 01 juillet 2021_
+_le 02 juillet 2021_
 §§§
 
 ## Nouvel archétype pour le barbare
