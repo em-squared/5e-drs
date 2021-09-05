@@ -12,7 +12,7 @@ components:
   somatic: true
   material: false
   materials: ""
-ritual: false
+ritual: true
 classes:
     - Clerc
     - Druide

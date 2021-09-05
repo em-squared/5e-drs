@@ -151,7 +151,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 ## Origines magiques
-La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si de nombreuses variantes existent, on peut néanmoins les regrouper en grandes lignées : [draconique](#lignee-draconique), [céleste](#lignee-celeste), [féerique](#lignee-feerique) et [infernale](#lignee-infernale).
+La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si de nombreuses variantes existent, on peut néanmoins les regrouper en grandes lignées : [draconique](#lignee-draconique), [céleste](#lignee-celeste), [féerique](#lignee-feerique), [infernale](#lignee-infernale) et [protéenne](#lignee-proteenne).
 
 ### Lignée draconique
 #### Ancêtre dragon
