@@ -88,22 +88,22 @@
           </v-data-table>
         </div>
         <div class="d-none d-print-block">
-          <template v-for="(n, level) in 10" v-if="hasSpellOfLevel(level)">
+          <div class="print-break-avoid-page" v-for="(n, level) in 10" v-if="hasSpellOfLevel(level)">
             <h2 v-if="level == 0">Tours de magie</h2>
             <h2 v-else>Sorts de niveau {{ level }}</h2>
-            <div class="column-count-2">
+            <div class="column-count-2 print-column-count-2">
               <div v-for="spell in spells">
-                <template v-if="spell.frontmatter.level == level && !isHiddenPrint(spell)">
+                <div class="print-spell print-break-avoid-column" v-if="spell.frontmatter.level == level && !isHiddenPrint(spell)">
                   <h3 class="d-flex align-center title">
                     <div class="mr-4">{{ spell.title }}</div>
                     <v-btn class="d-print-none mr-2" small depressed link :to="{ path: '/creation-de-sort/', query: { key: spell.key } }"><v-icon left>mdi-pencil</v-icon> Modifier</v-btn>
                     <v-btn color="error" class="d-print-none" small depressed @click="removeSpell(spell)"><v-icon left>mdi-delete</v-icon> Supprimer</v-btn>
                   </h3>
                   <Spell :spell="getSpell(spell)" :isList="true" :hideTitle="true" />
-                </template>
+                </div>
               </div>
             </div>
-          </template>
+          </div>
         </div>
       </div>
       <template v-else>

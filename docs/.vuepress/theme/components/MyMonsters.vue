@@ -56,8 +56,8 @@
           </v-data-table>
         </div>
 
-        <div class="d-none d-print-block column-count-2">
-          <div v-for="monster in monsters">
+        <div class="d-none d-print-block print-column-count-2 column-count-2">
+          <div class="print-monster print-break-avoid-column" v-for="monster in monsters">
             <div v-if="!isHiddenPrint(monster)">
               <h1 class="d-flex align-center">
                 <div class="mr-4">{{ monster.title }}</div>
