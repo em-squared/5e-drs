@@ -595,9 +595,9 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 |Niveau de clerc|Sorts|
 |:-:|:-|
 |**1**|[_charme-personne_](/grimoire/charme-personne/)|
-|**2**|[_aide_](/grimoire/aide/)|
+|**2**|[_héroïsme_](/grimoire/heroisme/)|
 |**3**|[_détection des pensées_](/grimoire/detection-des-pensees/)|
-|**4**|[_héroïsme_](/grimoire/heroisme/)|
+|**4**|[_aide_](/grimoire/aide/)|
 |**5**|[_lueur d'espoir_](/grimoire/lueur-d-espoir/)|
 |**6**|[_langues_](/grimoire/langues/)|
 |**7**|[_nimbe de bienfaisance_](/grimoire/nimbe-de-bienfaisance/)|
