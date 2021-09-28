@@ -41,3 +41,5 @@ Le _**Livre des monstres**_ est une traduction de [Black Book Éditions](https:/
 Les textes de cette documentation appartiennent à [Black Book Éditions](https://www.black-book-editions.fr/catalogue.php?id=365).
 
 Casus Belli et Black Book Éditions sont des marques déposées par [Black Book Éditions](https://www.black-book-editions.fr/). Tous droits réservés.
+
+Ce site utilise des marques déposées et/ou des droits d’auteurs qui sont la propriété de Black Book Éditions comme l’y autorisent les conditions d’utilisation de Black Book Éditions. Ce site n’est pas publié par Black Book Éditions. Pour de plus amples informations sur Black Book Éditions, consultez [www.black-book-editions.fr](www.black-book-editions.fr).
