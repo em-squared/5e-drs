@@ -572,7 +572,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
 #### Magie ancestrale
 À partir du niveau 6, votre contact privilégié avec vos ancêtres et l'au-delà vous permet d'apprendre et de lancer les tours de magie suivants comme s'il s'agissait de sorts de clerc : [_contact glacial_](/grimoire/contact-glacial/) et [_message_](/grimoire/message/).
-De plus, vous pouvez utiliser une canalisation d'énergie divine pour lancer l'un de vos sorts de domaine.
+De plus, vous pouvez utiliser une canalisation d'énergie divine pour lancer l'un de vos sorts de domaine sans dépenser d'emplacement de sort.
 
 #### Guérisseur
 À partir du niveau 8, vous êtes capable de lancer le sort [_soin des blessures_](/grimoire/soin-des-blessures/) en utilisant une action bonus et [_mot de guérison_](/grimoire/mot-de-guerison/) en utilisant une réaction (donc en dehors de votre propre tour).

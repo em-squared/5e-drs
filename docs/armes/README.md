@@ -80,7 +80,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Hachette|5 po|1d6 tranchant|1 kg|Légère, lancer (portée 6/18)|
 |Javelines|5 pa|1d6 perforant|1 kg|Lancer (portée 9/36)|
 |Lance|1 po|1d6 perforant|1,5 kg|Lancer (portée 6/18), polyvalente (1d8)|
-|Marteau léger|2 po|1d4 contondant|1 kg|Légère, lancer (6/18)|
+|Marteau léger|2 po|1d4 contondant|1 kg|Légère (portée 6/18)|
 |Masse d'armes|5 po|1d6 contondant|2 kg|-|
 |Massue|2 pa|1d8 contondant|5 kg|À deux mains|
 |Serpe|1 po|1d4 tranchant|1 kg|Légère|
