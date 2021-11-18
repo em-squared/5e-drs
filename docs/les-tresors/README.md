@@ -130,7 +130,7 @@ Vous pouvez remplacer, particulièrement au-delà du niveau 8, tout ou partie de
       </td><td class="has-text-centered">1d6 × 1000 (3500) po<br>1d6 × 100 (350) pp</td>
     </tr>
     <tr>
-      <td class="has-text-centered"><strong>18-20</strong>
+      <td class="has-text-centered"><strong>19-20</strong>
       </td><td class="has-text-centered">1d3 (1) pp</td>
       </td><td class="has-text-centered">2d6 (7) pp<br>5d6 (17) po</td>
       </td><td class="has-text-centered">4d6 (14) pp<br>1d6 × 10 (35) po</td>
@@ -197,7 +197,7 @@ Avec ce tableau vous allez déterminer quels objets insolites, rares et de faibl
       </td><td class="has-text-centered">1d6 objets</td>
     </tr>
     <tr>
-      <td class="has-text-centered"><strong>18-20</strong>
+      <td class="has-text-centered"><strong>19-20</strong>
       </td><td class="has-text-centered">1 objet</td>
       </td><td class="has-text-centered">1d3 objets</td>
       </td><td class="has-text-centered">1d3 objets</td>

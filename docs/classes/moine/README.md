@@ -227,7 +227,7 @@ Chaque matin après un repos long, vous préparez les sorts de druide que vous p
 Également au niveau 3, votre immobilité est trompeuse : car vous êtes pleinement conscient de la présence de vos ennemis. Si vous n'avez pas réalisé d'action offensive lors de votre tour, vous pouvez utiliser votre réaction pour lancer votre dé d'arts martiaux et l'ajouter à votre CA contre une attaque jusqu'à votre prochain tour.
 
 #### Enraciné
-À partir du niveau 6, votre équilibre plonge ses racines dans les courants telluriques du monde : vous ne pouvez plus être mis [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ni [_repoussé_](/gerer-la-sante-du-personnage/#repousse) (subir un déplacement) contre votre gré.
+À partir du niveau 6, votre équilibre plonge ses racines dans les courants telluriques du monde : vous ne pouvez plus être mis [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ni repoussé (subir un déplacement) contre votre gré.
 
 #### Maître de la taille
 Le bonsaï peut être aussi vieux que le chêne majestueux. Vous avez appris des plantes que la force intérieure n'est pas liée à la taille et que l'espace occupé par un être vivant peut être plié par la volonté. À partir du niveau 11, vous pouvez lancer le sort [_agrandir/rétrécir_](/grimoire/agrandir-retrecir/) sur vous-même en dépensant 2 points de Ki. Lorsque vous lancez ce sort via cette aptitude, il ne nécessite pas de concentration. Lorsque vous utilisez la possibilité de rétrécissement du sort, vous gagnez +1 en CA et obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de Dextérité.
