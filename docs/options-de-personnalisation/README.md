@@ -78,7 +78,7 @@ Si vous gagnez l'aptitude attaque supplémentaire dans plus d'une classe, son ef
 #### Défense sans armure
 Si vous avez déjà l'aptitude défense sans armure, vous ne pouvez pas en bénéficier de nouveau par le biais d'une autre classe.
 
-#### Incantations
+### Incantations
 Vos capacités d'incantation dépendent en partie de la combinaison de vos niveaux dans les classes de lanceur de sorts et en partie de votre niveau individuel dans chacune de ces classes. Si vous obtenez l'aptitude incantations dans plus d'une classe, utilisez les règles de fonctionnement ci-dessous. Si votre personnage est multiclassé, mais que seule l'une des classes vous donne l'aptitude incantations, utilisez les règles de fonctionnement décrites dans cette classe.
 
 **Sorts connus et préparés**. Vous déterminez les sorts que vous connaissez et vous les préparez séparément pour chaque classe, comme si vous ne possédiez que celle-ci. Si vous êtes un rôdeur 4/magicien 3, par exemple, vous connaissez trois sorts de rôdeur de niveau  1, car cela correspond à votre niveau dans la classe rôdeur. En tant que magicien de niveau 3, vous connaissez trois tours de magie de magicien et votre grimoire contient dix sorts de magiciens, dont deux peuvent être des sorts de niveau 2 (qui auront été acquis au moment où votre personnage a atteint le niveau 3 de magicien). Si votre Intelligence est de 16, vous pouvez préparer six sorts de magicien tirés de votre grimoire.
@@ -96,7 +96,7 @@ Par exemple, si vous êtes toujours ce rôdeur 4/magicien  3, vous êtes consid�
 **Points de sorcellerie**. Si vous obtenez des points de sorcellerie de deux classes, ils ne s'additionnent pas, car le rythme auquel vous les récupérez peut ne pas être le même selon la classe dont ils sont issus. En revanche, vous pouvez les dépenser indifféremment pour utiliser des sorts ou des aptitudes de l'une ou l'autre classe.
 
 §§§ .table-container
-##### Incantation multiclasse : nombre d'emplacements de sorts par niveau de sort
+#### Incantation multiclasse : nombre d'emplacements de sorts par niveau de sort
 
 | Niveau | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|

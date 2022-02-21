@@ -415,6 +415,37 @@ export default {
       //
       // console.log(json)
 
+      // let json = []
+      // for (var spell of results) {
+      //   let s = {}
+      //   s.title = spell.frontmatter.title
+      //   let classes = []
+      //   const EQUIVALENTS = {
+      //     'Barde': 'bard',
+      //     'Barbare': 'barbarian',
+      //     'Clerc': 'cleric',
+      //     'Druide': 'druid',
+      //     'Guerrier': 'figther',
+      //     'Moine': 'monk',
+      //     'Paladin': 'paladin',
+      //     'Rôdeur': 'ranger',
+      //     'Roublard': 'rogue',
+      //     'Ensorceleur/Sorcelame': 'sorcerer',
+      //     'Magicien': 'wizard',
+      //     'Sorcier': 'warlock',
+      //     'Ombrelame': 'shadowblade',
+      //   }
+      //   for (var classe of spell.frontmatter.classes) {
+      //     if (EQUIVALENTS[classe]) {
+      //       classes.push(EQUIVALENTS[classe])
+      //     }
+      //   }
+      //   s.classes = classes
+      //   s.slug = spell.path.split('/')[2]
+      //   json.push(s)
+      // }
+      // console.log(json)
+
       return results
     }
   },

@@ -1,16 +1,159 @@
 ---
 title: "5e DRS"
 notEditable: true
-toc: false
 ---
 §§§ .text-center .mt-4 .mb-8
 # Document de Référence Système
 §§§
 
+Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
+
+§§§ .home-toc-header
+
+## Raccourcis
+
+§§§
+
+§§§ .column-count-4 .home-toc
+
+<h2>Personnage</h2>
+
+<h3><a href="/creation-du-personnage/#_1-choisir-une-race">Création du personnage</a></h3>
+
+1. [Choisir une race](/creation-du-personnage/#_2-choisir-un-historique)
+2. [Choisir un historique](/creation-du-personnage/#_3-choisir-une-classe)
+3. [Choisir une classe](/creation-du-personnage/#_4-determiner-les-caracteristiques)
+4. [Déterminer les caractéristiques](/creation-du-personnage/)
+5. [Équiper le personnage](/creation-du-personnage/#_5-equiper-le-personnage)
+* [Au-delà du niveau 1](/au-dela-du-niveau-1/)
+
+<h3><a href="/races/">Races</a></h3>
+
+* [Races principales](/races/#races-principales)
+  * [Demi-elfe](/races/demi-elfe/) | [Demi-orc](/races/demi-orc/) | [Elfe](/races/elfe/) | [Gnome](/races/gnome/) | [Halfelin](/races/halfelin/) | [Humain](/races/humain/) | [Nain](/races/nain/)
+* [Races exceptionnelles](/races/#races-exceptionnelles)
+  * [Aasimar](/races/aasimar/) | [Demi-ogre](/races/demi-ogre/) | [Félys](/races/felys/) | [Homme-serpent](/races/homme-serpent/) | [Sangdragon](/races/sangdragon/) | [Tieffelin](/races/tieffelin/)
+
+<h3><a href="/personnalite-et-historique/">Personnalité et historique</a></h3>
+
+* [Brigrand](/personnalite-et-historique/brigand/) | [Crapule](/personnalite-et-historique/crapule/) | [Dévôt](/personnalite-et-historique/devot/) | [Érudit](/personnalite-et-historique/erudit/) | [Explorateur](/personnalite-et-historique/explorateur/) | [Homme&nbsp;de&nbsp;loi](/personnalite-et-historique/homme-de-loi/) | [Itinérant](/personnalite-et-historique/itinerant/) | [Manouvrier](/personnalite-et-historique/manouvrier/) | [Membre&nbsp;de&nbsp;guilde](/personnalite-et-historique/membre-de-guilde/) | [Militaire](/personnalite-et-historique/militaire/) | [Miséreux](/personnalite-et-historique/misereux/) | [Primitif](/personnalite-et-historique/primitif/) | [Sang-bleu](/personnalite-et-historique/sang-bleu/) | [Serviteur](/personnalite-et-historique/serviteur/) | [Solitaire](/personnalite-et-historique/solitaire/) | [Villageois](/personnalite-et-historique/villageois/)
+
+<h3><a href="/classes/">Classes</a></h3>
+
+* [Barbare](/classes/barbare/) | [Barde](/classes/barde/) | [Clerc](/classes/clerc/) | [Druide](/classes/druide/) | [Ensorceleur](/classes/ensorceleur/) | [Guerrier](/classes/guerrier/) | [Magicien](/classes/magicien/) | [Moine](/classes/moine/) | [Paladin](/classes/paladin/) | [Rôdeur](/classes/rodeur/) | [Roublard](/classes/roublard/) | [Sorcier](/classes/sorcier/)
+
+<h3>Équipement</h3>
+
+* [Système monétaire](/systeme-monetaire/)
+* [Armures](/armures/)
+* [Armes](/armes/)
+* [Équipement d'aventurier](/equipement-d-aventurier/)
+* [Outils](/outils/)
+* [Montures et véhicules](/montures-et-vehicules/)
+* [Marchandises](/marchandises/)
+* [Dépenses courantes](/depenses-courantes/)
+
+<h3><a href="/options-de-personnalisation/">Options de personnalisation</a></h3>
+
+* [Multiclassage](/options-de-personnalisation/#multiclassage)
+  * [Prérequis](/options-de-personnalisation/#prerequis)
+  * [Aptitudes de classe](/options-de-personnalisation/#aptitudes-de-classe)
+  * [Incantations](/options-de-personnalisation/#incantations)
+* [Dons](/options-de-personnalisation/#dons)
+
+<h2>Règles du jeu</h2>
+
+<h3><a href="/utiliser-les-caractéristiques/">Utiliser les caractéristiques</a></h3>
+
+* [Valeurs de caractéristiques et modificateurs](/utiliser-les-caractéristiques/#valeurs-de-caracteristiques-et-modificateurs)
+* [Avantage et désavantage](/utiliser-les-caractéristiques/#avantage-et-desavantage)
+* [Bonus de maîtrise](/utiliser-les-caractéristiques/#bonus-de-maitrise)
+* [Tests de caractéristique](/utiliser-les-caractéristiques/#tests-de-caracteristique)
+* [Utiliser les caractéristiques](/utiliser-les-caractéristiques/#utiliser-les-caracteristiques-2)
+* [Jets de sauvegarde](/utiliser-les-caractéristiques/#jets-de-sauvegarde)
+
+<h3><a href="/partie-a-l-aventure/">Partir à l'aventure</a></h3>
+
+* [Écoulement du temps](/partie-a-l-aventure/#ecoulement-du-temps)
+* [Déplacement](/partie-a-l-aventure/#deplacement)
+* [L'environnement](/partie-a-l-aventure/#l-environnement)
+* [Entre les aventures](/partie-a-l-aventure/#entre-les-aventures)
+
+<h3><a href="/combattre/">Combattre</a></h3>
+
+* [Surprise](/combattre/#surprise) | [Initiative](/combattre/#initiative)
+* [Déplacement et position](/combattre/#deplacement-et-position)
+* [Actions en combat](/combattre/#actions-en-combat)
+* [Porter une attaque](/combattre/#porter-une-attaque)
+* [Abri](/combattre/#abri)
+* [Dégâts](/combattre/#degats)
+* [Combat monté](/combattre/#combat-monte) | [Combat sous-marin](/combattre/#combat-sous-marin)
+
+<h3><a href="/gerer-la-sante-du-personnage/">Gérer la santé du personnage</a></h3>
+
+* [Dégâts et guérison](/gerer-la-sante-du-personnage/#degats-et-guerison)
+* [Entre la vie et la mort](/gerer-la-sante-du-personnage/#entre-la-vie-et-la-mort)
+  * [À terre](/gerer-la-sante-du-personnage/#a-terre) | [Assourdi](/gerer-la-sante-du-personnage/#assourdi) | [Aveuglé](/gerer-la-sante-du-personnage/#aveugle) | [Charmé](/gerer-la-sante-du-personnage/#charme) | [Empoigné](/gerer-la-sante-du-personnage/#empoigne) | [Empoisonné](/gerer-la-sante-du-personnage/#empoisonne) | [Entravé](/gerer-la-sante-du-personnage/#entrave) | [Étourdi](/gerer-la-sante-du-personnage/#etourdi) | [Inconscient](/gerer-la-sante-du-personnage/#insconscient) | [Invisible](/gerer-la-sante-du-personnage/#invisible) | [Neutralisé](/gerer-la-sante-du-personnage/#neutralise) | [Paralysé](/gerer-la-sante-du-personnage/#paralyse) | [Pétrifié](/gerer-la-sante-du-personnage/#petrifie) | [Terrorisé](/gerer-la-sante-du-personnage/#terrorise)
+  * [Fatigue et épuisement](/gerer-la-sante-du-personnage/#fatigue-et-epuisement)
+* [Repos court](/gerer-la-sante-du-personnage/#repos-court) | [Repos long](/gerer-la-sante-du-personnage/#repos-long)
+
+<h2>La magie</h2>
+
+<h3><a href="/lancer-des-sorts/">Lancer des sorts</a></h3>
+
+* [Niveau de sort](/lancer-des-sorts/#niveau-de-sort)
+* [Les sorts connus et les sorts préparés](/lancer-des-sorts/#les-sorts-connus-et-les-sorts-prepares)
+* [Emplacements de sorts](/lancer-des-sorts/#emplacements-de-sorts)
+* [Les tours de magie](/lancer-des-sorts/#les-tours-de-magie)
+* [Les rituels](/lancer-des-sorts/#les-rituels)
+* [Lancer un sort](/lancer-des-sorts/#lancer-un-sort)
+
+<h3><a href="/grimoire/">Sorts</a></h3>
+
+* [Sorts de barde](/grimoire/?classes=Barde)
+* [Sorts de clerc](/grimoire/?classes=Clerc)
+* [Sorts de druide](/grimoire/?classes=Druide)
+* [Sorts d'ensorceleur](/grimoire/?classes=Ensorceleur%2FSorcelame)
+* [Sorts de magicien](/grimoire/?classes=Magicien)
+* [Sorts d'ombrelame](/grimoire/?classes=Ombrelame)
+* [Sorts de paladin](/grimoire/?classes=Paladin)
+* [Sorts de rôdeur](/grimoire/?classes=Rôdeur)
+* [Sorts de sorcier](/grimoire/?classes=Sorcier)
+
+<h2>Meneur de jeu</h2>
+
+<h3>Créatures & oppositions</h3>
+
+* [Comprendre le profil technique des monstres](/comprendre-le-profil-technique-des-monstres/)
+* [Inventer un monstre ou un PNJ](/inventer-un-monstre-ou-un-pnj/)
+* [Construire une rencontre](/construire-une-rencontre/)
+* [Bestiaire](/bestiaire/)
+
+<h3><a href="/les-tresors/">Les trésors</a></h3>
+
+* [Objets magiques](/objets-magiques/)
+  * [Rareté](/objets-magiques/#rarete)
+  * [Identifier un objet magique](/objets-magiques/#identifier-un-objet-magique)
+  * [Harmonisation](/objets-magiques/#harmonisation)
+  * [Objets maudits](/objets-magiques/#objets-maudits)
+  * [Types d'objets magiques](/objets-magiques/#les-differents-types-d-objets-magiques)
+    * [Anneaux](/liste-objets-magiques/?types=Anneau) | [Armes](/liste-objets-magiques/?types=Arme) | [Armures](/liste-objets-magiques/?types=Armure) | [Baguettes](/liste-objets-magiques/?types=Baguette) | [Bâtons](/liste-objets-magiques/?types=Bâton) | [Objets&nbsp;merveilleux](/liste-objets-magiques/?types=Objet%20merveilleux) | [Parchemins](/liste-objets-magiques/?types=Parchemin) | [Potions](/liste-objets-magiques/?types=Potion) | [Sceptres](/liste-objets-magiques/?types=Sceptre)
+  * [Porter et manier des objets magiques](/objets-magiques/#porter-et-manier-des-objets-magiques)
+  * [Activation d'un objet magique](/objets-magiques/#activation-d-un-objet-magique)
+  * [Objets magiques intelligents](/objets-magiques-intelligents/)
+
+<h3>Les dangers</h3>
+
+* [Pièges](/pieges/)
+* [Maladies](/maladies/)
+* [Folie](/folie/)
+* [Objets](/objets-opposition/)
+* [Poisons](/poisons/)
+
+§§§
+
 <v-row>
 <v-col cols="12" md="6">
-
-Bienvenue sur le site **Document de Référence Système** pour les jeux de rôle en OGL _**5e**_ !
 
 ## Héros du changement
 §§§ .text-center .text-h1

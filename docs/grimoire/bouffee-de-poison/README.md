@@ -14,6 +14,7 @@ components:
 ritual: false
 classes:
     - Druide
+    - Ensorceleur/Sorcelame
     - Magicien
     - Sorcier
 

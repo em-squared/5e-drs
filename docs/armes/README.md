@@ -80,7 +80,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Hachette|5 po|1d6 tranchant|1 kg|Légère, lancer (portée 6/18)|
 |Javelines|5 pa|1d6 perforant|1 kg|Lancer (portée 9/36)|
 |Lance|1 po|1d6 perforant|1,5 kg|Lancer (portée 6/18), polyvalente (1d8)|
-|Marteau léger|2 po|1d4 contondant|1 kg|Légère (portée 6/18)|
+|Marteau léger|2 po|1d4 contondant|1 kg|Légère, lancer (portée 6/18)|
 |Masse d'armes|5 po|1d6 contondant|2 kg|-|
 |Massue|2 pa|1d8 contondant|5 kg|À deux mains|
 |Serpe|1 po|1d4 tranchant|1 kg|Légère|
@@ -88,7 +88,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Arbalète légère|25 po|1d8 perforant|2,5 kg|Munitions (portée 24/96), chargement, à deux mains|
 |Arc court|25 po|1d6 perforant|1 kg|Munitions (portée 24/96), à deux mains|
 |Fléchettes|5 pc|1d4 perforant|0,1 kg|Finesse, lancer (portée 6/18)|
-|Fronde|1 pa|1d4 perforant|-|Munitions (portée 9/36)|
+|Fronde|1 pa|1d4 contondant|-|Munitions (portée 9/36)|
 |**Armes de corps-à-corps de guerre**|||||
 |Cimeterre|25 po|1d6 tranchant|1,5 kg|Finesse, légère|
 |Coutille|20 po|1d10 tranchant|3 kg|Lourde, allonge, à deux mains|
