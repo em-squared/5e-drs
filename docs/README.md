@@ -63,21 +63,21 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 <h2>Règles du jeu</h2>
 
-<h3><a href="/utiliser-les-caractéristiques/">Utiliser les caractéristiques</a></h3>
+<h3><a href="/utiliser-les-caracteristiques/">Utiliser les caractéristiques</a></h3>
 
-* [Valeurs de caractéristiques et modificateurs](/utiliser-les-caractéristiques/#valeurs-de-caracteristiques-et-modificateurs)
-* [Avantage et désavantage](/utiliser-les-caractéristiques/#avantage-et-desavantage)
-* [Bonus de maîtrise](/utiliser-les-caractéristiques/#bonus-de-maitrise)
-* [Tests de caractéristique](/utiliser-les-caractéristiques/#tests-de-caracteristique)
-* [Utiliser les caractéristiques](/utiliser-les-caractéristiques/#utiliser-les-caracteristiques-2)
-* [Jets de sauvegarde](/utiliser-les-caractéristiques/#jets-de-sauvegarde)
+* [Valeurs de caractéristiques et modificateurs](/utiliser-les-caracteristiques/#valeurs-de-caracteristiques-et-modificateurs)
+* [Avantage et désavantage](/utiliser-les-caracteristiques/#avantage-et-desavantage)
+* [Bonus de maîtrise](/utiliser-les-caracteristiques/#bonus-de-maitrise)
+* [Tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique)
+* [Utiliser les caractéristiques](/utiliser-les-caracteristiques/#utiliser-les-caracteristiques-2)
+* [Jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde)
 
-<h3><a href="/partie-a-l-aventure/">Partir à l'aventure</a></h3>
+<h3><a href="/partir-a-l-aventure/">Partir à l'aventure</a></h3>
 
-* [Écoulement du temps](/partie-a-l-aventure/#ecoulement-du-temps)
-* [Déplacement](/partie-a-l-aventure/#deplacement)
-* [L'environnement](/partie-a-l-aventure/#l-environnement)
-* [Entre les aventures](/partie-a-l-aventure/#entre-les-aventures)
+* [Écoulement du temps](/partir-a-l-aventure/#ecoulement-du-temps)
+* [Déplacement](/partir-a-l-aventure/#deplacement)
+* [L'environnement](/partir-a-l-aventure/#l-environnement)
+* [Entre les aventures](/partir-a-l-aventure/#entre-les-aventures)
 
 <h3><a href="/combattre/">Combattre</a></h3>
 
@@ -93,7 +93,7 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 * [Dégâts et guérison](/gerer-la-sante-du-personnage/#degats-et-guerison)
 * [Entre la vie et la mort](/gerer-la-sante-du-personnage/#entre-la-vie-et-la-mort)
-  * [À terre](/gerer-la-sante-du-personnage/#a-terre) | [Assourdi](/gerer-la-sante-du-personnage/#assourdi) | [Aveuglé](/gerer-la-sante-du-personnage/#aveugle) | [Charmé](/gerer-la-sante-du-personnage/#charme) | [Empoigné](/gerer-la-sante-du-personnage/#empoigne) | [Empoisonné](/gerer-la-sante-du-personnage/#empoisonne) | [Entravé](/gerer-la-sante-du-personnage/#entrave) | [Étourdi](/gerer-la-sante-du-personnage/#etourdi) | [Inconscient](/gerer-la-sante-du-personnage/#insconscient) | [Invisible](/gerer-la-sante-du-personnage/#invisible) | [Neutralisé](/gerer-la-sante-du-personnage/#neutralise) | [Paralysé](/gerer-la-sante-du-personnage/#paralyse) | [Pétrifié](/gerer-la-sante-du-personnage/#petrifie) | [Terrorisé](/gerer-la-sante-du-personnage/#terrorise)
+  * [À terre](/gerer-la-sante-du-personnage/#a-terre) | [Assourdi](/gerer-la-sante-du-personnage/#assourdi) | [Aveuglé](/gerer-la-sante-du-personnage/#aveugle) | [Charmé](/gerer-la-sante-du-personnage/#charme) | [Empoigné](/gerer-la-sante-du-personnage/#empoigne) | [Empoisonné](/gerer-la-sante-du-personnage/#empoisonne) | [Entravé](/gerer-la-sante-du-personnage/#entrave) | [Étourdi](/gerer-la-sante-du-personnage/#etourdi) | [Inconscient](/gerer-la-sante-du-personnage/#inconscient) | [Invisible](/gerer-la-sante-du-personnage/#invisible) | [Neutralisé](/gerer-la-sante-du-personnage/#neutralise) | [Paralysé](/gerer-la-sante-du-personnage/#paralyse) | [Pétrifié](/gerer-la-sante-du-personnage/#petrifie) | [Terrorisé](/gerer-la-sante-du-personnage/#terrorise)
   * [Fatigue et épuisement](/gerer-la-sante-du-personnage/#fatigue-et-epuisement)
 * [Repos court](/gerer-la-sante-du-personnage/#repos-court) | [Repos long](/gerer-la-sante-du-personnage/#repos-long)
 
