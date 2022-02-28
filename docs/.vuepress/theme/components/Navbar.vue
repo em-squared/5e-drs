@@ -4,6 +4,7 @@
     <v-toolbar-title class="ml-0 mr-4 pl-4">
       <v-btn class="hidden-sm-and-down site-title" text link :to="{ path: '/' }"><span class="icon-bookmark brand-logo"></span>&nbsp;{{ $site.title }}</v-btn>
     </v-toolbar-title>
+    <v-spacer class="hidden-sm-and-down" />
     <SRDSearchBox v-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
     <v-spacer class="hidden-sm-and-down" />
     <v-btn class="hidden-sm-and-down" @click.stop="setIsThemeDark" icon>

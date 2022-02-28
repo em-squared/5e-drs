@@ -24,7 +24,7 @@ title: Clerc
 |**15**|+5|-|5|4|3|3|3|2|1|1|1|-|
 |**16**|+5|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|2|1|1|1|-|
 |**17**|+6|[Destruction de morts-vivants (ID 4)](#destruction-des-morts-vivants), [Aptitude de domaine divin](#domaine-divin)|5|4|3|3|3|2|1|1|1|1|
-|**18**|+6|[Canalisation d'énergie divine](#canalisation-d-energie-divine)|5|4|3|3|3|3|1|1|1|1|
+|**18**|+6|[Canalisation d'énergie divine (3/repos)](#canalisation-d-energie-divine)|5|4|3|3|3|3|1|1|1|1|
 |**19**|+6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|5|4|3|3|3|3|2|1|1|1|
 |**20**|+6|[Intervention divine supérieure](#intervention-divine)|5|4|3|3|3|3|2|2|1|1|
 §§§
