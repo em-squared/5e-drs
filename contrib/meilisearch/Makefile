@@ -8,5 +8,13 @@ up:
 	docker-compose up -d
 	docker ps
 
+down:
+	docker-compose down
+
+purge:
+	make down
+	rm -rf data.ms
+	make up
+
 pull:
 	docker-compose pull
