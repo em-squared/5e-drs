@@ -10,7 +10,7 @@ from meilisearch import Client
 
 def pages():
     "return all pages"
-    for readme in Path('.').glob('**/README.md'):
+    for readme in Path('../..').glob('**/README.md'):
         if readme == Path("README.md"): # it's the home
             continue
         with open(readme, 'r') as file:
@@ -34,7 +34,8 @@ def pages():
             head = yaml.safe_load(head)
             body.seek(0)
             txt = markdown(body.read())
-            yield str(readme), head['title'], txt
+            # removing ../../, README.md and replace / with _
+            yield str(readme)[11:-10].replace("/", "_"), head['title'], txt
 
 
 if __name__ == "__main__":
@@ -43,12 +44,14 @@ if __name__ == "__main__":
         idx = client.get_index('pages')
     except Exception:
         client.create_index('pages', dict(primaryKey='path'))
-    print(idx)
-    
+        print("the index is created")
+    else:
+        print("the index is already here")
+
     for path, title, body in pages():
         client.index('pages').add_documents([{
             'path': path,
             'title': title,
             'body': body,
         }])
-        print(title)
+        print(title, path)
