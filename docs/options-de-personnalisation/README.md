@@ -329,7 +329,7 @@ Vous savez utiliser au mieux la protection que votre armure vous offre pour att�
 Si vous changez d'armure, cela ne modifie pas le nombre d'utilisation de cette aptitude depuis votre dernier repos, mais seulement le nombre maximum d'utilisation à votre disposition. Par exemple, si vous avez déjà bénéficié une fois de la résistance, vous ne pouvez plus l'utiliser en armure légère ou intermédiaire, mais vous pouvez encore l'utiliser une fois si vous revêtez une armure lourde.
 
 #### Expert au bouclier
-Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d'ailleurs appris à vous en servir autant pour vous défendre que pour attaquer vos adversaires. Lorsque vous utiliser un bouclier dans une de vos mains :
+Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d'ailleurs appris à vous en servir autant pour vous défendre que pour attaquer vos adversaires. Lorsque vous utilisez un bouclier dans une de vos mains :
 * Vous pouvez utiliser votre réaction pour obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde de Dextérité contre tous les sorts qui permettent de réduire ou d'annuler les dégâts sur une sauvegarde réussie.
 * Vous pouvez utiliser votre bouclier comme une arme légère (1d4 dégâts contondants) tenue dans la seconde main et bénéficier des possibilités du combat à deux armes en plus de son bonus à la CA.
 * Vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un adversaire sur une attaque de corps-à-corps, à distance ou de sort si vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris).

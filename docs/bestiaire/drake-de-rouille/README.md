@@ -26,10 +26,11 @@ movement:
   fly: 30
 senses:
   darkvision: 18
+  customPassivePerception: 13
 conditionImmunities:
   - "empoisonne"
   - "paralyse"
-damageTypeResistances:
+damageTypeVulnerabilities:
   - "acide"
 damageTypeImmunities:
   - "poison"
