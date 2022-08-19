@@ -52,6 +52,9 @@ export default {
       { label: "Ruines souterraines", value: false },
       { label: "Ruines sous-marines", value: false },
     ],
+    speedFly: undefined,
+    speedSwim: undefined,
+    speedBurrow: undefined,
   },
 
   getters: {
@@ -60,6 +63,9 @@ export default {
     sizes: state => state.sizes,
     environments: state => state.environments,
     dungeonTypes: state => state.dungeonTypes,
+    speedFly: state => state.speedFly,
+    speedSwim: state => state.speedSwim,
+    speedBurrow: state => state.speedBurrow,
   },
 
   actions: {
@@ -69,6 +75,9 @@ export default {
       commit('resetSizes')
       commit('resetEnvironments')
       commit('resetDungeonTypes')
+      commit('resetSpeedFly')
+      commit('resetSpeedSwim')
+      commit('resetSpeedBurrow')
     },
     updateSearch: ({ commit }, payload) => {
       commit('setSearch', payload)
@@ -108,6 +117,15 @@ export default {
     },
     resetDungeonTypes: ({ commit }) => {
       commit('resetDungeonTypes')
+    },
+    updateSpeedFly: ({ commit }, payload) => {
+      commit('setSpeedFly', payload)
+    },
+    updateSpeedSwim: ({ commit }, payload) => {
+      commit('setSpeedSwim', payload)
+    },
+    updateSpeedBurrow: ({ commit }, payload) => {
+      commit('setSpeedBurrow', payload)
     },
   },
 
@@ -229,6 +247,24 @@ export default {
         { label: "Ruines souterraines", value: false },
         { label: "Ruines sous-marines", value: false },
       ]
+    },
+    setSpeedFly: (state, payload) => {
+      state.speedFly = payload
+    },
+    resetSpeedFly: (state) => {
+      state.speedFly = undefined
+    },
+    setSpeedSwim: (state, payload) => {
+      state.speedSwim = payload
+    },
+    resetSpeedSwim: (state) => {
+      state.speedSwim = undefined
+    },
+    setSpeedBurrow: (state, payload) => {
+      state.speedBurrow = payload
+    },
+    resetSpeedBurrow: (state) => {
+      state.speedBurrow = undefined
     },
   }
 

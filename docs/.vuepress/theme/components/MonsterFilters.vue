@@ -65,6 +65,50 @@
         </v-expansion-panel-content>
       </v-expansion-panel>
 
+      <v-expansion-panel>
+        <v-expansion-panel-header>Déplacements</v-expansion-panel-header>
+        <v-expansion-panel-content>
+          <div class="d-flex mt-2 mb-4">
+            <v-btn-toggle v-model="speedFly" @change="switchSpeedFly" dark>
+              <v-btn :value="true" small :color="setColor(speedFly, true, 'green')">
+                <v-icon>mdi-check</v-icon>
+              </v-btn>
+              <v-btn :value="false" small :color="setColor(speedFly, false, 'red')">
+                <v-icon>mdi-close</v-icon>
+              </v-btn>
+            </v-btn-toggle>
+
+            <p class="mt-0 mb-0 ml-2">Vol</p>
+          </div>
+
+          <div class="d-flex mb-4">
+            <v-btn-toggle v-model="speedSwim" @change="switchSpeedSwim" dark>
+              <v-btn :value="true" small :color="setColor(speedSwim, true, 'green')">
+                <v-icon>mdi-check</v-icon>
+              </v-btn>
+              <v-btn :value="false" small :color="setColor(speedSwim, false, 'red')">
+                <v-icon>mdi-close</v-icon>
+              </v-btn>
+            </v-btn-toggle>
+
+            <p class="mt-0 mb-0 ml-2">Nage</p>
+          </div>
+
+          <div class="d-flex">
+            <v-btn-toggle v-model="speedBurrow" @change="switchSpeedBurrow" dark>
+              <v-btn :value="true" small :color="setColor(speedBurrow, true, 'green')">
+                <v-icon>mdi-check</v-icon>
+              </v-btn>
+              <v-btn :value="false" small :color="setColor(speedBurrow, false, 'red')">
+                <v-icon>mdi-close</v-icon>
+              </v-btn>
+            </v-btn-toggle>
+
+            <p class="mt-0 mb-0 ml-2">Fouissement</p>
+          </div>
+        </v-expansion-panel-content>
+      </v-expansion-panel>
+
     </v-expansion-panels>
 
   </div>
@@ -139,6 +183,33 @@ export default {
         this.$store.commit('monsterFilters/setDungeonTypes', newValue)
       }
     },
+
+    speedFly: {
+      get () {
+        return this.$store.state.monsterFilters.speedFly
+      },
+      set (newValue) {
+        this.$store.commit('monsterFilters/setSpeedFly', newValue)
+      }
+    },
+
+    speedSwim: {
+      get () {
+        return this.$store.state.monsterFilters.speedSwim
+      },
+      set (newValue) {
+        this.$store.commit('monsterFilters/setSpeedSwim', newValue)
+      }
+    },
+
+    speedBurrow: {
+      get () {
+        return this.$store.state.monsterFilters.speedBurrow
+      },
+      set (newValue) {
+        this.$store.commit('monsterFilters/setSpeedBurrow', newValue)
+      }
+    },
   },
 
   methods: {
@@ -194,6 +265,30 @@ export default {
       setUrlParams('donjons', list)
     },
 
+    switchSpeedFly () {
+      let value = []
+      if ((this.speedFly !== undefined)) {
+        value[0] = this.speedFly
+      }
+      setUrlParams('vol', value)
+    },
+
+    switchSpeedSwim () {
+      let value = []
+      if ((this.speedSwim !== undefined)) {
+        value[0] = this.speedSwim
+      }
+      setUrlParams('nage', value)
+    },
+
+    switchSpeedBurrow () {
+      let value = []
+      if ((this.speedBurrow !== undefined)) {
+        value[0] = this.speedBurrow
+      }
+      setUrlParams('fouissement', value)
+    },
+
     setColor (value, compare, color) {
       if (value === compare) {
         return color
@@ -230,6 +325,9 @@ export default {
     let selectedTypes = getUrlParameter(window.location.href, "types").split(",")
     let selectedEnvironments = getUrlParameter(window.location.href, "environnements").split(",")
     let selectedDungeonTypes = getUrlParameter(window.location.href, "donjons").split(",")
+    let speedFly = getUrlParameter(window.location.href, "vol")
+    let speedSwim = getUrlParameter(window.location.href, "nage")
+    let speedBurrow = getUrlParameter(window.location.href, "fouissement")
 
     if (challengeRange && challengeRange[0] != '' && challengeRange[1] != '') {
       let convertedChallengeRange = []
@@ -251,6 +349,10 @@ export default {
     setListMutation(selectedSizes, this.$store, 'monsterFilters/setSizesFromList')
     setListMutation(selectedEnvironments, this.$store, 'monsterFilters/setEnvironmentsFromList')
     setListMutation(selectedDungeonTypes, this.$store, 'monsterFilters/setDungeonTypesFromList')
+
+    setBooleanMutation(speedFly, this.$store, 'monsterFilters/setSpeedFly')
+    setBooleanMutation(speedSwim, this.$store, 'monsterFilters/setSpeedSwim')
+    setBooleanMutation(speedBurrow, this.$store, 'monsterFilters/setSpeedBurrow')
   }
 }
 </script>

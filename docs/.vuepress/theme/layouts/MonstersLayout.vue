@@ -208,6 +208,9 @@ export default {
       sizes: state => state.monsterFilters.sizes,
       environments: state => state.monsterFilters.environments,
       dungeonTypes: state => state.monsterFilters.dungeonTypes,
+      speedFly: state => state.monsterFilters.speedFly,
+      speedSwim: state => state.monsterFilters.speedSwim,
+      speedBurrow: state => state.monsterFilters.speedBurrow,
     }),
 
     headers() {
@@ -361,6 +364,41 @@ export default {
           }
         }
         results = classFiltered
+      }
+
+      // Filter movement speeds
+      if (this.speedFly !== undefined) {
+        if (this.speedFly === true) {
+          results = results.filter(item => {
+            return item.frontmatter.movement.fly > 0
+          })
+        } else {
+          results = results.filter(item => {
+            return item.frontmatter.movement.fly == null
+          })
+        }
+      }
+      if (this.speedSwim !== undefined) {
+        if (this.speedSwim === true) {
+          results = results.filter(item => {
+            return item.frontmatter.movement.swim > 0
+          })
+        } else {
+          results = results.filter(item => {
+            return item.frontmatter.movement.swim == null
+          })
+        }
+      }
+      if (this.speedBurrow !== undefined) {
+        if (this.speedBurrow === true) {
+          results = results.filter(item => {
+            return item.frontmatter.movement.burrow > 0
+          })
+        } else {
+          results = results.filter(item => {
+            return item.frontmatter.movement.burrow == null
+          })
+        }
       }
 
       // let json = []
