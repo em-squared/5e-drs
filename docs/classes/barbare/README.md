@@ -66,7 +66,7 @@ Une fois que vous êtes entré en état de rage le nombre de fois permis par vot
 Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
 
 ### Témérité
-À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergiedu désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à-corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.
+À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à-corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.
 
 ### Sens du danger
 Quand vous atteignez le niveau 2, vous développez la capacité instinctive de ressentir si quelque chose ne tourne pas rond dans votre environnement, ce qui vous donne un temps d'avance quand vous tentez d'esquiver un danger.

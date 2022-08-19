@@ -113,7 +113,7 @@ La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur es
 **Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse**
 
 ### Archétype de rôdeur
-Au niveau 3, vous choisissez un [archétype](#archetypes-de-rodeur) auquel vous vous efforcez d'adhérer : [chasseur](#chasseur), [archer arcanique](#archer-arcanique), [exilé](#exile), [traqueur](#traqueur), [passeur](#passeur) ou [ombrelin](#ombrelin). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
+Au niveau 3, vous choisissez un [archétype](#archetypes-de-rodeur) auquel vous vous efforcez d'adhérer : [chasseur](#chasseur), [archer arcanique](#archer-arcanique), [exilé](#exile), [traqueur](#traqueur), [pisteur](#pisteur-un-rodeur-alternatif), [passeur](#passeur) ou [ombrelin](#ombrelin). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
 
 ### Vigilance primitive
 À partir du niveau 3, vous pouvez utiliser une action et dépenser un emplacement de sort de rôdeur pour exacerber votre vigilance et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes équivalent au niveau de l'emplacement de sort que vous avez dépensé, vous pouvez déterminer si les créatures des types suivants se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres) : aberrations, célestes, dragons, élémentaires, fées, fiélons et morts-vivants. Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.
@@ -146,7 +146,7 @@ Vous arrivez aussi à percevoir l'endroit où se trouve toute créature [_invisi
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au [jet d'attaque](/combattre/#jets-d-attaque) ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
 
 ## Archétypes de rôdeur
-Les idéaux du rôdeur se déclinent en quatre types de spécialisations  : l'[archer arcanique](#archer-arcanique), le [chasseur](#chasseur), l'[exilé](#exile), le [traqueur](#traqueur) et le [passeur](#passeur).
+Les idéaux du rôdeur se déclinent en sept types de spécialisations  : le [chasseur](#chasseur), l'[archer arcanique](#archer-arcanique),  l'[exilé](#exile), le [traqueur](#traqueur), le [pisteur](#pisteur-un-rodeur-alternatif), le [passeur](#passeur) et l'[ombrelin](#ombrelin).
 
 ### Chasseur
 #### La proie du chasseur
