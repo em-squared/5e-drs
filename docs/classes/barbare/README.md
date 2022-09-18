@@ -1,7 +1,14 @@
 ---
 title: Barbare
 ---
-# Barbare
+
+§§§ .class-logo
+![Barbare](/barbare.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# BARBARE
+§§§
 
 ## Évolution du barbare
 §§§ .table-container

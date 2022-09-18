@@ -1,7 +1,14 @@
 ---
 title: Moine
 ---
-# Moine
+§§§ .class-logo
+![Moine](/moine.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# MOINE
+§§§
+
 ## Évolution du moine
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Arts martiaux|Points de Ki|Mouvement sans armure|Aptitudes|

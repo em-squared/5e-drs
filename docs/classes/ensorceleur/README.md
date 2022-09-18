@@ -1,7 +1,13 @@
 ---
 title: Ensorceleur
 ---
-# Ensorceleur
+§§§ .class-logo
+![Ensorceleur](/ensorceleur.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# ENSORCELEUR
+§§§
 
 ## Évolution de l'ensorceleur
 §§§ .table-container

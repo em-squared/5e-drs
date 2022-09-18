@@ -1,7 +1,14 @@
 ---
 title: Magicien
 ---
-# Magicien
+§§§ .class-logo
+![Magicien](/magicien.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# MAGICIEN
+§§§
+
 ## Évolution du magicien
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||

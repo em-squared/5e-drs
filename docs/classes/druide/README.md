@@ -1,7 +1,14 @@
 ---
 title: Druide
 ---
-# Druide
+§§§ .class-logo
+![Druide](/druide.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# DRUIDE
+§§§
+
 ## Évolution du druide
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||

@@ -1,7 +1,14 @@
 ---
 title: Sorcier
 ---
-# Sorcier
+§§§ .class-logo
+![Sorcier](/sorcier.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# SORCIER
+§§§
+
 ## Évolution du sorcier
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|

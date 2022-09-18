@@ -1,7 +1,14 @@
 ---
 title: Paladin
 ---
-# Paladin
+§§§ .class-logo
+![Paladin](/paladin.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# PALADIN
+§§§
+
 # Évolution du paladin
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Emplacements de sorts par niveau de sort|||||

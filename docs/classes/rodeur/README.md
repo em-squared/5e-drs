@@ -1,7 +1,14 @@
 ---
 title: Rôdeur
 ---
-# Rôdeur
+§§§ .class-logo
+![Rôdeur](/rodeur.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# RÔDEUR
+§§§
+
 ## Évolution du rôdeur
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Sorts connus|Emplacements de sorts par niveau de sort|||||

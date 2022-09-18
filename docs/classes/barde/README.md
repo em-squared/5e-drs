@@ -1,7 +1,13 @@
 ---
 title: Barde
 ---
-# Barde
+§§§ .class-logo
+![Barde](/barde.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# BARDE
+§§§
 ## Évolution du barde
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts par niveau de sort|||||||||

@@ -1,7 +1,14 @@
 ---
 title: Guerrier
 ---
-# Guerrier
+§§§ .class-logo
+![Guerrier](/guerrier.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# GUERRIER
+§§§
+
 ## Évolution du guerrier
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|

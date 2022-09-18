@@ -1,7 +1,14 @@
 ---
 title: Clerc
 ---
-# Clerc
+§§§ .class-logo
+![Clerc](/clerc.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# CLERC
+§§§
+
 ## Évolution du clerc
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Emplacements de sorts par niveau de sort|||||||||

@@ -1,7 +1,14 @@
 ---
 title: Roublard
 ---
-# Roublard
+§§§ .class-logo
+![Roublard](/roublard.svg)
+§§§
+
+§§§ .text-center .text-lg-h4 .text-h5 .mb-4
+# ROUBLARD
+§§§
+
 ## Évolution du roublard
 §§§ .table-container
 |Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|

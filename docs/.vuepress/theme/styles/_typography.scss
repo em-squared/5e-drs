@@ -50,6 +50,16 @@ $icon-kobold: "\e900";
   -moz-osx-font-smoothing: grayscale;
 }
 
+// Dice font
+@font-face {
+  font-family: Dicier;
+  src: url('#{$srd-font-path}/Dicier-Round-Heavy.woff2');
+}
+.dicier {
+  font-family: Dicier, sans-serif;
+  font-feature-settings: “liga” 1, “kern” 1, “calt” 1;
+}
+
 .icon-bookmark {
   &:before {
     content: $icon-bookmark;
@@ -102,6 +112,13 @@ $icon-kobold: "\e900";
   100% {
     color: darken($color-gold, 10);
   }
+}
+
+.color-hero {
+  color: $color-hero;
+}
+.color-dragon {
+  color: $color-dragon;
 }
 
 .home-logo {
@@ -305,6 +322,24 @@ ul, ol {
       &:hover {
         color: lighten($color-dragon, 20) !important;
       }
+    }
+  }
+}
+
+.class-logo {
+  text-align: center;
+
+  img {
+    max-width: 30%;
+  }
+}
+.class-summary {
+  .v-card__subtitle, .v-card__text {
+    letter-spacing: normal;
+    .dicier {
+      font-size: 1.5rem;
+      margin-left: .5rem;
+      margin-right: .5rem;
     }
   }
 }
