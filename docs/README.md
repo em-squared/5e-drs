@@ -14,7 +14,7 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 §§§
 
-§§§ .column-count-4 .home-toc
+§§§ .column-count-4 .home-toc .mb-2
 
 <h2>Personnage</h2>
 
@@ -154,6 +154,24 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 <v-row>
 <v-col cols="12" md="6">
+
+## Rôdeur révisié 100% OGL
+
+§§§ .text-center
+
+<img alt="Logo Rôdeur" src="/rodeur.svg" width="96" />
+
+§§§
+
+Le rôdeur révisé contenant des sorts non OGL et donc non accessibles sans l'achat des livres du jeu de rôle le plus vendu, _Narlindalië_ a proposé de l'adapter pour être 100% OGL.
+Il y a donc maintenant une nouvelle classe de [Rôdeur révisé (OGL)](/communaute/rodeur-revise-ogl/) avec une liste de sorts accessibles directement sur ce site.
+
+Certains sorts ont été remplacés par des équivalents, d'autres ont été supprimés, faute d'équivalence. Les sorts des archétypes non OGL ont été remplacés par des équivalents OGL ou des sorts dans le thème des archétypes, faute d'équivalence.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 24 octobre 2022_
+§§§
 
 ## Héros du changement
 §§§ .text-center .text-h1

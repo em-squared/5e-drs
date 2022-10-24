@@ -29,4 +29,4 @@ Ici est présentée une sélection de créations de la communauté compatibles _
 
 ## Classes
 * [Personnages thérianthropes](/communaute/therianthropie/)
-* [Le rôdeur révisé](/communaute/rodeur-revise/)
+* [Le rôdeur révisé](/communaute/rodeur-revise/) / [Le rôdeur révisé (OGL)](/communaute/rodeur-revise-ogl/)

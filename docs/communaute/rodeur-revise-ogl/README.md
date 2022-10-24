@@ -1,7 +1,7 @@
 ---
-title: "Rôdeur révisé"
+title: "Rôdeur révisé (OGL)"
 ---
-# Rôdeur révisé
+# Rôdeur révisé (OGL)
 <v-chip class="mb-2" color="gold" outlined text-color="gold"><v-icon left>mdi-account-group</v-icon>Création de la communauté</v-chip>
 
 ## Évolution du rôdeur
@@ -171,28 +171,24 @@ Au niveau 18, vos jets d'attaque contre toute créature à moins de 9m de vous n
 Au niveau 20, vous devenez un chasseur hors pair face à vos ennemis. Quand vous touchez une créature marquée comme votre ennemi juré avec une attaque avec arme, vous gagnez un bonus aux dégâts égal à votre modificateur de Sagesse (minimum 1).
 
 ## Liste de sorts du rôdeur
-Voici la liste des sorts que vous pouvez consulter pour préparer votre liste de sorts de rôdeur. Elle est organisée en fonction du niveau des sorts, et non celui du personnage. Si un sort peut être lancé en tant que rituel, cette information est marquée à côté de son nom. Les sorts listés ci-dessus sont tirés du _Player's Handbook_ (PHB), du _Guide Complet de Xanathar_ (XGTE) ou du _Tasha's Cauldron of Everything_ (TCOE) **certains d'entre eux ne sont pas sous licence OGL**.
+Voici la liste des sorts que vous pouvez consulter pour préparer votre liste de sorts de rôdeur. Elle est organisée en fonction du niveau des sorts, et non celui du personnage. Si un sort peut être lancé en tant que rituel, cette information est marquée à côté de son nom.
 
 §§§ .column-count-3
 
 **Niveau 1**  
-_absorption des éléments_ (XGTE)  
 [_alarme_](/grimoire/alarme/) (rituel)  
 [_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/)  
 [_baies nourricières_](/grimoire/baies-nourricieres/)  
-_châtiment ardent_ (PHB)  
-_collet_ (XGTE)  
+[_brûlure du juste_](/grimoire/brulure-du-juste/)  
 [_communication avec les animaux_](/grimoire/communication-avec-les-animaux/) (rituel)  
 [_détection de la magie_](/grimoire/detection-de-la-magie/) (rituel)  
 [_détection du poison et des maladies_](/grimoire/detection-du-poison-et-des-maladies/) (rituel)  
 [_enchevêtrement_](/grimoire/enchevetrement/)  
 [_léger comme une plume_](/grimoire/leger-comme-une-plume/)  
-_frappe du zéphyr_ (XGTE)  
-_frappe piégeante_ (PHB)  
 [_grande foulée_](/grimoire/grande-foulee/)  
-_grêle d'épines_ (PHB)  
-_lien avec une bête_ (XGTE)  
+[_mot de guérison_](/grimoire/mot-de-guerison/)  
 [_nappe de brouillard_](/grimoire/nappe-de-brouillard/)  
+[_poison naturel_](/grimoire/poison-naturel/)  
 [_purification de la nourriture et de l'eau_](/grimoire/purification-de-la-nourriture-et-de-l-eau/) (rituel)  
 [_repli expéditif_](/grimoire/repli-expeditif/)  
 [_saut_](/grimoire/saut/) (rituel)  
@@ -203,11 +199,11 @@ _lien avec une bête_ (XGTE)
 [_amélioration de caractéristique_](/grimoire/amelioration-de-caracteristique/)  
 [_arme magique_](/grimoire/arme-magique/)  
 [_bourrasque_](/grimoire/bourrasque/)  
+[_collet magique_](/grimoire/collet-magique/)  
 [_compagnon animal_](/grimoire/compagnon-animal/)  
-_cordon de flèches_ (PHB)  
 [_croissance d'épines_](/grimoire/croissance-d-epines/)  
-_esprit guérisseur_ (XGTE)  
 [_flamme éternelle_](/grimoire/flamme-eternelle/)  
+[_frappe lumineuse_](/grimoire/frappe-lumineuse/)  
 [_lien de protection_](/grimoire/lien-de-protection/)  
 [_localiser des animaux ou des plantes_](/grimoire/localiser-des-animaux-ou-des-plantes/) (rituel)  
 [_localiser un objet_](/grimoire/localiser-un-objet/)  
@@ -216,52 +212,48 @@ _esprit guérisseur_ (XGTE)
 [_peau d'écorce_](/grimoire/peau-d-ecorce/)  
 [_protection contre le poison_](/grimoire/protection-contre-le-poison/)  
 [_restauration inférieure_](/grimoire/restauration-inferieure/)  
-_sens animal_ (rituel) (PHB)  
 [_silence_](/grimoire/silence/) (rituel)  
 [_trouver les pièges_](/grimoire/trouver-les-pieges/)  
 [_vision dans le noir_](/grimoire/vision-dans-le-noir/)
 
 **Niveau 3**  
-_arme élémentaire_  (PHB)  
-_châtiment aveuglant_ (PHB)  
 [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/)  
-_invoquer une fée mineure_ (TCOE)  
 [_croissance végétale_](/grimoire/croissance-vegetale/)  
 [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/)  
-_flèche de foudre_ (PHB)  
-_flèches enflammées_ (XGTE)  
 [_fusion dans la pierre_](/grimoire/fusion-dans-la-pierre/) (rituel)  
 [_invoquer des animaux_](/grimoire/invoquer-des-animaux/)  
-_invocation de tir de barrage_ (PHB)  
 [_langues_](/grimoire/langues/)  
 [_lumière du jour_](/grimoire/lumiere-du-jour/)  
 [_marche sur l'eau_](/grimoire/marche-sur-l-eau/) (rituel)  
 [_mur de vent_](/grimoire/mur-de-vent/)  
 [_non-détection_](/grimoire/non-detection/)  
 [_petite hutte_](/grimoire/petite-hutte/) (rituel)  
+[_pluie de projectiles_](/grimoire/pluie-de-projectiles/)  
+[_projectile toxique_](/grimoire/projectile-toxique/)  
+[_protection contre les énergies_](/grimoire/protection-contre-les-energies/)  
 [_respiration aquatique_](/grimoire/respiration-aquatique/) (rituel)  
 [_revigorer_](/grimoire/revigorer/)
 
 **Niveau 4**  
-_châtiment assommant_ (PHB)  
 [_divination_](/grimoire/divination/) (rituel)  
 [_dominer un bête_](/grimoire/dominer-une-bete/)  
-_gardien de la nature_ (XGTE)  
+[_expiation du juste_](/grimoire/expiation-du-juste/)  
+[_gardien de la foi_](/grimoire/gardien-de-la-foi/)  
 [_invoquer des élémentaires mineures_](/grimoire/invoquer-des-elementaires-mineurs/)  
 [_invoquer des êtres des bois_](/grimoire/invoquer-des-etres-des-bois/)  
-_liane agrippeuse_ (PHB)  
+[_liane chasseresse_](/grimoire/liane-chasseresse/)  
 [_liberté de mouvement_](/grimoire/liberte-de-mouvement/)  
 [_localiser un créature_](/grimoire/localiser-une-creature/)  
 [_peau de pierre_](/grimoire/peau-de-pierre/)  
 [_protection contre la mort_](/grimoire/protection-contre-la-mort/)
 
 **Niveau 5**  
-[_arc enchanté_](/grimoire/arc-enchante/) (remplace le _carquois magique_ du PHB)  
+[_arc enchanté_](/grimoire/arc-enchante/)  
 [_communion avec la nature_](/grimoire/communion-avec-la-nature/) (rituel)  
 [_contagion_](/grimoire/contagion/)  
+[_épée du juste_](/grimoire/epee-du-juste/)  
 [_éveil_](/grimoire/eveil/)  
-_frappe du vent d'acier_ (XGTE)  
-_fureur de la nature_ (XGTE)  
+[_fléau d'insectes_](/grimoire/fleau-d-insectes/)  
 [_nuée de projectiles_](/grimoire/nuee-de-projectiles/)  
 [_passage par les arbres_](/grimoire/passage-par-les-arbres/)  
 [_réincarnation_](/grimoire/reincarnation/)  
@@ -392,7 +384,7 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 ##### Magie du brise-sorts
 |Niveau de rôdeur|Sort|
 |:-:|:-|
-|**3**|_absorption des éléments_ (XGTE)|
+|**3**|[_manteau de givre_](/grimoire/manteau-de-givre/)|
 |**5**|[_cécité / surdité_](/grimoire/cecite-surdite/)|
 |**9**|[contresort](/grimoire/contresort/)|
 |**13**|[_sphère résiliente_](/grimoire/sphere-resiliente/)|
@@ -401,9 +393,7 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 #### Chasseur de mage
 Au niveau 3, vous obtenez les compétences nécessaires à votre mission. Vous obtenez la maîtrise de la compétence Arcanes et, chaque fois que vous réalisez un test d'Intelligence (Arcanes) pour vous rappeler d'informations à propos d'un lanceur de sorts ou des effets d'un sort particulier, votre bonus de maîtrise est doublé.
 
-De plus, vous pouvez lancer le sort _absorption des éléments_ comme un sort de niveau 1, sans dépenser d'emplacement de sort, autant de fois que votre modificateur de Sagesse (minimum 1). Vous en récupérez toutes les utilisations en terminant un repos long.
-
-Si vous lancez ce sort et que votre prochaine attaque avec une arme de corps-à-corps est effectuée contre la créature dont vous avez absorbé le sort, vous infligez le maximum de dégâts supplémentaires possible (6).
+De plus, vous pouvez lancer le sort [_manteau de givre_](/grimoire/manteau-de-givre/) comme un sort de niveau 1, sans dépenser d'emplacement de sort, autant de fois que votre modificateur de Sagesse (minimum 1). Vous en récupérez toutes les utilisations en terminant un repos long.
 
 #### Vigilance arcanique
 Votre entraînement vous permet de détecter les pouvoirs magiques, innés ou acquis, des autres créatures.
@@ -434,9 +424,9 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 ##### Magie du chasseur
 |Niveau de rôdeur|Sort|
 |:-:|:-|
-|**3**|_collet_ (XGTE), [_repli expéditif_](/grimoire/repli-expeditif/)|
-|**5**|_cordon de flèches_ (PHB), [_passage sans trace_](/grimoire/passage-sans-trace/)|
-|**9**|_invoquer un tir de barrage_ (PHB), [_non-détection_](/grimoire/non-detection/)|
+|**3**|[_alarme_](/grimoire/alarme/), [_repli expéditif_](/grimoire/repli-expeditif/)|
+|**5**|[_collet magique_](/grimoire/collet-magique/), [_passage sans trace_](/grimoire/passage-sans-trace/)|
+|**9**|[_pluie de projectiles_](/grimoire/pluie-de-projectiles/), [_non-détection_](/grimoire/non-detection/)|
 |**13**|[_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_localiser une créature_](/grimoire/localiser-une-creature/)|
 |**17**|[_arc enchanté_](/grimoire/arc-enchante/), [_nuée de projectiles_](/grimoire/nuee-de-projectiles/)|
 
@@ -549,7 +539,7 @@ De plus, vous pouvez cibler les bêtes et les créatures monstrueuses avec des s
 |**3**|[_charme-personne_](/grimoire/charme-personne/)|
 |**5**|[_apaisement des émotions_](/grimoire/apaisement-des-emotions/)|
 |**9**|[_lenteur_](/grimoire/lenteur/)|
-|**13**|_charme-monstre_ (XGTE)|
+|**13**|[_dominer une bête_](/grimoire/dominer-une-bete/)|
 |**17**|[_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/)|
 
 #### Poigne téméraire
@@ -586,10 +576,10 @@ Vous pouvez lancer le sort de niveau 1 au niveau 1 sans dépenser d'emplacement 
 
 |Constellation|Tour de magie|Sort de niveau 1|
 |:-:|:-:|:-:|
-|**Cerf**|[_gourdin magique_](/grimoire/gourdin-magique/)|_duel forcé_ (PHB)|
+|**Cerf**|[_gourdin magique_](/grimoire/gourdin-magique/)|[_choc des titans_](/grimoire/choc-des-titans/)|
 |**Éléphant**|[_assistance_](/grimoire/assistance/)|[_bénédiction_](/grimoire/benediction/)|
 |**Lièvre**|[_illusion mineure_](/grimoire/illusion-mineure/)|[_grande foulée_](/grimoire/grande-foulee/)|
-|**Loup**|_sauvagerie primitive_ (XGTE)|[_balisage_](/grimoire/balisage/)|
+|**Loup**|[_viser juste_](/grimoire/viser-juste/)|[_balisage_](/grimoire/balisage/)|
 |**Vipère**|[_moquerie cruelle_](/grimoire/moquerie-cruelle/)|[_blessure_](/grimoire/blessure/)|
 
 #### Magie du guide stellaire
@@ -599,7 +589,7 @@ Vous obtenez certains sorts aux niveaux de rôdeur indiqués dans le tableau [Ma
 |Niveau de rôdeur|Sort|
 |:-:|:-|
 |**3**|sort de constellation|
-|**5**|_épine mentale_ (XGTE)|
+|**5**|[_rayon de lune_](/grimoire/rayon-de-lune/)|
 |**9**|[_clairvoyance_](/grimoire/clairvoyance/)|
 |**13**|[_divination_](/grimoire/divination/)|
 |**17**|[_scrutation_](/grimoire/scrutation/)|
@@ -667,7 +657,7 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 |**3**|[_fléau_](/grimoire/fleau/)|
 |**5**|[_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)|
 |**9**|[_jeter une malédiction_](/grimoire/jeter-une-malediction/)|
-|**13**|_ombre d'égarement (XGTE)_|
+|**13**|[_assassin imaginaire_](/grimoire/assassin-imaginaire/)|
 |**17**|[_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/)|
 
 #### Marque cramoisie
@@ -692,5 +682,5 @@ La magie noire issue du Rite de traque atteint son plein potentiel. À partir du
 §§§ .source
 Crédits : Texte original de [_Laserllama_](https://www.gmbinder.com/profile/laserllama).  
 Traduction : _Quinn Jolinar_  
-Supplément paru dans la newsletter [_Scribes & Dragons_](https://scribes-et-dragons.fr/)
+Adaptation OGL : _Narlindalië_ et _Em-squared_
 §§§
