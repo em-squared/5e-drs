@@ -426,7 +426,7 @@ Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau 
 |:-:|:-|
 |**3**|[_alarme_](/grimoire/alarme/), [_repli expéditif_](/grimoire/repli-expeditif/)|
 |**5**|[_collet magique_](/grimoire/collet-magique/), [_passage sans trace_](/grimoire/passage-sans-trace/)|
-|**9**|[_pluie de projectiles_](/grimoire/pluie-de-projectiles/), [_non-détection_](/grimoire/non-detection/)|
+|**9**|[_invoquer des animaux_](/grimoire/invoquer-des-animaux/), [_non-détection_](/grimoire/non-detection/)|
 |**13**|[_liberté de mouvement_](/grimoire/liberte-de-mouvement/), [_localiser une créature_](/grimoire/localiser-une-creature/)|
 |**17**|[_arc enchanté_](/grimoire/arc-enchante/), [_nuée de projectiles_](/grimoire/nuee-de-projectiles/)|
 

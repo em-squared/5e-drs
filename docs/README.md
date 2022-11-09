@@ -155,7 +155,7 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 <v-row>
 <v-col cols="12" md="6">
 
-## Rôdeur révisié 100% OGL
+## Rôdeur révisé 100% OGL
 
 §§§ .text-center
 
