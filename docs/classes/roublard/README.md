@@ -78,7 +78,7 @@ De plus, vous comprenez un ensemble de signes et de symboles qui permettent de t
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 
 ### Archétype de roublard
-Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion), [ombrelame](#ombrelame), [mistheos](#mistheos) ou [kalanthe](#kalanthe). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
+Au niveau 3, vous choisissez un [archétype](#archetypes-de-roublard) auquel vous vous efforcer d'adhérer : [voleur](#voleur), [brute](#brute), [espion](#espion), [ombrelame](#ombrelame), [mistheos](#mistheos), [kalanthe](#kalanthe) et [aubelame](#aubelame). Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -259,3 +259,84 @@ Au niveau 9, lorsque vous utilisez l'action attaquer afin de porter une attaque 
 
 #### Assassinat
 Au niveau 17, lorsque vous utilisez votre aptitude _impitoyable_ pour porter une attaque au corps à corps, vous bénéficiez une seconde fois des effets d'une attaque sournoise dans le même tour (si vous remplissez les critères de l'attaque sournoise).
+
+### Aubelame
+§§§ .source .font-italic
+Source : Warlock Grimoire - Kobold Press
+§§§
+
+#### Incantations
+Au niveau 3, lorsque vous choisissez cet archétype, vous gagner la capacité de lancer des sorts.
+
+##### Incantations de l'Aubelame
+§§§ .table-container
+| Niveau | Tours de magie connus | Sorts connus | Emplacements de sorts par niveau de sort ||||
+|^^|^^|^^|1<sup>er</sup>|2<sup>e</sup>|3<sup>e</sup>|4<sup>e</sup>|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **3** | 3 | 3 | 2 | - | - | - |
+| **4** | 3 | 4 | 3 | - | - | - |
+| **5** | 3 | 4 | 3 | - | - | - |
+| **6** | 3 | 4 | 3 | - | - | - |
+| **7** | 3 | 5 | 4 | 2 | - | - |
+| **8** | 3 | 6 | 4 | 2 | - | - |
+| **9** | 3 | 6 | 4 | 2 | - | - |
+| **10** | 4 | 7 | 4 | 3 | - | - |
+| **11** | 4 | 8 | 4 | 3 | - | - |
+| **12** | 4 | 8 | 4 | 3 | - | - |
+| **13** | 4 | 9 | 4 | 3 | 2 | - |
+| **14** | 4 | 10 | 4 | 3 | 2 | - |
+| **15** | 4 | 10 | 4 | 3 | 2 | - |
+| **16** | 4 | 11 | 4 | 3 | 3 | - |
+| **17** | 4 | 11 | 4 | 3 | 3 | - |
+| **18** | 4 | 11 | 4 | 3 | 3 | - |
+| **19** | 4 | 12 | 4 | 3 | 3 | 1 |
+| **20** | 4 | 13 | 4 | 3 | 3 | 1 |
+§§§
+
+##### Tours de magie
+Vous apprenez trois tours de magie : [_flamme sacrée_](/grimoire/flamme-sacree/) et deux autres tours de magie de votre choix de la liste des <router-link :to="{ path: '/grimoire/', query: { classes: 'Clerc', niveaux: '0' }}">sorts de clerc</router-link>. Vous apprenez un nouveau tour de magie de votre choix au niveau 10.
+
+##### Emplacements de sorts
+Vous trouverez dans le tableau des [incantations de l'Aubelame](#incantations-de-l-aubelame) le nombre d'emplacements de sorts dont vous disposez et qui vous permettent de lancer des sorts de clerc niveau 1 ou supérieur. Pour lancer un de ces sorts, vous devez utiliser un emplacement de sort d'un niveau équivalent ou supérieur au sort que vous voulez lancer. Vous regagnez tous les emplacements de sort que vous avez utilisés après un repos long.
+
+Par exemple, si vous connaissez le sort de niveau 1 [_balisage_](/grimoire/balisage/) et que vous avez un emplacement de sort de niveau 1 et un autre de niveau 2 encore disponibles, vous pouvez lancer ce sort en utilisant l'un ou l'autre de ces emplacements.
+
+##### Sorts connus de niveau 1 et supérieur
+Vous connaissez trois sorts de niveau 1 choisis dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Clerc' }}">sorts de clerc</router-link>.
+
+La colonne sorts connus du tableau des [incantations de l'Aubelame](#incantations-de-l-aubelame) vous indique à quels niveaux vous pouvez apprendre de nouveaux sorts de clerc de niveau 1 ou supérieur.
+
+Quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de clerc que vous connaissez et le remplacer par un autre sort de la liste de sorts de clerc. Il doit aussi s'agir d'un sort que vous êtes en mesure de lancer.
+
+##### Caractéristique d'incantation
+La caractéristique d'incantation que vous utilisez pour les sorts de clerc est la Sagesse, car vous apprenez la magie à travers vos prières et votre dévotion. Vous utilisez votre Sagesse dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Sagesse afin de définir le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'un sort de clerc que vous avez lancé et quand vous faites une attaque avec un sort de clerc.
+
+**DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**
+
+**Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse**
+
+##### Focaliseur d'incantation
+Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de clerc.
+
+#### Yeux de l'aube
+Au niveau 3 également, vous gagnez la vision dans le noir dans un rayon de 9 mètres. Si vous avez déjà la vision dans le noir, la portée augmente de 9 mètres.
+
+#### Frappe de l'aube
+À partir du niveau 3, lorsque vous infligez des dégâts avec votre attaque sournoise, vous pouvez transformer par magie les dégâts supplémentaires infligés en dégâts radiants.
+
+Lorsque vous infligez une attaque sournoise radiante à un mort-vivant ou à une créature de l'ombre, vous infligez 1d6 dégâts radiants supplémentaires.
+
+#### Renfort de la lumière
+À partir du niveau 9, si vous réduisez un ennemi à 0 points de vie avec des dégâts radiants, choisissez l'une des options suivantes :
+* Vous gagnez des points de vie temporaires égaux à deux fois votre niveau de roublard.
+* Vous mettez fin à un état qui vous affecte. L'état peut être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ou [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).
+* Vous mettez fin à une malédiction qui vous affecte.
+* Vous mettez fin à une maladie qui vous affecte.
+
+#### Illumination soudaine
+A partir du niveau 13, lorsque vous faites un test de caractéristique, vous pouvez dépenser un emplacement de sort pour gagner un bonus au test égal à deux fois le niveau de l'emplacement dépensé.
+
+#### Aube ardente
+Au niveau 17, lorsque vous infligez une attaque sournoise radiante (en utilisant votre capacité _Frappe de l'aube_) à une créature qui ne peut pas vous voir, cette dernière doit effectuer un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sorts. En cas d'échec, la créature subit 10d6 dégâts radiants et ne peut pas regagner de points de vie avant le début de votre prochain tour.
+
+Une fois qu'une créature a subi des dégâts au travers de cette capacité, elle est immunisée contre votre _Aube ardente_ pendant 24 heures.

@@ -61,3 +61,11 @@ Les valeurs indiquées ne sont pas absolues et ne constituent pas des minimums e
 |**[Homme serpent](/races/homme-serpent/)**|1,70 m|1,80 m|2,00 m|75 kg|95 kg|120 kg|
 |**[Sangdragon](/races/sangdragon/)**|1,70 m|1,90 m|2,10 m|90 kg|125 kg|190 kg|
 |**[Tieffelin](/races/tieffelin/)**|1,50 m|1,65 m|1,85 m|55 kg|75 kg|120 kg|
+
+### Races additionnelles
+
+|Race|Source|
+|:-|:-|
+|**[Alséide](/races/alseide/)**|_Tome of Heroes - Kobold Press_|
+|**[Darakhul](/races/darakhul/)**|_Tome of Heroes - Kobold Press_|
+|**[Dhampir](/races/dhampir/)**|_Midgard Heroes Handbook - Kobold Press_|

@@ -19,7 +19,7 @@ sidebarDepth: 0
 
 ## Créer un sorcereux
 Les sorcereux sont particuliers, ce sont les seuls à pouvoir réellement maîtriser des pouvoirs magiques. Appliquez les modifications techniques suivantes :
-* Remplacez l'augmentation de caractéristiques par la suivante : votre valeur de Constituion augmente de 1, votre valeur de Sagesse de 1 et celle de Charisme de 2.
+* Remplacez l'augmentation de caractéristiques par la suivante : votre valeur de Constitution augmente de 1, votre valeur de Sagesse de 1 et celle de Charisme de 2.
 * Ignorez la capacité Cuir épais.
 * **Volonté de fer**. Vous avez appris à vous imposer malgré vos différences. Vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests visant à résister aux tentatives de persuasion, ainsi que sur les jets de Sauvegarde effectués afin de résister aux sorts et pouvoirs de charme, de domination et d'illusion.
 

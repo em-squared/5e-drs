@@ -3,7 +3,7 @@ title: "Elfe"
 sidebarDepth: 0
 ---
 # Elfe
-## Traits de elfes
+## Traits des elfes
 
 **Augmentation de caractéristiques**. Votre valeur de Dextérité augmente de 2.  
 **Âge**. Bien que les elfes atteignent leur maturité physique environ au même âge que les humains, ils considèrent qu'être un adulte dépasse ce simple aspect et prend en compte l'expérience de la vie. Un elfe se déclare généralement adulte vers 100 ans et choisit à ce moment-là son nom d'adulte. Les elfes peuvent vivre jusqu'à 750 ans.  

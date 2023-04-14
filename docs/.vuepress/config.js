@@ -197,7 +197,7 @@ module.exports = {
   themeConfig: {
     domain: 'https://5e-drs.fr',
     repository: 'https://github.com/em-squared/5e-drs',
-    kofi: 'https://ko-fi.com/S6S410PB8',
+    kofi: 'https://fr.tipeee.com/em-squared/',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
     discordHDNO: 'https://discord.gg/KMZkEQhe8a',
@@ -282,6 +282,18 @@ module.exports = {
               {
                 title: 'Tieffelin',
                 path: '/races/tieffelin/'
+              },
+              {
+                title: 'Alséide',
+                path: '/races/alseide/'
+              },
+              {
+                title: 'Darakhul',
+                path: '/races/darakhul/'
+              },
+              {
+                title: 'Dhampir',
+                path: '/races/dhampir/'
               }
             ]
           },

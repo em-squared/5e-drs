@@ -58,7 +58,7 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 * une armure de cuir, n'importe quelle arme courante et deux dagues
 
 ### Protecteur de l'outre-monde
-Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un [fiélon](#le-fielon), un [seigneur immortel](#le-seigneur-immortel), une [puissance des profondeurs](#la-puissance-des-profondeurs), une [entité extra-dimensionnelle](#l-entite-extra-dimensionnelle) ou le [seigneur Deux-visages](#le-seigneur-deux-visages). Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
+Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un [fiélon](#le-fielon), un [seigneur immortel](#le-seigneur-immortel), une [puissance des profondeurs](#la-puissance-des-profondeurs), une [entité extra-dimensionnelle](#l-entite-extra-dimensionnelle), le [seigneur Deux-visages](#le-seigneur-deux-visages) ou le [Bois Ancien](#le-bois-ancien). Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
 
 ### Magie de pacte
 Vos recherches ésotériques ainsi que la magie dont vous a fait don votre protecteur vous permettent de lancer des sorts avec facilité.
@@ -302,8 +302,63 @@ D6 : 1-2 contondants, 3-4 perforants, 5-6 tranchants.
 
 D10 : 1 acide, 2 feu, 3 force, 4 foudre, 5 froid, 6 nécrotiques, 7 poison, 8 psychiques, 9 radiants, 10 tonnerre.
 
+### Le Bois Ancien
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Vous avez conclu un pacte avec l'esprit ancien d'une forêt primitive. Avant l'avènement de la civilisation humaine, avant l'ère des elfes, avant même celle des dragons, il y avait les forêts. Les empires s'élèvent et s'effondrent autour d'elles, mais les forêts restent tel le témoignage de l'endurance de la nature.
+
+Cependant, les temps changent et la croissance incontrôlée de la civilisation menace la nature. Les esprits qui imprègnent les forêts antédiluviennes cherchent des émissaires dans le monde qui peuvent agir au-delà de leurs frondaisons, et l'un d'entre eux a entendu votre appel au pouvoir. Vous êtes un gardien du Bois Ancien, une branche issue d'un vaste esprit latent, envoyée pour agir en son nom, peut-être même pour éliminer ces êtres inférieurs qui se masse à ses frontières.
+
+#### Liste de sorts étendue
+Votre lien avec la forêt vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
+
+|Niveau|Sort|
+|:-:|:-|
+|**1**|[_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/)|
+|**2**|[_croissance d'épines_](/grimoire/croissance-d-epines/), [_messager animal_](/grimoire/messager-animal/)|
+|**3**|[_invoquer des animaux_](/grimoire/invoquer-des-animaux/), [_protection contre les énergies_](/grimoire/protection-contre-les-energies/)|
+|**4**|[_insecte géant_](/grimoire/insecte-geant/), [_invoquer des êtres des boies_](/grimoire/invoquer-des-etres-des-bois/)|
+|**5**|[_passage par les arbres_](/grimoire/passage-par-les-arbres/), [_restauration supérieure_](/grimoire/restauration-superieure/)|
+
+#### Sève magique
+Au niveau 1, votre protecteur vous confère la capacité d'absorber la magie des sorts lancés à proximité. Lorsqu'une créature lance un sort d'un niveau que vous pouvez lancer ou inférieur dans un rayon de 9&nbsp;mètres autour de vous, vous pouvez utiliser votre réaction pour synthétiser la magie. Le sort se résout normalement, mais vous avez 25&nbsp;% de chances de regagner un nombre de points de vie égal à votre niveau de sorcier + votre modificateur de Charisme (minimum de 1 point de vie).
+
+#### Défenseur de la forêt
+Au niveau 1, votre protecteur vous offre les compétences nécessaires pour le défendre. Vous gagnez la maîtrise des boucliers et vous apprenez le tour de magie [_gourdin magique_](/grimoire/gourdin-magique/). _Gourdin magique_ est considéré comme un tour de magie de sorcier, mais ne compte pas dans le nombre de tours de magie que vous connaissez.
+
+#### Le Bois Ancien et votre pacte
+Quand vous choisissez votre pacte au niveau 3, il est modifié par votre protecteur de la façon suivante :
+
+**Pacte de la chaîne.** Lorsque vous invoquez votre familier ou changez sa forme, vous pouvez choisir la forme d'un [arbuste éveillé](/bestiaire/arbuste-eveille/) ou d'un [enfant des bruyères](/bestiaire/enfant-des-bruyeres/) en plus des choix de familiers habituels.
+
+**Pacte de la lame.** La lame du Bois Ancien est une arme faite de bois et d'épines qui pousse dans votre paume. Lorsque vous lancez [_gourdin magique_](/grimoire/gourdin-magique/), votre Lame de Pacte est affectée par le sort, quelle que soit la forme que prend votre Lame de Pacte.
+
+**Pacte du grimoire.** Le Bois Ancien fait pousser un grimoire pour vous. La couverture du tome est faite d'écorce durcie provenant des arbres de la forêt, et ses pages sont des feuilles dont la couleur change avec les saisons. Si vous souhaitez ajouter un nouveau sort à votre grimoire, vous devez d'abord le planter dans le sol.  
+Au bout d'une heure, le grimoire sort de terre avec le nouveau sort inscrit sur ses feuilles. Si votre grimoire est perdu ou détruit, vous devez retourner dans votre forêt protectrice pour qu'elle vous en fasse pousser un nouveau.
+
+#### Grâce prédatrice
+À partir du niveau 6, vous êtes capable de lancer le sort [_passage sans traces_](/grimoire/passage-sans-traces/) sans dépenser d'emplacement de sort. Une fois que vous avez utilisé cette capacité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long. De plus, les terrains difficiles causés par les racines, les broussailles et autres terrains forestiers naturels ne vous coûtent aucun déplacement supplémentaire. Vous pouvez traverser des plantes non magiques sans être ralenti par elles et sans subir de dégâts si elles sont munies d'épines, de piquants ou d'un danger similaire.
+
+#### Endurance de la nature
+Au niveau 10, votre protecteur a imprégné votre corps d'une partie de sa capacité à résister à la magie néfaste. Vous gagnez une résistance aux dégâts des sorts d'un niveau que vous pouvez lancer ou inférieur.
+
+#### Avatar du Bois
+À partir du niveau 14, vous pouvez canaliser le pouvoir de la forêt pour vous transformer physiquement et prendre plusieurs de ses aspects. Vos jambes, vos bras et votre torse s'allongent, votre corps se couvre d'une écorce épaisse et sombre, et des branches jaillissent de votre tête tandis que vos cheveux disparaissent. Vous pouvez vous transformer par une action bonus et la transformation dure 1&nbsp;minute. Pendant votre transformation, vous bénéficiez des avantages suivants :
+* Votre classe d'armure est de 16 plus votre modificateur de Dextérité.
+* Vous bénéficiez d'une perception des vibrations dans un rayon de 9&nbsp;mètres, et la portée de vos attaques est augmentée de 1,5&nbsp;mètre.
+* Vos mains deviennent des griffes en forme de branches et vous pouvez utiliser l'action _Attaquer_ pour attaquer avec les griffes. Vous avez la maîtrise des griffes, et les griffes sont considérées comme magiques pour ce qui est de surmonter la résistance et l'immunité aux attaques et dégâts non magiques. Vous ajoutez votre modificateur de Charisme à vos jets d'attaque et de dégâts avec les griffes. Les dégâts sont tranchants et le dé de dégâts est un d6. Si vous avez la capacité _Pacte de la lame_, votre attaque de griffes bénéficie de vos invocations occultes comme s'il s'agissait d'une arme de pacte.
+* Votre capacité _Sève magique_ devient _Arcasynthèse_ : Lorsqu'un sort de niveau 5 ou moins est lancé à moins de 18&nbsp;mètres de vous, vous pouvez utiliser votre réaction pour synthétiser la magie. Le sort se résout normalement, mais vous avez 50&nbsp;% de chances de regagner 1d10 pv par niveau du sort lancé.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long.
+
 ## Liste des invocations occultes
 Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c'est le cas, vous êtes en mesure d'apprendre l'invocation en question. Si une des conditions est un niveau, il s'agit du niveau que vous possédez dans la classe de sorcier.
+
+### Armure de la nature
+**Prérequis** : Protecteur Bois Ancien  
+Vous pouvez utiliser une action pour faire pousser des épines dures sur votre peau pendant 1&nbsp;heure. Votre classe d'armure devient 12 + votre modificateur de Dextérité et, lorsqu'une créature vous touche avec une attaque d'arme de corps-à-corps à moins de 1,5&nbsp;mètre de vous, elle subit des dégâts perforants égaux à la moitié de votre niveau de sorcier. Vous devez terminer un repos court ou long avant de pouvoir utiliser à nouveau cette invocation.
 
 ### Armure des ombres
 Vous pouvez lancer le sort [_armure du mage_](/grimoire/armure-du-mage/) sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
@@ -315,6 +370,13 @@ Quand vous frappez une créature avec votre arme de pacte, votre cible subit une
 ### Chaînes de Carcères
 **Prérequis** : niveau 15, pacte de la chaîne  
 Vous pouvez lancer le sort [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) à volonté sans utiliser d'emplacement de sort ni de composante matérielle quand votre cible est un céleste, un fiélon ou un élémentaire. Néanmoins, vous devez terminer un repos long avant de pouvoir utiliser cette invocation une seconde fois sur une créature donnée.
+
+### Enchevêtrement occulte
+**Prérequis** : niveau 5, tour de magie [_explosion occulte_](/grimoire/explosion-occulte/), Protecteur Bois Ancien  
+Quand vous touchez une créature avec [_explosion occulte_](/grimoire/explosion-occulte/), la créature doit réussir un jet de sauvegarde de Dextérité ou être _entravée_ par des racines, des lianes et d'autres végétaux jusqu'à la fin de son prochain tour. Le DD pour ce jet de sauvegarde et pour échapper à cet entrave est le DD de sauvegarde de votre sort.
+
+### Entraînement forestier
+Vous gagnez la maîtrise des compétences Nature et Survie.
 
 ### Explosion insoutenable
 **Prérequis** : tour de magie [_explosion occulte_](/grimoire/explosion-occulte/)  
@@ -334,6 +396,16 @@ Quand vous lancez le sort [_explosion occulte_](/grimoire/explosion-occulte/), s
 ### Lenteur de l'esprit
 **Prérequis** : niveau 5  
 Vous pouvez lancer [_lenteur_](/grimoire/lenteur/) en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
+
+### Livre des secrets anciens
+**Prérequis** : pacte du grimoire  
+Vous pouvez maintenant inscrire des rituels magiques dans votre livre des ombres. Choisissez deux sorts de niveau 1 qui ont le sous-type rituel dans la liste de sorts de n'importe quelle classe (les deux sorts peuvent provenir de différentes listes). Ces sorts apparaissent dans votre livre et ne sont pas comptabilisés dans le nombre de sorts que vous connaissez. Quand vous avez le livre des ombres en main, vous pouvez lancer les sorts que vous avez choisis comme des rituels. Vous pouvez seulement lancer ces sorts comme des rituels, sauf si vous les avez appris par un autre moyen. Vous pouvez aussi lancer un sort que vous connaissez comme un rituel s'il possède le sous-type rituel.
+
+Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l'ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau de sorcier (arrondi à l'entier supérieur) et si vous avez le temps de le transcrire. Pour chaque niveau de sort, le processus de transcription prend 2 heures et coûte 50 po (correspondant aux encres rares nécessaires pour écrire le sort).
+
+### Main verte
+**Prérequis** : niveau 5, Protecteur Bois Ancien  
+Vous pouvez lancer [_croissance végétale_](/grimoire/croissance-vegetale/) une fois en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
 
 ### Maître des mille formes
 **Prérequis** : niveau 15  
@@ -369,12 +441,20 @@ Vous pouvez lire toutes les formes d'écriture.
 **Prérequis** : tour de magie [_explosion occulte_](/grimoire/explosion-occulte/)  
 Quand vous touchez une créature avec [_explosion occulte_](/grimoire/explosion-occulte/), vous pouvez utiliser cette invocation pour que le souffle de l'explosion l'éloigne de 3 mètres de vous en ligne droite.
 
+### Orateur des arbres
+**Prérequis** : niveau 9, Protecteur Bois Ancien  
+Vous pouvez lancer [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/) à volonté sans dépenser d'emplacement de sort.
+
 ### Pas aérien
 **Prérequis** : niveau 9  
 Vous pouvez lancer le sort [_lévitation_](/grimoire/levitation/) sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
 ### Regard de deux esprits
 Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu'à la fin de votre prochain tour. Tant que cette créature est sur le même plan d'existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu'à la fin de votre prochain tour. Tant que vous voyez par les yeux de l'autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) à ce qui se passe autour de votre propre corps.
+
+### Savoir du Bois
+**Prérequis** : niveau 15, Protecteur Bois Ancien  
+Quand vous vous trouvez à moins d'1,5 mètre d'une étendue d'eau dans une forêt, vous pouvez lancer un sort de [_scrutation_](/grimoire/scrutation) sur n'importe quelle créature de cette forêt à volonté, sans dépenser d'emplacement de sort de sorcier ou de composantes matérielles. Vous devez rester à moins de 1,5 mètre de l'étendue d'eau pendant toute la durée du sort, sinon celui-ci prend fin.
 
 ### Saut d'outre-monde
 **Prérequis** : niveau 9  
@@ -391,11 +471,9 @@ Vous pouvez lancer [_métamorphose_](/grimoire/metamorphose/) en utilisant un em
 ### Séduction
 Vous gagnez la maîtrise des compétences Persuasion et Supercherie.
 
-### Livre des secrets anciens
-**Prérequis** : pacte du grimoire  
-Vous pouvez maintenant inscrire des rituels magiques dans votre livre des ombres. Choisissez deux sorts de niveau 1 qui ont le sous-type rituel dans la liste de sorts de n'importe quelle classe (les deux sorts peuvent provenir de différentes listes). Ces sorts apparaissent dans votre livre et ne sont pas comptabilisés dans le nombre de sorts que vous connaissez. Quand vous avez le livre des ombres en main, vous pouvez lancer les sorts que vous avez choisis comme des rituels. Vous pouvez seulement lancer ces sorts comme des rituels, sauf si vous les avez appris par un autre moyen. Vous pouvez aussi lancer un sort que vous connaissez comme un rituel s'il possède le sous-type rituel.
-
-Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l'ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau de sorcier (arrondi à l'entier supérieur) et si vous avez le temps de le transcrire. Pour chaque niveau de sort, le processus de transcription prend 2 heures et coûte 50 po (correspondant aux encres rares nécessaires pour écrire le sort).
+### Toucher de la forêt
+**Prérequis** : niveau 9, Protecteur Bois Ancien  
+Vous pouvez lancer [_éveil_](/grimoire/eveil/) une fois en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
 ### Vigueur fiélonne
 Vous pouvez lancer [_simulacre de vie_](/grimoire/simulacre-de-vie/) sur vous-même à volonté et en tant que sort de niveau 1 sans utiliser d'emplacement de sort de ou de composante matérielle.

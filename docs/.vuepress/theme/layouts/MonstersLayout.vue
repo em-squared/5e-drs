@@ -283,6 +283,8 @@ export default {
     monsters() {
       let results = this.$pagination.pages
 
+      // console.log(results)
+
       // Filter ID
       let minID = this.challengeRange[0]
       let maxID = this.challengeRange[1]

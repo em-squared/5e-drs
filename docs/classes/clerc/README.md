@@ -88,7 +88,7 @@ Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez prépar
 Vous pouvez utiliser un symbole sacré (voir le chapitre [Équipement](/equipement-d-aventurier/)) comme focaliseur d'incantation pour vos sorts de clerc.
 
 ### Domaine divin
-Choisissez un domaine divin parmi [gardien des traditions](#gardien-des-traditions), [guide spirituel](#guide-spirituel), [prêtre](#pretre), [théurge](#theurge), [domaine de la vie](#domaine-de-la-vie), [mortifié](#mortifie) et [oracle](#oracle). Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
+Choisissez un domaine divin parmi [gardien des traditions](#gardien-des-traditions), [guide spirituel](#guide-spirituel), [prêtre](#pretre), [théurge](#theurge), [domaine de la vie](#domaine-de-la-vie), [mortifié](#mortifie), [oracle](#oracle) et [domaine de la bière](#domaine-de-la-biere). Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
 
 ### Sorts de domaines
 Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de <router-link :to="{ path: '/grimoire/', query: { classes: 'Clerc' }}">sorts de clerc</router-link>, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
@@ -750,10 +750,10 @@ Au niveau 1, l'oracle obtient l'accès aux sorts du domaine de la divination :
 |Niveau de clerc|Sorts|
 |:-:|:-|
 |**1**|[_détection du poison et des maladies_](/grimoire/detection-du-poison-et-des-maladies/)|
-|**3**|[augure](/grimoire/augure/)|
-|**5**|[clairvoyance](/grimoire/clairvoyance/)|
-|**7**|[divination](/grimoire/divination/)|
-|**9**|[communion](/grimoire/communion/)|
+|**3**|[_augure_](/grimoire/augure/)|
+|**5**|[_clairvoyance_](/grimoire/clairvoyance/)|
+|**7**|[_divination_](/grimoire/divination/)|
+|**9**|[_communion_](/grimoire/communion/)|
 
 #### Champs des possibles
 À partir du niveau 2, l'oracle peut dépenser une canalisation d'énergie divine pour obtenir un d20 par point de bonus de maîtrise. Chacun de ces d20 peut être utilisé pour obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le jet de dé de votre choix. Tous les dés non utilisés sont perdus dès que vous prenez un nouveau repos court ou long.
@@ -766,3 +766,39 @@ La prémonition d'un événement qui risque de vous affecter vous permet d'augme
 
 #### Choix des possibles
 Au niveau 17, vous pouvez choisir l'issue d'un événement depuis le _champ des possibles_. Lorsque vous dépensez une canalisation d'énergie divine pour utiliser votre aptitude du _champ des possibles_, vous pouvez immédiatement dépenser de un à trois d20 parmi les six obtenus. Vous devez les lancer et consigner le résultat. Il est alors possible d'utiliser ces résultats au moment de votre choix pour remplacer le résultat d'un dé dans les mêmes conditions que si vous utilisiez un dé de vos aptitudes précédentes.
+
+### Domaine de la bière
+§§§ .source .font-italic
+Source : Deep Magic et Midgard Heroes Handbook - Kobold Press
+§§§
+
+Le mélange enivrant de force d'âme, de courage et de camaraderie est votre nectar, et vous partagez ses bienfaits avec ceux qui en ont besoin.
+
+#### Sorts du domaine de la bière
+|Niveau de clerc|Sorts|
+|:-:|:-|
+|**1**|[_compréhension des langues_](/grimoire/comprehension-des-langues/), [_héroïsme_](/grimoire/heroisme/)|
+|**3**|[_flou_](/grimoire/flou/), [_suggestion_](/grimoire/suggestion/)|
+|**5**|[_mot de guérison de groupe_](/grimoire/mot-de-guerison-de-groupe/), [_motif hypnotique_](/grimoire/motif-hypnotique/)|
+|**7**|[_confusion_](/grimoire/confusion/), [_sphère résiliente_](/grimoire/sphere-resiliente/)|
+|**9**|[_modification de mémoire_](/grimoire/modification-de-memoire/), [_rêve_](/grimoire/reve/)|
+
+#### Disciple de la pression
+Quand vous choisissez ce domaine au niveau 1, vous apprenez le tour de magie [_rayon de ivre_](/grimoire/rayon-de-ivre/). Vous gagnez également la maîtrise de la compétence Perspicacité ou Médecine (au choix), ainsi que la maîtrise du matériel de brasseur. Votre bonus de maîtrise est doublé pour tout test de caractéristique que vous effectuez et qui utilise ce matériel.
+
+#### Canalisation d'énergie divine : Breuvage béni
+À partir du niveau 2, vous pouvez utiliser votre canalisation d'énergie divine pour transformer un récipient de liquide non magique en breuvage béni ; le nombre de doses est égal à 3 + votre modificateur de Sagesse. Toutes les propriétés spéciales que le liquide possédait auparavant sont annulées. Quiconque absorbe une dose de ce breuvage peut choisir l'un des atouts suivants :
+- _avantage_ aux tests basés sur le Charisme
+- bonus de +1 à la Classe d'Armure
+- une augmentation de +1 au DD des jets de sauvegarde contre les sorts d'enchantement
+
+L'atout dure 1 heure, laissant derrière lui un bourdonnement chaleureux lorsqu'il s'estompe. Une créature doit terminer un repos court ou long avant de pouvoir bénéficier à nouveau d'une dose de breuvage béni. Tout breuvage béni qui n'est pas consommé dans l'heure qui suit se transforme en bière ordinaire.
+
+#### Canalisation d'énergie divine : La fête continue
+A partir du niveau 6, vous pouvez utiliser votre canalisation d'énergie divine pour aider et rallier vos compagnons. Toutes les créatures alliées situées à moins de 9&nbsp;mètres de vous qui sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise), [_paralysées_](/gerer-la-sante-du-personnage/#paralyse), [_empoisonnées_](/gerer-la-sante-du-personnage/#empoisonne) ou [_étourdies_](/gerer-la-sante-du-personnage/#etourdi) peuvent effectuer un jet de sauvegarde immédiatement avec un _avantage_ pour supprimer l'état. En cas de réussite, la créature regagne également 2d6 points de vie.
+
+#### Triple peine
+Au niveau 8, vous gagnez la capacité d'infuser vos attaques d'armes avec de l'énergie radiante. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque d'arme, vous pouvez faire en sorte que l'attaque inflige 1d8 dégâts radiants supplémentaires à la cible. Au niveau 14, les dégâts supplémentaires passent à 2d8.
+
+#### Tripes d'acier
+Au niveau 17, vous gagnez la résistance aux dégâts de froid, de poison et psychiques.

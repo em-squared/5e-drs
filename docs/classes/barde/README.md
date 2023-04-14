@@ -106,7 +106,7 @@ Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devien
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
 ### Collège bardique
-Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts), le [collège des saltimbanques](#college-des-saltimbanques), le [collège des taromanciens](#college-des-taromanciens) ou le [collège des rêves](#college-des-reves). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](#college-du-savoir), le [collège des diplomates](#college-des-diplomates), le [collège des hérauts](#college-des-herauts), le [collège des saltimbanques](#college-des-saltimbanques), le [collège des taromanciens](#college-des-taromanciens), le [collège des rêves](#college-des-reves) et le [collège de criminologie](#college-de-criminologie). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
 ### Expertise
 Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout [test de caractéristiques](/utiliser-les-caracteristiques/#tests-de-caracteristique) qui met en jeu ces compétences.
@@ -270,3 +270,29 @@ Au niveau 6, une fois par repos long et alors que vous dormez, vous pouvez utili
 
 #### Rêves destructeurs
 Au niveau 14, lorsque vous dormez, une fois par repos long, vous pouvez utiliser le sort [_rêve_](/grimoire/reve/) ou le sort [_modification de mémoire_](/grimoire/modification-de-memoire/). Si vous utilisez [_modification de mémoire_](/grimoire/modification-de-memoire/), vous pouvez affecter une cible qui n'est pas en vue, mais située à une portée maximale de 36 mètres. Si vous possédez une composante biologique de votre cible (une mèche de cheveux, un ongle, une goutte de sang), la portée maximale passe à 3 km. Vous pouvez utiliser ces sorts même si vous ne les connaissez pas et sans dépenser d'emplacement de sort.
+
+### Collège de criminologie
+§§§ .source .font-italic
+Source : Warlock Grimoire - Kobold Press
+§§§
+
+#### Maîtrises supplémentaires
+Au niveau 3, quand vous rejoignez le collège de criminologie, vous gagnez la maîtrise de la compétence Perspicacité et deux compétences au choix parmi Acrobatie, Discrétion, Escamotage, Investigation et Supercherie.
+
+#### Lecture rapide
+Au niveau 3, votre connaissance des tactiques déloyales vous permet de mieux comprendre les stratégies de vos ennemis. Par une action bonus, vous pouvez dépenser un dé d'inspiration bardique pour faire un test de Sagesse (perspicacité) contre une créature que vous pouvez voir dans un rayon de 9&nbsp;mètres, opposé à un test de Charisme (supercherie). Vous pouvez lancer le dé d'inspiration bardique et l'ajouter au résultat de votre test. Vous avez un _désavantage_ sur votre test si la cible n'est pas un humanoïde, et le test échoue automatiquement contre les créatures ayant un score d'Intelligence de 3 ou moins.
+
+En cas de réussite, vous bénéficiez de l'un des atouts suivants :
+* La cible a un _désavantage_ aux jets d'attaque contre vous pendant 1 minute.
+* Vous avez l'_avantage_ aux jets de sauvegarde contre les sorts et effets magiques de la cible pendant 1 minute.
+* Vous avez l'_avantage_ aux jets d'attaque contre la cible pendant 1 minute.
+
+#### Instinct bardique
+A partir du niveau 6, vous pouvez étendre votre connaissance des comportements criminels à vos compagnons. Lorsqu'une créature ayant un dé d'inspiration bardique que vous lui avez actroyé subit des dégâts suite à l'attaque d'une créature hostile, elle peut utiliser sa réaction pour lancer le dé d'inspiration bardique et réduire les dégâts de deux fois le nombre obtenu.
+
+Si cela réduit les dégâts de l'attaque à 0, la créature que vous avez inspirée peut effectuer une attaque de mêlée unique contre son attaquant dans le cadre de la même réaction.
+
+#### Traque
+À partir du niveau 14, lorsqu'une créature échoue à un jet de sauvegarde contre l'un de vos sorts de barde, vous pouvez la désigner comme votre proie pendant 24&nbsp;heures. Vous connaissez la direction de votre proie à tout moment, sauf si elle se trouve dans un [_champ antimagie_](/grimoire/champ-antimagie/), si elle est protégée par un effet empêchant la scrutation tel que la [non-détection](/grimoire/non-detection/), ou si une barrière de plomb d'au moins 2,5&nbsp;cm d'épaisseur vous sépare.
+
+De plus, lorsque votre proie effectue un jet d'attaque ou que vous effectuez un jet de sauvegarde contre l'un de ses sorts ou effets, vous pouvez dépenser un dé d'inspiration bardique et ajouter ou soustraire le résultat du dé au jet. Vous pouvez choisir de le faire après que le d20 ait été lancé mais avant la résolution de l'action.

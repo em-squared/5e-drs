@@ -112,7 +112,7 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l'emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L'équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d'équipement peut être portée de manière pratique par l'animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s'adapter à votre nouvelle forme et toute pièce d'équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L'équipement qui fusionne avec vous sous votre forme sauvage n'a aucun effet jusqu'à ce que vous retrouviez votre forme normale.
 
 ### Cercle druidique
-Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees), le [cercle des profondeurs](#cercle-des-profondeurs), le [cercle de la vie](#cercle-de-la-vie), le [cercle des châtiments](#cercle-des-chatiments) ou le [cercle sans nom](#cercle-sans-nom). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
+Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un [cercle druidique](#cercles-druidiques) : le [cercle de la terre](#cercle-de-la-terre), le [cercle des saisons](#cercle-des-saisons), le [cercle des fées](#cercle-des-fees), le [cercle des profondeurs](#cercle-des-profondeurs), le [cercle de la vie](#cercle-de-la-vie), le [cercle des châtiments](#cercle-des-chatiments), le [cercle sans nom](#cercle-sans-nom) ou le [cercle de la Verdoyance](#cercle-de-la-verdoyance). En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -504,3 +504,58 @@ Votre connexion mystique avec les esprits des morts vous donne la capacité de l
 
 #### Forme d'esprit
 À partir du niveau 14, vous pouvez dépenser une utilisation de forme sauvage pour vous transformer en [feu follet](/bestiaire/feu-follet/). Lorsque vous êtes sous forme d'esprit, vous pouvez communiquer par télépathie avec tous les morts-vivants dans un rayon de 36 mètres. Vous ne pouvez ni parler ni communiquer avec les êtres vivants.
+
+### Cercle de la Verdoyance
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Les druides du cercle de la Verdoyance se consacrent aux plantes et aux choses vertes du monde, reconnaissant le rôle des plantes dans la création de la vie. Par une communion constante avec la vie végétale, ils pensent se rapprocher de ce qu'ils appellent "la Verdoyance", un fil cosmique qui relie toutes les plantes. Les druides de ce cercle croient qu'ils acquièrent leurs capacités en puisant dans la Verdoyance, et ils utilisent cette connexion pour invoquer un esprit.
+
+#### Sorts de cercle
+Lorsque vous rejoignez ce cercle au niveau 2, vous formez un lien avec un esprit végétal, une créature de la Verdoyance. Votre lien avec cet esprit vous donne accès à certains sorts lorsque vous atteignez certains niveaux dans cette classe, comme indiqué dans le tableau ci-dessous.
+
+Une fois que vous avez accès à l'un de ces sorts, il est toujours préparé et il ne compte pas dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous avez accès à un sort qui ne figure pas dans la liste des sorts de druide, considérez-le quand même comme un sort de druide.
+
+|Niveau de druide|Sort de cercle|
+|:-:|:-|
+|**2**|[_baies nourricières_](/grimoire/baies-nourricieres/), [_enchevêtrement_](/grimoire/enchevetrement/)|
+|**3**|[_croissance d'épines_](/grimoire/croissance-d-epines/), [_peau d'écorce_](/grimoire/peau-d-ecorce/)|
+|**5**|[_communication avec les plantes_](/grimoire/communication-avec-les-plantes/), [_tapis de lianes_](/grimoire/tapis-de-lianes/)|
+|**7**|[_rêvevin_](/grimoire/revevin/), [_terrain hallucinatoire_](/grimoire/terrain-hallucinatoire/)|
+|**9**|[_floraison enchantée_](/grimoire/floraison-enchantee/), [_passage par les arbres_](/grimoire/passage-par-les-arbres/)|
+
+#### Invocation d'esprit verdoyant
+À partir du niveau 2, vous pouvez invoquer un esprit de la Verdoyance, une manifestation de la vie végétale primordiale. Par une action, vous pouvez dépenser une utilisation de votre capacité _Forme sauvage_ pour invoquer l'esprit verdoyant au lieu de prendre une forme bestiale.
+
+L'esprit apparaît dans un espace inoccupé de votre choix que vous pouvez voir dans un rayon de 9&nbsp;mètres autour de vous. Lorsque l'esprit apparaît, la zone dans un rayon de 3&nbsp;mètres autour de lui devient enchevêtrée de lianes et d'autres plantes, devenant un terrain difficile jusqu'au début de votre prochain tour.
+
+L'esprit est amical envers vous et vos compagnons et obéit à vos ordres. Pour les caractéristiques techniques référez vous au profil technique de l'[Esprit verdoyant](/bestiaire/esprit-verdoyant/), qui utilise votre bonus de maîtrise (BM) à plusieurs endroits.
+
+Vous déterminez l'apparence de l'esprit. Certains esprits prennent la forme d'une figure humanoïde faite de branches noueuses et de feuilles, tandis que d'autres ressemblent à des créatures au corps feuillu et à la tête faite de calebasses ou de fruits. D'autres encore ressemblent à des bêtes, mais entièrement composées de végétaux.
+
+En combat, l'esprit partage votre score d'initiative, mais il prend son tour immédiatement après le vôtre. L'esprit verdoyant peut se déplacer et utiliser ses réactions seul, mais si vous ne lui donnez aucun ordre, il utilise l'action _Esquiver_ par défaut. Vous pouvez utiliser votre action bonus pour lui ordonner d'entreprendre l'action _Attaquer_, _Se précipiter_, _Se désengager_, _Aider_, _Se cacher_, _Chercher_ ou une action listée dans son profil technique. Si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), l'esprit peut entreprendre n'importe quelle action de son choix, pas seulement _Esquiver_.
+
+L'esprit persiste pendant 1&nbsp;heure, jusqu'à ce qu'il soit réduit à 0 point de vie, jusqu'à ce que vous utilisiez cette capacité pour l'invoquer à nouveau, ou jusqu'à ce que vous mouriez. Lorsqu'il se manifeste, l'esprit porte 10 fruits imprégnés de magie. Chaque fruit fonctionne comme une baie créée par le sort [_baies nourricières_](/grimoire/baies-nourricieres/).
+
+#### Don de la Verdoyance
+Au niveau 6, le lien avec votre esprit verdoyant améliore vos sorts de restauration et vous donne le pouvoir de lancer des sorts supplémentaires. Une fois avant la fin de la durée de l'esprit, vous pouvez lancer l'un des sorts suivants sans dépenser d'emplacement de sort ou de composante matérielle : [_communication avec les plantes_](/grimoire/communication-avec-les-plantes/), [_croissance végétale_](/grimoire/croissance-vegetale/), [_localiser des animaux ou des plantes_](/grimoire/localiser-des-animaux-ou-des-plantes/) ou [_passage sans trace_](/grimoire/passage-sans-trace/) (uniquement dans les environnements où la vie végétale est abondante). Vous ne pouvez plus lancer l'un de ces sorts de cette façon jusqu'à la prochaine fois que vous invoquez votre esprit verdoyant.
+
+Chaque fois que vous lancez un sort qui redonne des points de vie pendant que votre esprit verdoyant est invoqué, lancez un d8 et ajoutez le résultat au total des points de vie restaurés.
+
+De plus, lorsque vous lancez un sort avec une portée autre que personnelle, le sort peut provenir de vous ou de votre esprit verdoyant.
+
+#### Interférance verdoyante
+À partir du niveau 10, quand une créature que vous pouvez voir à moins de 9&nbsp;mètres de vous ou de votre esprit verdoyant est attaquée, vous pouvez utiliser votre réaction pour faire jaillir des lianes et de la végétation du sol et les agripper à l'attaquant, ce qui lui donne un _désavantage_ aux jets d'attaque jusqu'au début de votre prochain tour.
+
+Vous pouvez utiliser cette caractéristique un nombre de fois égal à votre bonus de maîtrise. Vous récupérez toutes vos utilisations à la fin d'un long repos.
+
+#### Symbiose spirituelle
+Au niveau 14, quand votre esprit verdoyant se trouve à moins de 9&nbsp;mètres de vous, vous pouvez utiliser une action pour vous unir avec lui, laissant sa matière végétale pousser autour de vous. Tant que vous êtes ainsi unis, vous bénéficiez des avantages suivants :
+* Vous gagnez un nombre de points de vie temporaires égal à celui de votre esprit vert.
+* Vous gagnez une vitesse d'escalade de 9&nbsp;mètres.
+* Vous avez l'_avantage_ sur les jets de sauvegarde de Constitution.
+* Le sol à moins de 3&nbsp;mètres de vous est un terrain difficile pour les créatures qui vous sont hostiles.
+* Vous pouvez utiliser une action bonus à chacun de vos tours pour effectuer une attaque de vrille contre une créature que vous pouvez voir et qui se trouve à moins de 3&nbsp;mètres de vous. Effectuez une attaque de sort au corps-à-corps. Si vous touchez, la cible subit des dégâts contondants égaux à 2d8 + votre modificateur de Sagesse.
+
+Cette capacité dure jusqu'à ce que les points de vie temporaires que vous avez gagnés soient réduits à 0, jusqu'à ce que la durée de l'esprit prenne fin, ou jusqu'à ce que vous utilisiez une action pour vous séparer de lui. Si vous vous séparez, l'esprit verdoyant a autant de points de vie qu'il vous restait de points de vie temporaires. Si cet effet prend fin parce que vos points de vie temporaires sont réduits à 0, l'esprit verdoyant disparaît jusqu'à ce que vous l'invoquiez à nouveau.

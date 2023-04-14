@@ -280,6 +280,8 @@ export default {
     spells() {
       let results = this.$pagination.pages
 
+      // console.log(results)
+
       // Filter concentration
       if (this.mustBeConcentration !== undefined) {
         results = results.filter(item => {
@@ -322,9 +324,11 @@ export default {
         let classFiltered = []
         for (var i = 0; i < selectedClasses.length; i++) {
           for (var j = 0; j < results.length; j++) {
-            if (results[j].frontmatter.classes.indexOf(selectedClasses[i]) > -1) {
-              if (classFiltered.indexOf(results[j]) < 0) {
-                classFiltered.push(results[j])
+            if (results[j].frontmatter.classes) {
+              if (results[j].frontmatter.classes.indexOf(selectedClasses[i]) > -1) {
+                if (classFiltered.indexOf(results[j]) < 0) {
+                  classFiltered.push(results[j])
+                }
               }
             }
           }

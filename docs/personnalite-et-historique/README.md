@@ -129,6 +129,7 @@ Vous voudrez peut-être adapter certains détails d'un historique pour qu'il cor
  * [Éclaireur](/personnalite-et-historique/explorateur/#variante-eclaireur)
  * [Matelot](/personnalite-et-historique/explorateur/#variante-matelot)
  * [Pilleur de ruines](/personnalite-et-historique/explorateur/#variante-pilleur-de-ruines)
+* [Habitant de la forêt](/personnalite-et-historique/habitant-de-la-foret/)
 * [Homme de Loi](/personnalite-et-historique/homme-de-loi/)
  * [Inquisiteur](/personnalite-et-historique/homme-de-loi/#variante-inquisiteur)
  * [Limier](/personnalite-et-historique/homme-de-loi/#variante-limier)

@@ -116,7 +116,7 @@ Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos s
 Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 ### Serment sacré
-Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le [serment de dévotion](#serment-de-devotion), le [serment d'obédience](#serment-d-obedience), le [serment de perfection](#serment-de-perfection), le [serment de piété](#serment-de-piete) et le [serment d'aliénation](#serment-d-alienation), détaillés à la fin de la section consacrée à cette classe.
+Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le [serment de dévotion](#serment-de-devotion), le [serment d'obédience](#serment-d-obedience), le [serment de perfection](#serment-de-perfection), le [serment de piété](#serment-de-piete), le [serment d'aliénation](#serment-d-alienation) et le [serment de justice](#serment-de-justice), détaillés à la fin de la section consacrée à cette classe.
 
 Votre choix vous permet d'avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d'énergie divine.
 
@@ -442,3 +442,49 @@ Vous ne pouvez pas utiliser les différentes versions de cette aptitude si votre
 
 #### Avatar
 Au niveau 20, vous ne faite plus qu'un avec votre Sire. Vous devenez son avatar, c'est-à-dire la manifestation physique de son esprit. Si vous mourez, votre corps disparaît au round suivant. Huit heures plus tard, vous apparaissez aux côtés de votre Sire, à moins que l'objet n'ait été détruit entre-temps ou qu'un sort de souhait soit utilisé pour vous en empêcher. Vous revenez à la vie avec tous vos PV et en ayant complété un repos long. Toutes les mutilations qui ont pu être infligées à votre corps ou à votre cadavre depuis votre dernière réincarnation disparaissent.
+
+### Serment de justice
+#### Préceptes de justice
+Tous les paladins de la justice font respecter la loi d'une manière ou d'une autre, mais leur serment diffère en fonction de leur poste. Un paladin au service d'une reine respecte des principes légèrement différents de ceux d'un paladin au service d'une petite ville.
+
+**Faire respecter la loi.** La loi représente le triomphe de la civilisation sur la sauvagerie. Elle doit être préservée à tout prix.
+
+**Juste châtiment.** La sévérité de la justice est proportionnelle à la gravité des transgressions commises par l'auteur du délit.
+
+#### Sorts de serment
+Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
+|Niv. de paladin|Sorts|
+|:-:|:-:|
+|**3**|[_balisage_](/grimoire/balisage/), [_couleurs dansantes_](/grimoire/couleurs-dansantes/)|
+|**5**|[_localiser un objet_](/grimoire/localiser-un-objet/), [_zone de vérité_](/grimoire/zone-de-verite/)|
+|**9**|[_éclair_](/grimoire/eclair/), [_lenteur_](/grimoire/lenteur/)|
+|**13**|[_localiser une créature_](/grimoire/localiser-une-creature/), [_œil magique_](/grimoire/oeil-magique/)|
+|**17**|[_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_main magique_](/grimoire/main-magique/)|
+
+#### Canalisation d'énergie divine
+Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.
+
+**Chaînes de la justice.** Vous pouvez utiliser votre canalisation d'énergie divine pour lier votre cible à vous. Par une action, vous étendez une ligne d'énergie vers une créature que vous pouvez voir dans un rayon de 9&nbsp;mètres autour de vous. Cette créature doit réussir un jet de sauvegarde de Dextérité. En cas d'échec, elle est enchaînée et ne peut s'éloigner de vous de plus de 9&nbsp;mètres. Tant qu'elle est enchaînée, la cible subit à la fin de chacun de ses tours des dégâts de foudre égaux à votre modificateur de Charisme. Vous pouvez utiliser votre action pour faire un test de Force opposé au test de Force de la créature enchaînée. Sur une réussite, vous pouvez la tirer jusqu'à 4,5&nbsp;mètres vers vous en ligne droite.
+
+La créature enchaînée peut utiliser son action pour tenter de se libérer par un test de Force contre votre DD de sauvegarde de sorts. Sur une réussite, elle rompt le lien.
+
+**Célérité de justicier.** Vous pouvez utiliser votre canalisation d'énergie divine pour réagir au danger à la vitesse de l'éclair. Lorsqu'une créature que vous pouvez voir est attaquée, vous pouvez utiliser votre réaction pour vous déplacer à votre vitesse. Si vous terminez votre déplacement adjacent à l'attaquant, vous pouvez effectuer une attaque de corps-à-corps unique contre lui dans le cadre de cette réaction. Si vous terminez votre déplacement adjacent à la cible attaquée, vous pouvez devenir la cible de l'attaque dans le cadre de cette réaction. Vous pouvez utiliser cette capacité après avoir vu le jet d'attaque de l'attaquant, mais avant que le MJ ne dise s'il a touché ou raté.
+
+#### En vertu de la loi
+Au niveau 7, vous avez plié les lois de la magie pour qu'elles correspondent aux lois de votre civilisation. Lorsque vous réduisez une créature à 0 point de vie avec un sort, vous pouvez l'assommer au lieu de la tuer. La créature tombe [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) et reste stable.
+
+#### Aura de contrôle
+Au niveau 7, toutes les créatures situées à moins de 3&nbsp;mètres de vous doivent dépenser 1&nbsp;mètre de déplacement supplémentaire pour chaque mètre qu'elles parcourent. Si une créature termine son tour dans la zone d'effet de l'aura, elle doit réussir un jet de sauvegarde de Sagesse ou tomber _à terre_. Les créatures qui sont immunisées contre l'état _terrorisé_ sont immunisées contre cette aura.
+
+Au niveau 18, la portée de cette aura s'étend à 9&nbsp;mètres.
+
+#### Chaînes de lumière
+A partir du niveau 15, une fois par tour, lorsque vous infligez des dégâts radiants à une créature, celle-ci doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle est _entravée_ jusqu'à la fin de son prochain tour.
+
+#### Avatar de l'ordre parfait
+Au niveau 20, vous pouvez prendre l'aspect de la justice elle-même. Au prix d'une action, vous vous enveloppez d'un voile de lumière froide. Pendant 1 minute, vous bénéficiez des effets suivants :
+* Vous êtes immunisé contre les dégâts contondants, perforants et tranchants.
+* Vous pouvez utiliser votre capacité _Célérité du justicier_ sans dépenser une utilisation de Canalisation d'énergie divine.
+* Lorsqu'une créature que vous pouvez voir entreprend l'action _Attaquer_ ou _Lancer un sort_, vous pouvez utiliser votre réaction pour l'obliger à effectuer un jet de sauvegarde de Sagesse. En cas d'échec, elle doit effectuer une action différente de votre choix à la place.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos long.

@@ -36,7 +36,7 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 <h3><a href="/personnalite-et-historique/">Personnalité et historique</a></h3>
 
-* [Brigrand](/personnalite-et-historique/brigand/) | [Crapule](/personnalite-et-historique/crapule/) | [Dévôt](/personnalite-et-historique/devot/) | [Érudit](/personnalite-et-historique/erudit/) | [Explorateur](/personnalite-et-historique/explorateur/) | [Homme&nbsp;de&nbsp;loi](/personnalite-et-historique/homme-de-loi/) | [Itinérant](/personnalite-et-historique/itinerant/) | [Manouvrier](/personnalite-et-historique/manouvrier/) | [Membre&nbsp;de&nbsp;guilde](/personnalite-et-historique/membre-de-guilde/) | [Militaire](/personnalite-et-historique/militaire/) | [Miséreux](/personnalite-et-historique/misereux/) | [Primitif](/personnalite-et-historique/primitif/) | [Sang-bleu](/personnalite-et-historique/sang-bleu/) | [Serviteur](/personnalite-et-historique/serviteur/) | [Solitaire](/personnalite-et-historique/solitaire/) | [Villageois](/personnalite-et-historique/villageois/)
+* [Brigand](/personnalite-et-historique/brigand/) | [Crapule](/personnalite-et-historique/crapule/) | [Dévôt](/personnalite-et-historique/devot/) | [Érudit](/personnalite-et-historique/erudit/) | [Explorateur](/personnalite-et-historique/explorateur/) | [Homme&nbsp;de&nbsp;loi](/personnalite-et-historique/homme-de-loi/) | [Itinérant](/personnalite-et-historique/itinerant/) | [Manouvrier](/personnalite-et-historique/manouvrier/) | [Membre&nbsp;de&nbsp;guilde](/personnalite-et-historique/membre-de-guilde/) | [Militaire](/personnalite-et-historique/militaire/) | [Miséreux](/personnalite-et-historique/misereux/) | [Primitif](/personnalite-et-historique/primitif/) | [Sang-bleu](/personnalite-et-historique/sang-bleu/) | [Serviteur](/personnalite-et-historique/serviteur/) | [Solitaire](/personnalite-et-historique/solitaire/) | [Villageois](/personnalite-et-historique/villageois/)
 
 <h3><a href="/classes/">Classes</a></h3>
 
@@ -154,6 +154,195 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 <v-row>
 <v-col cols="12" md="6">
+## Poisson d'avril !
+
+§§§ .text-center
+
+<img alt="Poisson d'avril" src="/poisson-squelette.svg" width="100px" />
+
+§§§
+
+Bon d'accord, vous n'y avez pas vraiment cru. Et pourtant, le modèle économique était crédible. D'ailleurs, il existe vraiment.
+
+Tant pis, je deviendrai riche un autre jour !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 2 avril 2023_
+§§§
+
+## Rentabiliser 5E DRS
+
+Bonjour tout le monde  !
+
+Devant le succès de 5E DRS, je dois me rendre à l'évidence : le site est **largement sous-monétisé**.
+
+J'ai donc pris la décision d'instaurer un **système d'abonnement** pour accéder aux contenus à hauteur de 6,99€ par mois (offre de lancement).
+
+Si vous ne souhaitez pas souscrire à un abonnement, vous pourrez acheter du contenu à l'unité pour un **jeu à la carte** :
+
+- **Races :** 1€ + 0,30€ par variante supplémentaire. Exemple : vous payez 1€ pour acheter la race des Elfes avec la variante Elfe d'aether. Il vous faudra ajouter 0,30€ pour accéder aux Elfes de fer.
+- **Historiques :** 0,50€ par historique.
+- **Classes :** 3€ + 1€ par sous-classe supplémentaire. Exemple : vous payez 3€ pour acheter la classe de Guerrier avec l'archétype martial Champion. Il vous faudra ajouter 1€ pour accéder à l'archétype martial Défenseur.
+- **Dons :** 1€.
+- **Sorts :** 0,50€ par niveau de sort. Exemple : vous payez 0,50€ pour acheter le sort Moquerie cruelle. 1€ pour le sort Fou rire. 2,50€ pour le sort Tromperie.
+- **Objets magiques :** 0,50€ par rareté. Exemple : 0,50€ pour une potion de soins. 1€ pour un sac à malice. 2,50€ pour le talisman du mal ultime.
+- **Créatures :** 0,20€ par indice de dangerosité (minimum 0,20€). Exemple : toutes les créatures ID 0 à 1 sont à 0,20€, comme le Piranha. 6€ pour la Tarasque.
+
+Rassurez-vous, vous ne serez **jamais obligés de payer** pour accéder aux contenus. Vous pourrez toujours accéder à toutes les ressources gratuitement. Vous devrez pour cela visionner une vidéo publicitaire d'une quarantaine de secondes avant d'accéder à chaque ressource. Vous pourrez accéder à **5 ressources sans vidéo publicitaire par jour**.
+
+Merci à vous toutes et tous pour votre soutien et bon jeu !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 1er avril 2023_
+§§§
+
+## La faim dévorante de la non-mort
+
+§§§ .text-center
+
+<img alt="Crâne vampire" src="/vampire-crane.png" width="100px" />
+
+§§§
+
+Le thème de cette semaine, c'est la non-mort et la faim insatiable qui en découle. Deux nouvelles races, deux nouvelles sous-classes, trois nouvelles métamagies et un nouveau sort ont été ajoutés.
+
+**Races :**
+
+* Les [dhampirs](/races/dhampir/), ces demi-vampires emprunts de mystère tiraillés par leur nature et leurs aspirations.
+* Les [darakhuls](/races/darakhul/), des goules à la faim dévorante qui ont conservé certains traits de leur race d'origine. Vous vous demandiez ce que devenaient les victimes de la [fièvre darakhule](/bestiaire/goule-darakhule/#fievre-du-darakhul) répandue par les goules ? Entrez au service de l'[empereur des goules](/bestiaire/goule-empereur/) !
+
+**Sous-classes :**
+* L'[ensorceleur affamé](/classes/ensorceleur/#affame) qui assouvit sa faim dans les derniers souffles de vie de ses victimes.
+* La [voie de la faim rassasiée](/classes/moine/#voie-de-la-faim-rassasiee) pour le moine. Une tradition monacale réservée aux dhampirs et aux darakhuls qui puisent de l'énergie dans leur faim pour blesser leurs ennemis ou soigner leurs alliés.
+
+**Métamagies :**
+* [Sort affamé](/classes/ensorceleur/#sort-affame) qui puise dans les dernières force des victimes pour soigner le lanceur de sort.
+* [Sort insatiable](/classes/ensorceleur/#sort-insatiable) qui amplifie la magie pour vaincre les résistances et immunités.
+* [Sort de faim partagée](/classes/ensorceleur/#sort-de-faim-partagee) pour faire profiter vos alliés des effets de votre faim arcanique.
+
+**Sort :**
+* [Détection des vivants](/grimoire/detection-des-vivants/)
+
+Ces ressources sont issues du _Tome of Heroes_ et du _Midgard Heroes Handbook_ de Kobold Press.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 30 mars 2023_
+§§§
+
+## À la santé de mes compagnons !
+
+§§§ .text-center
+
+<v-icon size="100" class="glowing-gold">mdi-glass-mug-variant</v-icon>
+
+§§§
+
+Cette semaine, c'est le thème de la camaraderie qui est à l'honneur. Deux nouveaux archétypes et un nouveau sort sont ajoutés.
+
+**Archétypes :**
+
+* La [voie du héraut](/classes/barbare/#voie-du-heraut) pour le barbare. Les guerriers-poètes qu'on appelle skaldes dans les contrées nordiques encouragent leurs alliés et partage leur ferveur au combat avec eux.
+* Le [domaine de la bière](/classes/clerc/#domaine-de-la-biere) pour le clerc. Quoi de mieux que de partager une bonne bière entre compagnons pour renforcer les liens et les cœurs ?
+
+**Sort :**
+
+* [_Rayon de ivre_](/grimoire/rayon-de-ivre/)
+
+Et si le cœur vous en dit, vous pouvez toujours <a target="_blank" href="https://fr.tipeee.com/em-squared/">m'en payer une</a>, de bière !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 23 mars 2023_
+§§§
+
+## Grâce de la nature
+
+§§§ .text-center
+
+<img alt="Menottes" src="/epines.svg" width="65%" />
+
+§§§
+
+Cette semaine, je vous gâte avec une nouvelle race, un historique, deux archétypes de classes, sept nouvelles invocations occultes pour le sorcier et trois nouveaux sorts, le tout sur le thème de la nature sauvage.
+
+**Race :**
+* Les [alséides](/races/alseide/), des êtres féeriques au corps de cerf et au buste d'elfe, cousins des centaures.
+
+**Historique :**
+* L'[habitant de la forêt](/personnalite-et-historique/habitant-de-la-foret/), ermite, reclus, sauvageon. Vous abhorrez les villes et ne vous sentez vous-même que sous les frondaisons des arbres.
+
+**Archétypes de classes :**
+* [Cercle de la Verdoyance](/classes/druide/#cercle-de-la-verdoyance). Ce druide lié à son [esprit verdoyant](/bestiaire/esprit-verdoyant/) puise sa magie dans la Verdoyance, un flux consmique qui lie toute végétation.
+* [Sorcier du Bois Ancien](/classes/sorcier/#le-bois-ancien), un gardien des forêts antédiluviennes. Bien avant l'âge des humains, avant l'âge des elfes et des dragons, la forêt étendait ses racines et était témoin de la croissance et la chute des empires.
+
+**Invocations occultes :**
+* [Armure de la nature](/classes/sorcier/#armure-de-la-nature)
+* [Enchevêtrement occulte](/classes/sorcier/#enchevetrement-occulte)
+* [Entraînement forestier](/classes/sorcier/#entrainement-forestier)
+* [Main verte](/classes/sorcier/#main-verte)
+* [Orateur des arbres](/classes/sorcier/#orateur-des-arbres)
+* [Savoir du Bois](/classes/sorcier/#savoir-du-bois)
+* [Toucher de la forêt](/classes/sorcier/#toucher-de-la-foret)
+
+**Sorts :**
+* [_Floraison enchantée_](/grimoire/floraison-enchantee/)
+* [_Rêvevin_](/grimoire/revevin/)
+* [_Tapis de lianes_](/grimoire/tapis-de-lianes/)
+
+Ces ressources sont issues du _Tome of Heroes_ et du _Midgard Heroes Handbook_ de Kobold Press.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 16 mars 2023_
+§§§
+
+## Chasse à l'homme
+
+§§§ .text-center
+
+<img alt="Menottes" src="/menottes.svg" width="96" />
+
+§§§
+
+Cette semaine, deux nouveaux archétypes sont à l'honneur. Plutôt taillés pour des aventures urbaines et la traque de criminels :
+
+* Le barde du [collège de criminologie](/classes/barde/#college-de-criminologie), expert dans les combines du monde interlope. Idéal pour jouer un ancien criminel ou un infiltré.
+* Le [serment de justice](/classes/paladin/#serment-de-justice) du paladin. La loi, c'est lui. Les contrevenants n'ont qu'à bien se tenir. Sa mission : traduire les criminels en justice.
+
+Bon jeu à tout le monde !
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 9 mars 2023_
+§§§
+
+## Radiance du Soleil Éternel
+
+§§§ .text-center
+
+<img alt="Soleil Éternel" src="/soleil.svg" width="96" />
+
+§§§
+
+Aujourd'hui, je vous propose deux nouveaux archétypes et quatre nouveaux objets magiques sur le thème de la lumière et du soleil.
+
+**Archétypes de classes :**
+* Le [Lancier du crépuscule](/classes/guerrier/#lancier-du-crepuscule), un guerrier qui se bat à l'arme d'hast.
+* L'[Aubelame](/classes/roublard/#aubelame), un roublard versé dans la lumière qui peut lancer des sorts de clerc.
+
+**Objets magiques :**
+* [Éclat de l'aube](/liste-objets-magiques/eclat-de-l-aube/), une lame qui peut répandre la lumière. Particulièrement efficace contre les fiélons et les morts-vivants.
+* L'[Armure du cimetière](/liste-objets-magiques/armure-du-cimetiere/), une armure portée par les plus éminents représentants du Soleil Éternel et les protège contre la mort.
+* La [Lanterne du jugement](/liste-objets-magiques/lanterne-du-jugement/), une lanterne spécialement conçue pour les inquisiteurs.
+* [Luméclat](/liste-objets-magiques/lumeclat/), une pique légendaire douée de conscience dont le but est d'éradiquer les créatures qui répandent les ténèbres.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 2 mars 2023_
+§§§
 
 ## Rôdeur révisé 100% OGL
 

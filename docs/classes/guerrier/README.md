@@ -87,7 +87,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
 ### Archétype martial
-Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame), [Kal'Thori](#kal-thori), [officier](#officier) et [philaxien](#philaxien). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
+Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des [archétypes martiaux](#archetypes-martiaux) disponibles : [champion](#champion), [bretteur](#bretteur), [défenseur](#defenseur), [sorcelame](#sorcelame), [Kal'Thori](#kal-thori), [officier](#officier), [philaxien](#philaxien) et [lancier du crépuscule](#lancier-du-crepuscule). En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -288,3 +288,30 @@ Au niveau 15, lorsque vous attaquez au corps-à-corps la même cible qu'un alli�
 
 #### Général
 Au niveau 18, vous êtes un général reconnu et respecté parmi les combattants du monde entier. Tous les alliés situés dans un rayon de 12 mètres autour de vous bénéficient d'un bonus de +1d6 aux dégâts de leurs attaques de corps-à-corps. De plus, vous pouvez une fois par round accorder l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un allié à portée sur un jet d'attaque au contact.
+
+### Lancier du crépuscule
+§§§ .source .font-italic
+Source : Warlock Grimoire - Kobold Press
+§§§
+
+Vous êtes (ou avez été) membre du régiment du crépuscule (ainsi nommé parce que le service de ses soldats prend fin au lieu d'être une occupation permanente), entraîné aux techniques de l'hast et des formations militaires. Vous savez qu'après les faveurs du Soleil Éternel, la plus grande force d'un soldat réside dans ses camarades.
+
+#### Frappe de harcèlement
+À partir du niveau 3, lorsque vous choisissez cet archétype, quand une créature que vous pouvez voir entre dans la portée de votre allonge, vous pouvez utiliser votre réaction pour bousculer la créature. Pour utiliser cette capacité, vous devez manier une coutille, une hallebarde, une lance, une pique ou une lance d'arçon.
+
+#### Combat à la lance
+À partir du niveau 3, lorsque vous maniez une lance, ses dégâts passent à 1d8, et ses dégâts polyvalents passent à 1d10.
+
+#### Phalange
+Au niveau 7, vous soutenez vos alliés lorsque vous combattez au coude à coude. Tant qu'un allié qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) se trouve dans un rayon de 1,5&nbsp;m de vous, vous pouvez  effectuer l'action _Aider_ par une action bonus pour assister l'attaque d'un allié ou un test de Force (Athlétisme) ou de Dextérité (Acrobaties).
+
+#### Ennemi des ténèbres
+À partir du niveau 10, votre foi et votre entraînement font de vous un ennemi redoutable des créatures des ténèbres. Une fois par tour, vous pouvez obtenir un _avantage_ sur un jet d'attaque ou un test de caractéristique effectué contre un fiélon, un mort-vivant ou une créature de l'ombre.
+
+#### Céder du terrain
+À partir du niveau 15, une fois par tour, lorsque vous êtes touché par une attaque de mêlée, vous pouvez choisir de vous éloigner de 1,5&nbsp;mètre de l'attaquant sans provoquer d'attaque d'opportunité. Si vous le faites, l'attaquant subit 1d6 points de dégâts du type de ceux infligés par votre arme. Pour utiliser cette capacité, vous devez manier une coutille, une hallebarde, une lance, une pique ou une lance d'arçon.
+
+#### Protection du Soleil Éternel
+Au niveau 18, vous avez l'_avantage_ sur les jets de sauvegarde contre les sorts.
+
+Si vous échouez à un jet de sauvegarde contre l'état [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), vous pouvez choisir de le réussir à la place. Vous pouvez utiliser cette capacité un nombre de fois égal à la moitié de votre bonus de maîtrise.

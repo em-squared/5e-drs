@@ -22,7 +22,8 @@
               :color="challenge.color"
               :value="challengeRate"
               ></v-progress-linear>
-              <span class="subtitle-2">PX : </span>{{ totalXP }} ({{ Math.floor(totalXP / pc) }} par PJ)
+              <span class="subtitle-2">PX : </span>{{ totalXP }} ({{ Math.floor(totalXP / pc) }} par PJ)<br>
+              <span class="subtitle-2">Points de combat : </span>{{ totalPC }}
             </div>
             <v-row class="d-flex align-center my-0" v-for="(c, idx) in creatures">
               <v-col class="px-0 py-1">

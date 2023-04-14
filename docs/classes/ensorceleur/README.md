@@ -150,6 +150,27 @@ Quand vous lancez un sort, vous pouvez dépenser 1  point de sorcellerie pour le
 #### Sort jumeau
 Quand vous lancez un sort qui a pour cible une seule créature et dont la portée n'est pas personnelle, vous pouvez dépenser un nombre de points de sorcellerie égal au niveau du sort pour cibler une seconde créature qui se trouve à portée avec le même sort (1 point de sorcellerie s'il s'agit d'un tour de magie).
 
+#### Sort affamé
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Quand vous lancez un sort qui inflige des dégâts à une cible unique, vous pouvez dépenser 1 point de sorcellerie pour ajouter votre modificateur de Charisme au jet de dégâts du sort. Si vous réduisez une créature à 0 point de vie avec un sort affamé, vous regagnez un nombre de points de vie égal à votre modificateur de Charisme (minimum de 1).
+
+#### Sort insatiable
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Quand vous lancez un sort sur une créature immunisée contre les dégâts ou les effets du sort, vous pouvez dépenser 5 points de sorcellerie pour contourner l'immunité de la créature pour cette incantation. La créature est affectée par le sort comme si elle n'était pas immunisée contre les dégâts ou les effets du sort et doit effectuer les jets de sauvegarde autorisés par le sort comme d'habitude.
+
+#### Sort de faim partagée
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Quand vous lancez un sort bénéfique sur une créature alliée, vous pouvez dépenser 3 points de sorcellerie pour augmenter la puissance des armes de la créature. Le prochain jet d'attaque de la créature bénéficie d'un _avantage_ et, si la créature touche, vous et la créature regagnez un nombre de points de vie égal à votre modificateur de Charisme (minimum de 1).
+
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -312,3 +333,25 @@ Au niveau 18, vous débloquez l'ultime verrou. Vous pouvez tremper votre âme da
 
 #### Puissance brutale
 Également au niveau 18, vous pouvez utiliser une action bonus pour augmenter les dégâts d'un tour de magie sans sacrifier de PV ou de point(s) de sorcellerie. Vous obtenez un dé de dégât supplémentaire du même type que celui utilisé pour ce tour de magie (1d10 pour [_trait de feu_](/grimoire/trait-de-feu/) ou 1d8 pour [_rayon de givre_](/grimoire/rayon-de-givre/) par exemple).
+
+### Affamé
+§§§ .source .font-italic
+Source : Tome of Heroes - Kobold Press
+§§§
+
+Votre magie innée provient d'une source profonde et primitive de faim et d'envie. Peut-être votre lignée a-t-elle été maudite pour son avidité par un dieu de l'abondance ou de la générosité. L'un de vos ancêtres a peut-être été marqué par la faim des morts-vivants. Les ensorceleurs de cette origine ont un appétit inflexible pour les arcanes et ne reculent devant rien pour assouvir leur désir d'accroître leur puissance magique.
+
+#### Yeux affamés
+Au niveau 1, vous pouvez sentir quand une créature est proche de la mort. Vous savez si une créature que vous pouvez voir et qui n'est pas un mort-vivant ou une créature artificielle dans un rayon de 9 mètres autour de vous est en dessous de la moitié de son maximum de points de vie. Vos attaques de sorts ignorent les abris partiels et les abris importants quand vous ciblez des créatures que vous percevez grâce à cette capacité.
+
+#### Âme assoiffée
+À partir du niveau 1, lorsque vous réduisez une créature hostile à 0 point de vie, vous regagnez un nombre de points de vie égal à votre niveau d'ensorceleur + votre modificateur de Charisme (minimum de 1). Cette capacité ne peut pas vous rendre plus de la moitié de votre maximum de points de vie.
+
+#### Festin arcanique
+À partir du niveau 6, lorsque vous réduisez une ou plusieurs créatures hostiles à 0 point de vie avec un sort de 1er niveau ou plus, vous regagnez 1 point de sorcellerie dépensé.
+
+#### Masochisme
+À partir du niveau 14, vous pouvez utiliser votre réaction pour échouer intentionnellement à un jet de sauvegarde contre un sort qui vous inflige des dégâts et qui a été lancé par une créature hostile. Si vous le faites, vous regagnez un nombre de points de sorcellerie dépensés égal à la moitié de votre modificateur de Charisme (minimum de 1).
+
+#### Cœur avide
+Au niveau 18, quand vous dépensez des points de sorcellerie pour créer des emplacements de sorts ou utiliser la métamagie, vous réduisez le coût de 1 point de sorcellerie (le coût en points de sorcellerie ne peut pas être inférieur à 1).

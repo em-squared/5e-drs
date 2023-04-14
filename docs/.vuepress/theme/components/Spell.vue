@@ -18,7 +18,7 @@
         </div>
         <div class="spell-duration"><strong>Durée</strong> : <span v-if="spell.frontmatter.concentration">concentration, </span>{{ spell.frontmatter.duration }}</div>
         <div class="spell-classes" v-if="!isShort">
-          <strong>Classe</strong> : <span v-for="(c, idx) in spell.frontmatter.classes" :key="idx">{{c}}<template v-if="idx != spell.frontmatter.classes.length-1">, </template><template v-if="idx == spell.frontmatter.classes.length-1 && spell.frontmatter.customClasses">, </template></span>
+          <template v-if="spell.frontmatter.classes"><strong>Classe</strong> : <span v-for="(c, idx) in spell.frontmatter.classes" :key="idx">{{c}}<template v-if="idx != spell.frontmatter.classes.length-1">, </template><template v-if="idx == spell.frontmatter.classes.length-1 && spell.frontmatter.customClasses">, </template></span></template>
           <template v-if="spell.frontmatter.customClasses">
             <template>{{ spell.frontmatter.customClasses }}</template>
           </template>
@@ -32,7 +32,7 @@
     </template>
     <div v-else v-html="spell.frontmatter.description" class="mt-4"></div>
 
-    <!-- <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p> -->
+    <p v-if="spell.frontmatter.source" class="source">Source : <em>{{ spell.frontmatter.source }}</em></p>
     <p v-if="spell.author" class="source">Auteur : <em>{{ spell.author }}</em></p>
 
   </main>

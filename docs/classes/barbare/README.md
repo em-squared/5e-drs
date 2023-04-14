@@ -81,7 +81,7 @@ Quand vous atteignez le niveau 2, vous développez la capacité instinctive de r
 Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 
 ### Voie primitive
-Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), la [voie du hurlement](#voie-du-hurlement), la [voie des steppes](#voie-des-steppes), la [voie de la bête](#voie-de-la-bete) ou la [voie des glaces](#voie-des-glaces). Toutes sont détaillées à la fin de la section consacrée à cette classe.
+Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker](#voie-du-berserker), la [voie des esprits](#voie-des-esprits), la [voie de l'acier](#voie-de-l-acier), la [voie du hurlement](#voie-du-hurlement), la [voie des steppes](#voie-des-steppes), la [voie de la bête](#voie-de-la-bete), la [voie des glaces](#voie-des-glaces) ou la [voie du héraut](#voie-du-heraut). Toutes sont détaillées à la fin de la section consacrée à cette classe.
 
 ### Amélioration de caractéristiques
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
@@ -291,3 +291,27 @@ Au niveau 10, votre corps devient si résilient qu'il est capable d'endurer le f
 Au niveau 14, vous pouvez mettre fin prématurément à votre rage pour produire un souffle glacial. Toutes les créatures présentes dans un cône de 18 mètres doivent effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui le ratent subissent 8d8 dégâts de froid, les autres la moitié seulement.
 
 À partir du niveau 18, vous infligez 8d10 dégâts de froid au lieu de 8d8.
+
+### Voie du héraut
+§§§ .source .font-italic
+Source : Warlock #13 - War & Battle - Kobold Press
+§§§
+
+Dans les contrées nordiques, les guerriers sauvages se lancent dans la bataille derrière les chantres guerriers-poètes. Ces hommes et ces femmes sages recueillent l'histoire, les traditions et les connaissances accumulées par le peuple afin de les préserver et de les transmettre. Les barbares qui suivent la voie du héraut, parfois appelés skaldes, mènent leur peuple au combat en chantant les sagas de leurs tribus, les encourageant à remporter de nouvelles victoires tout en honorant la gloire du passé.
+
+#### Tradition orale
+Quand vous choisissez cette voie au niveau 3, vous gagnez la maîtrise des compétences Histoire et Représentation. Si vous maîtrisez déjà l'une de ces compétences, votre bonus de maîtrise est doublé pour les tests de caracteristique que vous effectuez avec cette compétence.
+
+#### Ferveur au combat
+Dès le niveau 3, quand vous utilisez votre action bonus pour entrer en rage, vous pouvez dépenser une utilisation quotidienne supplémentaire de rage pour permettre à un maximum de trois créatures consentantes dans un rayon de 9&nbsp;mètres d'entrer en rage à leur tour. Ces créatures doivent pouvoir vous voir et vous entendre. Les créatures affectées par cette capacité bénéficient des mêmes avantages et restrictions que vous lorsque vous entrez en rage.
+
+La ferveur au combat dure 1&nbsp;minute. Elle prend fin prématurément si vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser votre action bonus pour mettre fin à la ferveur au combat pendant votre tour.
+
+#### Gardien du savoir
+En tant qu'historien, vous êtes conscient de l'impact du passé sur le présent. Au niveau 6, vous pouvez entrer en transe et explorer les sagas de votre peuple pour lancer les sorts [_augure_](/grimoire/augure/), [_compréhension des langues_](/grimoire/comprehension-des-langues/) et [_identification_](/grimoire/identification/), mais uniquement sous forme de rituels.
+
+#### Chant revigorant
+Au niveau 10, quand vous utilisez votre action bonus pour mettre fin à votre rage, vous regagnez un nombre de points de vie égal à votre niveau de barbare × 3. Si vous utilisez votre action bonus pour mettre fin à votre ferveur au combat, vous regagnez un nombre de points de vie égal à votre niveau de barbare + votre modificateur de Charisme pour vous-même et toutes les créatures affectées par cette ferveur.
+
+#### Orateur tonitruant
+Au niveau 14, quand vous entrez en rage, vos attaques infligent 2d6 dégâts supplémentaires. Si vous infligez un coup critique, votre cible doit réussir un jet de sauvegarde de Force (DD 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être repoussée de 3 mètres et mise _à terre_ en plus des dégâts supplémentaires. Lorsque vous entrez dans la ferveur au combat, vous et toutes les créatures affectées par cette ferveur infligez 1d6 dégâts de tonnerre supplémentaires. Si vous ou l'une des créatures affectées infligez un coup critique, la cible doit réussir un jet de sauvegarde de Force comme calculé ci-dessus ou être repoussée de 3 mètres en plus des dégâts supplémentaires.

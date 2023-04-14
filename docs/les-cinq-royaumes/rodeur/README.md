@@ -88,7 +88,7 @@ Un esprit de la nature s'est lié à vous. Il apparaît parfois en rêve, vous g
 
 Au niveau 9, la créature peut être sanguinaire et avoir un Indice de Dangerosité de 1 au maximum et servir de messager. Si vous désignez une personne que vous connaissez personnellement et inscrivez un message à son intention sur un support approprié, votre compagnon le lui fera parvenir aussi rapidement que possible.
 
-Au niveau 17, la créature peut devenir une créature avec un Indice de Dangerosité 2, mais elle doit rester animale et naturelle.)
+Au niveau 17, la créature peut devenir une créature avec un Indice de Dangerosité 2, mais elle doit rester animale et naturelle.
 
 ### Sens du danger
 Au niveau 3, vos sens deviennent si aiguisés qu'il est difficile de vous surprendre. Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos jets de sauvegarde de Dextérité contre les dangers que vous pouvez voir arriver (pièges ou effets magiques physiques). De plus, lors d'un test d'Initiative, si vous obtenez un résultat inférieur à 10 sur le d20, considérez que vous avez obtenu 10. Vous ne pouvez utiliser cette aptitude si vous êtes [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) ou [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).

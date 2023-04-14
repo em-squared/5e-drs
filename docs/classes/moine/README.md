@@ -241,3 +241,28 @@ Le bonsaï peut être aussi vieux que le chêne majestueux. Vous avez appris des
 
 #### Régénération
 À partir du niveau 17, vous pouvez régénérer votre énergie vitale en laissant l'énergie du sol remonter à travers vos pieds et circuler en vous, à la façon dont un arbre fait repousser les branches taillées lorsque le printemps arrive. En dépensant 6 points de Ki, vous pouvez lancer le sort [_régénération_](/grimoire/regeneration/) sur vous-même tant que vous avez les pieds en contact avec la terre. Le sort cesse de faire effet si vous vous déplacez. Vous pouvez utiliser cette aptitude une fois entre deux repos longs.
+
+### Voie de la faim rassasiée
+§§§ .source .font-italic
+Source : Underworld Player's Guide - Kobold Press
+§§§
+
+La faim vous a tenaillé. Elle était pour le sang ou pour la chair, mais il était impossible de l'ignorer. Jusqu'à aujourd'hui. La faim a dominé votre vie, mais ce n'est plus le cas. Vous avez transcendé le besoin de vous nourrir par la méditation et la discipline spirituelle, et vous n'êtes plus prisonnier de votre faim. La voie de la faim rassasiée est un credo peu populaire suivi par une secte d'un culte mineur, que peu de gens empruntent avec succès. La plupart de ceux qui essaient succombent à leur faim peu de temps après avoir commencé. Vous avez peut-être trouvé la voie de la faim rassasiée par l'intermédiaire de cette secte, ou par votre propre méditation. Quoi qu'il en soit, vous êtes libéré de votre faim, et vous avez même trouvé le moyen de retourner l'énergie de cette faim contre vos ennemis.
+
+#### Restriction: Darakhul ou Dhampir
+Vous ne pouvez choisir cette tradition monacale que si vous êtes un darakhul ou un dhampir.
+
+#### Appétit rassasié
+Lorsque vous choisissez cette tradition au niveau 3, vous ne ressentez plus la faim, vous n'avez plus besoin de manger ou de boire, et vous ne subissez plus de pénalités si vous ne mangez pas ou ne buvez pas. Si vous êtes un darakhul, vous bénéficiez de tous les avantages de la Résilience des morts-vivants, même si vous n'avez pas consommé une livre de viande crue au cours des dernières 24 heures.
+
+#### La faim est une arme
+Au niveau 3, vous avez appris à utiliser votre morsure avec une grande efficacité. Une fois par tour, lorsque vous touchez une créature avec votre morsure, vous pouvez dépenser 1 point de ki pour infliger des dégâts nécrotiques supplémentaires égaux à un jet de votre dé d'arts martiaux. Si le jet d'attaque est un coup critique, vous gagnez un nombre de points de vie temporaires égal aux dégâts nécrotiques infligés pendant 1 heure.
+
+#### Nourrir les affamés
+À partir du niveau 6, vous pouvez partager un peu de votre paix intérieure avec une autre créature en soignant ses blessures et en apaisant sa faim pour un temps. Vous pouvez utiliser votre action et dépenser 1 point de ki pour rendre des points de vie à une créature que vous touchez. La créature regagne un nombre de points de vie égal à un jet de votre dé d'arts martiaux + votre modificateur de Sagesse. Vous pouvez dépenser jusqu'à 2 points de ki supplémentaires pour augmenter le nombre de points de vie rendus. Pour chaque point supplémentaire dépensé, la créature regagne un nombre de points de vie égal à un jet de votre dé d'arts martiaux. Une créature ne peut pas récupérer plus de la moitié de son maximum de points de vie avec cette capacité. Une créature ainsi soignée reçoit suffisamment de nourriture pour tenir une journée.
+
+#### Clairvoyance du rassasiée
+Au niveau 11, votre maîtrise de la faim vous confère une clairvoyance et une conscience accrues. Vous avez l'_avantage_ aux jets d'initiative et vous pouvez dépenser 4 points de ki pour lancer le sort [_détection des vivants_](/grimoire/detection-des-vivants/).
+
+#### Donner faim
+Au niveau 17, vous pouvez transformer l'énergie de votre faim rassasiée en une faim vorace qui afflige une créature qui ose vous frapper. Lorsqu'une créature vous touche avec une attaque au corps-à-corps, vous pouvez utiliser votre réaction pour provoquer la faim chez l'attaquant. Si vous le faites, l'attaquant subit des dégâts nécrotiques égaux à votre modificateur de Sagesse, et il doit réussir un jet de sauvegarde de Constitution ou être [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) par une faim accablante jusqu'à la fin de son prochain tour. Vous ne pouvez pas utiliser cette capacité sur les créatures qui n'ont pas besoin de manger, comme les créatires artificielles, les élémentaires et de nombreux morts-vivants.

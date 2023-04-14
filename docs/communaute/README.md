@@ -30,3 +30,11 @@ Ici est présentée une sélection de créations de la communauté compatibles _
 ## Classes
 * [Personnages thérianthropes](/communaute/therianthropie/)
 * [Le rôdeur révisé](/communaute/rodeur-revise/) / [Le rôdeur révisé (OGL)](/communaute/rodeur-revise-ogl/)
+
+## Actual Plays
+* [Rôle'n Play](https://www.youtube.com/@RolenPlay)
+* [La Bonne Auberge](https://www.youtube.com/@labonneaubergejdr)
+* [Les Fabulistes](https://open.spotify.com/show/3FE8WMdyAvYwVnfRTVOIsI) par _Le Funambulaire_
+* [Les âmes perdues de Gjalpevaart](https://www.youtube.com/playlist?list=PL8DgfL13mo_nkpy2ER4pKEHuM1hXFN9Yf) par _L'enrôleur_
+* [Soyons Roll Play](https://youtube.com/@soyonsrollplay7894) par _Erwenn26_
+* [Le Scriptorium](https://www.youtube.com/@lescriptorium7054/featured) par _Charlie_
