@@ -50,6 +50,14 @@ _**Incantation**_. La fée des ombres est une lanceuse de sort de niveau 10. Sa 
 * **4e niveau (3 emplacements)** : [_confusion_](/grimoire/confusion/), [_invisibilité supérieure_](/grimoire/invisibilite-superieure/), [_assassin imaginaire_](/grimoire/assassin-imaginaire/)
 * **5e niveau (2 emplacements)** : [_animation des objets_](/grimoire/animation-des-objets/), [_dominer un humanoïde_](/grimoire/dominer-un-humanoide/), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/)
 
+§§§ .hero
+
+_**Sorts alternatifs OGL.**_
+
+Remplacer _protection contre les armes_ par [_résistance_](/grimoire/resistance/) et _amis_ par [_aura du héros_](/grimoire/aura-du-heros/).
+
+§§§
+
 _**Sensibilité à la lumière du soleil**_. Une fée des ombres est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue si elle est exposée à la lumière du soleil.
 
 _**Voyageur dans les ténèbres**_. Une fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'Intelligence (Arcanes) dont le but est d'en apprendre plus sur une route des ombres, un sort ou un objet des ombres.

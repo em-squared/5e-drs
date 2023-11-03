@@ -1,6 +1,6 @@
 ---
 title: "Araignée de phase"
-type: "Bête"
+type: "Créature monstrueuse"
 size: "G"
 alignment: "non-alignée"
 challenge: "3"
@@ -21,7 +21,7 @@ skills:
 movement:
   walk: 9
   climb: 9
-senses: 
+senses:
   darkvision: 18
 languages:
   - ""

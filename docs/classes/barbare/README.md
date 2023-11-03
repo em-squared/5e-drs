@@ -60,7 +60,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 ### Rage
 Quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :
 * Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force.
-* Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts. Ce bonus augmente en même temps que votre niveau (voir le tableau d'[evolution du barbare](#evolution-du-barbare), colonne dégâts de rage).
+* Quand vous faites une attaque au corps-à-corps avec une arme utilisant la Force, vous ajoutez au jet de dégâts un bonus qui dépend de votre niveau de barbare, comme indiqué dans la colonne _dégâts de rage_ du tableau d'[evolution du barbare](#evolution-du-barbare).
 * Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.

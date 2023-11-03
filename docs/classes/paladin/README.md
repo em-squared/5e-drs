@@ -24,7 +24,7 @@ title: Paladin
 |**8**|+3|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|3|-|-|-|
 |**9**|+4|-|4|3|2|-|-|
 |**10**|+4|[Aura de courage](#aura-de-courage)|4|3|2|-|-|
-|**11**|+4|[Châtiment divin amélioré](#chatiment-divin)|4|3|3|-|-|
+|**11**|+4|[Châtiment divin amélioré](#chatiment-divin-ameliore)|4|3|3|-|-|
 |**12**|+4|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|4|3|3|-|-|
 |**13**|+5|-|4|3|3|1|-|
 |**14**|+5|[Contact purifiant](#contact-purifiant)|4|3|3|1|-|

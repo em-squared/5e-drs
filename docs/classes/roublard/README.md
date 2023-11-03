@@ -25,11 +25,11 @@ title: Roublard
 |**10**|+4|5d6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|
 |**11**|+4|6d6|[Talent](#talent)|
 |**12**|+4|6d6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|
-|**13**|+5|7d6|[Archétype de roublard](#archetype-de-roublard)|
+|**13**|+5|7d6|[Aptitude d'archétype de roublard](#archetype-de-roublard)|
 |**14**|+5|7d6|[Ouïe fine](#ouie-fine)|
 |**15**|+5|8d6|[Esprit impénétrable](#esprit-impenetrable)|
 |**16**|+5|8d6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|
-|**17**|+6|9d6|[Archétype de roublard](#archetype-de-roublard)|
+|**17**|+6|9d6|[Aptitude d'archétype de roublard](#archetype-de-roublard)|
 |**18**|+6|9d6|[Insaisissable](#insaisissable)|
 |**19**|+6|10d6|[Amélioration de caractéristiques](#amelioration-de-caracteristiques)|
 |**20**|+6|10d6|[Coup de chance](#coup-de-chance)|
@@ -55,7 +55,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * _(a)_ une rapière ou _(b)_ une épée courte
 * _(a)_ un arc court et un carquois avec vingt flèches ou _(b)_ une épée courte
 * _(a)_ un paquetage de cambrioleur, _(b)_ un paquetage d'exploration souterraine, ou _(c)_ un paquetage d'explorateur
-* _(a)_ une armure de cuir, deux dagues et des outils de voleur
+* une armure de cuir, deux dagues et des outils de voleur
 
 ### Expertise
 Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.

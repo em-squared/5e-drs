@@ -140,7 +140,7 @@ Au niveau 1, le clerc peut choisir le type d'enseignement qu'il a reçu dans son
 **Enseignement martial**. Cette variante est adaptée à un dieu de la guerre, du métal, de la force, de la justice ou de la noblesse, par exemple. Vous gagnez au choix la maîtrise des armes martiales ou des armures lourdes. Si votre divinité ne vous donne accès qu'à un seul domaine, vous gagnez la maîtrise à la fois des armes martiales et des armures lourdes. En revanche vous ne bénéficiez pas de canalisation d'énergie divine supplémentaire aux niveaux 4 et 8 (voir ci-après).
 
 #### Sorts de domaine
-Vous obtenez des sorts spécifiques à la divinité que vous priez aux niveaux indiqués dans les tableaux ci-dessous, selon les domaines. Il est très fréquent qu'une religion englobe deux domaines divins, comme par exemple guerre et tonnerre, mort et temps ou encore connaissance et lumière. Dans ce cas, à chaque niveau indiqué, vous apprenez les nouveaux sorts de chacun des deux domaines auxquels vous avez accès, généralement deux sorts de même niveau.
+Vous obtenez des sorts spécifiques à la divinité que vous priez aux niveaux indiqués dans les tableaux ci-dessous, selon les domaines. Il est très fréquent qu'une religion englobe deux domaines divins, comme par exemple guerre et tonnerre, mort et temps ou encore connaissance et lumière. Dans ce cas, à chaque niveau indiqué, vous apprenez les nouveaux sorts de chacun des deux domaines auxquels vous avez accès, généralement deux sorts de même niveau. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour.
 
 Si votre divinité ne vous accorde qu'un seul domaine, vous obtenez en échange une canalisation d'énergie divine supplémentaire au niveau 4 (pour un total de deux) puis une autre au niveau 8 (pour un total de quatre). Vous pouvez donc utiliser votre canalisation d'énergie divine cinq fois lorsque vous atteignez le niveau 18.
 
@@ -563,7 +563,7 @@ Par exemple, un gardien des traditions de premier niveau avec un modificateur de
 
 §§§ .table-container
 #### Sorts de domaine
-Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
+Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour.
 
 |Niveau de clerc|Sorts|
 |:-:|:-|
@@ -597,7 +597,7 @@ Désormais, vous êtes capable de lancer le sort [_soin des blessures de groupe_
 
 §§§ .table-container
 #### Sorts de domaine
-Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
+Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour.
 
 |Niveau de clerc|Sorts|
 |:-:|:-|
@@ -679,7 +679,7 @@ Votre étude exhaustive des différentes traditions et théories magiques vous p
 
 ### Domaine de la Vie
 #### Sorts de domaine
-Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
+Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour.
 
 |Niveau de clerc|Sorts|
 |:-:|:-|
@@ -775,6 +775,8 @@ Source : Deep Magic et Midgard Heroes Handbook - Kobold Press
 Le mélange enivrant de force d'âme, de courage et de camaraderie est votre nectar, et vous partagez ses bienfaits avec ceux qui en ont besoin.
 
 #### Sorts du domaine de la bière
+Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour.
+
 |Niveau de clerc|Sorts|
 |:-:|:-|
 |**1**|[_compréhension des langues_](/grimoire/comprehension-des-langues/), [_héroïsme_](/grimoire/heroisme/)|

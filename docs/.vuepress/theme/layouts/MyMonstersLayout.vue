@@ -92,10 +92,12 @@ export default {
         if (result.monsters && result.monsters.length >= 1) {
           for (var s of result.monsters) {
             if (s.pid !== 'monster') {
+              // console.log(s.pid)
               isValid = false
             }
           }
         } else {
+          // console.log(result.monsters)
           isValid = false
         }
         if (isValid) {
