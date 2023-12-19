@@ -46,7 +46,7 @@ _**Incantation**_. La fée des ombres est une lanceuse de sort de niveau 10. Sa 
 * **Tours de magie (à volonté)** : _protection contre les armes_, _amis_, [_message_](/grimoire/message/), [_moquerie cruelle_](/grimoire/moquerie-cruelle/)
 * **1er niveau (4 emplacements)** : [_fléau_](/grimoire/fleau/), [_charme-personne_](/grimoire/charme-personne/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/)
 * **2e niveau (3 emplacements)** : [_envoûtement_](/grimoire/envoutement/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)
-* **3e niveau (3 emplacements)** : [_invoquer une fée_](/grimoire/invoquer-une-fee/), [_peur_](/grimoire/peur/), [_motif hypnotique_](/grimoire/motif-hypnotique/)
+* **3e niveau (3 emplacements)** : [_invoquer des animaux_](/grimoire/invoquer-des-animaux/), [_peur_](/grimoire/peur/), [_motif hypnotique_](/grimoire/motif-hypnotique/)
 * **4e niveau (3 emplacements)** : [_confusion_](/grimoire/confusion/), [_invisibilité supérieure_](/grimoire/invisibilite-superieure/), [_assassin imaginaire_](/grimoire/assassin-imaginaire/)
 * **5e niveau (2 emplacements)** : [_animation des objets_](/grimoire/animation-des-objets/), [_dominer un humanoïde_](/grimoire/dominer-un-humanoide/), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/)
 

@@ -426,7 +426,7 @@ Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificate
 Quand vous atteignez le niveau 15, votre entraînement de brise-sort a atteint son summum, et votre sang a muté, vous donnant une protection naturelle contre la magie. Vous avez une résistance aux dégâts infligés par les sorts et tous les autres effets magiques.
 
 ### Chasseur
-Les rôdeurs peuvent endossent de nombreux rôles : guide, naturaliste, pisteur, protecteur, mais au fond, ils restent des chasseurs. Ceux qui embrassent complètement ce rôle de prédateur acceptent d'être le rempart entre la civilisation et les terreurs de l'extérieur. Cette voie leur permet de maîtriser des techniques de combat spécialisées pour mieux exterminer les menaces qu'ils affrontent. Les vrais chasseurs ne reculent devant aucun ennemi : maraudeurs gnolls, trolls grotesques ou dragons terrifiants.
+Les rôdeurs peuvent endosser de nombreux rôles : guide, naturaliste, pisteur, protecteur, mais au fond, ils restent des chasseurs. Ceux qui embrassent complètement ce rôle de prédateur acceptent d'être le rempart entre la civilisation et les terreurs de l'extérieur. Cette voie leur permet de maîtriser des techniques de combat spécialisées pour mieux exterminer les menaces qu'ils affrontent. Les vrais chasseurs ne reculent devant aucun ennemi : maraudeurs gnolls, trolls grotesques ou dragons terrifiants.
 
 #### Magie du chasseur
 Vous obtenez de nouveaux sorts aux niveaux de rôdeur indiqués dans le tableau [Magie du chasseur](#magie-du-chasseur). Ils comptent comme des sorts de rôdeur en ce qui vous concerne, sont toujours préparés et ne comptent pas dans le total de sorts que vous pouvez préparer chaque jour.

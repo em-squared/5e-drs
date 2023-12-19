@@ -65,7 +65,7 @@ Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrou
 
 **Compétences** : Persuasion, Supercherie.  
 **Outils maîtrisés** : Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.  
-**Équipement** : Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
+**Équipement** : Accessoires de faussaire ou jeu, deux ensembles d'habits courants, bourse contenant 10 po.
 
 ## Variante : Voleur à la tire
 
