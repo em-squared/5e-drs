@@ -46,4 +46,4 @@ _**Incantation innée**_. Le molosse utilise la Sagesse comme caractéristique d
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 21 (3d10 + 5) dégâts perforants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 15, sans quoi elle se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
-_**Souffle givré (recharge 5-6)**_. Le molosse souffle un cône de froid de 4,50 mètres. Les créatures prises dans le cône subissent 44 (8d10) dégâts de feu, la moitié seulement si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13.
+_**Souffle givré (recharge 5-6)**_. Le molosse souffle un cône de froid de 4,50 mètres. Les créatures prises dans le cône subissent 44 (8d10) dégâts de froid, la moitié seulement si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13.
