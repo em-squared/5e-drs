@@ -154,6 +154,24 @@ Bienvenue sur le site **Document de Référence Système** pour les jeux de rôl
 
 <v-row>
 <v-col cols="12" md="6">
+
+## Maintient de 5E DRS
+
+§§§ .text-center
+
+<img alt="Logo" src="/logo.svg" width="100px" />
+
+§§§
+
+5E DRS est prolongé pour l'année 2024 et c'est grâce à vous ! En ces temps où chaque dépense doit faire l'objet d'un arbitrage, 5E DRS bénéficie d'un passe droit grâce à vos dons.
+
+Et pour ça, je vous remercie 🫶.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 3 mars 2024_
+§§§
+
 ## Poisson d'avril !
 
 §§§ .text-center
